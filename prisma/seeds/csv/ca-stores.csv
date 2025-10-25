@@ -1,0 +1,806 @@
+name,name_en,service_type,lat,lng,country_code
+Second Cup,Second Cup,cafe,43.6772079,-79.3528895,CA
+Foodland,Foodland,supermarket,43.6786172,-79.3457523,CA
+Nord Lyon Cafe,Nord Lyon Cafe,cafe,43.6500196,-79.3909545,CA
+Tim Hortons,Tim Hortons,cafe,43.6523976,-79.4062653,CA
+Petro-Canada,Petro-Canada,fuel,43.6447004,-79.3943053,CA
+Shell,Shell,fuel,43.6442632,-79.3949107,CA
+Starbucks,Starbucks,cafe,43.6453549,-79.3894561,CA
+Canadian Tire,Canadian Tire,department_store,43.6554976,-79.383298,CA
+Winners,Winners,department_store,43.6568408,-79.3808784,CA
+7-Eleven,7-Eleven,convenience,43.6667622,-79.4041004,CA
+Esso,Esso,fuel,43.6759496,-79.4032127,CA
+Joe's Convenience,Joe's Convenience,convenience,43.6699553,-79.4287959,CA
+My 151 Convenience,My 151 Convenience,convenience,43.6665134,-79.4194288,CA
+Emily Rose Cafe,Emily Rose Cafe,cafe,43.6675085,-79.4146202,CA
+Long & McQuade,Long & McQuade,musical_instrument,43.6614982,-79.4271393,CA
+Stop 'N Shop,Stop 'N Shop,convenience,43.6613441,-79.4279604,CA
+Siberia Vintage,Siberia Vintage,clothes,43.6612676,-79.4282767,CA
+Tokyo Smoke,Tokyo Smoke,cannabis,43.6610593,-79.4291136,CA
+Bloor Mini Mart,Bloor Mini Mart,convenience,43.6609732,-79.4294704,CA
+Aakriti Threading & Wax Bar,Aakriti Threading & Wax Bar,beauty,43.6602833,-79.4328568,CA
+Mystic Buds,Mystic Buds,cannabis,43.6602005,-79.4331877,CA
+INS Market,INS Market,convenience,43.6601026,-79.4351328,CA
+Sun Shine Variety,Sun Shine Variety,convenience,43.6672347,-79.4319263,CA
+77 Food Market,77 Food Market,convenience,43.6673212,-79.4315622,CA
+Progress Bakery,Progress Bakery,bakery,43.6670263,-79.4318092,CA
+Value Village,Value Village,second_hand,43.6619922,-79.4298653,CA
+Circle K,Circle K,convenience,43.6555741,-79.385077,CA
+Petra Ave Market,Petra Ave Market,supermarket,43.6555295,-79.3854337,CA
+Ulster Coin Wash,Ulster Coin Wash,laundry,43.6599184,-79.40792,CA
+Pavão,Pavão,butcher,43.6494878,-79.4299579,CA
+Joe Fresh,Joe Fresh,clothes,43.6837387,-79.4163662,CA
+Galleria The Kitchen Express,Galleria The Kitchen Express,supermarket,43.6669087,-79.4010556,CA
+Farm Boy,Farm Boy,supermarket,43.688501,-79.3907567,CA
+The Ten Spot,The Ten Spot,beauty,43.6861328,-79.3930736,CA
+New Forest Market,New Forest Market,supermarket,43.6755767,-79.4028204,CA
+Winona Market,Winona Market,convenience,43.6869155,-79.4347407,CA
+Pi Co.,Pi Co.,restaurant,43.6814873,-79.4258236,CA
+Prime Doner Shwarma,Prime Doner Shwarma,restaurant,43.6633207,-79.4025009,CA
+Harbord Convenience,Harbord Convenience,convenience,43.6625604,-79.4039281,CA
+Harry's Charbroiled,Harry's Charbroiled,restaurant,43.6556742,-79.4098907,CA
+Trinity Drug Store,Trinity Drug Store,vacant,43.6523206,-79.4064887,CA
+Spiritleaf,Spiritleaf,cannabis,43.6558341,-79.4115931,CA
+The Fourth Man in the Fire,The Fourth Man in the Fire,restaurant,43.6517057,-79.4096053,CA
+Melo Grocery,Melo Grocery,convenience,43.6477067,-79.4100045,CA
+Drom Taberna,Drom Taberna,restaurant,43.648206,-79.3995577,CA
+Baa Baazaar,Baa Baazaar,gift,43.6413664,-79.4469764,CA
+White Corner Variety,White Corner Variety,convenience,43.6515743,-79.4512437,CA
+3 Jit Variety,3 Jit Variety,convenience,43.657201,-79.4488161,CA
+Bikes on Wheels,Bikes on Wheels,bicycle,43.6567245,-79.4027359,CA
+Curbside Cycle,Curbside Cycle,bicycle,43.6659052,-79.4080672,CA
+Green Field,Green Field,convenience,43.6533995,-79.4518574,CA
+Husky,Husky,fuel,43.681728,-79.467225,CA
+University of Toronto Bookstore,University of Toronto Bookstore,books,43.6588244,-79.3969597,CA
+Cafe AC,Cafe AC,cafe,43.663001,-79.4012579,CA
+Metro,Metro,supermarket,43.658216,-79.3768916,CA
+Deco,Deco,cafe,43.6655003,-79.4639576,CA
+Value Village Boutique,Value Village Boutique,second_hand,43.6657861,-79.4071749,CA
+Bazaar,Bazaar,clothes,43.6577449,-79.4020558,CA
+Starbank Convenience,Starbank Convenience,convenience,43.6575765,-79.4030485,CA
+One Plant,One Plant,cannabis,43.654752,-79.4019695,CA
+L.B. Supermarket,L.B. Supermarket,convenience,43.6949632,-79.3035547,CA
+Gledhill Convenience,Gledhill Convenience,convenience,43.6935847,-79.3113831,CA
+Old's Cool General Store,Old's Cool General Store,convenience,43.6945074,-79.3084526,CA
+Gotamago,Gotamago,stationery,43.692749,-79.315647,CA
+Woodbine Convenience Store,Woodbine Convenience Store,convenience,43.6910297,-79.314889,CA
+Stella's Kitchen,Stella's Kitchen,restaurant,43.675661,-79.4038185,CA
+Woodbine Coin Laundry,Woodbine Coin Laundry,laundry,43.6932862,-79.3158193,CA
+Fine Food Market,Fine Food Market,vacant,43.6587049,-79.3846401,CA
+Red Lobster,Red Lobster,restaurant,43.6561655,-79.3836362,CA
+Nav’s Grocery,Nav’s Grocery,supermarket,43.6400166,-79.3791918,CA
+Wine Rack,Wine Rack,wine,43.6393081,-79.3804665,CA
+The Wine Shop,The Wine Shop,wine,43.6396799,-79.3830626,CA
+Rabba,Rabba,supermarket,43.6392311,-79.3853778,CA
+Terry's Milk,Terry's Milk,convenience,43.6942642,-79.3166676,CA
+Woodbine Mini Mart,Woodbine Mini Mart,convenience,43.6942698,-79.3162393,CA
+Bruno’s Fine Foods,Bruno’s Fine Foods,supermarket,43.6688741,-79.3060987,CA
+Your Convenience,Your Convenience,convenience,43.6838119,-79.3014439,CA
+Rogers,Rogers,vacant,43.6406069,-79.3887464,CA
+Mofer Coffee Front St,Mofer Coffee Front St,cafe,43.6483753,-79.3735627,CA
+Vic's Milk,Vic's Milk,convenience,43.6916186,-79.3043752,CA
+B & D Variety Store,B & D Variety Store,convenience,43.6918296,-79.3032765,CA
+Main Auto Service,Main Auto Service,car_repair,43.6915689,-79.3035512,CA
+Mofer Coffee,Mofer Coffee,cafe,43.6832088,-79.3233512,CA
+Sammon Grocery,Sammon Grocery,convenience,43.6893028,-79.3229811,CA
+Lee's Variety,Lee's Variety,convenience,43.6886,-79.3352181,CA
+Bestway Cleaners,Bestway Cleaners,dry_cleaning,43.6878137,-79.3399856,CA
+The Corner Shop,The Corner Shop,convenience,43.6835922,-79.3387937,CA
+Donlands Variety,Donlands Variety,convenience,43.6806508,-79.3375515,CA
+Plymouth Variety,Plymouth Variety,convenience,43.7065455,-79.3068988,CA
+True M & A Variety,True M & A Variety,convenience,43.6861976,-79.3384156,CA
+Sammon Convenience,Sammon Convenience,convenience,43.6869797,-79.3348821,CA
+Global,Global,fuel,43.6868146,-79.3343818,CA
+1 Hr Cleaners,1 Hr Cleaners,dry_cleaning,43.6933786,-79.3162719,CA
+New Stars Video,New Stars Video,video,43.6929567,-79.3157125,CA
+JAE Smoke & Convenience,JAE Smoke & Convenience,convenience,43.7072647,-79.3027146,CA
+Ultra Convenience,Ultra Convenience,convenience,43.6648032,-79.384656,CA
+Good Earth Coffeehouse,Good Earth Coffeehouse,cafe,43.6650622,-79.3844475,CA
+Cash Money,Cash Money,money_lender,43.6665669,-79.3854013,CA
+Toro Toro,Toro Toro,restaurant,43.6687971,-79.3859933,CA
+Coin Laundry,Coin Laundry,laundry,43.6712194,-79.3747988,CA
+Food Basics,Food Basics,supermarket,43.6680319,-79.3720609,CA
+Sunny Green Vegetable And Fruit Limited,Sunny Green Vegetable And Fruit Limited,convenience,43.6676734,-79.3724521,CA
+Pisac Peruvian Bistro,Pisac Peruvian Bistro,restaurant,43.6635565,-79.3706025,CA
+Chew Chew's Diner,Chew Chew's Diner,restaurant,43.6634831,-79.3723075,CA
+J & S Convenience,J & S Convenience,convenience,43.663468,-79.3723778,CA
+Greendale Drugs,Greendale Drugs,chemist,43.663184,-79.3737323,CA
+Little Bee Supermarket,Little Bee Supermarket,supermarket,43.6629585,-79.374966,CA
+Jarvis Market,Jarvis Market,supermarket,43.6602068,-79.3759714,CA
+Dundas Market,Dundas Market,convenience,43.6565356,-79.3762969,CA
+Hakim Optical,Hakim Optical,optician,43.6560137,-79.3787247,CA
+LCBO,LCBO,alcohol,43.6497457,-79.3923305,CA
+Winners,Winners at Queen,department_store,43.6496099,-79.379222,CA
+Friends Convenience & Grocery,Friends Convenience & Grocery,convenience,43.6520813,-79.3776566,CA
+Au Pain Doré,Au Pain Doré,pastry,43.6507603,-79.3774888,CA
+Lettieri,Lettieri,cafe,43.6505655,-79.3772703,CA
+Chatime,Chatime,cafe,43.6503925,-79.371651,CA
+Biagio Ristorante,Biagio Ristorante,restaurant,43.6502174,-79.3723941,CA
+Richie Neighbourhood Store,Richie Neighbourhood Store,convenience,43.6480574,-79.3734721,CA
+Winners,Winners at King,department_store,43.6478105,-79.3746758,CA
+P.J. O'Brien Restaurant,P.J. O'Brien Restaurant,restaurant,43.6488983,-79.3753257,CA
+Mercatto Restaurant,Mercatto Restaurant,restaurant,43.6502414,-79.3760324,CA
+BLD Restaurant,BLD Restaurant,restaurant,43.6506875,-79.3766921,CA
+Victoria Variety & Gift,Victoria Variety & Gift,convenience,43.6503927,-79.3772472,CA
+Sunset Grill,Sunset Grill,restaurant,43.6515163,-79.3790842,CA
+Elm Basket Food & Variety,Elm Basket Food & Variety,convenience,43.6574658,-79.3828019,CA
+Toronto Barber & Beauty Supply,Toronto Barber & Beauty Supply,hairdresser_supply,43.6558048,-79.3839776,CA
+Kyoto House Japanese Restaurant,Kyoto House Japanese Restaurant,restaurant,43.65527,-79.3853128,CA
+Gyubee Japanese Grill,Gyubee Japanese Grill,restaurant,43.6551479,-79.3858166,CA
+Hemispheres Restaurant Bistro,Hemispheres Restaurant Bistro,restaurant,43.6548563,-79.386186,CA
+Noon’s Fine Foods,Noon’s Fine Foods,convenience,43.6785507,-79.3585735,CA
+Paul's Milk,Paul's Milk,convenience,43.6782036,-79.3582257,CA
+Jamestown Milk,Jamestown Milk,convenience,43.6680224,-79.3696584,CA
+Park Snacks,Park Snacks,restaurant,43.6669253,-79.3631687,CA
+J & D Mart,J & D Mart,convenience,43.6627506,-79.3639249,CA
+Metro Dry Cleaners,Metro Dry Cleaners,dry_cleaning,43.6797453,-79.3399295,CA
+The Big Carrot,The Big Carrot,supermarket,43.6777582,-79.3530371,CA
+A&A Auto Clinic,A&A Auto Clinic,car_repair,43.6920697,-79.3159261,CA
+Kitchen & Bath Studio,Kitchen & Bath Studio,home,43.6918498,-79.3156397,CA
+Woodbine Auto Service,Woodbine Auto Service,car_repair,43.6922187,-79.3153854,CA
+Tom's Florist,Tom's Florist,florist,43.7029515,-79.4169634,CA
+Hi Class Cannabis,Hi Class Cannabis,cannabis,43.7036451,-79.4137423,CA
+Crosstown Mart,Crosstown Mart,convenience,43.7035827,-79.4140924,CA
+Pizza Hut,Pizza Hut,restaurant,43.704869,-79.405697,CA
+Market Convenience,Market Convenience,convenience,43.7060043,-79.4026147,CA
+Fran's Restaurant,Fran's Restaurant,restaurant,43.6543834,-79.3789778,CA
+Dollarama,Dollarama,variety_store,43.6555243,-79.369612,CA
+Mei Aonvenience,Mei Aonvenience,convenience,43.6565225,-79.3674588,CA
+B.A. Grocery & Variety,B.A. Grocery & Variety,convenience,43.6574789,-79.3621103,CA
+Church Bella Variety,Church Bella Variety,convenience,43.668213,-79.3817949,CA
+Interior Couture,Interior Couture,interior_decoration,43.6861993,-79.3757831,CA
+Ashbury Cleaners,Ashbury Cleaners,dry_cleaning,43.6861087,-79.3762516,CA
+Passion Flowers,Passion Flowers,florist,43.6860599,-79.376425,CA
+Rosedale's Finest,Rosedale's Finest,bakery,43.6860529,-79.3765185,CA
+Rosedale 1hr. Cleaners,Rosedale 1hr. Cleaners,dry_cleaning,43.6860252,-79.3766026,CA
+Galati Market Fresh,Galati Market Fresh,supermarket,43.7980083,-79.3688481,CA
+Sunny Supermarket,Sunny Supermarket,supermarket,43.7908402,-79.3667359,CA
+Leslie Cafe,Leslie Cafe,cafe,43.7910039,-79.3671237,CA
+No Frills,No Frills,supermarket,43.7944656,-79.3544452,CA
+Congee Wong,Congee Wong,restaurant,43.7906388,-79.3657401,CA
+Petit Potato,Petit Potato,restaurant,43.7905754,-79.3660962,CA
+Longo's,Longo's,supermarket,43.7544858,-79.3568496,CA
+The Keg,The Keg,restaurant,43.7588226,-79.3608736,CA
+Tone Tai Supermarket,Tone Tai Supermarket,supermarket,43.7854727,-79.3519255,CA
+Kitchen Food Fair,Kitchen Food Fair,convenience,43.798718,-79.3689906,CA
+Pickle Barrel,Pickle Barrel,vacant,43.7995245,-79.3690053,CA
+Loblaws Great Food,Loblaws Great Food,supermarket,43.6551536,-79.4495878,CA
+Nadege,Nadege,bakery,43.6655306,-79.4098704,CA
+Big Way Hot Pot,Big Way Hot Pot,restaurant,43.6651083,-79.410606,CA
+Matha Roti,Matha Roti,restaurant,43.6620921,-79.4063327,CA
+Akai,Akai,restaurant,43.6625828,-79.4049411,CA
+Chinese Halal Restaurant,Chinese Halal Restaurant,restaurant,43.7911958,-79.3667693,CA
+Trattoria Fieramosca,Trattoria Fieramosca,restaurant,43.6695225,-79.3973194,CA
+Opus Restaurant,Opus Restaurant,restaurant,43.6692221,-79.3972109,CA
+Joyous Chinese Cuisine,Joyous Chinese Cuisine,restaurant,43.7912104,-79.3677019,CA
+Jerusalem Restaurant,Jerusalem Restaurant,restaurant,43.7788827,-79.3639364,CA
+c5 Restaurant Lounge,c5 Restaurant Lounge,vacant,43.6680614,-79.3953143,CA
+Three Cent Copy Centre,Three Cent Copy Centre,copyshop,43.6657638,-79.4034621,CA
+Gyubee,Gyubee,restaurant,43.6671324,-79.4006315,CA
+Super Discount Variety,Super Discount Variety,convenience,43.7153993,-79.4906724,CA
+Bar 700,Bar 700,cafe,43.715464,-79.4904091,CA
+Rustic Dry Cleaners,Rustic Dry Cleaners,dry_cleaning,43.7154848,-79.4903005,CA
+Rustic Bakery,Rustic Bakery,bakery,43.7155009,-79.4902058,CA
+Family Bakery Cafe,Family Bakery Cafe,cafe,43.6923298,-79.3158613,CA
+Alo,Alo,clothes,43.6699037,-79.3893331,CA
+Citymarket,Citymarket,supermarket,43.6687519,-79.3879316,CA
+Beauty Now,Beauty Now,beauty,43.6919283,-79.3156447,CA
+Bulk Barn,Bulk Barn,supermarket,43.6655691,-79.4082588,CA
+Coffee Time,Coffee Time,cafe,43.6862265,-79.3111587,CA
+Value Buds,Value Buds,cannabis,43.6654699,-79.4101723,CA
+Olde Yorke Fish & Chips,Olde Yorke Fish & Chips,restaurant,43.7062483,-79.3620148,CA
+Enduro Sport,Enduro Sport,outdoor,43.7133998,-79.3665423,CA
+Herbal Magic Weight Loss & Nutrition Centres,Herbal Magic Weight Loss & Nutrition Centres,weight_loss,43.7107758,-79.3773504,CA
+Parkers Custom Cleaning Care,Parkers Custom Cleaning Care,dry_cleaning,43.7087789,-79.3766063,CA
+Greenwood Off Track Wagering,Greenwood Off Track Wagering,bookmaker,43.6666111,-79.3138046,CA
+Country Style,Country Style,cafe,43.6674983,-79.3119364,CA
+Wellwise,Wellwise,medical_supply,43.6879989,-79.3034759,CA
+Woodbine Auto Sales & Repair,Woodbine Auto Sales & Repair,car_repair,43.6911871,-79.315534,CA
+Swiss Chalet,Swiss Chalet,restaurant,43.6798251,-79.3453954,CA
+New College Cafeteria,New College Cafeteria,restaurant,43.6620985,-79.4011589,CA
+The Arbor Room,The Arbor Room,restaurant,43.6636712,-79.3945238,CA
+Understudy Cafe,Understudy Cafe,vacant,43.662079,-79.3939823,CA
+Holt Renfrew,Holt Renfrew,department_store,43.6700542,-79.3885964,CA
+BMV Books,BMV Books,books,43.6658601,-79.4068238,CA
+Presse Internationale,Presse Internationale,newsagent,43.6654752,-79.4088566,CA
+Mr. Mart,Mr. Mart,convenience,43.6653143,-79.4096593,CA
+Barber Shisha,Barber Shisha,hairdresser,43.6653303,-79.4095896,CA
+Blinds to Go,Blinds to Go,window_blind,43.7214683,-79.4559602,CA
+Pioneer,Pioneer,fuel,43.7325097,-79.4594282,CA
+Paris Grocery,Paris Grocery,convenience,43.677108,-79.3894185,CA
+nutbar,nutbar,restaurant,43.6461322,-79.3979085,CA
+Homebase,Homebase,craft,43.647117,-79.3965257,CA
+Avenue Open Kitchen & Deli,Avenue Open Kitchen & Deli,restaurant,43.6471362,-79.3964363,CA
+Rotblott's Discount Warehouse,Rotblott's Discount Warehouse,discount,43.645965,-79.3988034,CA
+Cosmos Records,Cosmos Records,music,43.6474225,-79.4023267,CA
+Köz Bingöl,Köz Bingöl,restaurant,43.6470273,-79.4041776,CA
+Forever Young Ink,Forever Young Ink,tattoo,43.647351,-79.4038539,CA
+Artistic Grounds,Artistic Grounds,cafe,43.6467763,-79.4035602,CA
+Campechano Taqueria,Campechano Taqueria,restaurant,43.6457945,-79.4007525,CA
+XEXE Gallery,XEXE Gallery,art,43.6466071,-79.4032802,CA
+Golden Mile Chrysler Jeep Dodge,Golden Mile Chrysler Jeep Dodge,car,43.7254707,-79.3123292,CA
+Sloane Convenience,Sloane Convenience,convenience,43.7265059,-79.3126779,CA
+Incha,Incha,cafe,43.6595884,-79.3850265,CA
+Alicos,Alicos,copyshop,43.6599479,-79.3788223,CA
+Sector 17,Sector 17,restaurant,43.6583384,-79.3722469,CA
+Daisy Mart,Daisy Mart,convenience,43.6583945,-79.3720065,CA
+Dundas Cleaners,Dundas Cleaners,dry_cleaning,43.6584051,-79.371922,CA
+Ultramar,Ultramar,fuel,43.6868599,-79.355728,CA
+Maple Leaf Convenience Mart,Maple Leaf Convenience Mart,convenience,43.6638616,-79.3799309,CA
+Garage,Garage,restaurant,43.6647899,-79.380393,CA
+Ginger,Ginger,restaurant,43.6653713,-79.3809334,CA
+Club Monaco,Club Monaco,vacant,43.6685176,-79.3936977,CA
+Luxy Nails,Luxy Nails,beauty,43.6929109,-79.3160662,CA
+Indigo,Indigo,books,43.7268535,-79.451718,CA
+Starbank Convenience Mart,Starbank Convenience Mart,convenience,43.6587091,-79.3499468,CA
+Stop 'N Go,Stop 'N Go,convenience,43.661441,-79.4095377,CA
+Roots,Roots,clothes,43.6544834,-79.3808122,CA
+Giant Book Sale,Giant Book Sale,books,43.6539758,-79.3797423,CA
+Sutherland-Chan Clinic,Sutherland-Chan Clinic,massage,43.6659225,-79.4035711,CA
+Farsi Market,Farsi Market,food,43.7858617,-79.3519066,CA
+The Beer Store,The Beer Store,alcohol,43.7861142,-79.3525843,CA
+Superior Dollar,Superior Dollar,variety_store,43.7981977,-79.3688425,CA
+Mr. Lube,Mr. Lube,car_repair,43.7934217,-79.3543554,CA
+Toys R Us,Toys R Us,toys,43.7431626,-79.3127952,CA
+Dumpling House Restaurant,Dumpling House Restaurant,restaurant,43.6537676,-79.3986924,CA
+Sizzler Kabab,Sizzler Kabab,restaurant,43.6562551,-79.3990565,CA
+Chopfire,Chopfire,restaurant,43.6550695,-79.3985646,CA
+Kupfert & Kim - Spadina,Kupfert & Kim - Spadina,restaurant,43.647695,-79.396262,CA
+Foodlane,Foodlane,supermarket,43.6449069,-79.3916381,CA
+Ride On Again,Ride On Again,bicycle,49.2640444,-123.156573,CA
+Chevron,Chevron,fuel,49.2691285,-123.056105,CA
+New Amsterdam Cafe,New Amsterdam Cafe,cafe,49.2829831,-123.1098733,CA
+BC Marijuana Party Bookstore,BC Marijuana Party Bookstore,books,49.2829428,-123.109949,CA
+CCHQ Vapour Lounge,CCHQ Vapour Lounge,cannabis,49.2830192,-123.109957,CA
+Dream Cycle,Dream Cycle,bicycle,49.2755281,-123.069299,CA
+Waves Coffee House,Waves Coffee House,cafe,49.2635825,-123.128836,CA
+Choices Market,Choices Market,supermarket,49.2193459,-123.149695,CA
+Steamworks,Steamworks,alcohol,49.2848692,-123.110987,CA
+Nesters Market,Nesters Market,supermarket,49.278642,-123.1216903,CA
+IGA,IGA,supermarket,49.2800788,-123.1174613,CA
+Ignite Pizzeria,Ignite Pizzeria,restaurant,49.2772564,-123.118737,CA
+The Granville Island Toy Company,The Granville Island Toy Company,toys,49.2703582,-123.1361717,CA
+Dragonspace,Dragonspace,art,49.2717848,-123.134159,CA
+Whole Foods Market,Whole Foods Market,supermarket,49.2639998,-123.115281,CA
+Elysian Coffee Roasters,Elysian Coffee Roasters,cafe,49.2631012,-123.1172946,CA
+Gene Coffee Bar,Gene Coffee Bar,cafe,49.263823,-123.1006366,CA
+Sushi Kaido,Sushi Kaido,restaurant,49.2630345,-123.101204,CA
+Thai Son,Thai Son,restaurant,49.2629465,-123.0967703,CA
+Melo Patisserie,Melo Patisserie,cafe,49.2635924,-123.1015666,CA
+Lucia,Lucia,restaurant,49.257094,-123.1009502,CA
+Caffè Mira,Caffè Mira,cafe,49.2568941,-123.1009534,CA
+Toshi,Toshi,restaurant,49.256744,-123.1018952,CA
+The General Public,The General Public,restaurant,49.2558187,-123.101561,CA
+Our Community Bikes,Our Community Bikes,bicycle,49.2632225,-123.1011964,CA
+Anh And Chi,Anh And Chi,restaurant,49.2550596,-123.1008857,CA
+Nikkyu Japanese Restaurant,Nikkyu Japanese Restaurant,restaurant,49.2555535,-123.1010082,CA
+Hunnybee Bruncheonette,Hunnybee Bruncheonette,restaurant,49.2777501,-123.0971613,CA
+Blenz Coffee,Blenz Coffee,cafe,49.2771596,-123.1264928,CA
+Sport Chek,Sport Chek,sports,49.2817537,-123.120863,CA
+Bicycle Sports Pacific,Bicycle Sports Pacific,bicycle,49.2769265,-123.131903,CA
+GO Canada,GO Canada,restaurant,49.2741793,-123.1328565,CA
+Prego Cofee,Prego Cofee,cafe,49.275078,-123.1335056,CA
+Sashimiya,Sashimiya,supermarket,49.2767415,-123.130413,CA
+Giardino Restaurant,Giardino Restaurant,restaurant,49.2769504,-123.1300681,CA
+Olympia Pizza,Olympia Pizza,restaurant,49.2643413,-123.1760619,CA
+East is East,East is East,restaurant,49.2642766,-123.1727212,CA
+JJ Bean,JJ Bean,cafe,49.2639716,-123.1702755,CA
+Broadway Wineshop,Broadway Wineshop,alcohol,49.2639419,-123.1672194,CA
+Folke,Folke,restaurant,49.2641587,-123.164402,CA
+Thomas Haas Chocolates,Thomas Haas Chocolates,cafe,49.264149,-123.1633,CA
+Platform 7,Platform 7,cafe,49.2637411,-123.1578526,CA
+Kitsilano Liquor Store,Kitsilano Liquor Store,alcohol,49.2640598,-123.1570263,CA
+Denny's,Denny's,restaurant,49.2639079,-123.1447692,CA
+Leopold's Tavern,Leopold's Tavern,restaurant,49.2638288,-123.1416759,CA
+The Halal Guys,The Halal Guys,restaurant,49.2804472,-123.1187278,CA
+Urban Fare,Urban Fare,supermarket,49.2892045,-123.1225516,CA
+Shogun,Shogun,restaurant,49.2854893,-123.1172155,CA
+Flamingo Cafe,Flamingo Cafe,cafe,49.2794539,-123.1230577,CA
+Banana Leaf,Banana Leaf,restaurant,49.26428,-123.1722925,CA
+Spirit Of Howe,Spirit Of Howe,alcohol,49.276377,-123.1276679,CA
+Cactus Club Cafe,Cactus Club Cafe,restaurant,49.2750892,-123.122758,CA
+Analog Coffee,Analog Coffee,cafe,49.2757856,-123.121109,CA
+Earls,Earls,restaurant,49.275779,-123.1205254,CA
+The Greek by Anatoli,The Greek by Anatoli,restaurant,49.2762235,-123.1198664,CA
+Lupo,Lupo,restaurant,49.2781583,-123.1172443,CA
+Sutton Place Wine Merchant,Sutton Place Wine Merchant,alcohol,49.2825485,-123.124372,CA
+The Boathouse Restaurant,The Boathouse Restaurant,restaurant,49.274204,-123.153753,CA
+fiore famiglia,fiore famiglia,restaurant,49.2578148,-123.1650598,CA
+Hip Baby,Hip Baby,baby_goods,49.2679982,-123.153081,CA
+Famous Foods,Famous Foods,supermarket,49.2484002,-123.0715121,CA
+Safeway,Safeway,supermarket,49.2320932,-123.0330707,CA
+BC Liquor Store,BC Liquor Store,alcohol,49.2313436,-123.0322231,CA
+Sue's Grocery,Sue's Grocery,convenience,49.2306334,-123.0658204,CA
+Super Save Gas,Super Save Gas,fuel,49.2598474,-123.0770997,CA
+Save and Stay Food Store,Save and Stay Food Store,supermarket,49.2254784,-123.0777343,CA
+One Of A Few,One Of A Few,clothes,49.2844985,-123.1102033,CA
+Water Street Cafe,Water Street Cafe,restaurant,49.2842334,-123.109032,CA
+Dutil,Dutil,clothes,49.2837966,-123.1093068,CA
+Valhalla Pure Outfitters,Valhalla Pure Outfitters,outdoor,49.2628781,-123.106627,CA
+Minato Japanese Restaurant,Minato Japanese Restaurant,restaurant,49.2635812,-123.127202,CA
+Chef's Choice Chinese Cuisine,Chef's Choice Chinese Cuisine,restaurant,49.263551,-123.1254837,CA
+Ice Hair,Ice Hair,hairdresser,49.2632856,-123.1099097,CA
+New Century Fashion,New Century Fashion,clothes,49.2635057,-123.1230453,CA
+Royal Seoul House,Royal Seoul House,restaurant,49.263683,-123.13186,CA
+Broadway Locksmith,Broadway Locksmith,locksmith,49.2633072,-123.1118823,CA
+Menya Raizo,Menya Raizo,restaurant,49.2633439,-123.1130715,CA
+The Art of Loving,The Art of Loving,erotic,49.2633136,-123.1121625,CA
+Gar Po Chai,Gar Po Chai,art,49.2632903,-123.1101309,CA
+The Dance Shop,The Dance Shop,sports,49.2635969,-123.1285418,CA
+Michaels,Michaels,craft,49.2634251,-123.1189741,CA
+Simmons Matress Gallery,Simmons Matress Gallery,bed,49.263626,-123.1268625,CA
+Peter Lui Custom Tailors,Peter Lui Custom Tailors,tailor,49.2632792,-123.109614,CA
+Sandy La Chinese Restaurant,Sandy La Chinese Restaurant,restaurant,49.2370452,-123.0656861,CA
+Poplar Korean Restaurant,Poplar Korean Restaurant,restaurant,49.225037,-123.0659194,CA
+Chong Lee Market,Chong Lee Market,supermarket,49.2269806,-123.065964,CA
+Loblaws,Loblaws,supermarket,49.2576848,-123.1533962,CA
+Lonetree Kitchens,Lonetree Kitchens,furniture,49.259263,-123.152899,CA
+Oasis Flowers,Oasis Flowers,florist,49.2612486,-123.1532663,CA
+Indishspensable,Indishspensable,restaurant,49.2613904,-123.1532615,CA
+Fino Lino,Fino Lino,furniture,49.2617194,-123.1532514,CA
+Coquette,Coquette,restaurant,49.2621248,-123.1532374,CA
+Trees Organic,Trees Organic,restaurant,49.2623651,-123.1532375,CA
+Napoletana,Napoletana,restaurant,49.2629899,-123.1527502,CA
+Sherwin-Williams,Sherwin-Williams,paint,49.2631947,-123.1532669,CA
+Fresh Cuts,Fresh Cuts,hairdresser,49.2638243,-123.1133767,CA
+Lumiere Cafe,Lumiere Cafe,cafe,49.2634834,-123.115745,CA
+Capelli Salon,Capelli Salon,hairdresser,49.26369,-123.119709,CA
+Bell,Bell,telecommunication,49.2631311,-123.1197119,CA
+Book Warehouse,Book Warehouse,books,49.2631186,-123.1184267,CA
+Sushi Dragon,Sushi Dragon,restaurant,49.2631116,-123.1182464,CA
+Salon 612,Salon 612,hairdresser,49.2631115,-123.1181762,CA
+OneZo Tapioca,OneZo Tapioca,cafe,49.2630887,-123.1180332,CA
+Peaceful Restaurant,Peaceful Restaurant,restaurant,49.2630555,-123.1161172,CA
+Reckless The Bike Store,Reckless The Bike Store,bicycle,49.2731102,-123.1203826,CA
+Bubble World Tea House,Bubble World Tea House,tea,49.2873653,-123.128789,CA
+Okini,Okini,restaurant,49.2193342,-123.1494139,CA
+大統華 T&T Supermarket,T&T Supermarket,supermarket,49.2690308,-123.046266,CA
+No. 1 Beef Noodle,No. 1 Beef Noodle,restaurant,49.2424585,-123.003994,CA
+Saffron Indian Cuisine,Saffron Indian Cuisine,restaurant,49.2311658,-123.008436,CA
+Real Canadian Superstore,Real Canadian Superstore,supermarket,49.2274377,-123.001096,CA
+Grand Honour,Grand Honour,restaurant,49.23414,-123.1399405,CA
+Local Public Eatery,Local Public Eatery,restaurant,49.2835819,-123.104067,CA
+Lee's Donuts,Lee's Donuts,cafe,49.284394,-123.108567,CA
+Meat & Bread,Meat & Bread,restaurant,49.2631506,-123.1216282,CA
+Pallet Coffee Roasters,Pallet Coffee Roasters,cafe,49.2515901,-123.1272753,CA
+No 1 Collision,No 1 Collision,car_repair,49.2686772,-123.1401433,CA
+The Basic,The Basic,restaurant,49.279771,-123.129926,CA
+Caffe Mira,Caffe Mira,cafe,49.2787557,-123.130101,CA
+Sushi Taku,Sushi Taku,restaurant,49.2397994,-123.029963,CA
+London Drugs,London Drugs,chemist,49.2328094,-123.0351511,CA
+Cafe Lokal,Cafe Lokal,cafe,49.2681926,-123.1647247,CA
+Choice's Market,Choice's Market,supermarket,49.2542649,-123.1154053,CA
+Save-On-Foods,Save-On-Foods,supermarket,49.2646749,-123.114244,CA
+Jerusalem Shwarma,Jerusalem Shwarma,restaurant,49.2803757,-123.118593,CA
+KOS Waffles by Waffleland Cafe,KOS Waffles by Waffleland Cafe,restaurant,49.2802809,-123.118395,CA
+Hifi Centre,Hifi Centre,hifi,49.2811299,-123.1045939,CA
+Once More Luxury Boutique,Once More Luxury Boutique,clothes,49.279083,-123.12562,CA
+Perfecto Cafe,Perfecto Cafe,cafe,49.2767389,-123.125234,CA
+Golden Swan Restaurant,Golden Swan Restaurant,restaurant,49.2361234,-123.064932,CA
+El Caracol Mexican Cafe,El Caracol Mexican Cafe,cafe,49.2375315,-123.065046,CA
+Hủ Tiếu Hồng Phát,Hủ Tiếu Hồng Phát,restaurant,49.238342,-123.065174,CA
+Doli Supermarket,Doli Supermarket,supermarket,49.2310934,-123.0653191,CA
+Yoshida Sushi,Yoshida Sushi,restaurant,49.2338441,-123.065775,CA
+88 Supermarket,88 Supermarket,supermarket,49.2256284,-123.053817,CA
+Snack Land!,Snack Land!,convenience,49.258282,-123.1014306,CA
+Kaori Izakaya,Kaori Izakaya,restaurant,49.2579822,-123.1014396,CA
+Sun Sui Wah Seafood Restaurant,Sun Sui Wah Seafood Restaurant,restaurant,49.2504301,-123.1007323,CA
+Body Energy Club,Body Energy Club,nutrition_supplements,49.2882295,-123.123333,CA
+Kaboodles,Kaboodles,toys,49.2547551,-123.1149364,CA
+Camelot Kids,Camelot Kids,toys,49.2701602,-123.1358057,CA
+Bubbles,Bubbles,toys,49.2701762,-123.1359566,CA
+Scallywags,Scallywags,clothes,49.2702502,-123.1358836,CA
+Humpty Dumpty Books & Music,Humpty Dumpty Books & Music,books,49.2702932,-123.1360356,CA
+Knotty Toys,Knotty Toys,toys,49.2704002,-123.1360106,CA
+Half Time Sports,Half Time Sports,sports,49.2702662,-123.1361186,CA
+The Vancouver Fish Company,The Vancouver Fish Company,restaurant,49.2706361,-123.1366509,CA
+Tony's Fish and Oyster Café,Tony's Fish and Oyster Café,restaurant,49.2707436,-123.1363777,CA
+The Sandbar,The Sandbar,restaurant,49.2719814,-123.134014,CA
+Restoration Hardware,Restoration Hardware,furniture,49.2628093,-123.138933,CA
+Szechuan Chili Restaurant,Szechuan Chili Restaurant,restaurant,49.2656103,-123.1219802,CA
+Yanaki Sushi,Yanaki Sushi,restaurant,49.2657441,-123.1223054,CA
+Optima Vision,Optima Vision,optician,49.2656139,-123.1222002,CA
+Bosley's Pet Food Plus,Bosley's Pet Food Plus,pet,49.2656799,-123.1223078,CA
+Majestic Tailors,Majestic Tailors,tailor,49.2655879,-123.11998,CA
+Samurai Japanese Restaurant,Samurai Japanese Restaurant,restaurant,49.2805385,-123.1316982,CA
+Shin Ju,Shin Ju,restaurant,49.2636948,-123.1364258,CA
+The Granville Island Pet Treatery,The Granville Island Pet Treatery,pet,49.2703334,-123.1357552,CA
+Crystal Ark,Crystal Ark,gift,49.269974,-123.135998,CA
+My Island Cafe,My Island Cafe,cafe,49.270247,-123.136425,CA
+Western Lake,Western Lake,restaurant,49.2393603,-123.065574,CA
+Teng's Market,Teng's Market,greengrocer,49.2389453,-123.0656279,CA
+Shiro Japanese Restaurant,Shiro Japanese Restaurant,restaurant,49.257958,-123.114616,CA
+Fetching Forever Dog Daycare & Spa,Fetching Forever Dog Daycare & Spa,pet_grooming,49.2581604,-123.1148059,CA
+The Stand,The Stand,cafe,49.2501092,-123.0015799,CA
+Tim Hortons Express,Tim Hortons Express,cafe,49.2540202,-123.001417,CA
+Austin Grill,Austin Grill,restaurant,49.2538725,-123.0014254,CA
+Staples,Staples,stationery,49.2633767,-123.1347332,CA
+Stadium Market,Stadium Market,convenience,49.2406215,-123.1017389,CA
+Wicked Cafe,Wicked Cafe,cafe,49.2654214,-123.1358776,CA
+FYIdoctors,FYIdoctors,optician,49.2637096,-123.1339818,CA
+The Local Farm Market,The Local Farm Market,greengrocer,49.2580782,-123.1779549,CA
+The Firewood Café,The Firewood Café,restaurant,49.2585083,-123.1148332,CA
+Sedap Plus,Sedap Plus,restaurant,49.2589022,-123.1152483,CA
+Lumina Eligma Home,Lumina Eligma Home,furniture,49.2710657,-123.1362747,CA
+Fullhouse,Fullhouse,furniture,49.264595,-123.136987,CA
+Beau Photo Supplies Inc.,Beau Photo Supplies Inc.,camera,49.2645715,-123.1363809,CA
+Hi Nippon,Hi Nippon,restaurant,49.2680378,-123.1569284,CA
+Bayside Furniture,Bayside Furniture,furniture,49.264367,-123.1374773,CA
+Carters Motorsports,Carters Motorsports,motorcycle,49.268611,-123.1385743,CA
+Kurbatoff Art Gallery,Kurbatoff Art Gallery,art,49.2639745,-123.1387578,CA
+Douglas Reynolds Gallery,Douglas Reynolds Gallery,art,49.2647728,-123.1387716,CA
+Heffel Fine Art Auction House,Heffel Fine Art Auction House,art,49.265448,-123.1387802,CA
+Sushi Hanabi,Sushi Hanabi,restaurant,49.2695561,-123.1399852,CA
+HY Tea Lounge,HY Tea Lounge,cafe,49.2693476,-123.1398578,CA
+Jordans,Jordans,furniture,49.2634175,-123.1375735,CA
+Dundarave Print Workshop + Gallery,Dundarave Print Workshop + Gallery,art,49.2719988,-123.135388,CA
+Petly Jones Gallery,Petly Jones Gallery,art,49.265538,-123.138722,CA
+Yaletown Brewing Company,Yaletown Brewing Company,alcohol,49.2754439,-123.1210153,CA
+Dajue,Dajue,florist,49.2665919,-123.1387126,CA
+Langmann House,Langmann House,art,49.2666544,-123.1386576,CA
+Pottery Barn,Pottery Barn,furniture,49.2624835,-123.138349,CA
+Jak's,Jak's,alcohol,49.2621398,-123.138356,CA
+Wall Centre Fine Spirits,Wall Centre Fine Spirits,alcohol,49.2800327,-123.126018,CA
+Wall Flowers,Wall Flowers,florist,49.2803909,-123.12543,CA
+Reckless Bike Stores,Reckless Bike Stores,bicycle,49.2695113,-123.1406191,CA
+Pâtisserie Lebeau,Pâtisserie Lebeau,cafe,49.2696443,-123.1439762,CA
+Jade Palace Chinese Restaurant,Jade Palace Chinese Restaurant,restaurant,49.2807898,-123.002171,CA
+Fullhouse Vintage Modern,Fullhouse Vintage Modern,furniture,49.2680832,-123.139723,CA
+The Right Shoe,The Right Shoe,shoes,49.2681006,-123.1410372,CA
+Sasso,Sasso,clothes,49.2638039,-123.1395221,CA
+A Taste of Vietnam,A Taste of Vietnam,restaurant,49.263253,-123.1271262,CA
+Yee Cafe,Yee Cafe,cafe,49.2341725,-123.140139,CA
+Mi Casa Mexicana,Mi Casa Mexicana,restaurant,49.2678006,-123.1458856,CA
+Gallery Jones,Gallery Jones,art,49.268964,-123.143815,CA
+TAC Auto Sales,TAC Auto Sales,car,49.268946,-123.144525,CA
+Purdy's Chocolates,Purdy's Chocolates,confectionery,49.2615967,-123.1389388,CA
+Eyes For You,Eyes For You,optician,49.2619003,-123.138371,CA
+Maxim's Bakery & Restaurant,Maxim's Bakery & Restaurant,restaurant,49.2795498,-123.0978304,CA
+The Boss Bakery & Restaurant,The Boss Bakery & Restaurant,bakery,49.2798304,-123.0994522,CA
+The Lobster Man,The Lobster Man,seafood,49.2715126,-123.136431,CA
+Finest At Sea,Finest At Sea,seafood,49.2715179,-123.136184,CA
+Kintec Footwear + Orthotics,Kintec Footwear + Orthotics,shoes,49.2636773,-123.1315571,CA
+Hi Lite,Hi Lite,laundry,49.2636761,-123.1322144,CA
+My Fly Shop,My Fly Shop,fishing,49.2636936,-123.132837,CA
+Met Home,Met Home,furniture,49.269627,-123.141412,CA
+Cakes in a Box,Cakes in a Box,pastry,49.2696458,-123.1442945,CA
+Les Amis Du Fromage,Les Amis Du Fromage,cheese,49.2696463,-123.1444714,CA
+Frans' Flowers,Frans' Flowers,florist,49.270436,-123.141593,CA
+Details by Mr. K,Details by Mr. K,yes,49.2614349,-123.138943,CA
+Ming Wo,Ming Wo,kitchen,49.2615578,-123.13894,CA
+Bar Asra,Bar Asra,restaurant,49.2615783,-123.1380707,CA
+Liberty Wines,Liberty Wines,wine,49.2721539,-123.1354336,CA
+Circle Craft,Circle Craft,gift,49.2721565,-123.1355718,CA
+Kroma Artists Acrylics,Kroma Artists Acrylics,art_supplies,49.2718127,-123.1358749,CA
+Geza Burghardt Luthiery,Geza Burghardt Luthiery,musical_instrument,49.2716963,-123.1358695,CA
+Malaspina Printmakers,Malaspina Printmakers,art,49.2713854,-123.1358202,CA
+Kitsilano Wine Cellar,Kitsilano Wine Cellar,wine,49.2683466,-123.1565479,CA
+Judith & Charles,Judith & Charles,clothes,49.2683341,-123.1557957,CA
+Miraj Hammam Spa,Miraj Hammam Spa,beauty,49.2663063,-123.1380996,CA
+Boston Pizza,Boston Pizza,restaurant,49.2637193,-123.1346996,CA
+White Spot,White Spot,restaurant,49.2637686,-123.163261,CA
+Axum Ethiopian Restaurant,Axum Ethiopian Restaurant,restaurant,49.2815418,-123.0777932,CA
+Ban Bu Xian Szechuan Cuisine,Ban Bu Xian Szechuan Cuisine,restaurant,49.2327002,-123.023833,CA
+Broadway Liquor Store,Broadway Liquor Store,alcohol,49.2636283,-123.1301549,CA
+Tojos,Tojos,restaurant,49.2636245,-123.1298503,CA
+Broadway Camera,Broadway Camera,computer,49.2635901,-123.1279474,CA
+Mazahr Lebanese Kitchen,Mazahr Lebanese Kitchen,restaurant,49.2615797,-123.1381671,CA
+Taproot Salon and Supply,Taproot Salon and Supply,hairdresser,49.2737785,-123.0693723,CA
+Meinhardt,Meinhardt,supermarket,49.2587727,-123.1384619,CA
+Williams Sonoma,Williams Sonoma,kitchen,49.2596776,-123.1389357,CA
+Tozen Sushi Bar,Tozen Sushi Bar,restaurant,49.263554,-123.1256923,CA
+The Lettuce Shop,The Lettuce Shop,supermarket,49.2608325,-123.1154257,CA
+ChiuChow Seafood Restaurant,ChiuChow Seafood Restaurant,restaurant,49.2606319,-123.1153899,CA
+Hye Park Express,Hye Park Express,convenience,49.260983,-123.1157472,CA
+Lennox Liquor Store,Lennox Liquor Store,alcohol,49.2609925,-123.117099,CA
+Cookshop,Cookshop,kitchen,49.2607622,-123.116799,CA
+Splash,Splash,clothes,49.268306,-123.171195,CA
+Twist,Twist,clothes,49.268266,-123.171322,CA
+Artistry Coffee Shop & Bistro,Artistry Coffee Shop & Bistro,cafe,49.2685244,-123.1709004,CA
+COBS Bread,COBS Bread,bakery,49.2680979,-123.158001,CA
+The 7 Seas,The 7 Seas,seafood,49.2680983,-123.158219,CA
+Lena Market,Lena Market,greengrocer,49.268108,-123.1583841,CA
+Paneficio,Paneficio,art,49.2791315,-123.0870375,CA
+The Onion,The Onion,art,49.2774731,-123.0809914,CA
+Fine Art Framing,Fine Art Framing,art,49.2752827,-123.0799686,CA
+Earthrise,Earthrise,florist,49.268304,-123.171426,CA
+Parthenon Market,Parthenon Market,supermarket,49.264314,-123.173526,CA
+Pho Japolo,Pho Japolo,restaurant,49.2642246,-123.1686344,CA
+Novus Glass,Novus Glass,car_repair,49.2640613,-123.157456,CA
+Radish,Radish,restaurant,49.2705703,-123.1472574,CA
+La Canapa Boutique Dunbar,La Canapa Boutique Dunbar,cannabis,49.2561568,-123.1849191,CA
+Kuma,Kuma,restaurant,49.2560724,-123.1849106,CA
+Boboli,Boboli,clothes,49.2610476,-123.1384475,CA
+Bacci's,Bacci's,clothes,49.2609111,-123.138452,CA
+Daniel Le Chocolat Belge,Daniel Le Chocolat Belge,confectionery,49.2604006,-123.1384081,CA
+Lords,Lords,clothes,49.2594063,-123.1384083,CA
+Dianes Lingerie,Dianes Lingerie,clothes,49.2592733,-123.1384403,CA
+Bau-xi Gallery,Bau-xi Gallery,art,49.2584136,-123.1390129,CA
+Gary's,Gary's,restaurant,49.2609085,-123.1382643,CA
+Café Crêpe,Café Crêpe,restaurant,49.2601931,-123.1389468,CA
+Freedman Shoes,Freedman Shoes,shoes,49.2601106,-123.1389453,CA
+TNA,TNA,clothes,49.2599638,-123.1389457,CA
+Pottery Barn Kids,Pottery Barn Kids,furniture,49.2594692,-123.138946,CA
+Bean Around The World,Bean Around The World,cafe,49.2591796,-123.1389048,CA
+Max Mara,Max Mara,clothes,49.258637,-123.138969,CA
+Momono Tea Shop,Momono Tea Shop,cafe,49.2586257,-123.13851,CA
+GP Restaurant,GP Restaurant,restaurant,45.5418598,-73.6634547,CA
+Sharmi,Sharmi,supermarket,45.5506347,-73.6711511,CA
+Pizza Roni,Pizza Roni,restaurant,45.5476096,-73.6723185,CA
+Vidéo Super Choix,Vidéo Super Choix,video,45.5479049,-73.6720936,CA
+La Crèmière,La Crèmière,restaurant,45.5483897,-73.67179,CA
+Serrurier Lafleur,Serrurier Lafleur,locksmith,45.5484311,-73.6725082,CA
+Le Palais du Chausson et de la Pizza,Le Palais du Chausson et de la Pizza,restaurant,45.5492311,-73.6719597,CA
+Dépanneur Kit-Kat,Dépanneur Kit-Kat,convenience,45.5494157,-73.6718651,CA
+Centre de Photocopies,Centre de Photocopies,copyshop,45.549874,-73.6714725,CA
+Chopstix,Chopstix,restaurant,45.55363,-73.6705702,CA
+Rona,Rona,doityourself,45.4632369,-73.5668278,CA
+Provigo,Provigo,supermarket,45.5088138,-73.5717973,CA
+Noodles Star,Noodles Star,restaurant,45.493071,-73.5804177,CA
+PA Supermarché,PA Supermarché,supermarket,45.4921473,-73.5821806,CA
+PA Nature Supermarché,PA Nature Supermarché,supermarket,45.5194351,-73.5949644,CA
+Frite Alors!,Frite Alors!,restaurant,45.513161,-73.5706145,CA
+Frite Alors,Frite Alors,restaurant,45.5223731,-73.5779394,CA
+La Croissanterie Figaro,La Croissanterie Figaro,cafe,45.5194363,-73.5986133,CA
+Columbus Café & Co,Columbus Café & Co,cafe,45.5198411,-73.5959163,CA
+3 Brasseurs,3 Brewers,restaurant,45.497185,-73.5754903,CA
+Le Garden Room,Le Garden Room,restaurant,45.4972187,-73.5774768,CA
+Dépaneur Concorde,Dépaneur Concorde,convenience,45.5302392,-73.5669628,CA
+Royal Plus Buanderette,Royal Plus Buanderette,laundry,45.5598909,-73.5971703,CA
+Buanderette,Buanderette,laundry,45.5372017,-73.5974554,CA
+SAQ Sélection,SAQ Sélection,alcohol,45.4939178,-73.5038577,CA
+Monsieur B,Monsieur B,restaurant,45.5250254,-73.5862543,CA
+Americano,Americano,cafe,45.5272146,-73.5801315,CA
+Harnois,Harnois,fuel,45.594717,-73.5562208,CA
+Le Phillies Cheesesteak,Le Phillies Cheesesteak,books,45.5241896,-73.6005318,CA
+Schwartz's,Schwartz's,restaurant,45.5163277,-73.5776499,CA
+Les co'pains d'abord,Les co'pains d'abord,bakery,45.534363,-73.573404,CA
+Cycles C&L,C&L Cycles,bicycle,45.5206015,-73.5903059,CA
+Green Spot,Green Spot,restaurant,45.4809122,-73.5788021,CA
+Pattes & Griffes,Paws & Claws,pet,45.494253,-73.5639897,CA
+Coop ÉTS,Coop ÉTS,books,45.4952282,-73.5635281,CA
+Restaurant Guan,Restaurant Guan,cafe,45.4945397,-73.560401,CA
+St-Hubert,St-Hubert,restaurant,45.5084095,-73.5647937,CA
+La Cage,La Cage,restaurant,45.4965793,-73.5696976,CA
+Dagwoods,Dagwoods,restaurant,45.5260982,-73.5348205,CA
+Chic'n'chic,Chic'n'chic,restaurant,45.5259646,-73.5347013,CA
+Halte Gourmande,Halte Gourmande,restaurant,45.5231424,-73.5353687,CA
+Route 67,Route 67,restaurant,45.5223075,-73.5369678,CA
+Miso,Miso,restaurant,45.4889177,-73.5847719,CA
+Imadake,Imadake,restaurant,45.4888033,-73.5848834,CA
+Bar Ganadara,Bar Ganadara,restaurant,45.492588,-73.5803613,CA
+Chez Cora,Chez Cora,restaurant,45.4402319,-73.6224568,CA
+Restaurant Beba,Restaurant Beba,restaurant,45.4648639,-73.567749,CA
+Le Garage,Le Garage,restaurant,45.4650439,-73.5672491,CA
+Fruiterie Soleil,Fruiterie Soleil,supermarket,45.4630146,-73.5693087,CA
+Viandal,Viandal,butcher,45.4628573,-73.5710435,CA
+M'nonga Savonnerie,M'nonga Savonnerie,cosmetics,45.5130185,-73.5702355,CA
+La Fabrique de Bagel,La Fabrique de Bagel,restaurant,45.5138039,-73.5720332,CA
+Shaker Cuisine & Mixologie,Shaker Cuisine & Mixologie,restaurant,45.5130238,-73.5709896,CA
+Marché Brito,Marché Brito,convenience,45.514636,-73.5720985,CA
+Primo Amore,Primo Amore,restaurant,45.514799,-73.571876,CA
+Les Deux Gamins,Les Deux Gamins,restaurant,45.51551,-73.571037,CA
+Casa Grecque,Casa Grecque,restaurant,45.515707,-73.570823,CA
+Le Square,Le Square,restaurant,45.5154594,-73.571068,CA
+Vieng Auto,Vieng Auto,car_repair,45.5138978,-73.5700154,CA
+Diablos BBQ,Diablos BBQ,restaurant,45.5143143,-73.5723772,CA
+Edumicro,Edumicro,computer,45.5145297,-73.5590157,CA
+Presse Café,Presse Café,cafe,45.5009937,-73.5590024,CA
+Szechuan,Szechuan,restaurant,45.5016003,-73.5590701,CA
+Clafouti,Clafouti,restaurant,45.5018138,-73.5598152,CA
+Stellina,Stellina,restaurant,45.5016491,-73.5599333,CA
+49th Parallel,49th Parallel,restaurant,45.5007852,-73.5595086,CA
+SAQ,SAQ,alcohol,45.5161967,-73.558457,CA
+Piazzetta,Piazzetta,restaurant,45.5176266,-73.5571281,CA
+Marché J.V.T.,Marché J.V.T.,convenience,45.5101782,-73.5706908,CA
+Chez Suzzette Crepes,Chez Suzzette Crepes,restaurant,45.5057517,-73.5537819,CA
+Le Verre de l'Ange,Le Verre de l'Ange,restaurant,45.5075273,-73.5527994,CA
+31° Latitude,31° Latitude,restaurant,45.5142731,-73.5730536,CA
+Mumbai Masala,Mumbai Masala,restaurant,45.5146351,-73.5738661,CA
+Passion & Gourmandises,Passion & Gourmandises,bakery,45.5159366,-73.5744872,CA
+G&G Barbershop,G&G Barbershop,hairdresser,45.5153957,-73.5745933,CA
+Mikado,Mikado,restaurant,45.4766883,-73.6221037,CA
+dépanneur Beau-soir,dépanneur Beau-soir,convenience,45.5499078,-73.6002872,CA
+Roberto,Roberto,restaurant,45.5496021,-73.6008604,CA
+Dépanneur 7 jours,Dépanneur 7 jours,convenience,45.5493969,-73.6010254,CA
+Provi-Soir,Provi-Soir,convenience,45.5488825,-73.6014946,CA
+Betty Brite,Betty Brite,dry_cleaning,45.4930209,-73.5755015,CA
+Van Houtte,Van Houtte,cafe,45.493228,-73.5746428,CA
+suit centre,suit centre,tailor,45.4929574,-73.5755266,CA
+Dépanneur Diane,Dépanneur Diane,convenience,45.4923676,-73.5770718,CA
+Acuitis,Acuitis,optician,45.5263091,-73.5809776,CA
+Boucherie Sabra,Boucherie Sabra,butcher,45.5117876,-73.5667372,CA
+Elements Maison de Beaute,Elements Maison de Beaute,hairdresser,45.49352,-73.5746287,CA
+India Rosa,India Rosa,restaurant,45.5292286,-73.5782208,CA
+Méchant Pinson,Méchant Pinson,cafe,45.5346919,-73.5824438,CA
+Pushap,Pushap,restaurant,45.4975883,-73.6538398,CA
+Kanda,Kanda,restaurant,45.4946137,-73.6518858,CA
+Dépanneur Paré,Dépanneur Paré,convenience,45.4976756,-73.65374,CA
+Monsieur Shich-Taouk,Monsieur Shich-Taouk,restaurant,45.5357468,-73.6035552,CA
+L'Escurier,L'Escurier,bakery,45.5209288,-73.6146871,CA
+Restaurant Le Méchoui,Restaurant Le Méchoui,restaurant,45.5186101,-73.6168033,CA
+TiBoeuf,TiBoeuf,restaurant,45.5148656,-73.5654499,CA
+Restaurant Niu Kee,Restaurant Niu Kee,restaurant,45.50861,-73.562152,CA
+Coiffure GP Oggi Elle et lui,Coiffure GP Oggi Elle et lui,hairdresser,45.5461549,-73.5989431,CA
+Beauté Tropicale,Beauté Tropicale,hairdresser,45.5453066,-73.5997527,CA
+Heureux de nature,Heureux de nature,baby_goods,45.5395253,-73.6046639,CA
+Au Coq,Au Coq,restaurant,45.5574884,-73.5892432,CA
+Dépanneur Chantal,Dépanneur Chantal,convenience,45.5457496,-73.5989519,CA
+Nettoyeur Molson,Nettoyeur Molson,dry_cleaning,45.5510753,-73.5943356,CA
+Salon Vi-Clo,Salon Vi-Clo,hairdresser,45.550955,-73.5949391,CA
+Dépanneur variété Jojo,Dépanneur variété Jojo,convenience,45.5501868,-73.5955185,CA
+Fourrures Laganière & De Repentigny,Fourrures Laganière & De Repentigny,clothes,45.5422892,-73.6021586,CA
+Andy Style,Andy Style,hairdresser,45.5439971,-73.6006042,CA
+Marché 7 jours,Marché 7 jours,convenience,45.5521204,-73.5938603,CA
+Dépanneur Grignoterie,Dépanneur Grignoterie,convenience,45.5415074,-73.6032298,CA
+La boîte à savon,La boîte à savon,laundry,45.5403502,-73.6043067,CA
+Dépanneur Rosie,Dépanneur Rosie,convenience,45.5478193,-73.5976517,CA
+Café Johnny M,Café Johnny M,cafe,45.540941,-73.6036921,CA
+Adagio Massage & SPA,Adagio Massage & SPA,massage,45.5441729,-73.6004584,CA
+Gia Dình,Gia Dình,restaurant,45.5565401,-73.5948554,CA
+Stella Pizzeria,Stella Pizzeria,restaurant,45.5409745,-73.608137,CA
+Marché 3 Piliers,Marché 3 Piliers,supermarket,45.5274369,-73.5854381,CA
+Bienville,Bienville,convenience,45.5253279,-73.5843794,CA
+Fleur Bleu Dépanneur,Fleur Bleu Dépanneur,convenience,45.5272771,-73.5862632,CA
+Cha Do Raku,Cha Do Raku,tea,45.5263884,-73.5831474,CA
+Dépanneur G948,Dépanneur G948,convenience,45.5287793,-73.5841975,CA
+Ouzeri,Ouzeri,restaurant,45.5249292,-73.5853929,CA
+Fruiterie Muscat,Fruiterie Muscat,supermarket,45.5262457,-73.5882999,CA
+Carmen Felipe,Carmen Felipe,cafe,45.5291657,-73.5877742,CA
+Dépanneur Maboule 2010,Dépanneur Maboule 2010,convenience,45.529921,-73.586755,CA
+Marché Tradition,Marché Tradition,supermarket,45.5542317,-73.601669,CA
+Aquarius Tropical Fish,Aquarius Tropical Fish,pet,45.5523972,-73.6033797,CA
+La belle bleue,La belle bleue,bakery,45.5483545,-73.6064471,CA
+Marché Nuvo,Marché Nuvo,supermarket,45.5441676,-73.6107107,CA
+Chaussures Rubino,Chaussures Rubino,shoes,45.5706741,-73.5895297,CA
+Le lavoir d'Outremont,Le lavoir d'Outremont,laundry,45.5210843,-73.6106274,CA
+Galanga Bistro Thaï,Galanga Bistro Thaï,restaurant,45.5210335,-73.6106649,CA
+Le Courses de Lajoie,Le Courses de Lajoie,convenience,45.520996,-73.6107212,CA
+Centre visuel Bélanger,Centre visuel Bélanger,optician,45.5385142,-73.6108492,CA
+Les Copines d'abord,Les Copines d'abord,hairdresser,45.5418857,-73.6074001,CA
+Mi Barro,Mi Barro,restaurant,45.541485,-73.6077677,CA
+Les Marchands de Fraîcheur,Les Marchands de Fraîcheur,hairdresser,45.5419188,-73.6077328,CA
+Chez Jean-Paul,Chez Jean-Paul,restaurant,45.541614,-73.6079893,CA
+La Chalupa,La Chalupa,restaurant,45.541438,-73.6081489,CA
+Marché Lima Limon,Marché Lima Limon,convenience,45.5419731,-73.6073081,CA
+Futago Sushi,Futago Sushi,restaurant,45.5424882,-73.607214,CA
+Ferment,Ferment,deli,45.5425347,-73.607176,CA
+Marché Lafirenzé,Marché Lafirenzé,grocery,45.5425786,-73.6071321,CA
+Milada,Milada,beauty,45.518573,-73.5843713,CA
+L'Étagère Gourmande,L'Étagère Gourmande,restaurant,45.5184058,-73.5845376,CA
+Boutique Tone,Boutique Tone,musical_instrument,45.5186749,-73.5834421,CA
+Capisco,Capisco,restaurant,45.5065609,-73.553198,CA
+Ca Roule Montreal on Wheels,Ca Roule Montreal on Wheels,bicycle,45.505826,-73.5531438,CA
+Taverne Gaspar,Taverne Gaspar,restaurant,45.5063931,-73.5528757,CA
+Boutique Ali Baba,Boutique Ali Baba,gift,45.5073242,-73.5527154,CA
+Cibo & Vino,Cibo & Vino,restaurant,45.505884,-73.5531234,CA
+Labarake,Labarake,restaurant,45.5449872,-73.5611181,CA
+Telus,Telus,mobile_phone,45.5217832,-73.5784789,CA
+Ameublement Elvis,Ameublement Elvis,furniture,45.5317911,-73.5719971,CA
+Hinnawi Bros,Hinnawi Bros,cafe,45.5046362,-73.5724408,CA
+Noref,Noref,seafood,45.5419421,-73.5710369,CA
+Mondou,Mondou,pet,45.5391378,-73.5603255,CA
+Le Hachoir,Le Hachoir,restaurant,45.5218582,-73.57797,CA
+Il Foccolaio,Il Foccolaio,restaurant,45.5039971,-73.5681385,CA
+Crevier,Crevier,fuel,45.536996,-73.563563,CA
+Café Cherrier,Café Cherrier,restaurant,45.5181851,-73.569836,CA
+Rachel Auto Service,Rachel Auto Service,car_repair,45.5444718,-73.560847,CA
+Mile End Bike Garage,Mile End Bike Garage,bicycle,45.5275483,-73.607892,CA
+Café Bistro,Café Bistro,cafe,45.5179753,-73.5819873,CA
+Florateria,Florateria,florist,45.5138691,-73.5759427,CA
+Chez Roger,Chez Roger,restaurant,45.5470572,-73.5930518,CA
+Maxi Rue Jean-Talon,Maxi Rue Jean-Talon,supermarket,45.5695531,-73.5904206,CA
+Boulangerie Pâtisserie La Parisienne Inc,Boulangerie Pâtisserie La Parisienne Inc,bakery,45.5658905,-73.5922151,CA
+Café 5 juillet,Café 5 juillet,restaurant,45.5649758,-73.5925279,CA
+Speedy Auto Service,Speedy Auto Service,car_repair,45.5648879,-73.5932278,CA
+L'aubainerie,L'aubainerie,shoes,45.568425,-73.5907858,CA
+Dépanneur St-Denis,Dépanneur St-Denis,convenience,45.5180278,-73.5702563,CA
+Saint Cinnamon,Saint Cinnamon,bakery,45.567056,-73.588751,CA
+Dépanneur Simon Anthony,Dépanneur Simon Anthony,convenience,45.54065,-73.599151,CA
+Épicerie W.T.-2000,Épicerie W.T.-2000,convenience,45.4869604,-73.5788107,CA
+CAJH Maîtres Coiffeurs,CAJH Maîtres Coiffeurs,hairdresser,45.4846362,-73.5797978,CA
+Cabane Kreyol,Cabane Kreyol,restaurant,45.4847791,-73.5799051,CA
+Photodépot,Photodépot,copyshop,45.4855653,-73.5769038,CA
+Apple Store,Apple Store,electronics,45.4975486,-73.575578,CA
+McGill Pizza,McGill Pizza,restaurant,45.5070385,-73.5760144,CA
+Le Grand Cycle,Le Grand Cycle,bicycle,45.5207667,-73.5679641,CA
+Restaurant de l’ITHQ,Restaurant de l’ITHQ,restaurant,45.5177311,-73.5687366,CA
+Librairie du CCA,CCA Bookstore,books,45.4909637,-73.57902,CA
+Ulysse,Ulysses,books,45.5214718,-73.5778845,CA
+Lola Rosa,Lola Rosa,restaurant,45.5072463,-73.5758087,CA
+Java u,Java u,cafe,45.5053767,-73.5729096,CA
+Stash Café,Stash Café,restaurant,45.5026391,-73.5552166,CA
+Porto Mar,Porto Mar,restaurant,45.5025357,-73.5550301,CA
+Mama C,Mama C,restaurant,45.5042188,-73.5543871,CA
+Atomic Café,Atomic Café,cafe,45.5452307,-73.544586,CA
+Marché Fortier,Marché Fortier,convenience,45.4721928,-73.5692731,CA
+Séduction,Séduction,erotic,45.493609,-73.579747,CA
+Sushi Ste-Catherine,Sushi Ste-Catherine,restaurant,45.4938203,-73.5794979,CA
+L'auberge Saint Gabriel,L'auberge Saint Gabriel,restaurant,45.506355,-73.554015,CA
+Camtec Photo,Camtec Photo,electronics,45.5010769,-73.5593972,CA
+Steak Frites,Steak Frites,restaurant,45.5025925,-73.5611585,CA
+Couche-Tard,Couche-Tard,convenience,45.502603,-73.580023,CA
+Rôtisserie Au Coq,Rôtisserie Au Coq,restaurant,45.5406532,-73.5546055,CA
+Miami,Miami,restaurant,45.542025,-73.5575974,CA
+Jardin Nelson,Jardin Nelson,restaurant,45.5079483,-73.5526579,CA
+État Major,État Major,restaurant,45.5494383,-73.5419535,CA
+Gerry's Delicatessen,Gerry's Delicatessen,restaurant,45.5493195,-73.5416834,CA
+Dépanneur Chez Émile,Dépanneur Chez Émile,convenience,45.5496533,-73.5582596,CA
+Jardin des Délices,Jardin des Délices,restaurant,45.5495294,-73.5583377,CA
+Buanderie du Plateau,Buanderie du Plateau,laundry,45.5211011,-73.5894621,CA
+Maxi,Maxi,supermarket,45.5409731,-73.5592925,CA
+Bistro Part Ici,Bistro Part Ici,restaurant,45.5429306,-73.5626721,CA
+H&M,H&M,clothes,45.499834,-73.572831,CA
+Nori Sushi,Nori Sushi,restaurant,45.5414652,-73.5606578,CA
+Eggspectation,Eggspectation,restaurant,45.507302,-73.565653,CA
+Baton Rouge,Baton Rouge,restaurant,45.507375,-73.565492,CA
+Le Château,Le Château,clothes,45.507609,-73.565286,CA
+New Look Lunetterie,New Look Lunetterie,optician,45.508909,-73.5648302,CA
+Money Mart,Money Mart,money_lender,45.5098294,-73.5640233,CA
+Centrale PC,Centrale PC,computer,45.5409628,-73.5989572,CA
+Best Buy,Best Buy,electronics,45.44896,-73.6161901,CA
+Verri Uomo,Verri Uomo,clothes,45.500209,-73.575705,CA
+MBCo,MBCo,bakery,45.4999558,-73.5746011,CA
+La Vie en Rose,La Vie en Rose,clothes,45.502219,-73.572657,CA
+Reitmans,Reitmans,clothes,45.502333,-73.572495,CA
+Le Bijoutier,Le Bijoutier,jewelry,45.50235,-73.572595,CA
+Virgin Plus,Virgin Plus,mobile_phone,45.501686,-73.57191,CA
+La Source,La Source,electronics,45.501557,-73.572056,CA
+Mont Blanc,Mont Blanc,gift,45.5013196,-73.5724017,CA
+Harry Rosen,Harry Rosen,clothes,45.5005199,-73.5735582,CA
+4 Saisons Dépanneur,4 Saisons Dépanneur,convenience,45.4997881,-73.574247,CA
+Tristan,Tristan,clothes,45.5006471,-73.5724891,CA
+Payless ShoeSource,Payless ShoeSource,shoes,45.502514,-73.572007,CA
+Michael Kors,Michael Kors,clothes,45.4994855,-73.5736474,CA
+Simons,Simons,department_store,45.5011512,-73.5721883,CA
+Fido,Fido,mobile_phone,45.5004097,-73.5722957,CA
+Mimi & Coco,Mimi & Coco,clothes,45.5006514,-73.5735889,CA
+Best Buy Express,Best Buy Express,electronics,45.5496155,-73.5738027,CA
+Renaissance - Friperie Masson,Renaissance - Friperie Masson,clothes,45.5507053,-73.5731194,CA
+Bureau en Gros,Bureau en Gros,stationery,45.488071,-73.585641,CA
+TNT,TNT,clothes,45.487355,-73.586428,CA
+Marché Axep,Marché Axep,convenience,45.5542006,-73.5598345,CA
+Dépanneur Danny,Dépanneur Danny,convenience,45.5405672,-73.5427489,CA
+Café Tex-Mex,Café Tex-Mex,restaurant,45.5425273,-73.5502255,CA
+Dépanneur 24H,Dépanneur 24H,convenience,45.5416154,-73.5472121,CA
+Habitat for Humanity ReStore,Habitat for Humanity ReStore,charity,45.4750362,-73.5869407,CA
+Dépanneur Boni-Soir,Dépanneur Boni-Soir,convenience,45.5556242,-73.5676608,CA
+Dépanneur Rachel,Dépanneur Rachel,convenience,45.5524066,-73.5566723,CA
+Notre-Boeuf-de-Grace,Notre-Boeuf-de-Grace,restaurant,45.5265247,-73.5804121,CA
+Metro Plus - Marché d'alimentation Domaine,Metro Plus - Marché d'alimentation Domaine,supermarket,45.5819624,-73.5430252,CA
+Supermarché Metro Mont-Royal,Supermarché Metro Mont-Royal,supermarket,45.5374033,-73.5707588,CA
+Les Trois amigos,3 Amigos,restaurant,45.494302,-73.578929,CA
+BBQ Coréen PONY,BBQ Coréen PONY,restaurant,45.494505,-73.5781834,CA
+Marché Boni-Soir,Marché Boni-Soir,grocery,45.494659,-73.5809625,CA
+iMural,iMural,bed,45.5178403,-73.5809672,CA
+Krispy Kreme,Krispy Kreme,bakery,45.4963654,-73.5783838,CA
+Bar B Barn,Bar B Barn,restaurant,45.4944594,-73.5760757,CA
+Wienstein & Gavino's,Wienstein & Gavino's,restaurant,45.4975169,-73.5767685,CA
+California Pizza,California Pizza,restaurant,45.4975743,-73.576857,CA
+Mackage,Mackage,clothes,45.4977275,-73.5749594,CA
+Icebreaker,Icebreaker,clothes,45.4957046,-73.5773895,CA
+Arc'teryx,Arc'teryx,clothes,45.4957928,-73.5773279,CA
+Ocha Bubble Tea,Ocha Bubble Tea,restaurant,45.4944023,-73.5788086,CA
+COS,COS,clothes,45.4976128,-73.5750988,CA
+Bier Markt Montreal,Bier Markt Montreal,restaurant,45.4973665,-73.5720519,CA
+Pandora,Pandora,jewelry,45.4974934,-73.5752101,CA
+Vans,Vans,shoes,45.4974323,-73.5752692,CA
+Le Pois Penché,Le Pois Penché,restaurant,45.4992991,-73.5760644,CA
+Ecco,Ecco,shoes,45.4974098,-73.5757385,CA
+Urban Outfitters,Urban Outfitters,clothes,45.4979836,-73.5746532,CA
+Adidas,Adidas,sports,45.4981731,-73.5744591,CA
+Lululemon,Lululemon,clothes,45.4982462,-73.5743951,CA
+Nara Reto Lounge,Nara Reto Lounge,restaurant,45.4984151,-73.5773986,CA
+Maison Birks,Maison Birks,jewelry,45.5034709,-73.5690986,CA
+Le café des beaux-arts,Le café des beaux-arts,cafe,45.4985268,-73.5795792,CA
+Boutique du Musée,Boutique du Musée,gift,45.4983912,-73.5796987,CA
+Toro Sushi,Toro Sushi,restaurant,45.4976921,-73.5783562,CA
+Tianxia,Tianxia,restaurant,45.4979195,-73.5789216,CA
+Dépanneur Rotsen,Dépanneur Rotsen,convenience,45.4977503,-73.5784849,CA
+Kauffman de Suisse,Kauffman de Suisse,jewelry,45.4987759,-73.5786877,CA
+Bice Restaurant,Bice Restaurant,restaurant,45.4970237,-73.5809582,CA
+Platine Coiffure,Platine Coiffure,hairdresser,45.497129,-73.5808777,CA
+Shan,Shan,clothes,45.4984053,-73.5785642,CA
+Bijouterie Laurence,Bijouterie Laurence,jewelry,45.4986763,-73.5784664,CA
+Troika,Troika,restaurant,45.4986885,-73.5785469,CA
+Arthur,Arthur,clothes,45.4987033,-73.5785146,CA

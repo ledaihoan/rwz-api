@@ -1,0 +1,895 @@
+name,name_en,service_type,lat,lng,country_code
+Esso,Esso,convenience;gas,48.823134,2.4939428,FR
+Relais Saint-Cloud Dassault,Relais Saint-Cloud Dassault,convenience,48.8549783,2.2224884,FR
+Total,Total,convenience,48.8060686,2.3762455,FR
+Relais Total Du Pont Aval,Relais Total Du Pont Aval,convenience,48.8346767,2.266146,FR
+Avia,Avia,convenience;gas,48.8256612,2.4077565,FR
+SARL Jaby Avia,SARL Jaby Avia,convenience;gas,48.8144777,2.3261551,FR
+Relais des Chaufourniers,Relais des Chaufourniers,convenience;gas,48.8801814,2.3707442,FR
+The Village Terrazza,The Village Terrazza,restaurant,48.8298353,2.3228662,FR
+Pizzeria Palma d'Oro,Pizzeria Palma d'Oro,restaurant,48.8949681,2.2229796,FR
+Au Poulet Braisé,Au Poulet Braisé,restaurant,48.894638,2.2231811,FR
+Pizzeria Torino,Pizzeria Torino,restaurant,48.8951397,2.2225402,FR
+Atelier Bey,Atelier Bey,restaurant,48.8949813,2.2221176,FR
+Be you coiffure,Be you coiffure,hairdresser,48.8952026,2.2214024,FR
+Le Severo,Le Severo,restaurant,48.8319911,2.3245334,FR
+Le Sancerre,Le Sancerre,restaurant,48.896284,2.2250919,FR
+La Terrasse,La Terrasse,restaurant,48.8965817,2.2241626,FR
+Brico Dépôt,Brico Dépôt,doityourself,48.8916516,2.2063068,FR
+Pâtisserie Viennoiserie,Pâtisserie Viennoiserie,bakery,48.8949393,2.2239739,FR
+Franprix,Franprix,convenience,48.8956757,2.2228116,FR
+Boulangerie MD du parc,Boulangerie MD du parc,bakery,48.8954414,2.2233804,FR
+Avant Seine,Avant Seine,restaurant,48.8948889,2.2387542,FR
+Tusk,Tusk,restaurant,48.8907062,2.242646,FR
+Soleil d'Or,Soleil d'Or,restaurant,48.8964233,2.2372254,FR
+Bar Tabac L'Européen,Bar Tabac L'Européen,cafe,48.8222833,2.2068942,FR
+Boldère,Boldère,restaurant,48.8907277,2.23561,FR
+Pizza Hut,Pizza Hut,restaurant,48.8224232,2.2075203,FR
+Uno,Uno,restaurant,48.8618492,2.3434997,FR
+La Crypte Polska,La Crypte Polska,restaurant,48.8672925,2.3255509,FR
+Le Café Marly,Le Café Marly,cafe,48.8616428,2.3359304,FR
+Mystery Cuisine,Mystery Cuisine,restaurant,48.865893,2.3372573,FR
+Chez Denise,Chez Denise,restaurant,48.8615239,2.3440891,FR
+La Robe et le Palais,La Robe et le Palais,restaurant,48.8586437,2.3458501,FR
+Macéo,Macéo,restaurant,48.8664042,2.3380601,FR
+Saint Laurent,Saint Laurent,clothes,48.86534,2.3308795,FR
+Le Petit Marché,Le Petit Marché,restaurant,48.8572887,2.3660498,FR
+Café des Musées,Café des Musées,restaurant,48.8580708,2.3643313,FR
+Les Arts et Métiers,Les Arts et Métiers,cafe,48.865451,2.3553243,FR
+Camille,Camille,restaurant,48.8577772,2.3607273,FR
+Les Enfants Rouges,Les Enfants Rouges,restaurant,48.8630297,2.3612527,FR
+404,404,restaurant,48.864464,2.3543053,FR
+Onhà Dô,Onhà Dô,restaurant,48.8483768,2.3739692,FR
+Le Mumtaz,Le Mumtaz,restaurant,48.8491606,2.4165683,FR
+Lémoni Café,Lémoni Café,restaurant,48.8647973,2.3411779,FR
+Rani Mahal,Rani Mahal,restaurant,48.8687993,2.3373273,FR
+O' Scià,O' Scià,restaurant,48.864878,2.3475212,FR
+Café Moderne,Café Moderne,restaurant,48.8689038,2.3422059,FR
+Le Café Noir,Le Café Noir,cafe,48.8663473,2.3443206,FR
+Manteigaria - Fábrica de Pastéis de Nata Rambuteau,Manteigaria - Fábrica de Pastéis de Nata Rambuteau,pastry,48.860997,2.3544354,FR
+Le Loir dans la Théière,Le Loir dans la Théière,cafe,48.8562335,2.3610458,FR
+La Perla,La Perla,restaurant,48.8557588,2.3561398,FR
+L'Excuse,L'Excuse,restaurant,48.8533876,2.3620076,FR
+Pizzou,Pizzou,restaurant,48.8576083,2.3562589,FR
+Chez Marianne,Chez Marianne,restaurant,48.8577309,2.3586364,FR
+Terrasse Sainte-Catherine,Terrasse Sainte-Catherine,restaurant,48.85559,2.3628253,FR
+Mariage Frères,Mariage Frères,tea,48.8577196,2.3565683,FR
+Café des Phares,Café des Phares,cafe,48.8536169,2.368253,FR
+Le Lutétia Île Saint-Louis,Le Lutétia Île Saint-Louis,restaurant,48.8532987,2.3540953,FR
+Au Petit Fer à Cheval,Au Petit Fer à Cheval,restaurant,48.8574347,2.3576107,FR
+Dinh Van,Dinh Van,jewelry,48.8577212,2.3576336,FR
+La Fontaine aux Vins,La Fontaine aux Vins,alcohol,48.8407951,2.3497522,FR
+L'Épée de Bois,L'Épée de Bois,toys,48.8415751,2.3501804,FR
+Shakespeare and Company,Shakespeare and Company,books,48.8525747,2.3471123,FR
+Jardin des Pâtes,Jardin des Pâtes,restaurant,48.8437435,2.3544856,FR
+La Tour d'Argent,La Tour d'Argent,restaurant,48.84983,2.3549148,FR
+Kusksi Original Couscous,Kusksi Original Couscous,restaurant,48.8449458,2.3486915,FR
+Desi Road,Desi Road,restaurant,48.8556694,2.3399888,FR
+Brasserie Lipp,Brasserie Lipp,restaurant,48.8537528,2.3324105,FR
+Bistro des Poèmes,Bistro des Poèmes,restaurant,48.8493501,2.3391528,FR
+Silencio des Prés,Silencio des Prés,restaurant,48.8546811,2.3332029,FR
+Polidor,Polidor,restaurant,48.8498182,2.3401339,FR
+La Grivoiserie,La Grivoiserie,restaurant,48.8441789,2.3299201,FR
+Le Trait D'Union,Le Trait D'Union,restaurant,48.8468341,2.3265156,FR
+Les Deux Magots,Les Deux Magots,cafe,48.854069,2.3330634,FR
+Café de Flore,Café de Flore,cafe,48.8541444,2.3326307,FR
+Buddha-Bar Paris,Buddha-Bar Paris,restaurant,48.8680799,2.3215688,FR
+Qasim,Qasim,restaurant,48.8710439,2.3094204,FR
+Diep,Diep,restaurant,48.8695267,2.3030036,FR
+Le Café Zéphyr,Le Café Zéphyr,restaurant,48.8718728,2.3418493,FR
+Artazart,Artazart,books,48.87268,2.3637772,FR
+Bouillon Julien,Bouillon Julien,restaurant,48.8705409,2.3532213,FR
+Yess électrique,Yess électrique,electronics,48.8711696,2.3649409,FR
+Le Royal Est,Le Royal Est,restaurant,48.8755247,2.3590436,FR
+Bouillon Chartier,Bouillon Chartier,restaurant,48.8759117,2.3587708,FR
+Atelier M.,Atelier M.,hairdresser,48.8524984,2.3770609,FR
+Clown-Bar,Clown-Bar,restaurant,48.8636232,2.3671745,FR
+Biondi,Biondi,restaurant,48.8638211,2.3670738,FR
+Rang,Rang,restaurant,48.8680028,2.3732066,FR
+Le Troisième Bureau,Le Troisième Bureau,restaurant,48.8656744,2.3707975,FR
+Cannibale Café,Cannibale Café,restaurant,48.86841,2.3793255,FR
+Avé Maria,Avé Maria,restaurant,48.8644844,2.3730277,FR
+Le Café des Anges,Le Café des Anges,restaurant,48.8554359,2.3744522,FR
+Le Cyrano,Le Cyrano,restaurant,48.8561021,2.3751898,FR
+Justine,Justine,restaurant,48.8656774,2.3778866,FR
+Le Scherkhan,Le Scherkhan,cafe,48.8664143,2.3810502,FR
+Le Voltaire,Le Voltaire,restaurant,48.8651691,2.3673694,FR
+Académie du Bal Costumé,Académie du Bal Costumé,costume,48.8466519,2.3694201,FR
+Tang Frères,Tang Frères,supermarket,48.8242374,2.3651653,FR
+Sinorama,Sinorama,restaurant,48.8263633,2.3601703,FR
+Phở Banh Cuon 14,Phở Banh Cuon 14,restaurant,48.8263649,2.3595297,FR
+Le Temps des Cerises,Le Temps des Cerises,restaurant,48.8278771,2.3505246,FR
+Atelier 58,Atelier 58,restaurant,48.8350004,2.3270301,FR
+Papa Yoyo,Papa Yoyo,restaurant,48.8332667,2.3156229,FR
+Mian Mian,Mian Mian,restaurant,48.8413291,2.2990993,FR
+Perlamatta,Perlamatta,restaurant,48.8407836,2.2882769,FR
+Casa Luisa,Casa Luisa,restaurant,48.858099,2.2723198,FR
+La Pétaudière,La Pétaudière,restaurant,48.8869322,2.3399586,FR
+Passages des Princes,Passages des Princes,mall,48.8713563,2.3389691,FR
+Brentano's,Brentano's,books,48.8700157,2.3323221,FR
+Suzie Blue,Suzie Blue,cafe,48.8615832,2.3650808,FR
+GrandCœur,GrandCœur,restaurant,48.8596089,2.3534917,FR
+V-ZUG Studio,V-ZUG Studio,appliance,48.8501935,2.3250319,FR
+Le Rapido,Le Rapido,cafe,48.8470403,2.3693549,FR
+Marcello,Marcello,restaurant,48.8523273,2.3350061,FR
+Café Jacquemart-André,Café Jacquemart-André,restaurant,48.8755021,2.3103942,FR
+Linette,Linette,restaurant,48.8600296,2.3006336,FR
+Au Pied de Fouet,Au Pied de Fouet,restaurant,48.8516452,2.3185953,FR
+Chez Germaine,Chez Germaine,restaurant,48.8482525,2.3194882,FR
+L'Ami Jean,L'Ami Jean,restaurant,48.8603183,2.3059915,FR
+Blanc d'Ivoire,Blanc d'Ivoire,interior_decoration,48.8536958,2.3237046,FR
+L'Astrance,L'Astrance,restaurant,48.8650879,2.2899274,FR
+Monoprix,Monoprix,supermarket,48.8242398,2.2739238,FR
+Yotaro sushi,Yotaro sushi,restaurant,48.8523799,2.4036853,FR
+Doppio,Doppio,restaurant,48.8795968,2.3519355,FR
+Au Général Beuret,Au Général Beuret,cafe,48.8416889,2.3031557,FR
+Les Artisans,Les Artisans,restaurant,48.8428811,2.3031391,FR
+Dandelion,Dandelion,restaurant,48.8544589,2.4006544,FR
+Casa Mario,Casa Mario,restaurant,48.8234946,2.2678173,FR
+Carrefour City,Carrefour City,convenience,48.8234643,2.2715919,FR
+G20,G20,supermarket,48.8359056,2.2906833,FR
+Le Nouvel Institut,Le Nouvel Institut,cafe,48.8492048,2.3556646,FR
+Le kiosque de Paris,Le kiosque de Paris,kiosk,48.8513169,2.3332154,FR
+Le Cristal,Le Cristal,cafe,48.845782,2.3098769,FR
+Le Babylone,Le Babylone,cafe,48.851795,2.3250816,FR
+BP,BP,convenience;gas,48.8609726,2.2828299,FR
+Le Petit Littré,Le Petit Littré,restaurant,48.8450378,2.3240399,FR
+Gildas Delamer,Gildas Delamer,restaurant,48.8395987,2.2669254,FR
+Au Goût Nature,Au Goût Nature,restaurant,48.8192257,2.2595527,FR
+U Express,U Express,convenience,48.8661141,2.3469793,FR
+Suraj,Suraj,restaurant,48.827448,2.3148336,FR
+Café du Passage,Café du Passage,cafe,48.8524729,2.373815,FR
+L'Ancienne Menuiserie,L'Ancienne Menuiserie,restaurant,48.8673444,2.3739608,FR
+Bocamexa,Bocamexa,restaurant,48.8570456,2.3559971,FR
+Le Moulin à Café,Le Moulin à Café,restaurant,48.8334851,2.3198808,FR
+Le Muguet,Le Muguet,restaurant,48.8527753,2.4059315,FR
+La Popotière,La Popotière,restaurant,48.8551966,2.4016334,FR
+Sohna Punjab,Sohna Punjab,restaurant,48.8540343,2.4058858,FR
+Le Cardinal,Le Cardinal,restaurant,48.8373251,2.2574534,FR
+Les Fontaines,Les Fontaines,restaurant,48.8378504,2.2579307,FR
+Bocal Génial,Bocal Génial,convenience,48.8604062,2.4392463,FR
+Pompona,Pompona,bakery,48.833808,2.2980676,FR
+Maison BJ,Maison BJ,bakery,48.8309772,2.2928903,FR
+Grains et Gourmandises,Grains et Gourmandises,bakery,48.833941,2.2950323,FR
+Atelier des pains & Co,Atelier des pains & Co,bakery,48.8960483,2.2930989,FR
+Les papilles enchantées,Les papilles enchantées,bakery,48.8980218,2.2926771,FR
+Auchan,Auchan,supermarket,48.8207696,2.2512358,FR
+SBS,SBS,laundry,48.8234147,2.2724021,FR
+Lav' Club,Lav' Club,laundry,48.8223868,2.2674205,FR
+Boulangerie De Lourmel,Boulangerie De Lourmel,bakery,48.8381533,2.2812902,FR
+Le Nemrod,Le Nemrod,restaurant,48.8488333,2.3253506,FR
+La Grille Montorgueil,La Grille Montorgueil,restaurant,48.8647212,2.3469127,FR
+Louisette,Louisette,restaurant,48.869405,2.3549341,FR
+Le Plomb du Cantal,Le Plomb du Cantal,restaurant,48.8693462,2.3552659,FR
+L’Arrosoir,L’Arrosoir,restaurant,48.8461619,2.378132,FR
+Mama Nissa,Mama Nissa,restaurant,48.8657876,2.3453001,FR
+Au Réparateur de Bicyclettes,Au Réparateur de Bicyclettes,bicycle,48.8626984,2.3508343,FR
+Vadrouille,Vadrouille,restaurant,48.8773406,2.3373832,FR
+Intermarché Express,Intermarché Express,convenience,48.8573257,2.4029932,FR
+Lidl,Lidl,supermarket,48.8533252,2.4057615,FR
+Kokohana,Kokohana,restaurant,48.8697776,2.3105917,FR
+La Table du Lancaster,La Table du Lancaster,restaurant,48.8722601,2.3035046,FR
+Spoon,Spoon,restaurant,48.8686679,2.3066263,FR
+Le Lodge,Le Lodge,restaurant,48.8671682,2.3656836,FR
+Black Angus République,Black Angus République,restaurant,48.8667526,2.3657202,FR
+Mon Coco,Mon Coco,restaurant,48.866667,2.3656514,FR
+Café République,Café République,cafe,48.8667246,2.3638798,FR
+Kcoo King,Kcoo King,restaurant,48.8666561,2.3663425,FR
+Toucan Café,Toucan Café,cafe,48.8665896,2.3667125,FR
+Alimentation Génréale Blue,Alimentation Génréale Blue,convenience,48.8666873,2.3679348,FR
+Plein Soleil,Plein Soleil,restaurant,48.8656439,2.3744745,FR
+Mass Works,Mass Works,cafe,48.8630511,2.3852954,FR
+Batistou,Batistou,cafe,48.8626607,2.3872306,FR
+Le Murger,Le Murger,cafe,48.8786905,2.3756006,FR
+La Forge,La Forge,cafe,48.8782429,2.3737667,FR
+Café des Dames,Café des Dames,cafe,48.8781803,2.371016,FR
+Gil'pressing,Gil'pressing,dry_cleaning,48.8782125,2.3735655,FR
+103 Optic,103 Optic,optician,48.8781627,2.3739924,FR
+Beautés du Monde,Beautés du Monde,beauty,48.8776035,2.3738763,FR
+En Tête à Tête,En Tête à Tête,hairdresser,48.8784432,2.3755154,FR
+Pompette !,Pompette !,bakery,48.8810959,2.3732134,FR
+Le Dauphin,Le Dauphin,cafe,48.8812032,2.3729855,FR
+Martel Bricolage,Martel Bricolage,doityourself,48.8790295,2.3711488,FR
+Dynor,Dynor,hairdresser,48.8779073,2.3742838,FR
+La Boul'Ange,La Boul'Ange,bakery,48.8779686,2.374312,FR
+Les Frangins,Les Frangins,cafe,48.8783507,2.3725782,FR
+Jaguar Paris 19 - Groupe Autosphere,Jaguar Paris 19 - Groupe Autosphere,car,48.878299,2.3745556,FR
+Mini Pain,Mini Pain,bakery,48.8781153,2.3727187,FR
+Le Mathurin,Le Mathurin,restaurant,48.8780494,2.3721369,FR
+Fleurs de France,Fleurs de France,florist,48.878269,2.3709786,FR
+Monop',Monop',convenience,48.8029276,2.4845213,FR
+Café Français,Café Français,cafe,48.8272454,2.2794265,FR
+The Gazoline Stand,The Gazoline Stand,fuel,48.8563472,2.3151704,FR
+Le Roi du Pot-au-Feu,Le Roi du Pot-au-Feu,restaurant,48.8721672,2.326644,FR
+Au Banquier,Au Banquier,restaurant,48.8360044,2.3574926,FR
+Cfa voyages,Cfa voyages,travel_agency,48.8237611,2.3626525,FR
+Les Éternelles,Les Éternelles,bakery,48.8044649,2.4854154,FR
+Le Charentonneau,Le Charentonneau,restaurant,48.8085977,2.4361615,FR
+La Civette du Parc,La Civette du Parc,tobacco,48.8045756,2.4860048,FR
+Peugeot Paris Issy-les-Moulineaux - BPM Cars,Peugeot Paris Issy-les-Moulineaux - BPM Cars,car,48.8177401,2.2503412,FR
+Comptoir d'Issy,Comptoir d'Issy,cafe,48.8240127,2.2726845,FR
+Les Colonnes,Les Colonnes,cafe,48.8239359,2.2729507,FR
+Boulangerie Amelie & Nicolas,Boulangerie Amelie & Nicolas,bakery,48.8307104,2.3120538,FR
+Sweet KT,Sweet KT,restaurant,48.8477383,2.3484392,FR
+La P'tite Louise,La P'tite Louise,restaurant,48.8719076,2.3570656,FR
+Chez Gladines,Chez Gladines,restaurant,48.8288139,2.3506397,FR
+Boucherie de la Mairie,Boucherie de la Mairie,butcher,48.8043322,2.4854007,FR
+Boulangerie Foch,Boulangerie Foch,bakery,48.8004923,2.4961319,FR
+Jupi,Jupi,restaurant,48.8844355,2.3243334,FR
+Giulia,Giulia,restaurant,48.8881228,2.3212456,FR
+L'Abadache,L'Abadache,restaurant,48.8886141,2.3198123,FR
+Just BE,Just BE,restaurant,48.8879876,2.3341073,FR
+Nawab,Nawab,restaurant,48.894047,2.3341991,FR
+Café Biergit,Café Biergit,cafe,48.8835953,2.3233585,FR
+La Cuisine de Philippe,La Cuisine de Philippe,restaurant,48.8492934,2.3349249,FR
+Comptoir Gana,Comptoir Gana,bakery,48.8367089,2.2977794,FR
+Matsuyama,Matsuyama,restaurant,48.841429,2.2990451,FR
+L'équilibre,L'équilibre,bakery,48.8405834,2.2993396,FR
+Oil France,Oil France,fuel,48.8611046,2.3413657,FR
+Kokodak,Kokodak,restaurant,48.8516995,2.3336609,FR
+Le Refuge des Fondus,Le Refuge des Fondus,restaurant,48.8844671,2.3410906,FR
+Juicy Pop,Juicy Pop,restaurant,48.8717809,2.3937884,FR
+Cafézoïde,Cafézoïde,cafe,48.8876134,2.3796187,FR
+Brasserie Tabac Saint-Germain,Brasserie Tabac Saint-Germain,cafe,48.8600086,2.4039364,FR
+Ristorante Romana,Ristorante Romana,restaurant,48.8188919,2.3237467,FR
+Café de l'Alma,Café de l'Alma,cafe,48.8609068,2.3015143,FR
+La Boulange de Cambronne,La Boulange de Cambronne,bakery,48.8463596,2.3017044,FR
+Shell,Shell,convenience;gas,48.8475898,2.3031985,FR
+Le Diplomate,Le Diplomate,tobacco,48.88924,2.3259864,FR
+Boulangerie - Pâtisserie Méri,Boulangerie - Pâtisserie Méri,bakery,48.8891621,2.3259594,FR
+Café Convention,Café Convention,cafe,48.837093,2.2964517,FR
+Dupont Café,Dupont Café,cafe,48.8372161,2.2960355,FR
+Café Jussieu,Café Jussieu,restaurant,48.8456039,2.3547969,FR
+Carrefour,Carrefour,supermarket,48.8047357,2.3268993,FR
+Le Terminus,Le Terminus,restaurant,48.8062572,2.4715779,FR
+Maison Sauvage,Maison Sauvage,cafe,48.8536478,2.3380576,FR
+Café Lola,Café Lola,cafe,48.8536059,2.338277,FR
+Le Buci,Le Buci,cafe,48.8538386,2.338474,FR
+Bar du Marché,Bar du Marché,cafe,48.8539544,2.3370609,FR
+Café Mabillon,Café Mabillon,cafe,48.8533401,2.3357278,FR
+La Petite Sœur,La Petite Sœur,restaurant,48.8300397,2.331099,FR
+Pub Gay-Lussac,Pub Gay-Lussac,cafe,48.841516,2.343644,FR
+Taj Mahal,Taj Mahal,restaurant,48.8374507,2.3523064,FR
+Le Débarcadaire,Le Débarcadaire,cafe,48.8267208,2.2566433,FR
+Foot Locker,Foot Locker,shoes,48.8574538,2.3523721,FR
+Aapoum Bapoum,Aapoum Bapoum,books,48.8511545,2.3461217,FR
+Le Pick Clops,Le Pick Clops,cafe,48.8567082,2.357013,FR
+La Manufacture,La Manufacture,cafe,48.8333136,2.3539211,FR
+Le Sud,Le Sud,cafe,48.8336129,2.3544305,FR
+Aldi,Aldi,supermarket,48.8332905,2.3609723,FR
+5àsec,5àsec,dry_cleaning,48.8337302,2.3615451,FR
+Van An,Van An,restaurant,48.833417,2.355449,FR
+Boulangerie de la Place,Boulangerie de la Place,bakery,48.8322056,2.3591376,FR
+Café Panis,Café Panis,cafe,48.8522009,2.3483718,FR
+Sitis Market,Sitis Market,convenience,48.8406857,2.3453388,FR
+Au Chien qui Fume,Au Chien qui Fume,restaurant,48.8457103,2.3192202,FR
+Caféothèque de Paris,Caféothèque de Paris,coffee,48.8544379,2.3558365,FR
+Thaiger,Thaiger,restaurant,48.8523496,2.3444308,FR
+Tribeca,Tribeca,restaurant,48.856812,2.3062305,FR
+Le Terminus Nation,Le Terminus Nation,restaurant,48.848497,2.399551,FR
+Le Dalou,Le Dalou,restaurant,48.8478383,2.3975522,FR
+Le Bluff,Le Bluff,restaurant,48.8416794,2.3413818,FR
+Guenmaï,Guenmaï,restaurant,48.8540277,2.3358692,FR
+Krishna Bhavan,Krishna Bhavan,restaurant,48.8828817,2.3596543,FR
+Du Pain et des Idées,Du Pain et des Idées,bakery,48.8712472,2.3629042,FR
+Cellar,Cellar,restaurant,48.8641427,2.3676774,FR
+La Fauvette,La Fauvette,cafe,48.8682662,2.3721118,FR
+Mr.Bricolage,Mr.Bricolage,doityourself,48.8699898,2.3731467,FR
+Gibert Joseph,Gibert Joseph,books,48.8505781,2.3425015,FR
+Boucherie Louis Blanc,Boucherie Louis Blanc,butcher,48.8816147,2.3662734,FR
+Leroy Merlin,Leroy Merlin,doityourself,48.8616925,2.3520972,FR
+Pause Café,Pause Café,cafe,48.8534134,2.3767225,FR
+Aux Bons Amis,Aux Bons Amis,restaurant,48.8742283,2.3755427,FR
+Le Tournesol,Le Tournesol,restaurant,48.8404976,2.3244044,FR
+Auchan Supermarché,Auchan Supermarché,supermarket,48.8584763,2.3805487,FR
+La Criée,La Criée,restaurant,48.8882137,2.3785003,FR
+Boulangerie des Écoles,Boulangerie des Écoles,bakery,48.8563099,2.4020349,FR
+Le Théâtre,Le Théâtre,restaurant,48.8491569,2.2872385,FR
+Boulangerie Gabrielle,Boulangerie Gabrielle,bakery,48.8047268,2.4875955,FR
+Boulangerie De Quartier,Boulangerie De Quartier,bakery,48.8705667,2.3596696,FR
+Le Grand Mandarin de Montrouge,Le Grand Mandarin de Montrouge,restaurant,48.8181621,2.3297025,FR
+Café Juliette,Café Juliette,restaurant,48.8514932,2.398692,FR
+Monterosso,Monterosso,restaurant,48.8189255,2.32452,FR
+Chez Ama,Chez Ama,restaurant,48.8181334,2.3302614,FR
+Le Bistrot des Plantes,Le Bistrot des Plantes,restaurant,48.8300837,2.3230365,FR
+Lorette,Lorette,bakery,48.8297688,2.32318,FR
+Tentation,Tentation,florist,48.8295964,2.3227328,FR
+Demesy,Demesy,hairdresser,48.8296983,2.3231182,FR
+Vogue Optique,Vogue Optique,optician,48.8293752,2.3228567,FR
+Café Charlot,Café Charlot,restaurant,48.8630156,2.3625783,FR
+L’Estaminet des Enfants Rouges,L’Estaminet des Enfants Rouges,restaurant,48.862879,2.361721,FR
+Le Boucl'art,Le Boucl'art,restaurant,48.8528282,2.4062488,FR
+Castorama,Castorama,doityourself,48.8850543,2.3295836,FR
+La Toska,La Toska,bakery,48.8560888,2.405165,FR
+Les Pipos,Les Pipos,restaurant,48.8474591,2.3483416,FR
+TotalEnergies,TotalEnergies,convenience,43.2920308,5.4538352,FR
+Station Dorgelès,Station Dorgelès,convenience;gas,43.3484537,5.3770094,FR
+Agip,Agip,convenience;gas,43.3458146,5.3549014,FR
+Station Avia,Station Avia,convenience;gas,43.2540227,5.4213836,FR
+Relais des Olives,Relais des Olives,convenience;gas,43.3241135,5.453138,FR
+Relais Total de La Mazenode,Relais Total de La Mazenode,convenience;gas,43.2860669,5.4272974,FR
+Total Access,Total Access,gas,43.3497115,5.3426548,FR
+Esso Express,Esso Express,convenience;gas,43.2866017,5.3998902,FR
+Spar,Spar,supermarket,43.2473801,5.4010833,FR
+Total Rabateau,Total Rabateau,convenience;gas,43.2742888,5.393689,FR
+Coquille,Coquille,restaurant,43.2930532,5.3729519,FR
+Le Fournil d'Herriot,Le Fournil d'Herriot,bakery,43.2718236,5.3873781,FR
+L'entrecôte,L'entrecôte,restaurant,43.2897722,5.3651216,FR
+Utile,Utile,convenience,43.2896789,5.364604,FR
+Post Café,Post Café,restaurant,43.2979857,5.3738753,FR
+Soleil pressé,Soleil pressé,restaurant,43.2996918,5.3739974,FR
+Coiffure Creation,Coiffure Creation,hairdresser,43.270337,5.3872071,FR
+Esso Express Sablier,Esso Express Sablier,fuel,43.2535653,5.3823308,FR
+BP Marseille Saint-Barnabé,BP Marseille Saint-Barnabé,convenience;gas,43.3043512,5.4115945,FR
+Chez Fonfon,Chez Fonfon,restaurant,43.2855413,5.3514289,FR
+Chez Jeannot,Chez Jeannot,restaurant,43.2852755,5.3516406,FR
+Le Planète,Le Planète,restaurant,43.2999183,5.3762793,FR
+Bookineur,Bookineur,books,43.2954944,5.3823934,FR
+La Cantinetta,La Cantinetta,restaurant,43.2953347,5.3824602,FR
+Savonnerie La Licorne,Savonnerie La Licorne,soap,43.2950472,5.3826222,FR
+Plus Belle la Vigne,Plus Belle la Vigne,wine,43.2949955,5.3826563,FR
+Lamac - fournitures et machines pour chaussures,Lamac - fournitures et machines pour chaussures,shoes,43.2946129,5.3828434,FR
+Boulangerie,Boulangerie,bakery,43.3323392,5.4638866,FR
+Intermarché,Intermarché,supermarket,43.333984,5.4525689,FR
+La Cantine,La Cantine,restaurant,43.2924179,5.3729467,FR
+La Scaletta,La Scaletta,restaurant,43.2921837,5.3727745,FR
+Le Fournil du Merlan,Le Fournil du Merlan,bakery,43.3355097,5.4072989,FR
+Top'laverie du Merlan,Top'laverie du Merlan,laundry,43.3349775,5.4073833,FR
+Au Vieux Moulin,Au Vieux Moulin,restaurant,43.3392449,5.4078064,FR
+Fournil du Vieux Moulin,Fournil du Vieux Moulin,bakery,43.3391528,5.4078097,FR
+Tabac Le Merlan,Tabac Le Merlan,tobacco,43.3389038,5.4078286,FR
+La Grotte,La Grotte,restaurant,43.338386,5.407488,FR
+Le Royale,Le Royale,cafe,43.3389734,5.4078362,FR
+Alimentation génerale Primeur du Merlan,Alimentation génerale Primeur du Merlan,convenience,43.3390434,5.4078406,FR
+Le Petit Nice,Le Petit Nice,cafe,43.2954384,5.3858843,FR
+Ashourya,Ashourya,restaurant,43.2952729,5.3824967,FR
+Atelier 5,Atelier 5,interior_decoration,43.2946705,5.382821,FR
+Al Jennah,Al Jennah,restaurant,43.2948807,5.3827108,FR
+Music Leader,Music Leader,musical_instrument,43.2954012,5.3824325,FR
+Maison de la Presse,Maison de la Presse,newsagent,43.2527758,5.4231229,FR
+Casino,Casino,supermarket,43.2534426,5.4233587,FR
+Weldom,Weldom,doityourself,43.2516915,5.3987206,FR
+Au vélo électrique,Au vélo électrique,bicycle,43.2666213,5.3887906,FR
+Le Vin Sobre,Le Vin Sobre,wine,43.2931621,5.3855134,FR
+La Réserve à Bulles,La Réserve à Bulles,books,43.2933563,5.386727,FR
+Marmarita,Marmarita,restaurant,43.293686,5.3870407,FR
+La Chola,La Chola,restaurant,43.2937391,5.3871971,FR
+Le Lunetier,Le Lunetier,optician,43.2932401,5.3857259,FR
+Bar Tabac du Vieux Port,Bar Tabac du Vieux Port,tobacco,43.294323,5.3748619,FR
+La Cantine du Boulanger,La Cantine du Boulanger,bakery,43.2934709,5.374618,FR
+La Samaritaine,La Samaritaine,cafe,43.296329,5.3738586,FR
+Bouquinerie Des Soeurs & Frères de la Côte,Bouquinerie Des Soeurs & Frères de la Côte,books,43.2944372,5.3829484,FR
+Lou Spinaï,Lou Spinaï,bakery,43.3437349,5.4168823,FR
+Le Fournil du Technopole,Le Fournil du Technopole,bakery,43.3467291,5.448787,FR
+La Fournée de Provence,La Fournée de Provence,bakery,43.2958354,5.3909449,FR
+Le Fournil de la Place,Le Fournil de la Place,bakery,43.2943018,5.3853146,FR
+O Vrac,O Vrac,convenience,43.2944709,5.3852175,FR
+Maupetit,Maupetit,books,43.2984429,5.3840032,FR
+Le Giulia,Le Giulia,tobacco,43.2985001,5.3841624,FR
+Epicerie,Epicerie,convenience,43.2957252,5.3856606,FR
+Maison Azzopardi,Maison Azzopardi,florist,43.2930926,5.3859015,FR
+Food & Friends,Food & Friends,restaurant,43.2646675,5.3798778,FR
+Dubble,Dubble,restaurant,43.2757132,5.3890752,FR
+Body Minute,Body Minute,beauty,43.2929929,5.3855867,FR
+O'Nuage d'Orient,O'Nuage d'Orient,cafe,43.2938735,5.3871623,FR
+Le Café-Barok,Le Café-Barok,cafe,43.2850614,5.3850566,FR
+Sake,Sake,restaurant,43.2898714,5.3822535,FR
+Sushi Resto,Sushi Resto,restaurant,43.2897953,5.3823123,FR
+Les Fleurs du Prado,Les Fleurs du Prado,florist,43.2761092,5.389491,FR
+Le Kribien - Chez Magloire,Le Kribien - Chez Magloire,restaurant,43.2936215,5.3863771,FR
+Coiffure,Coiffure,hairdresser,43.2940676,5.3805665,FR
+Roche & Cie,Roche & Cie,copyshop,43.2939298,5.3800324,FR
+Boulangerie Pâtisserie,Boulangerie Pâtisserie,bakery,43.2854372,5.3947776,FR
+Coiffure Masculine,Coiffure Masculine,hairdresser,43.293383,5.3817782,FR
+Lina,Lina,pastry,43.2949981,5.3798604,FR
+Coiffure Homme,Coiffure Homme,hairdresser,43.2950893,5.3799711,FR
+Le four des Navettes,Le four des Navettes,confectionery,43.2907326,5.3664459,FR
+La Panetteria,La Panetteria,bakery,43.2969685,5.3715154,FR
+Le Joli Port,Le Joli Port,restaurant,43.2970084,5.3717617,FR
+La Villa,La Villa,restaurant,43.2727058,5.3871038,FR
+Le grain de sel,Le grain de sel,restaurant,43.2917697,5.3731687,FR
+Intermarché Super,Intermarché Super,supermarket,43.2906032,5.3994627,FR
+Alimentation générale,Alimentation générale,convenience,43.2960823,5.395655,FR
+La Beer'Ocratie,La Beer'Ocratie,cafe,43.2957165,5.3967667,FR
+Ciao Marcello,Ciao Marcello,restaurant,43.2968982,5.3692349,FR
+Provisions,Provisions,convenience,43.2879271,5.3886889,FR
+Brasserie Le Pharo,Brasserie Le Pharo,restaurant,43.2919147,5.3588186,FR
+Victor Café,Victor Café,restaurant,43.2920045,5.3598003,FR
+Le Châlet,Le Châlet,restaurant,43.2938991,5.3594296,FR
+Le Charles Livon,Origines,restaurant,43.2918776,5.3583546,FR
+Boulangerie Pâtisserie du Pharo,Boulangerie Pâtisserie du Pharo,bakery,43.2918171,5.3577645,FR
+Bar Terminus,Bar Terminus,restaurant,43.2916579,5.3588616,FR
+Chez Sauveur,Chez Sauveur,restaurant,43.2955584,5.3790198,FR
+Maison Empereur,Maison Empereur,doityourself,43.2959434,5.3788053,FR
+La Chapellerie Marseilkaise,La Chapellerie Marseilkaise,clothes,43.2960358,5.3783193,FR
+Les Plaisirs du Pain,Les Plaisirs du Pain,bakery,43.2494887,5.3967471,FR
+Manelli Automobiles,Manelli Automobiles,car,43.2431875,5.3965281,FR
+Proxi,Proxi,convenience,43.2882975,5.3884809,FR
+Le Relais 50,Le Relais 50,restaurant,43.2965602,5.372677,FR
+La Caravelle,La Caravelle,restaurant,43.2964951,5.3720473,FR
+La Bovida,La Bovida,kitchenware,43.2993364,5.373788,FR
+Au vieux campeur,Au vieux campeur,outdoor,43.2743869,5.3907637,FR
+La Femme du Boucher,La Femme du Boucher,restaurant,43.2878438,5.3833142,FR
+France pianos,France pianos,musical_instrument,43.318223,5.368019,FR
+Le Skating,Le Skating,cafe,43.2616819,5.3789113,FR
+Propaganda cafe,Propaganda cafe,cafe,43.2931548,5.3712734,FR
+Le 13,Le 13,restaurant,43.293043,5.370913,FR
+La Nautique,La Nautique,restaurant,43.2934722,5.369793,FR
+Collectif Vélos en Ville,Collectif Vélos en Ville,bicycle,43.2941009,5.3807196,FR
+Palais Du Fruit,Palais Du Fruit,convenience,43.2512344,5.3882503,FR
+Roubault,Roubault,florist,43.2488686,5.3815734,FR
+Le Château Sormiou,Le Château Sormiou,restaurant,43.2109455,5.4194489,FR
+Boucherie Du Fortin,Boucherie Du Fortin,butcher,43.2365723,5.3622549,FR
+Traiteur de l'Église,Traiteur de l'Église,butcher,43.2385503,5.365096,FR
+La Bonne mer,La Bonne mer,restaurant,43.2831591,5.3734061,FR
+U Utile,U Utile,supermarket,43.2875565,5.3541205,FR
+Super U,Super U,supermarket,43.2876853,5.3634096,FR
+Histoire de l'Œil,Histoire de l'Œil,books,43.2921585,5.3852439,FR
+Blondi Vintage,Blondi Vintage,clothes,43.2944795,5.3848947,FR
+L'Odeur du Temps,L'Odeur du Temps,books,43.295102,5.3763141,FR
+Librairie Maritime & Outremer,Librairie Maritime & Outremer,books,43.2928162,5.3690155,FR
+Fruits et Légumes,Fruits et Légumes,greengrocer,43.3603365,5.3152165,FR
+Hair du Temps,Hair du Temps,hairdresser,43.3604373,5.3152573,FR
+L'atelier Antik,L'atelier Antik,bakery,43.3601248,5.3154839,FR
+Tabac Presse,Tabac Presse,newsagent,43.3604938,5.3146012,FR
+Boulangerie Patisserie Hat's,Boulangerie Patisserie Hat's,bakery,43.3605328,5.3145293,FR
+Émilie Fleurs,Émilie Fleurs,florist,43.3605698,5.3144041,FR
+Le Grain de Sable,Le Grain de Sable,restaurant,43.2993756,5.3775615,FR
+Les Dauphins,Les Dauphins,restaurant,43.2748529,5.3598686,FR
+Eni,Eni,convenience;gas,43.2785573,5.3632535,FR
+Le Scorpion,Le Scorpion,restaurant,43.2928427,5.3828464,FR
+Le Jardin des Vestiges,Le Jardin des Vestiges,restaurant,43.2964261,5.3746408,FR
+Les lumières,Les lumières,restaurant,43.2978397,5.3715849,FR
+Chez Didier & Brigitte,Chez Didier & Brigitte,restaurant,43.2892334,5.3876749,FR
+Le Peano,Le Peano,restaurant,43.2929429,5.3735585,FR
+Les Jardins Suspendus,Les Jardins Suspendus,garden_centre,43.2938624,5.3849944,FR
+Boulanger,Boulanger,electronics,43.2958718,5.4789394,FR
+Luciole,Luciole,tea,43.292898,5.3777362,FR
+Le Baobab,Le Baobab,restaurant,43.2997968,5.3843248,FR
+Coquillages Henri,Coquillages Henri,seafood,43.3041965,5.4132602,FR
+Les 3 Frères,Les 3 Frères,restaurant,43.3024303,5.4940587,FR
+Carrefour Market,Carrefour Market,convenience,43.2976399,5.496081,FR
+Caves Damiani,Caves Damiani,beverages,43.2810501,5.405956,FR
+Henry Coiffure,Henry Coiffure,hairdresser,43.299595,5.3885493,FR
+Librairie Orientale,Librairie Orientale,books,43.2995592,5.3885343,FR
+Laverie automatique du rouet,Laverie automatique du rouet,laundry,43.2773011,5.3935184,FR
+M Coiffure,M Coiffure,hairdresser,43.2791928,5.3917249,FR
+Le Grim'O,Le Grim'O,restaurant,43.2960004,5.4870901,FR
+Canard Laqué,Canard Laqué,restaurant,43.2959654,5.4871838,FR
+Supeco,Supeco,supermarket,43.3358347,5.4334172,FR
+Chez Axel,Chez Axel,cafe,43.3066986,5.3997934,FR
+nioub,nioub,hifi,43.3068371,5.3999839,FR
+Chez Noël,Chez Noël,restaurant,43.2987426,5.3851893,FR
+Le Fémina,Le Fémina,restaurant,43.2962731,5.3785882,FR
+Librairie El Feth,Librairie El Feth,books,43.3061887,5.374284,FR
+Garage Antonelli et Fils,Garage Antonelli et Fils,car,43.312264,5.429973,FR
+Easymoov,Easymoov,bicycle,43.2897541,5.3839258,FR
+Dome N Bio,Dome N Bio,convenience,43.316732,5.4047249,FR
+Supérette du Dôme,Supérette du Dôme,greengrocer,43.3170213,5.4050859,FR
+Librairie de la Bourse,Librairie de la Bourse,books,43.2942942,5.3763021,FR
+Librairie Prado-Paradis,Librairie Prado-Paradis,books,43.2693092,5.3884036,FR
+Zafer,Zafer,restaurant,43.2996527,5.3820885,FR
+Tumulte,Tumulte,restaurant,43.2934401,5.3839387,FR
+Librairie Musicale Internationale,Librairie Musicale Internationale,books,43.2954012,5.3830562,FR
+Les Danaïdes,Les Danaïdes,cafe,43.2996598,5.3857229,FR
+L'Atinoir,L'Atinoir,books,43.2986871,5.3855063,FR
+Arcadia,Arcadia,books,43.3046709,5.4177203,FR
+Locus Solus,Locus Solus,books,43.2928273,5.3833866,FR
+Arthur mon Héros,Arthur mon Héros,toys,43.2926409,5.3835382,FR
+La Boîte à Histoires,La Boîte à Histoires,books,43.2946634,5.3832453,FR
+La Mesa Latina,La Mesa Latina,restaurant,43.2954574,5.382417,FR
+Tabla,Tabla,restaurant,43.2927708,5.3834447,FR
+Mariposas,Mariposas,restaurant,43.2928811,5.3833399,FR
+Les Terrasses du Midi,Les Terrasses du Midi,restaurant,43.341701,5.4344028,FR
+Aquar'elles,Aquar'elles,hairdresser,43.3209187,5.4313129,FR
+Huguet Bijoutier Joaillier,Huguet Bijoutier Joaillier,jewelry,43.2954485,5.3965437,FR
+Optique Tartour,Optique Tartour,optician,43.2787138,5.382871,FR
+Scoubidou,Scoubidou,greengrocer,43.278763,5.38285,FR
+C'Frais,C'Frais,greengrocer,43.2812586,5.3891215,FR
+La Chicorée,La Chicorée,greengrocer,43.2921866,5.3851034,FR
+Optique Crystal,Optique Crystal,optician,43.2919599,5.3850053,FR
+Chez Etienne,Chez Etienne,restaurant,43.3000804,5.3699607,FR
+Le Petit Casino,Le Petit Casino,convenience,43.2809761,5.3974612,FR
+Auto Securitas,Auto Securitas,car_repair,43.3185896,5.4048509,FR
+Casa Dipaulo,Casa Dipaulo,restaurant,43.3186812,5.4037691,FR
+Espace Mongrane Coiffure,Espace Mongrane Coiffure,hairdresser,43.320045,5.3989453,FR
+Grand Sud Auto,Grand Sud Auto,car,43.2732735,5.3922502,FR
+Alimentation Générale de Nuit,Alimentation Générale de Nuit,convenience,43.3176233,5.4055725,FR
+Sushi West,Sushi West,restaurant,43.317439,5.4052737,FR
+Chutes Lavies Automobiles,Chutes Lavies Automobiles,car,43.3076691,5.3957628,FR
+Picard,Picard,frozen_food,43.302237,5.3946126,FR
+Chez le Belge,Chez le Belge,restaurant,43.2098052,5.3724162,FR
+La Tasca,La Tasca,restaurant,43.2931475,5.3915985,FR
+Librairie des Facultés,Librairie des Facultés,books,43.2902267,5.3991775,FR
+Les Arcenaulx,Les Arcenaulx,restaurant,43.2924641,5.3731304,FR
+Librairie Jeanne Laffitte,Librairie Jeanne Laffitte,books,43.2924989,5.3732992,FR
+Garage Du Cap Janet,Garage Du Cap Janet,car_repair,43.339213,5.352023,FR
+Good Price,Good Price,supermarket,43.339688,5.350426,FR
+Chez Aldo,Chez Aldo,restaurant,43.2327525,5.3538963,FR
+Haribo,Haribo,confectionery,43.3319376,5.3752331,FR
+Les Olives,Les Olives,convenience;gas,43.3232675,5.447622,FR
+Café Simon,Café Simon,restaurant,43.2927904,5.372876,FR
+L'Aromat,L'Aromat,restaurant,43.2920996,5.3738405,FR
+Les savons de Saint-Victor,Les savons de Saint-Victor,chemist,43.2907482,5.3663701,FR
+La Fabrique,La Fabrique,bakery,43.2966785,5.4923831,FR
+Vival,Vival,convenience,43.2340764,5.3636128,FR
+Le Banetier de l'Église,Le Banetier de l'Église,bakery,43.2459735,5.4038274,FR
+Bricorama,Bricorama,houseware,43.3060225,5.3837002,FR
+Le Printemps,Le Printemps,restaurant,43.3030683,5.3789118,FR
+La table du chef,La table du chef,restaurant,43.2531537,5.4226293,FR
+Fruits de la Provence,Fruits de la Provence,greengrocer,43.2530352,5.4231216,FR
+"Restaurant ""Les Tilleuls""","Restaurant ""Les Tilleuls""",restaurant,43.2528333,5.421149,FR
+Supermarché Casino,Supermarché Casino,supermarket,43.2588647,5.4173133,FR
+"Restaurant ""Le Gepetto""","Restaurant ""Le Gepetto""",restaurant,43.2574338,5.4186936,FR
+Au Royaume de la Chantilly,Au Royaume de la Chantilly,restaurant,43.2563358,5.4202913,FR
+Cantine du Midi,Cantine du Midi,restaurant,43.31068,5.3871622,FR
+L'Ilôt Vert,L'Ilôt Vert,greengrocer,43.2564436,5.4203091,FR
+Àpropos,Àpropos,bakery,43.2564773,5.4192872,FR
+Le Fournil de l'Alhambra,Le Fournil de l'Alhambra,bakery,43.3601468,5.3303432,FR
+Naturalia,Naturalia,supermarket,43.2857943,5.3843812,FR
+La Halle Kashi,La Halle Kashi,supermarket,43.3076838,5.3764111,FR
+Bar restaurant de l'autoroute,Bar restaurant de l'autoroute,restaurant,43.301566,5.375922,FR
+Presse d'Endoume,Presse d'Endoume,newsagent,43.2848104,5.3591533,FR
+Pressing,Pressing,laundry,43.2851044,5.3599004,FR
+Alizés Fleur,Alizés Fleur,florist,43.2847549,5.3591038,FR
+Farprix,Farprix,convenience,43.2847227,5.35903,FR
+Boucherie Charcuterie Piro,Boucherie Charcuterie Piro,butcher,43.2843995,5.3585378,FR
+Le Saint-Eugène,Le Saint-Eugène,cafe,43.2845118,5.3582971,FR
+Restaurant Pinocchio,Restaurant Pinocchio,restaurant,43.2453823,5.4157141,FR
+Presse du Cabot,Presse du Cabot,newsagent,43.2586035,5.4174827,FR
+Les Fromentiers,Les Fromentiers,bakery,43.266357,5.4081665,FR
+Little Market du 9ème,Little Market du 9ème,convenience,43.2651215,5.409162,FR
+Boutique de l'Usine,Boutique de l'Usine,chemist,43.3213708,5.3899091,FR
+Eni Marseille Sainte-Marthe,Eni Marseille Sainte-Marthe,convenience;gas,43.3186581,5.3904667,FR
+OCP Répartition,OCP Répartition,trade,43.3223854,5.3890687,FR
+Hôtel bar restaurant Le Valentinois,Hôtel bar restaurant Le Valentinois,restaurant,43.2891223,5.4666003,FR
+La Royale,La Royale,cafe,43.286592,5.385609,FR
+La Fournée d'Elo,La Fournée d'Elo,bakery,43.2944885,5.3977375,FR
+Pressing Vitalis,Pressing Vitalis,dry_cleaning,43.2923131,5.3926083,FR
+Le parpaing qui flotte,Le parpaing qui flotte,restaurant,43.2949731,5.3941733,FR
+Le Verger de Manon,Le Verger de Manon,greengrocer,43.3105248,5.4009048,FR
+Le Bistroquet,Le Bistroquet,cafe,43.2959112,5.3909312,FR
+La fournée d'Eugène,La fournée d'Eugène,bakery,43.2959093,5.3905878,FR
+Amandine,Amandine,pastry,43.2959815,5.3909204,FR
+Le Mont Brison,Le Mont Brison,butcher,43.2962646,5.390899,FR
+Côte et Mer,Côte et Mer,seafood,43.2962139,5.3909102,FR
+L'artisan de Charolais,L'artisan de Charolais,butcher,43.2962587,5.3905476,FR
+La pince à linge,La pince à linge,laundry,43.2960498,5.3909097,FR
+Infiniment Fleurs,Infiniment Fleurs,florist,43.295552,5.39062,FR
+Harmonie coiffure,Harmonie coiffure,hairdresser,43.2958331,5.3906039,FR
+Lou Jardinaï,Lou Jardinaï,greengrocer,43.2961201,5.3905583,FR
+Le Paoli,Le Paoli,cafe,43.2964289,5.3908848,FR
+Cave Mérentié,Cave Mérentié,alcohol,43.2961904,5.3905476,FR
+Le bambino,Le bambino,restaurant,43.2965047,5.3908802,FR
+Saveurs Provençales,Saveurs Provençales,greengrocer,43.2955364,5.3909825,FR
+L'oasis des Saveurs,L'oasis des Saveurs,greengrocer,43.2944168,5.3976794,FR
+Extreme Bikes,Extreme Bikes,bicycle,43.2914318,5.38321,FR
+Le Fournil de Léna,Le Fournil de Léna,bakery,43.2916856,5.3827462,FR
+Marengo Bistroquet,Marengo Bistroquet,restaurant,43.2911508,5.3841064,FR
+L'Astoria,L'Astoria,restaurant,43.2913634,5.3828294,FR
+"Frangin, Frangine","Frangin, Frangine",bakery,43.3388418,5.4287876,FR
+Delko,Delko,car_repair,43.33883,5.42851,FR
+La Huche d'Or,La Huche d'Or,bakery,43.2952458,5.3931515,FR
+Nespresso,Nespresso,coffee,43.2953216,5.3760595,FR
+Un Dimanche à la Campagne,Un Dimanche à la Campagne,variety_store,43.2923628,5.3717672,FR
+La Paline,La Paline,bakery,43.2916607,5.3719911,FR
+Le Petit Angkor,Le Petit Angkor,restaurant,43.2918939,5.3729117,FR
+L'innattendu,L'innattendu,restaurant,43.292225,5.3729273,FR
+Simply food,Simply food,restaurant,43.2902594,5.378294,FR
+Bar de la Place,Bar de la Place,cafe,43.3566848,5.3430485,FR
+Emporio,Emporio,hairdresser,43.2952416,5.3930648,FR
+Zaaki,Zaaki,restaurant,43.2954606,5.3923674,FR
+Le 3/4,Le 3/4,restaurant,43.2956096,5.3950055,FR
+Interflora,Interflora,florist,43.2955666,5.3943349,FR
+Georges,Georges,restaurant,43.2955295,5.3937556,FR
+Boucherie Charcuterie Crémerie,Boucherie Charcuterie Crémerie,butcher,43.2950825,5.3939352,FR
+ABC'oiffure,ABC'oiffure,hairdresser,43.2956135,5.393718,FR
+La Rêveuse,La Rêveuse,books,43.2952055,5.3923018,FR
+Presse Librairie Papeterie Fantoni,Presse Librairie Papeterie Fantoni,newsagent,43.2951577,5.3914622,FR
+Bouillon,Bouillon,restaurant,43.295392,5.3912637,FR
+Tendance gourmande,Tendance gourmande,bakery,43.2954379,5.3919108,FR
+La Frida Loca Tattoo,La Frida Loca Tattoo,tattoo,43.2954383,5.3919913,FR
+Chemin Faisant,Chemin Faisant,clothes,43.2954524,5.3922025,FR
+Valange Traiteur,Valange Traiteur,butcher,43.2955989,5.3948258,FR
+Jean-Claude Biguine,Jean-Claude Biguine,hairdresser,43.2956418,5.3955687,FR
+La Cuisine de Gagny,La Cuisine de Gagny,restaurant,43.2956477,5.3956492,FR
+Alimentation du Camas,Alimentation du Camas,convenience,43.2953695,5.3966684,FR
+Kortchma,Kortchma,restaurant,43.2939122,5.3848412,FR
+Adonis du Liban,Adonis du Liban,restaurant,43.294205,5.3846508,FR
+O'Pakistan,O'Pakistan,restaurant,43.2941289,5.3848063,FR
+Le Quinze,Le Quinze,restaurant,43.294017,5.3848806,FR
+La cantine des docks,La cantine des docks,restaurant,43.304338,5.36675,FR
+Nail Art Studio,Nail Art Studio,beauty,43.301633,5.3695366,FR
+Boucherie Sibour,Boucherie Sibour,butcher,43.300945,5.370566,FR
+Les Trois Frères,Les Trois Frères,bakery,43.300385,5.371024,FR
+spok.,spok.,restaurant,43.299157,5.37201,FR
+Le République,Le République,restaurant,43.2990499,5.3715466,FR
+Fujifilm,Fujifilm,photo_studio,43.296722,5.37649,FR
+Orange,Orange,mobile_phone,43.295966,5.377046,FR
+L'Esprit Bistrot,L'Esprit Bistrot,restaurant,45.7410332,4.8689407,FR
+Comptoir des Marronniers,Comptoir des Marronniers,restaurant,45.7569848,4.8346121,FR
+Carrefour Lyon Part-Dieu,Carrefour Lyon Part-Dieu,supermarket,45.7600968,4.8557139,FR
+Restaurant Léon de Lyon,Restaurant Léon de Lyon,restaurant,45.7660411,4.8335068,FR
+L'Industrie,L'Industrie,cafe,45.7439501,4.8713975,FR
+Flam's Lyon,Flam's Lyon,restaurant,45.7628507,4.8335475,FR
+Restaurant Pierre Orsi,Restaurant Pierre Orsi,restaurant,45.7694682,4.8490984,FR
+Le Mondrian,Le Mondrian,cafe,45.7545046,4.8397562,FR
+Maison Villemanzy,Maison Villemanzy,restaurant,45.7716469,4.8357566,FR
+Volfoni,Volfoni,restaurant,45.7581665,4.833707,FR
+KL Destockage,KL Destockage,shoes,45.7445962,4.8442915,FR
+Le Décalé,Le Décalé,restaurant,45.7441506,4.8457064,FR
+Café du XXe siècle,Café du XXe siècle,cafe,45.7633719,4.832724,FR
+U Express Monplaisir Lumière,U Express Monplaisir Lumière,supermarket,45.7433976,4.870351,FR
+Le Mistral,Le Mistral,cafe,45.7560562,4.8426784,FR
+Casino Shop,Casino Shop,convenience,45.7595921,4.8266153,FR
+Le Lyon de l'Atlas,Le Lyon de l'Atlas,restaurant,45.7455617,4.8642759,FR
+La Fabryk,La Fabryk,restaurant,45.7367814,4.8695675,FR
+Auberge Savoyarde,Auberge Savoyarde,restaurant,45.7450609,4.8660444,FR
+Monplaisir côté cour,Monplaisir côté cour,restaurant,45.74511,4.8650782,FR
+Café Bellecour,Café Bellecour,cafe,45.7579165,4.8300858,FR
+Bar à huitre Thomas,Bar à huitre Thomas,restaurant,45.7532609,4.8320183,FR
+Ahika Monplaisir,Ahika Monplaisir,restaurant,45.7449861,4.8663125,FR
+Don Vito,Don Vito,restaurant,45.7435679,4.8722281,FR
+Le Petit Casino des Frères Lumière,Le Petit Casino des Frères Lumière,convenience,45.7434116,4.8746767,FR
+Culture Vélo Lyon-Centre,Culture Vélo Lyon-Centre,bicycle,45.7672621,4.8247044,FR
+La Cannelle,La Cannelle,restaurant,45.7673664,4.825887,FR
+Véran des Villes,Véran des Villes,bicycle,45.7672586,4.8267426,FR
+Du Monde Ailleurs,Du Monde Ailleurs,restaurant,45.7452912,4.82726,FR
+Boulangerie Patisserie des Gratte Ciel,Boulangerie Patisserie des Gratte Ciel,bakery,45.7658698,4.8788661,FR
+Boucherie Pinatel,Boucherie Pinatel,butcher,45.7657267,4.8788714,FR
+Le faro,Le faro,cafe,45.7477716,4.8652133,FR
+Lumière Kebab,Lumière Kebab,restaurant,45.7450863,4.8721525,FR
+L'Eden,L'Eden,restaurant,45.743116,4.8770665,FR
+Le Genova,Le Genova,restaurant,45.7433052,4.8782342,FR
+La sicilienne,La sicilienne,restaurant,45.7455477,4.8848994,FR
+Sarl Ayadi,Sarl Ayadi,convenience,45.7561653,4.815236,FR
+Enjoy,Enjoy,cafe,45.7568776,4.8408559,FR
+Basmati,Basmati,restaurant,45.7561585,4.8417302,FR
+Ramen Masa,Ramen Masa,restaurant,45.7511701,4.8481884,FR
+L’Épicerie du 33B,L’Épicerie du 33B,convenience,45.7433659,4.8857189,FR
+Pizza Cosy,Pizza Cosy,restaurant,45.778555,4.8048552,FR
+Brocante Bonaparte,Brocante Bonaparte,antiques,45.7591899,4.8272675,FR
+Café de la Bibliothèque,Café de la Bibliothèque,cafe,45.7595876,4.8276018,FR
+Le Penjab,Le Penjab,restaurant,45.7611263,4.8283996,FR
+Amessiame,Amessiame,restaurant,45.765964,4.8287233,FR
+Quai des Arts,Quai des Arts,restaurant,45.7677486,4.8179453,FR
+Le Contretête,Le Contretête,restaurant,45.7664741,4.8202523,FR
+Le P'tit Zing,Le P'tit Zing,restaurant,45.7665025,4.8203248,FR
+Printemps,Printemps,department_store,45.7614267,4.8354739,FR
+Le Rockefeller,Le Rockefeller,cafe,45.740332,4.8886115,FR
+Ginette et Marius,Ginette et Marius,restaurant,45.7350701,4.8741028,FR
+Lush,Lush,cosmetics,45.7592189,4.8351766,FR
+Le Paradis du Fruit,Le Paradis du Fruit,restaurant,45.759859,4.835197,FR
+Tony's,Tony's,restaurant,45.7566528,4.834512,FR
+Ed's Eat & Drinks,Ed's Eat & Drinks,restaurant,45.7565982,4.8347374,FR
+Yokai Café,Yokai Café,restaurant,45.7562648,4.8586779,FR
+Le Vivier Merle,Le Vivier Merle,lottery,45.7569881,4.8585358,FR
+Indo Bistrô,Indo Bistrô,restaurant,45.7566918,4.858595,FR
+Courtepaille,Courtepaille,restaurant,45.7573582,4.8579013,FR
+Chez Micheline,Chez Micheline,restaurant,45.7504258,4.8287766,FR
+L'Atelier,L'Atelier,restaurant,45.75146,4.8292256,FR
+Adonys,Adonys,restaurant,45.7583535,4.8356149,FR
+Pizza Cosy Bellecour,Pizza Cosy Bellecour,restaurant,45.7567767,4.8345509,FR
+Le Bouchon des Carnivores,Le Bouchon des Carnivores,restaurant,45.7568599,4.8345751,FR
+Chez Fyfy Marronniers,Chez Fyfy Marronniers,restaurant,45.7570658,4.8346396,FR
+Atelier d'Yvonne,Atelier d'Yvonne,restaurant,45.7572243,4.8346935,FR
+Chez Tipote,Chez Tipote,restaurant,45.7575479,4.834769,FR
+Chez M'man,Chez M'man,restaurant,45.7574122,4.8347446,FR
+Comptoir Chabert et Fils,Comptoir Chabert et Fils,restaurant,45.7567673,4.8347036,FR
+Pitaya,Pitaya,restaurant,45.7569251,4.8347444,FR
+Noucademie,Noucademie,restaurant,45.7569836,4.834761,FR
+Nishiki Ramen,Nishiki Ramen,restaurant,45.7570242,4.8347708,FR
+Peppe,Peppe,restaurant,45.7572105,4.8348523,FR
+La Mère Jean,La Mère Jean,restaurant,45.7572802,4.8348649,FR
+Chez Louloutte,Chez Louloutte,restaurant,45.7573369,4.8348864,FR
+Chez Mounier,Chez Mounier,restaurant,45.757427,4.8349238,FR
+Le Pastalicious,Le Pastalicious,restaurant,45.7416916,4.8620064,FR
+Bar de la Poste,Bar de la Poste,cafe,45.7577997,4.8128396,FR
+Bistrot La Varenne,Bistrot La Varenne,restaurant,45.7532726,4.8329315,FR
+Fratelli Parisi,Fratelli Parisi,restaurant,45.7700941,4.8574412,FR
+Fan wu,Fan wu,restaurant,45.7698022,4.8566627,FR
+Relais Total Lyon Mermoz,Relais Total Lyon Mermoz,convenience;gas,45.7325035,4.8807716,FR
+Le Soleil du 8ème,Le Soleil du 8ème,convenience,45.7302662,4.8852968,FR
+Auberge de l'Île,Auberge de l'Île,restaurant,45.797775,4.8332946,FR
+My Little Warung,My Little Warung,restaurant,45.7637883,4.8579273,FR
+Warlis & Bro,Warlis & Bro,restaurant,45.7637971,4.8575858,FR
+Le Splendid,Le Splendid,restaurant,45.7674145,4.8588061,FR
+L'Affaire du 6,L'Affaire du 6,restaurant,45.7699312,4.8561585,FR
+Cerise et Potiron,Cerise et Potiron,greengrocer,45.7690645,4.8572144,FR
+Sinabro,Sinabro,restaurant,45.7690233,4.8565789,FR
+Le Verdi,Le Verdi,restaurant,45.7683363,4.8571688,FR
+Les Carnets d'Édouard,Les Carnets d'Édouard,restaurant,45.7683234,4.856769,FR
+Le Polly,Le Polly,restaurant,45.7688959,4.8571994,FR
+Bistro Georgette,Bistro Georgette,restaurant,45.7706328,4.8541972,FR
+Maison Clovis,Maison Clovis,restaurant,45.7678286,4.8571543,FR
+Épicure,Épicure,restaurant,45.7654499,4.8550008,FR
+Mayday,Mayday,restaurant,45.7674493,4.8571062,FR
+L'Horloge,L'Horloge,restaurant,45.7674129,4.8567224,FR
+Les Bons Copains,Les Bons Copains,restaurant,45.769063,4.8553908,FR
+Le Ch'ti Pot Ney,Le Ch'ti Pot Ney,restaurant,45.7687708,4.8554612,FR
+Ô 16,Ô 16,restaurant,45.7688393,4.8568256,FR
+La Casa Paola,La Casa Paola,restaurant,45.7686202,4.8568065,FR
+Chez Song,Chez Song,restaurant,45.7665777,4.8558328,FR
+Le Napolitain,Le Napolitain,restaurant,45.7667416,4.8558028,FR
+Milou,Milou,restaurant,45.7668789,4.855593,FR
+Milonga Restaurante,Milonga Restaurante,restaurant,45.7674017,4.8556973,FR
+ogam,ogam,restaurant,45.7679998,4.8555723,FR
+Restaurant Élephant,Restaurant Élephant,restaurant,45.7678781,4.8555954,FR
+Le Petit Casino de Liberté,Le Petit Casino de Liberté,convenience,45.7598651,4.8425324,FR
+Grand Café de la Préfecture,Grand Café de la Préfecture,cafe,45.7598384,4.8421115,FR
+Zadig & Voltaire,Zadig & Voltaire,clothes,45.7624072,4.8342714,FR
+By Johanne,By Johanne,clothes,45.7595615,4.8322113,FR
+Panerai,Panerai,watches,45.7594088,4.833255,FR
+Tudor,Tudor,watches,45.758956,4.8340461,FR
+Casa Nobile,Casa Nobile,restaurant,45.7591043,4.8359505,FR
+Savanah,Savanah,cafe,45.7646438,4.8283256,FR
+Les Évadés,Les Évadés,restaurant,45.7623232,4.8283698,FR
+Maison Cot.,Maison Cot.,furniture,45.7523478,4.8297116,FR
+Bistrot Compa,Bistrot Compa,restaurant,45.7507047,4.8264779,FR
+Gochi,Gochi,restaurant,45.7513335,4.8261861,FR
+Pog,Pog,cafe,45.7513036,4.8263148,FR
+Sampa,Sampa,restaurant,45.7514533,4.825817,FR
+Brasserie des Charpennes,Brasserie des Charpennes,cafe,45.7705665,4.8625313,FR
+"La maison ""Au bon accueil""","La maison ""Au bon accueil""",convenience,45.7462477,4.8865951,FR
+Boucherie Traiteur du 3ème,Boucherie Traiteur du 3ème,butcher,45.7500568,4.8864924,FR
+Collectif branche nature,Collectif branche nature,farm,45.7501211,4.8877964,FR
+Fleuralyon,Fleuralyon,florist,45.7501557,4.8867875,FR
+Boulangerie Pâtisserie Maison Champeaud,Boulangerie Pâtisserie Maison Champeaud,bakery,45.7507053,4.8878166,FR
+L'atelier de Xavier,L'atelier de Xavier,bakery,45.7238283,4.8645824,FR
+Bebel Shop,Bebel Shop,butcher,45.7236984,4.8646535,FR
+Maison Mathieu,Maison Mathieu,bakery,45.7271443,4.8626172,FR
+Le Carnel,Le Carnel,restaurant,45.7315107,4.8596226,FR
+Victorio,Victorio,hairdresser,45.7318999,4.8593571,FR
+Campaillette,Campaillette,bakery,45.7319703,4.8593175,FR
+Eclair Kebab,Eclair Kebab,restaurant,45.7320869,4.8592433,FR
+PIZZ'AMORE,PIZZ'AMORE,restaurant,45.7324154,4.8656128,FR
+Alimentation des Balmes,Alimentation des Balmes,convenience,45.7257255,4.887765,FR
+Pharmacie Voltaire,Pharmacie Voltaire,vacant,45.756956,4.8493329,FR
+Eco Laverie,Eco Laverie,laundry,45.7486224,4.8820864,FR
+Laverie,Laverie,laundry,45.7433541,4.8771309,FR
+Centre commercial La Perralière,Centre commercial La Perralière,mall,45.7641535,4.8903613,FR
+Carrefour Market Grand Clément,Carrefour Market Grand Clément,supermarket,45.7592637,4.8879916,FR
+La Maison,La Maison,restaurant,45.731344,4.8229676,FR
+Le Pailleron,Le Pailleron,restaurant,45.7795345,4.8333238,FR
+Le Bistrot d'Odette,Le Bistrot d'Odette,cafe,45.7595795,4.846013,FR
+Bricorama Lyon 8,Bricorama Lyon 8,doityourself,45.7414938,4.8601477,FR
+Asie Exotic,Asie Exotic,convenience,45.7503553,4.8650677,FR
+Le Chalet Fleury,Le Chalet Fleury,restaurant,45.7382823,4.8780364,FR
+Café du Lac,Café du Lac,cafe,45.7780918,4.851613,FR
+L'Équilibriste,L'Équilibriste,restaurant,45.7492476,4.8773375,FR
+Au fournil de Montchat,Au fournil de Montchat,bakery,45.7479004,4.8806847,FR
+Maison Hénon,Maison Hénon,bakery,45.7345985,4.835767,FR
+Aux Bouquets d'Amandine,Aux Bouquets d'Amandine,florist,45.7298724,4.8287524,FR
+Le Vallier,Le Vallier,cafe,45.7328914,4.8299284,FR
+La Boulangerie Rouge,La Boulangerie Rouge,bakery,45.7594379,4.8425928,FR
+Boulangerie de la Liberté,Boulangerie de la Liberté,bakery,45.7594508,4.842192,FR
+Pétrin et Partage,Pétrin et Partage,bakery,45.7598056,4.8478969,FR
+Maison Pozzoli Presqu’île,Maison Pozzoli Presqu’île,bakery,45.7620689,4.834741,FR
+Augustin,Augustin,bakery,45.7596072,4.8491831,FR
+Action,Action,variety_store,45.729689,4.8287642,FR
+Smeg,Smeg,kitchen,45.7596925,4.8425487,FR
+Le Fournil de l'Opéra,Le Fournil de l'Opéra,bakery,45.7684751,4.8362267,FR
+Grand Café des Négociants,Grand Café des Négociants,restaurant,45.7632864,4.8345326,FR
+Newtree,Newtree,cafe,45.759683,4.8475437,FR
+Panozzeria L'affreux Jojo,Panozzeria L'affreux Jojo,restaurant,45.7596456,4.8470318,FR
+Brasserie de la Bourse du Travail,Brasserie de la Bourse du Travail,cafe,45.7599718,4.8481783,FR
+Chez Eux,Chez Eux,restaurant,45.7600797,4.8476103,FR
+O' Jap Sushi,O' Jap Sushi,restaurant,45.7598672,4.8476484,FR
+Camille Albane Lyon Guichard,Camille Albane Lyon Guichard,hairdresser,45.759693,4.8476819,FR
+Brasserie de la Mairie,Brasserie de la Mairie,restaurant,45.7597819,4.8489151,FR
+La Squadra,La Squadra,restaurant,45.7597478,4.8485228,FR
+Maison Fontaine,Maison Fontaine,cafe,45.7600804,4.848239,FR
+Laverie Speed Queen Lyon 3,Laverie Speed Queen Lyon 3,laundry,45.7590903,4.8492856,FR
+L'Atelier Vintage,L'Atelier Vintage,hairdresser,45.7594429,4.8441998,FR
+Boucherie Méditerranée,Boucherie Méditerranée,butcher,45.757916,4.8430274,FR
+Chez Chacha,Chez Chacha,cafe,45.7581678,4.8464214,FR
+Le Liberté,Le Liberté,cafe,45.7593716,4.843281,FR
+Le bouchon des artistes,Le bouchon des artistes,restaurant,45.7588755,4.8486574,FR
+Frisettes,Frisettes,restaurant,45.7588746,4.8485064,FR
+Kalia Café,Kalia Café,cafe,45.7588641,4.8483635,FR
+Le Moderne,Le Moderne,cafe,45.7614542,4.8451574,FR
+Le P'tit Lucien,Le P'tit Lucien,restaurant,45.7592799,4.8445563,FR
+Arsenic,Arsenic,restaurant,45.7591401,4.8445918,FR
+Color Nadine,Color Nadine,hairdresser,45.7598958,4.8429101,FR
+Tokyo,Tokyo,restaurant,45.7599243,4.8433966,FR
+Le Café du Rhône,Le Café du Rhône,cafe,45.7580956,4.8409849,FR
+Chez François,Chez François,butcher,45.7575018,4.8409316,FR
+Milpau,Milpau,clothes,45.7583034,4.8410213,FR
+Boulangerie l'Édison,Boulangerie l'Édison,bakery,45.7567009,4.8477256,FR
+Le Pain Ta Gone,Le Pain Ta Gone,bakery,45.7569536,4.8494195,FR
+Bahadourian,Bahadourian,supermarket,45.7567409,4.8445477,FR
+Boulangerie Pâtisserie de la Place,Boulangerie Pâtisserie de la Place,bakery,45.7566025,4.8449011,FR
+Les Parrapentes,Les Parrapentes,restaurant,45.7697809,4.8258631,FR
+Superette Leptis,Superette Leptis,convenience,45.7378967,4.8850972,FR
+Maison Clerc et Banette,Maison Clerc et Banette,bakery,45.735806,4.869595,FR
+L'esprit livres,L'esprit livres,books,45.7524321,4.8685309,FR
+Loutsa,Loutsa,cafe,45.7470407,4.8376543,FR
+L'escale solidaire du 2,L'escale solidaire du 2,restaurant,45.745075,4.8259826,FR
+Starck Bar,Starck Bar,restaurant,45.7448494,4.8257765,FR
+Le Chevreul,Le Chevreul,restaurant,45.7479848,4.8421136,FR
+Cécile Andine,Cécile Andine,hairdresser,45.7941582,4.8502974,FR
+Bibliothèque des Pains,Bibliothèque des Pains,bakery,45.7943649,4.8504721,FR
+Volailles R. Presse,Volailles R. Presse,butcher,45.7943235,4.8506496,FR
+Creatifs,Creatifs,hairdresser,45.7941855,4.8512279,FR
+La Mère Brazier,La Mère Brazier,restaurant,45.771386,4.8371707,FR
+Grosfillex,Grosfillex,interior_decoration,45.793198,4.8447715,FR
+Ophély'coiff,Ophély'coiff,hairdresser,45.7930936,4.8448126,FR
+Boulangerie Pâtisserie Traiteur Chocolaterie,Boulangerie Pâtisserie Traiteur Chocolaterie,bakery,45.7846893,4.8367313,FR
+Auto Ollier,Auto Ollier,car_repair,45.7521096,4.8384072,FR
+Paul,Paul,bakery,45.7642568,4.8333657,FR
+Alain Afflelou,Alain Afflelou,optician,45.7654721,4.8331679,FR
+Le Café du Peintre,Le Café du Peintre,restaurant,45.765756,4.8568426,FR
+La Vie Claire Bron,La Vie Claire Bron,convenience,45.7524626,4.8992542,FR
+Brasserie Gabriel,Brasserie Gabriel,restaurant,45.7611609,4.8269901,FR
+Café de la Cathédrale,Café de la Cathédrale,cafe,45.7611181,4.8271752,FR
+Le pressoir,Le pressoir,alcohol,45.7592593,4.8416969,FR
+La Pétrie de Montchat,La Pétrie de Montchat,bakery,45.7537859,4.8877144,FR
+Boulangerie Mariette,Boulangerie Mariette,bakery,45.7692988,4.881294,FR
+Cash Express,Cash Express,second_hand,45.7690498,4.8810115,FR
+My Body Art,My Body Art,tattoo,45.7690337,4.8812736,FR
+Étienne Coffee & Shop,Étienne Coffee & Shop,cafe,45.7672348,4.8793492,FR
+Perrin & Cie,Perrin & Cie,car_repair,45.7778726,4.8003924,FR
+Pizzeria Le Canissou,Pizzeria Le Canissou,restaurant,45.7469446,4.8233838,FR
+Le hangar,Le hangar,restaurant,45.7469895,4.8676212,FR
+Izy Domus,Izy Domus,restaurant,45.7830719,4.8676699,FR
+Trattoria des Gônes,Trattoria des Gônes,restaurant,45.7488602,4.845513,FR
+Brasserie Georges,Brasserie Georges,restaurant,45.7483221,4.8283428,FR
+Docks 40,Docks 40,restaurant,45.7397704,4.8143115,FR
+Fratelli Ristorante,Fratelli Ristorante,restaurant,45.7379739,4.8146568,FR
+Monna Lisa,Monna Lisa,restaurant,45.7455899,4.8230142,FR
+Confluence Laverie,Confluence Laverie,laundry,45.7457359,4.8231349,FR
+Boulangerie M. et Mme. Torres,Boulangerie M. et Mme. Torres,bakery,45.7470426,4.8248313,FR
+StyleAV,StyleAV,hairdresser,45.7576926,4.8115443,FR
+Vision Plus,Vision Plus,optician,45.7580028,4.812189,FR
+La Fav,La Fav,restaurant,45.7578558,4.8118888,FR
+Domaine de Limagne,Domaine de Limagne,butcher,45.7580439,4.8122694,FR
+Liberty's,Liberty's,clothes,45.7578022,4.8117884,FR
+Maison Henri Gay,Maison Henri Gay,bakery,45.7579644,4.812109,FR
+Break,Break,restaurant,45.7704293,4.8735847,FR
+Le Wasabi,Le Wasabi,restaurant,45.7489876,4.841501,FR
+Maison Vessiere,Maison Vessiere,butcher,45.7537525,4.8913602,FR
+L'enchantement,L'enchantement,florist,45.7534382,4.8910719,FR
+Boulangerie Jacquier,Boulangerie Jacquier,bakery,45.7534747,4.8908856,FR
+Optic 2000 M. Holl Didier,Optic 2000 M. Holl Didier,optician,45.7536204,4.891131,FR
+Bistro de la place Ronde,Bistro de la place Ronde,newsagent,45.7535985,4.8910252,FR
+Le Marigny,Le Marigny,kiosk,45.7117741,4.8115646,FR
+Brasserie le Five,Brasserie le Five,restaurant,45.7598351,4.8262868,FR
+Bateau Hermès,Bateau Hermès,restaurant,45.7473,4.8180489,FR
+Brasserie Midi Minuit,Brasserie Midi Minuit,restaurant,45.7426026,4.8210689,FR
+Garage Citroën,Garage Citroën,car_repair,45.7379925,4.8400497,FR
+Le Massena,Le Massena,restaurant,45.7637974,4.8551025,FR
+Le Bistrot,Le Bistrot,restaurant,45.7644635,4.8622104,FR
+Soleil Levant,Soleil Levant,restaurant,45.7590074,4.8521406,FR
+Le Karachi,Le Karachi,restaurant,45.7589209,4.8521575,FR
+Le Feunard,Le Feunard,restaurant,45.7591309,4.8521165,FR
+Ô Pad Thaï,Ô Pad Thaï,restaurant,45.763977,4.8563364,FR
+Japontori,Japontori,restaurant,45.7641342,4.8563042,FR
+ICEO,ICEO,restaurant,45.7402609,4.8393901,FR
+Sushis & Sushis,Sushis & Sushis,restaurant,45.739502,4.840554,FR
+Casa Bianca,Casa Bianca,restaurant;club,45.7397932,4.8407481,FR
+Boulangerie Nathalie & Marcel Bas,Boulangerie Nathalie & Marcel Bas,bakery,45.7502514,4.865014,FR
+Chez Carlo Gerland,Chez Carlo Gerland,restaurant,45.7299055,4.8303387,FR
+Midas Lyon Garibaldi,Midas Lyon Garibaldi,car_repair,45.744577,4.848052,FR
+Dangerous Burger,Dangerous Burger,restaurant,45.745102,4.848375,FR
+Casa Flavio,Casa Flavio,restaurant,45.745128,4.848246,FR
+Midas,Midas,car_repair,45.730169,4.8385684,FR
+La Folle Horloge,La Folle Horloge,restaurant,45.7544668,4.8675027,FR
+L'isle aux Pains,L'isle aux Pains,bakery,45.754758,4.8674124,FR
+Garage Lumière,Garage Lumière,car_repair,45.745418,4.866563,FR
+Barithel Gerard,Barithel Gerard,butcher,45.7449526,4.8664424,FR
+BH-Autoconseil,BH-Autoconseil,car_repair,45.738667,4.863093,FR
+Aux phils des saveurs,Aux phils des saveurs,restaurant,45.738402,4.852351,FR
+Garage Robert Peugeot,Garage Robert Peugeot,car_repair,45.7366249,4.8414571,FR
+Garage des Alliés,Garage des Alliés,car_repair,45.7745616,4.87196,FR
+Pizzeria da Mario,Pizzeria da Mario,restaurant,45.7713424,4.8735436,FR
+Starbucks,Starbucks,cafe,45.7672011,4.8358728,FR
+Vélonaute Tête d'Or,Vélonaute Tête d'Or,bicycle,45.7699141,4.8472781,FR
+Les Boulistes,Les Boulistes,restaurant,45.7743787,4.8257538,FR
+Le Banquet,Le Banquet,bakery,45.7745954,4.8269676,FR
+Qualité Market,Qualité Market,convenience,45.7543338,4.8421691,FR
+LDLC Lyon Vaise,LDLC Lyon Vaise,computer,45.7787336,4.8001251,FR
+Lyon Cycle Chic,Lyon Cycle Chic,bicycle,45.7496354,4.8440923,FR
+Carnegie-Hall,Carnegie-Hall,restaurant,45.7286615,4.8305668,FR
+Terres Lyonnaises,Terres Lyonnaises,greengrocer,45.7187301,4.8067754,FR
+Boulangerie de la Mairie,Boulangerie de la Mairie,bakery,45.7143687,4.806245,FR
+La mie de pain,La mie de pain,bakery,45.7740826,4.8683183,FR

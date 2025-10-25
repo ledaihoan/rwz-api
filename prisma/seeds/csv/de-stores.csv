@@ -1,0 +1,882 @@
+name,name_en,service_type,lat,lng,country_code
+Aral,Aral,fuel,52.5463147,13.345599,DE
+Aida,Aida,restaurant,52.5068638,13.3228585,DE
+Madame Ngo,Madame Ngo,restaurant,52.5062119,13.3180811,DE
+Nam Thuân,Nam Thuân,restaurant,52.5073199,13.3207804,DE
+Esso,Esso,fuel,52.5197221,13.3414212,DE
+Star,Star,fuel,52.5189572,13.3029625,DE
+dm,dm,chemist,52.5275057,13.3294408,DE
+Eiscafe Eisberg,Eiscafe Eisberg,cafe,52.5388551,13.3960965,DE
+Tibet Haus,Tibet Haus,restaurant,52.4907103,13.3939814,DE
+Coffee Star,Coffee Star,cafe,52.5476798,13.3563426,DE
+MediaMarkt,MediaMarkt,electronics,52.5061246,13.3071532,DE
+Schatulle,Schatulle,restaurant,52.5542713,13.3311277,DE
+Netto Marken-Discount,Netto Marken-Discount,supermarket,52.5098189,13.4073729,DE
+HEM,HEM,fuel,52.5775827,13.3064854,DE
+Starbucks,Starbucks,cafe,52.5194029,13.3887381,DE
+Brammibal's Donuts,Brammibal's Donuts,cafe,52.507931,13.3737316,DE
+Berlin Pavillon,Berlin Pavillon,gift,52.5176045,13.3739247,DE
+Espresso House,Espresso House,cafe,52.5105871,13.3764297,DE
+Vintage Revivals,Vintage Revivals,clothes,52.5240976,13.4088283,DE
+Dalmacija,Dalmacija,restaurant,52.572519,13.3082697,DE
+Schlemmerküche,Schlemmerküche,restaurant,52.5771153,13.3073153,DE
+Ledo,Ledo,supermarket,52.5724174,13.3085471,DE
+kiezmarkt,kiezmarkt,supermarket,52.5716761,13.3124756,DE
+nah & gut,nah & gut,supermarket,52.5664033,13.3169308,DE
+Nahkauf,Nahkauf,supermarket,52.5704861,13.321144,DE
+Taverna Athos,Taverna Athos,restaurant,52.4800304,13.3277157,DE
+Pizzaria Tamara,Pizzaria Tamara,restaurant,52.5701303,13.3098188,DE
+Cancun,Cancun,restaurant,52.5044686,13.3827465,DE
+Bocca di Bacco,Bocca di Bacco,restaurant,52.5151119,13.3889084,DE
+Restaurant Borchardt,Restaurant Borchardt,restaurant,52.5150034,13.3903882,DE
+Heritage,Heritage,restaurant,52.514689,13.3909281,DE
+Antiquariat am Gendarmenmarkt,Antiquariat am Gendarmenmarkt,antiques,52.5141056,13.3909914,DE
+Lutter & Wegner,Lutter & Wegner,restaurant,52.5132123,13.3911782,DE
+Victor & Victoria,Victor & Victoria,restaurant,52.5124049,13.3913074,DE
+Einstein Kaffee,Einstein Kaffee,cafe,52.5113571,13.3894708,DE
+Maximilians,Maximilians,restaurant,52.5113441,13.3891811,DE
+Izumi Sushi Bar,Izumi Sushi Bar,restaurant,52.511292,13.3887116,DE
+Beast Berlin,Beast Berlin,restaurant,52.52429,13.4118534,DE
+Aapka - Restaurant Alexanderplatz,Aapka - Restaurant Alexanderplatz,restaurant,52.5235991,13.4109696,DE
+Der Alte Fritz,Der Alte Fritz,restaurant,52.5214304,13.4092065,DE
+Carambar,Carambar,restaurant,52.5203514,13.4122196,DE
+Matzbach,Matzbach,restaurant,52.5202106,13.4118079,DE
+Segafredo,Segafredo,cafe,52.5194912,13.4102122,DE
+Azem,Azem,restaurant,52.5180123,13.4071626,DE
+Mutter Hoppe,Mutter Hoppe,restaurant,52.5175872,13.4058989,DE
+Julchen Hoppe,Julchen Hoppe,restaurant,52.5172681,13.4050245,DE
+Shezan,Shezan,restaurant,52.512146,13.4081288,DE
+Fleischerei Bachhuber,Fleischerei Bachhuber,butcher,52.4910457,13.3261553,DE
+nah und gut,nah und gut,supermarket,52.4913971,13.3228827,DE
+Total,Total,fuel,52.5475627,13.4680868,DE
+Pula-Grill,Pula-Grill,restaurant,52.5701846,13.3206599,DE
+Paris-Moskau,Paris-Moskau,restaurant,52.5225899,13.3644784,DE
+Jasper's,Jasper's,restaurant,52.536584,13.40069,DE
+Maestral,Maestral,restaurant,52.5893726,13.3257329,DE
+sun,sun,fuel,52.5987115,13.3319568,DE
+Bier-Stub'n,Bier-Stub'n,restaurant,52.5723826,13.3594023,DE
+Irmak Grillhaus,Irmak Grillhaus,restaurant,52.5674603,13.3627545,DE
+AGIP ENI,AGIP ENI,fuel,52.4274591,13.3649346,DE
+The Leaf,The Leaf,cafe,52.5640793,13.3644914,DE
+Aldi,Aldi,supermarket,52.5524232,13.3480665,DE
+Budni,Budni,chemist,52.4909598,13.3267397,DE
+I Due Forni,I Due Forni,restaurant,52.5308311,13.412464,DE
+Mad Meals,Mad Meals,restaurant,52.5406178,13.414039,DE
+SowohlAlsAuch,SowohlAlsAuch,cafe,52.5382237,13.4204986,DE
+Akemi,Akemi,restaurant,52.5376526,13.4212143,DE
+Solid Earth,Solid Earth,copyshop,52.5362925,13.4200962,DE
+Anjoy,Anjoy,restaurant,52.5361423,13.4205337,DE
+PENNY,PENNY,supermarket,52.565038,13.3706441,DE
+Netto,Netto,supermarket,52.5515059,13.4550894,DE
+Mein Markt Pham,Mein Markt Pham,convenience,52.5110467,13.4626981,DE
+EDEKA Thaut,EDEKA Thaut,supermarket,52.510061,13.4709585,DE
+Back-Factory,Back-Factory,bakery,52.4862765,13.3561798,DE
+DoubleEye,DoubleEye,cafe,52.4879922,13.3540483,DE
+Öz-Gida,Öz-Gida,supermarket,52.4873144,13.3570728,DE
+Yogi-Haus,Yogi-Haus,restaurant,52.486278,13.3506678,DE
+Getränke Hoffmann,Getränke Hoffmann,beverages,52.4954324,13.3223719,DE
+La Residenza,La Residenza,restaurant,52.5031309,13.3271435,DE
+Bristol Grill,Bristol Grill,restaurant,52.5033238,13.3272963,DE
+Le Faubourg,Le Faubourg,restaurant,52.5026926,13.3318821,DE
+Brot & Brötchen,Brot & Brötchen,bakery,52.4961316,13.3202337,DE
+JalouCity,JalouCity,window_blind,52.4676623,13.3675383,DE
+EDEKA,EDEKA,supermarket,52.4701156,13.4621306,DE
+Lutz Paul BrillenmacherBerlin,Lutz Paul BrillenmacherBerlin,optician,52.5126579,13.4114992,DE
+Restaurant Hasenheide,Restaurant Hasenheide,restaurant,52.4877929,13.4196583,DE
+Eden,Eden,restaurant,52.5219316,13.4047999,DE
+CSV,CSV,copyshop,52.5119821,13.4527691,DE
+Weisser Elefant,Weisser Elefant,restaurant,52.4895627,13.3191979,DE
+Garcon,Garcon,restaurant,52.4894921,13.3196727,DE
+Frederick‘s,Frederick‘s,restaurant,52.5098082,13.3743411,DE
+Lindenbräu,Lindenbräu,restaurant,52.5102921,13.3726675,DE
+Schönbrunn,Schönbrunn,restaurant,52.528035,13.4339677,DE
+REWE,REWE,supermarket,52.5276119,13.3291604,DE
+Tropica Grillhaus,Tropica Grillhaus,restaurant,52.5152058,13.4687505,DE
+hd-computer,hd-computer,computer,52.4880466,13.4221327,DE
+Rossmann,Rossmann,chemist,52.487606,13.4210382,DE
+JYSK,JYSK,furniture,52.5228395,13.4647723,DE
+Erdmann und Schwarze,Erdmann und Schwarze,butcher,52.5150605,13.4633917,DE
+Feinbäckerei Wenzel,Feinbäckerei Wenzel,bakery,52.5150119,13.4637616,DE
+Ristorante a Mano,Ristorante a Mano,restaurant,52.5193726,13.4275085,DE
+Hangmee,Hangmee,restaurant,52.5129554,13.4576396,DE
+REWE City,REWE City,supermarket,52.4686357,13.3117953,DE
+Die Henne - Alt-Berliner Wirtshaus,Die Henne - Alt-Berliner Wirtshaus,restaurant,52.504153,13.4177503,DE
+see you RENT,see you RENT,rental,52.4993363,13.4210305,DE
+Grace,Grace,beauty,52.5361329,13.4228315,DE
+Hoa Rong,Hoa Rong,restaurant,52.5197141,13.3877509,DE
+Andaz,Andaz,restaurant,52.5993861,13.3011493,DE
+Sida,Sida,restaurant,52.4605144,13.3231312,DE
+indat computer,indat computer,computer,52.4985034,13.3071622,DE
+Lidl,Lidl,supermarket,52.563584,13.412146,DE
+Café Meta,Café Meta,cafe,52.545836,13.4061087,DE
+Iramasure,Iramasure,beauty,52.490697,13.3917197,DE
+Xantener Eck,Xantener Eck,restaurant,52.4988221,13.3076456,DE
+Casa di Maria,Casa di Maria,restaurant,52.4968112,13.3244465,DE
+Marktex,Marktex,furniture,52.499682,13.3162955,DE
+BuchReigen,BuchReigen,books,52.5416747,13.4226522,DE
+Milchladen,Milchladen,convenience,52.501786,13.4165373,DE
+Edeka Ungefroren,Edeka Ungefroren,supermarket,52.513684,13.4060088,DE
+Shaan,Shaan,restaurant,52.4739548,13.4468535,DE
+Restaurant Louis,Restaurant Louis,restaurant,52.4743381,13.4452803,DE
+Da Ponte,Da Ponte,restaurant,52.5220908,13.3488231,DE
+Trattoria Fidelia,Trattoria Fidelia,restaurant,52.5194762,13.3556992,DE
+Zollpackhof,Zollpackhof,restaurant,52.5212821,13.3668503,DE
+Schleusenkrug,Schleusenkrug,restaurant,52.5112754,13.335988,DE
+Bistro in der Akademie der Künste,Bistro in der Akademie der Künste,cafe,52.5183945,13.3464153,DE
+Britzer Mühle,Britzer Mühle,restaurant,52.4322035,13.4346212,DE
+Schloss Britz,Schloss Britz,restaurant,52.4468121,13.4377895,DE
+Rüya Gemüse Kebab,Rüya Gemüse Kebab,restaurant,52.5137921,13.3170309,DE
+Ralph Lauren,Ralph Lauren,clothes,52.5033282,13.3277577,DE
+Blumen- und Gartenkunst GmbH Tunger-Schnur,Blumen- und Gartenkunst GmbH Tunger-Schnur,florist,52.5244404,13.3514915,DE
+Zeitungskiosk Bagci,Zeitungskiosk Bagci,kiosk,52.4346233,13.3424786,DE
+Sommermeyer,Sommermeyer,doityourself,52.4374306,13.3445889,DE
+Restaurant Angkor Wat,Restaurant Angkor Wat,restaurant,52.5201925,13.3558888,DE
+Berlin Tag und Nacht 2,Berlin Tag und Nacht 2,kiosk,52.5289708,13.3159246,DE
+Mokka & Juice House,Mokka & Juice House,cafe,52.4882026,13.3609478,DE
+Aspendos,Aspendos,restaurant,52.4883451,13.3580098,DE
+Schnell & Sauber SB-Waschcenter,Schnell & Sauber SB-Waschcenter,laundry,52.4672545,13.4423671,DE
+clean Point,clean Point,laundry,52.4681557,13.442165,DE
+Shell,Shell,fuel,52.4652723,13.4430158,DE
+JET,JET,fuel,52.489294,13.3744681,DE
+Kante,Kante,restaurant,52.5001321,13.4387908,DE
+Bizim Kiez,Bizim Kiez,bakery,52.4980559,13.4435002,DE
+Beumer Lutum,Beumer Lutum,bakery,52.4971308,13.4431518,DE
+Restaurant Freischwimmer,Restaurant Freischwimmer,restaurant,52.4973483,13.4507972,DE
+cielo di berlino,cielo di berlino,restaurant,52.4881781,13.370321,DE
+Radsport Sonntag,Radsport Sonntag,bicycle,52.4858151,13.3221299,DE
+Doree 65,Doree 65,restaurant,52.5400018,13.3527311,DE
+Bardolino,Bardolino,restaurant,52.4339798,13.3592072,DE
+EDEKA Yilmaz,EDEKA Yilmaz,supermarket,52.4638746,13.4858575,DE
+Schön 14,Schön 14,restaurant,52.4645273,13.3298271,DE
+Mario,Mario,restaurant,52.4750769,13.3234069,DE
+Bagdad Lebensmittel,Bagdad Lebensmittel,convenience,52.4990942,13.3931869,DE
+Hairline,Hairline,hairdresser,52.4998143,13.3921207,DE
+Bistro,Bistro,kiosk,52.4690861,13.4672713,DE
+Filiz,Filiz,tailor,52.468202,13.4671636,DE
+Kiez-Bäckerei,Kiez-Bäckerei,cafe,52.4686515,13.4677356,DE
+Drinks & more,Drinks & more,convenience,52.5083609,13.4530076,DE
+Schneeweiß,Schneeweiß,restaurant,52.5086453,13.4582032,DE
+Uebereck,Uebereck,cafe,52.5054349,13.4663979,DE
+Alte Turnhalle Berlin,Alte Turnhalle Berlin,restaurant,52.5071989,13.4652987,DE
+Vereinszimmer,Vereinszimmer,restaurant,52.4900001,13.3825068,DE
+Osteria Nº 1,Osteria Nº 1,restaurant,52.489775,13.3832177,DE
+Barcomi's Café & Kaffeerösterei,Barcomi's Café & Kaffeerösterei,cafe,52.4890118,13.3935082,DE
+Pagode,Pagode,restaurant,52.4893112,13.3933939,DE
+Milchgesicht,Milchgesicht,cafe,52.5146574,13.4630543,DE
+Steinecke,Steinecke,bakery,52.5149758,13.4642337,DE
+Chai Ji,Chai Ji,restaurant,52.516543,13.4635392,DE
+Jōnetsu,Jōnetsu,restaurant,52.5131538,13.4620486,DE
+Eatalian,Eatalian,restaurant,52.5122684,13.4614486,DE
+Aashish,Aashish,restaurant,52.5149418,13.46027,DE
+mausi.,mausi.,restaurant,52.474763,13.4469517,DE
+Restaurant Villa Rixdorf,Restaurant Villa Rixdorf,restaurant,52.4742277,13.4447503,DE
+Gambrinus,Gambrinus,restaurant,52.5264453,13.3879477,DE
+Sahoi,Sahoi,restaurant,52.5264338,13.3877486,DE
+Amrit,Amrit,restaurant,52.5259421,13.3896272,DE
+Uferlos,Uferlos,restaurant,52.5506079,13.3733546,DE
+Mensa FU Lankwitz Malteserstraße,Mensa FU Lankwitz Malteserstraße,restaurant,52.425496,13.3573392,DE
+REWE Getränkemarkt,REWE Getränkemarkt,beverages,52.5205791,13.4623134,DE
+Reinigung 65,Reinigung 65,dry_cleaning,52.556242,13.3423195,DE
+Mini-Laden,Mini-Laden,kiosk,52.5563326,13.3432159,DE
+Ernsting's family,Ernsting's family,clothes,52.4362924,13.3462065,DE
+Homey,Homey,restaurant,52.5569578,13.3409564,DE
+Scorpion,Scorpion,restaurant,52.528823,13.342903,DE
+Cafe Finovo,Cafe Finovo,cafe,52.4910478,13.3675144,DE
+Tandoori,Tandoori,restaurant,52.5498822,13.4626939,DE
+Fräulein Kimchi,Fräulein Kimchi,restaurant,52.5453918,13.4524178,DE
+Plus Minus Null,Plus Minus Null,restaurant,52.511776,13.4575389,DE
+Habana,Habana,restaurant,52.5118836,13.4567958,DE
+Gold 79,Gold 79,restaurant,52.5141004,13.4730329,DE
+Widda & Co,Widda & Co,clothes,52.5113351,13.4609843,DE
+Drink Oase,Drink Oase,convenience,52.5108993,13.4611651,DE
+Hannibal,Hannibal,restaurant,52.5091398,13.4598832,DE
+il Ritrovo,il Ritrovo,restaurant,52.5095667,13.4580847,DE
+Caramello,Caramello,cafe,52.5097761,13.457186,DE
+Intimes,Intimes,cafe,52.5128318,13.4582338,DE
+Lemongrass,Lemongrass,restaurant,52.5124786,13.4571679,DE
+TAT,TAT,restaurant,52.5133893,13.4586453,DE
+Matratzen Concord,Matratzen Concord,bed,52.5151987,13.4576272,DE
+Papiertiger,Papiertiger,stationery,52.5149971,13.464082,DE
+Meet Saigon,Meet Saigon,restaurant,52.5158783,13.458543,DE
+Café Tasso,Café Tasso,books,52.5160258,13.4570212,DE
+Chile Hot Ink,Chile Hot Ink,tattoo,52.5161427,13.4558786,DE
+Velocelli,Velocelli,bicycle,52.5175183,13.4538747,DE
+Blumen und Pflanzen,Blumen und Pflanzen,florist,52.5430326,13.3758769,DE
+Bäckerei 2000,Bäckerei 2000,bakery,52.5176593,13.4571456,DE
+Seth,Seth,restaurant,52.5172556,13.4608879,DE
+Koy,Koy,restaurant,52.5168019,13.4621382,DE
+Brunchella,Brunchella,cafe,52.5166158,13.4631774,DE
+"Spätkauf, Café und Waschcenter","Spätkauf, Café und Waschcenter",laundry,52.5171343,13.4657494,DE
+Tashkent,Tashkent,restaurant,52.5174079,13.4658508,DE
+Jibboo,Jibboo,baby_goods,52.5183253,13.4657828,DE
+Papaleo,Papaleo,restaurant,52.517967,13.467624,DE
+Asahi Sushi,Asahi Sushi,restaurant,52.5153424,13.471852,DE
+Yogi Haus,Yogi Haus,restaurant,52.5151203,13.4716078,DE
+Shanghai,Shanghai,restaurant,52.5138719,13.4709298,DE
+Kopierladen,Kopierladen,copyshop,52.5142011,13.4676029,DE
+Franz Mehring Buchhandlung & Antiquariat,Franz Mehring Buchhandlung & Antiquariat,books,52.5147108,13.4668036,DE
+Stoffhaus,Stoffhaus,fabric,52.5145215,13.4644802,DE
+Backfee,Backfee,bakery,52.5125767,13.4666812,DE
+EDEKA Y.Reichelt,EDEKA Y.Reichelt,supermarket,52.5208001,13.3343449,DE
+Kurhaus Korsakow,Kurhaus Korsakow,restaurant,52.5112327,13.4608889,DE
+Trattoria Cinque,Trattoria Cinque,restaurant,52.5113289,13.4585625,DE
+Denns BioMarkt,Denns BioMarkt,supermarket,52.5126115,13.4597619,DE
+Euphoria,Euphoria,restaurant,52.5116145,13.4567297,DE
+li.ke,li.ke,restaurant,52.5115943,13.4586892,DE
+Drinkbox,Drinkbox,convenience,52.5125022,13.4602102,DE
+Aklé,Aklé,restaurant,52.5103281,13.4545378,DE
+Zeus Pizza & Pide,Zeus Pizza & Pide,restaurant,52.5124065,13.459095,DE
+Späti am Comenius,Späti am Comenius,kiosk,52.5114694,13.4490353,DE
+Ristorante Da Toni,Ristorante Da Toni,restaurant,52.4982635,13.3190018,DE
+Mövenpick Weinkeller Berlin Wilmersdorf,Mövenpick Weinkeller Berlin Wilmersdorf,alcohol,52.4996109,13.3204098,DE
+Aroma,Aroma,restaurant,52.5063437,13.3155769,DE
+Tapas Bar,Tapas Bar,restaurant,52.507193,13.3216137,DE
+Spätverkauf,Spätverkauf,convenience,52.4992044,13.4635638,DE
+Edeka Wittenbergplatz,Edeka Wittenbergplatz,supermarket,52.5026043,13.3436334,DE
+Midnight Shop,Midnight Shop,convenience,52.5291171,13.4094976,DE
+Lalibela,Lalibela,restaurant,52.4953274,13.4303555,DE
+Cocochu,Cocochu,restaurant,52.4940969,13.4286005,DE
+OBI,OBI,doityourself,52.5464101,13.4432988,DE
+Olivio,Olivio,restaurant,52.4919428,13.4211845,DE
+La La,La La,restaurant,52.4929941,13.4143954,DE
+Salon Sabine,Salon Sabine,hairdresser,52.4992743,13.4642434,DE
+Melissa,Melissa,restaurant,52.4989849,13.4642845,DE
+Athena Roma,Athena Roma,restaurant,52.5609827,13.4237284,DE
+Chay Long,Chay Long,restaurant,52.4925901,13.4171934,DE
+Kiez Kiosk,Kiez Kiosk,kiosk,52.5099551,13.4552692,DE
+Mont-K,Mont-K,outdoor,52.5373432,13.4086667,DE
+Pars,Pars,cafe,52.5074506,13.3213947,DE
+Trattoria Da Pia,Trattoria Da Pia,restaurant,52.542687,13.4382723,DE
+Filmkunst,Filmkunst,video,52.5117587,13.4615491,DE
+The Hummus Club,The Hummus Club,restaurant,52.5124653,13.4588561,DE
+Burger Jam,Burger Jam,restaurant,52.5124787,13.4587818,DE
+Zellermayer Galerie,Zellermayer Galerie,art,52.4980516,13.324181,DE
+Loena,Loena,alcohol,52.4978961,13.3230488,DE
+Sweet2go,Sweet2go,cafe,52.4979575,13.3228653,DE
+André Märtens,André Märtens,hairdresser,52.4997884,13.3231143,DE
+Asiana Village,Asiana Village,restaurant,52.5953151,13.3353055,DE
+tabak & presse,tabak & presse,kiosk,52.4996912,13.3304422,DE
+Pascarella,Pascarella,restaurant,52.5076989,13.3180576,DE
+George's Steakhouse,George's Steakhouse,restaurant,52.4977937,13.3246353,DE
+EDEKA Lindenberg,EDEKA Lindenberg,supermarket,52.560815,13.3654858,DE
+Britzer Fahrradhaus,Britzer Fahrradhaus,bicycle,52.4379113,13.446406,DE
+Berlin Burrito Company,Berlin Burrito Company,restaurant,52.506665,13.3098529,DE
+EDEKA Iden,EDEKA Iden,supermarket,52.5947516,13.3352782,DE
+Café Bäckerei Süss,Café Bäckerei Süss,bakery,52.4877711,13.4260639,DE
+Da Mingiu,Da Mingiu,restaurant,52.5924426,13.3263936,DE
+Jäger & Lustig,Jäger & Lustig,restaurant,52.5134101,13.4480647,DE
+BEHALA,BEHALA,fuel,52.5369734,13.3417491,DE
+Schnell,Schnell,bakery,52.5041272,13.3169693,DE
+TÜV,TÜV,car,52.5843524,13.3130119,DE
+Antiquariat Düwal,Antiquariat Düwal,books,52.5074696,13.3174336,DE
+Waxline Pure,Waxline Pure,beauty,52.4670481,13.3309214,DE
+Kurfürsten-Bäckerei,Kurfürsten-Bäckerei,bakery,52.4263501,13.3352117,DE
+QBA,QBA,restaurant,52.5259949,13.3894424,DE
+Fahrradhof Steglitz - Bike Shop,Fahrradhof Steglitz - Bike Shop,bicycle,52.4633204,13.3298432,DE
+The Coffee Shop,The Coffee Shop,cafe,52.5152592,13.3983179,DE
+Café im Alten Museum,Café im Alten Museum,cafe,52.5191167,13.3985266,DE
+Möller &Hohenstein,Möller &Hohenstein,hairdresser,52.4685977,13.3287175,DE
+Alimentari Totti,Alimentari Totti,restaurant,52.4913193,13.4201402,DE
+Il Casolare,Il Casolare,restaurant,52.4949133,13.4155131,DE
+Bäckerei Backfee,Bäckerei Backfee,bakery,52.5249695,13.4521259,DE
+Tales Untold,Tales Untold,cafe,52.5123446,13.4479958,DE
+Holzapfel,Holzapfel,craft,52.4888782,13.3948092,DE
+Loveco,Loveco,clothes,52.4908878,13.4103316,DE
+Tudo,Tudo,cafe,52.5213767,13.4096608,DE
+Kiez Kaffee Kraft,Kiez Kaffee Kraft,cafe,52.5511873,13.4040715,DE
+Mühlenbäck,Mühlenbäck,bakery,52.5497834,13.4169793,DE
+Callafleur,Callafleur,florist,52.5399101,13.42207,DE
+Marjan Grill,Marjan Grill,restaurant,52.5200654,13.3469194,DE
+King’s Teagarden,King’s Teagarden,tea,52.5005634,13.3094277,DE
+Fourty Years,Fourty Years,restaurant,52.4923209,13.4182784,DE
+Schönes Café,Schönes Café,cafe,52.4923642,13.418062,DE
+E-Kiezmarkt,E-Kiezmarkt,convenience,52.492463,13.4177005,DE
+datscha,datscha,restaurant,52.4938768,13.4186675,DE
+Narr-Bar,Narr-Bar,cafe,52.4931596,13.4203993,DE
+Bahar Restaurant,Bahar Restaurant,restaurant,52.4814663,13.3483784,DE
+Johann Mayer,Johann Mayer,bakery,52.4791448,13.3438836,DE
+Mein Markt,Mein Markt,convenience,52.4808992,13.3430964,DE
+Änderungsatelier Dehari,Änderungsatelier Dehari,laundry,52.5019042,13.3054944,DE
+Graffiti,Graffiti,restaurant,52.5003573,13.3075025,DE
+Marschner Automobile,Marschner Automobile,car,52.5001914,13.3054043,DE
+Sprint,Sprint,fuel,52.4994455,13.3193638,DE
+Salon Eckschnitt,Salon Eckschnitt,hairdresser,52.5284636,13.466125,DE
+Café Bilderbuch,Café Bilderbuch,cafe,52.4866549,13.3551643,DE
+Allguth,Allguth,fuel,48.1219347,11.6640104,DE
+Bavaria Petrol,Bavaria Petrol,fuel,48.1929231,11.5835724,DE
+Agip,Agip,fuel,48.1089051,11.6397867,DE
+Edeka xpress,Edeka xpress,supermarket,48.1109391,11.6277495,DE
+Avia,Avia,fuel,48.1137567,11.6171276,DE
+Kastenhuber,Kastenhuber,butcher,48.1239286,11.6565266,DE
+Franziskaner Garten,Franziskaner Garten,restaurant,48.1093154,11.6707224,DE
+V-Markt,V-Markt,fuel,48.1911025,11.5859699,DE
+Änderungsschneiderei Textilreinigung,Änderungsschneiderei Textilreinigung,dry_cleaning,48.1943233,11.5979777,DE
+Ristorante Centro Moda,Ristorante Centro Moda,restaurant,48.1891617,11.5813153,DE
+L'angolo,L'angolo,restaurant,48.1870892,11.5839973,DE
+Tai China Imbiss,Tai China Imbiss,restaurant,48.1816244,11.5845779,DE
+Ratskeller,Ratskeller,restaurant,48.1373943,11.5760552,DE
+Backstern,Backstern,bakery,48.1815568,11.5845746,DE
+Augustiner Bräustuben,Augustiner Bräustuben,restaurant,48.1392055,11.5456469,DE
+Peaches,Peaches,restaurant,48.1469522,11.5349382,DE
+Gerners,Gerners,restaurant,48.1685597,11.5265046,DE
+Haidhauser Augustiner,Haidhauser Augustiner,restaurant,48.1293429,11.6013051,DE
+Augustiner Schützengarten,Augustiner Schützengarten,restaurant,48.1042541,11.5344051,DE
+Aumüller,Aumüller,bakery,48.1400446,11.6787324,DE
+Gasthaus Martinshof,Gasthaus Martinshof,restaurant,48.1396234,11.6816237,DE
+Haus der Reise,Haus der Reise,travel_agency,48.1891008,11.5816175,DE
+Milchhäusl,Milchhäusl,cafe,48.1497787,11.5855448,DE
+La Romantica,La Romantica,restaurant,48.138517,11.6483681,DE
+Zum Flaucher,Zum Flaucher,restaurant,48.1087336,11.5575248,DE
+Gasthof Feringasee,Gasthof Feringasee,restaurant,48.192191,11.674682,DE
+Rustikeria,Rustikeria,restaurant,48.1321158,11.5879033,DE
+Bella Italia,Bella Italia,restaurant,48.1813887,11.511636,DE
+Pizza Hut,Pizza Hut,restaurant,48.1756612,11.5594734,DE
+Pallas Athene,Pallas Athene,restaurant,48.111718,11.6319984,DE
+Da Francesco,Da Francesco,restaurant,48.1114034,11.6315777,DE
+eni,eni,fuel,48.1220213,11.5488585,DE
+Casa Nostra,Casa Nostra,restaurant,48.1498195,11.5597454,DE
+Kaito,Kaito,restaurant,48.1495286,11.5607585,DE
+Drunken Cow,Drunken Cow,restaurant,48.1497066,11.5608937,DE
+Giuliano Pikke,Giuliano Pikke,restaurant,48.1498914,11.560239,DE
+Aldi Süd,Aldi Süd,supermarket,48.1974908,11.6262211,DE
+Lieblingsstück,Lieblingsstück,bakery,48.1827619,11.5791912,DE
+Bäckerei Ziegler,Bäckerei Ziegler,bakery,48.1818999,11.572562,DE
+Lider,Lider,supermarket,48.1829348,11.5732321,DE
+Mac-Profis u. Notebook-Service Alberton,Mac-Profis u. Notebook-Service Alberton,computer,48.186662,11.5729888,DE
+BaTo Café,BaTo Café,cafe,48.1532641,11.5609351,DE
+Sidra,Sidra,hairdresser,48.1510888,11.5647004,DE
+Second Music and Fun,Second Music and Fun,music,48.1508709,11.5654874,DE
+Joon,Joon,cafe,48.1509021,11.5653552,DE
+Paradiso,Paradiso,hairdresser,48.1497608,11.5635218,DE
+Brotmanufaktur Schmidt,Brotmanufaktur Schmidt,bakery,48.1496324,11.5634395,DE
+1A Haircut,1A Haircut,hairdresser,48.1492698,11.5632068,DE
+Wirtshaus Maxvorstadt,Wirtshaus Maxvorstadt,restaurant,48.149233,11.5626376,DE
+Fanny Liest - Bücher,Fanny Liest - Bücher,books,48.1492828,11.5624546,DE
+Lena's Schneideratelier,Lena's Schneideratelier,tailor,48.1493591,11.5621784,DE
+Welt Kiosk,Welt Kiosk,kiosk,48.149609,11.5612501,DE
+SALTA Bar,SALTA Bar,restaurant,48.1629956,11.5693919,DE
+Netto City,Netto City,supermarket,48.1616898,11.568765,DE
+Mitani,Mitani,restaurant,48.1268567,11.594068,DE
+Michi's Bäckerei & Café,Michi's Bäckerei & Café,bakery,48.1146663,11.5703002,DE
+BK,BK,fuel,48.1331134,11.5809359,DE
+Klenze 17,Klenze 17,restaurant,48.1329006,11.5782249,DE
+Ferry's Friseur,Ferry's Friseur,hairdresser,48.132515,11.576261,DE
+Trachtenvogl Café-Lounge,Trachtenvogl Café-Lounge,cafe,48.1291433,11.5758218,DE
+MSC Vereinsgaststätte,MSC Vereinsgaststätte,restaurant,48.1975524,11.5560528,DE
+Kofler,Kofler,bakery,48.1991815,11.5443922,DE
+Kaufland,Kaufland,supermarket,48.1948081,11.5973784,DE
+KARE,KARE,furniture,48.1914933,11.592852,DE
+Tassilo da Sebastiano,Tassilo da Sebastiano,restaurant,48.1243289,11.5961925,DE
+La Toscana,La Toscana,restaurant,48.1241588,11.5926122,DE
+Arnold/Werner,Arnold/Werner,cafe,48.1564251,11.5705211,DE
+Kalypso,Kalypso,restaurant,48.1573656,11.571487,DE
+Merhaba,Merhaba,restaurant,48.1265475,11.5965068,DE
+Bombay Tandoori,Bombay Tandoori,restaurant,48.127884,11.5953156,DE
+Ganesha,Ganesha,restaurant,48.1265521,11.597604,DE
+Beauty Mega Salon,Beauty Mega Salon,beauty,48.1267032,11.5973174,DE
+Les Deux Messieurs,Les Deux Messieurs,cafe,48.1282594,11.6005436,DE
+Der Hufnagel,Der Hufnagel,restaurant,48.1013875,11.6287923,DE
+Der Radlmarkt,Der Radlmarkt,bicycle,48.1082904,11.6032189,DE
+Supermarket Oltenia,Supermarket Oltenia,kiosk,48.1099591,11.6034841,DE
+Truderinger Wirtshaus,Truderinger Wirtshaus,restaurant,48.1259405,11.6739532,DE
+Hans im Glück,Hans im Glück,restaurant,48.1360062,11.5783598,DE
+L' Orchidea,L' Orchidea,restaurant,48.1166167,11.5897265,DE
+Karam,Karam,restaurant,48.1375253,11.5633245,DE
+Louis Motorrad München-Au,Louis Motorrad München-Au,motorcycle,48.1238197,11.5958108,DE
+tan nam,tan nam,restaurant,48.1240797,11.5970323,DE
+Einstein,Einstein,restaurant,48.134451,11.5719719,DE
+Paulaner am Nockherberg,Paulaner am Nockherberg,restaurant,48.1215649,11.5824038,DE
+NP Bäckerei & Café,NP Bäckerei & Café,bakery,48.1944254,11.5971216,DE
+Aarz Food,Aarz Food,restaurant,48.112016,11.6181173,DE
+Live Evil,Live Evil,cafe,48.1326797,11.5907867,DE
+Monti Monaco,Monti Monaco,restaurant,48.1325924,11.5848798,DE
+Zum Brünnstein,Zum Brünnstein,restaurant,48.1293313,11.6052141,DE
+M-net Ostbahnhof,M-net Ostbahnhof,telecommunication,48.1291927,11.6049904,DE
+Oxfam,Oxfam,charity,48.1289713,11.6032964,DE
+Kaufring,Kaufring,department_store,48.128469,11.602449,DE
+Telekom Shop,Telekom Shop,mobile_phone,48.1280821,11.6024303,DE
+Kubi Coiffeur,Kubi Coiffeur,hairdresser,48.1282002,11.6018332,DE
+Velo am Ostbahnhof,Velo am Ostbahnhof,bicycle,48.1282021,11.6016461,DE
+Velo am Ostbahnhof - Werkstatt,Velo am Ostbahnhof - Werkstatt,bicycle,48.1279678,11.6016248,DE
+Biometzgerei Pichler,Biometzgerei Pichler,butcher,48.1284022,11.601511,DE
+Apollo-Optik,Apollo-Optik,optician,48.128217,11.6014683,DE
+Nepal Haus,Nepal Haus,restaurant,48.1284027,11.6013807,DE
+KRASS Optik,KRASS Optik,optician,48.1284172,11.6010932,DE
+Vinzenzmurr,Vinzenzmurr,butcher,48.128238,11.6010132,DE
+Jacques' Wein-Depot,Jacques' Wein-Depot,wine,48.1282306,11.6011718,DE
+Kubi,Kubi,beauty,48.1282498,11.6007534,DE
+Biba Cosmetic,Biba Cosmetic,beauty,48.1284256,11.6009652,DE
+Richter Optik,Richter Optik,optician,48.1284383,11.6007353,DE
+Clemente,Clemente,clothes,48.1284819,11.6005471,DE
+Wimmer,Wimmer,bakery,48.1286556,11.6002938,DE
+Kelling Textilpflege,Kelling Textilpflege,dry_cleaning,48.1287493,11.6001382,DE
+Print-Werk,Print-Werk,copyshop,48.1289045,11.5995187,DE
+bliss,bliss,clothes,48.1293804,11.5991791,DE
+Café im Hinterhof,Café im Hinterhof,cafe,48.1295684,11.5994249,DE
+1260 Grad - Werkstatt für Keramik,1260 Grad - Werkstatt für Keramik,pottery,48.1294798,11.5990566,DE
+Rudolf Pieper,Rudolf Pieper,books,48.1295849,11.5988874,DE
+Keramikunst & Pinselstrich,Keramikunst & Pinselstrich,pottery,48.128533,11.5984599,DE
+Rosenkavalier,Rosenkavalier,florist,48.12995,11.5980059,DE
+Fortuna Cafébar,Fortuna Cafébar,cafe,48.129749,11.598075,DE
+Kalami,Kalami,restaurant,48.1295061,11.5973219,DE
+Atelier Metz. K36,Atelier Metz. K36,art,48.1292992,11.5970414,DE
+Be4 Beauty,Be4 Beauty,beauty,48.1291994,11.5972683,DE
+Living 4 flowers,Living 4 flowers,florist,48.1289778,11.5965628,DE
+Piazzetta,Piazzetta,restaurant,48.1287847,11.5966717,DE
+VITALIA Reformhaus,VITALIA Reformhaus,health_food,48.1283907,11.5967051,DE
+Weltladen,Weltladen,convenience,48.1283836,11.5975288,DE
+Buch & Töne,Buch & Töne,books,48.1284014,11.5971061,DE
+Bäckerei Schifferl,Bäckerei Schifferl,bakery,48.1283889,11.5972121,DE
+Betten Lenz,Betten Lenz,bed,48.1285875,11.5974909,DE
+Sunpoint,Sunpoint,beauty,48.1285894,11.5976197,DE
+Alnatura Super Natur Markt,Alnatura Super Natur Markt,supermarket,48.1283751,11.5978309,DE
+EuroShop,EuroShop,variety_store,48.1285822,11.5977833,DE
+Paul Gallery,Paul Gallery,art,48.1283638,11.5980837,DE
+Friseursalon Zora,Friseursalon Zora,hairdresser,48.1283062,11.5981842,DE
+Fielmann,Fielmann,optician,48.1285464,11.5982446,DE
+Zeal‘s Tattoo Atelier,Zeal‘s Tattoo Atelier,tattoo,48.1283512,11.5982848,DE
+Siculi,Siculi,gift,48.1283014,11.5983467,DE
+Eveline Köhler Schmuckdesign,Eveline Köhler Schmuckdesign,jewelry,48.1290007,11.5997318,DE
+philo_sophie,philo_sophie,clothes,48.1285285,11.5985893,DE
+Dolezel,Dolezel,locks,48.1283387,11.5986496,DE
+Pablo's Getränkemarkt,Pablo's Getränkemarkt,beverages,48.12834,11.5987875,DE
+Müller,Müller,chemist,48.1285284,11.5990655,DE
+Club Kino Mode,Club Kino Mode,clothes,48.1283286,11.5989763,DE
+Troy Salon,Troy Salon,hairdresser,48.1285231,11.59917,DE
+Haidhauser Buchladen,Haidhauser Buchladen,books,48.1285214,11.5992451,DE
+Schuhhaus Werdich,Schuhhaus Werdich,shoes,48.1285052,11.5996635,DE
+HIFI Concept,HIFI Concept,hifi,48.1282797,11.5995723,DE
+Senzera Waxingstudio,Senzera Waxingstudio,beauty,48.1286086,11.5998582,DE
+Eiscafé Gondola,Eiscafé Gondola,ice_cream,48.1282393,11.5996648,DE
+DER Reisebüro,DER Reisebüro,travel_agency,48.1280856,11.5998966,DE
+Fresh House,Fresh House,cafe,48.1280468,11.5994412,DE
+Spezlwirtschaft,Spezlwirtschaft,restaurant,48.1278283,11.5994991,DE
+Dilo,Dilo,restaurant,48.1275272,11.5985998,DE
+Zweitbrotladen,Zweitbrotladen,bakery,48.1274493,11.5984898,DE
+Konstantinos,Konstantinos,tailor,48.1262312,11.597571,DE
+Gravieranstalt Müller,Gravieranstalt Müller,stamping,48.1263349,11.5967018,DE
+Friseursalon Karl,Friseursalon Karl,hairdresser,48.1256066,11.5958797,DE
+Polo Motorrad Store München-Süd,Polo Motorrad Store München-Süd,motorcycle,48.1239559,11.5965118,DE
+Mareli,Mareli,restaurant,48.1241543,11.5969352,DE
+Metzgerei Steinmaier,Metzgerei Steinmaier,butcher,48.1242917,11.5968349,DE
+Handyklinik,Handyklinik,mobile_phone,48.1236305,11.5968374,DE
+Trimi Haircut,Trimi Haircut,hairdresser,48.1133695,11.6167091,DE
+Claudias Haarwerk,Claudias Haarwerk,hairdresser,48.1156085,11.6258037,DE
+Mode Paris,Mode Paris,clothes,48.1180574,11.6244127,DE
+Hautnah,Hautnah,beauty,48.1185275,11.6242108,DE
+Steinheil Sechzehn,Steinheil Sechzehn,restaurant,48.1498533,11.5642279,DE
+Giorgia Trattoria,Giorgia Trattoria,restaurant,48.1284622,11.5944386,DE
+Änderungsschneiderei Hamid,Änderungsschneiderei Hamid,tailor,48.1264973,11.591502,DE
+Lotto Toto Marengo,Lotto Toto Marengo,kiosk,48.1268411,11.5920124,DE
+Late 4 U,Late 4 U,kiosk,48.1836875,11.6079058,DE
+Wein&Vinos,Wein&Vinos,wine,48.1292592,11.6017094,DE
+Tout oder Sie,Tout oder Sie,restaurant,48.1306208,11.6056938,DE
+Ristorante il Padrino,Ristorante il Padrino,restaurant,48.1332551,11.6035652,DE
+Zum Kloster,Zum Kloster,restaurant,48.1322981,11.6006934,DE
+Feinkost L'Angolino,Feinkost L'Angolino,deli,48.1306374,11.5994249,DE
+Gerrit Habenei,Gerrit Habenei,hairdresser,48.128843,11.6010549,DE
+Lottibar,Lottibar,cafe,48.128618,11.6006988,DE
+Hamberger,Hamberger,fuel,48.1264585,11.6068257,DE
+Porto Cervo,Porto Cervo,restaurant,48.1541857,11.5625301,DE
+Coconut Bowl,Coconut Bowl,restaurant,48.1552693,11.5617191,DE
+Il Mulino,Il Mulino,restaurant,48.1541714,11.5677157,DE
+Wirtshaus Görreshof,Wirtshaus Görreshof,restaurant,48.1561371,11.562054,DE
+Michl,Michl,bakery,48.1545839,11.5614767,DE
+Marie-Therese Gasthaus,Marie-Therese Gasthaus,restaurant,48.135323,11.5534517,DE
+Tepsija,Tepsija,restaurant,48.1268027,11.5972096,DE
+El Español,El Español,restaurant,48.1289357,11.6011917,DE
+Batteriezentrale,Batteriezentrale,battery,48.1857582,11.5721905,DE
+Bäckerei Neulinger,Bäckerei Neulinger,bakery,48.1310935,11.59968,DE
+Pelze Ilias,Pelze Ilias,clothes,48.1312176,11.5994973,DE
+Rita Roth,Rita Roth,florist,48.131278,11.5994057,DE
+Munix Finest Bicycles,Munix Finest Bicycles,bicycle,48.1314512,11.5991331,DE
+Brompton Junction,Brompton Junction,bicycle,48.1314275,11.5991735,DE
+Satluj,Satluj,restaurant,48.1315887,11.598935,DE
+Jun,Jun,restaurant,48.1316804,11.5988006,DE
+Café Voilà,Café Voilà,restaurant,48.1318547,11.5985318,DE
+Venus Moden,Venus Moden,clothes,48.1320659,11.5982118,DE
+Chocolatte,Chocolatte,bakery,48.1321263,11.5981203,DE
+Mehak,Mehak,restaurant,48.1332545,11.6013296,DE
+Friseurstüberl Ludwig,Friseurstüberl Ludwig,hairdresser,48.1324561,11.5990266,DE
+Fotolabor Sedan Sieben,Fotolabor Sedan Sieben,photographic_lab,48.1307255,11.597232,DE
+Taverna Diyar,Taverna Diyar,restaurant,48.1312092,11.5988326,DE
+Wohnen & Accessoires,Wohnen & Accessoires,interior_decoration,48.1308637,11.5993444,DE
+Biagio Semeraro,Biagio Semeraro,hairdresser,48.1295363,11.5972094,DE
+Sanji's Restaurant & Bar,Sanji's Restaurant & Bar,restaurant,48.1296306,11.5965567,DE
+Rue des Halles,Rue des Halles,restaurant,48.1331558,11.5959506,DE
+Holi,Holi,restaurant,48.1294277,11.5949049,DE
+Café Wiener Platz,Café Wiener Platz,cafe,48.1340866,11.5964161,DE
+Vollcorner,Vollcorner,supermarket,48.1342594,11.5971612,DE
+Johannis-Café,Johannis-Café,cafe,48.1335828,11.597132,DE
+Sorry Johnny,Sorry Johnny Coffee Bar,cafe,48.1320188,11.5975348,DE
+Pizzeria Vicari,Pizzeria Vicari,restaurant,48.1311506,11.596602,DE
+Klimentis Restaurant,Klimentis Restaurant,restaurant,48.1321518,11.5914344,DE
+Änderungsatelier,Änderungsatelier,tailor,48.1295724,11.5945248,DE
+Qassap kebap house,Qassap kebap house,restaurant,48.1282761,11.5935025,DE
+Backspielhaus,Backspielhaus,cafe,48.1282874,11.5940014,DE
+Kranich Reisen,Kranich Reisen,travel_agency,48.1283326,11.5945712,DE
+Das Bad,Das Bad,restaurant,48.1363416,11.5497718,DE
+Mykonos,Mykonos,restaurant,48.1092785,11.5383333,DE
+Taverna Lakis,Taverna Lakis,restaurant,48.1545082,11.5666645,DE
+Detterbeck,Detterbeck,cafe,48.1394705,11.5004093,DE
+TeleCenter,TeleCenter,kiosk,48.130026,11.6226241,DE
+Café Bar MBH,Café Bar MBH,cafe,48.18469,11.567814,DE
+Royal Garden,Royal Garden,restaurant,48.1130101,11.6766322,DE
+MAHAG Volkswagen-Zentrum München,MAHAG Volkswagen-Zentrum München,car,48.1280023,11.5899946,DE
+Lotto Toto,Lotto Toto,kiosk,48.111911,11.6756339,DE
+Feinkost Kara,Feinkost Kara,greengrocer,48.1120042,11.6757823,DE
+Traublinger,Traublinger,bakery,48.1120602,11.675866,DE
+IchiBan,IchiBan,restaurant,48.1175853,11.6911902,DE
+Getränke City Trudering,Getränke City Trudering,beverages,48.1160612,11.6813078,DE
+Eichele,Eichele,fuel,48.1087811,11.6634879,DE
+Antica Cantina,Antica Cantina,restaurant,48.1160149,11.6810903,DE
+Trattoria La Palma,Trattoria La Palma,restaurant,48.1207421,11.6086006,DE
+Greek Stüberl,Greek Stüberl,restaurant,48.1218157,11.5993796,DE
+Halali,Halali,restaurant,48.1456151,11.5818112,DE
+Biomarkt Stemmerhof,Biomarkt Stemmerhof,supermarket,48.1217681,11.540513,DE
+ÖEins,ÖEins,restaurant,48.1217033,11.5403057,DE
+Shoya,Shoya,restaurant,48.137349,11.5792627,DE
+Xaver's,Xaver's,restaurant,48.1340828,11.579799,DE
+The Pham's,The Pham's,restaurant,48.156733,11.5752813,DE
+Marinella,Marinella,restaurant,48.1331035,11.6072835,DE
+Taverna Paros,Taverna Paros,restaurant,48.133918,11.6018567,DE
+Mehfil,Mehfil,restaurant,48.1184917,11.5334921,DE
+Le Jardin,Le Jardin,restaurant,48.1295151,11.5889861,DE
+Kaimug,Kaimug,restaurant,48.1406128,11.5750208,DE
+Tambosi Hofgarten,Tambosi Hofgarten,cafe,48.1429189,11.5782954,DE
+Alma - Supermarkt,Alma - Supermarkt,supermarket,48.1960648,11.5838668,DE
+Metzgerei Kollmer,Metzgerei Kollmer,butcher,48.1960047,11.583572,DE
+BROS GETRÄNKE & TABAK,BROS GETRÄNKE & TABAK,kiosk,48.1960577,11.5826914,DE
+Wirtshaus Valley’s,Wirtshaus Valley’s,restaurant,48.1172204,11.5449862,DE
+Bombay Palace,Bombay Palace,restaurant,48.1224784,11.6132433,DE
+bike concepts,bike concepts,bicycle,48.1220359,11.5400095,DE
+Zum blauen Stern,Zum blauen Stern,restaurant,48.1155366,11.541413,DE
+Das kleine Backhaus,Das kleine Backhaus,bakery,48.1003351,11.5385991,DE
+Roslyn Hair Design,Roslyn Hair Design,hairdresser,48.1238627,11.6567987,DE
+Wok,Wok,restaurant,48.1240024,11.6562721,DE
+Bei Ling,Bei Ling,restaurant,48.1671652,11.570476,DE
+Lupo,Lupo,restaurant,48.1664005,11.5697797,DE
+La Piazza,La Piazza,restaurant,48.1698215,11.5787798,DE
+Villa Toscana,Villa Toscana,restaurant,48.1227961,11.6654868,DE
+HONDA Motostar,HONDA Motostar,motorcycle,48.1238235,11.6707623,DE
+Blumenbinderei Schampera-Harder,Blumenbinderei Schampera-Harder,florist,48.1216197,11.6703039,DE
+Gasthof Obermaier,Gasthof Obermaier,restaurant,48.1216745,11.6701681,DE
+Metzgerei Max Obermaier,Metzgerei Max Obermaier,butcher,48.1217404,11.6700393,DE
+Backstube Wünsche,Backstube Wünsche,bakery,48.1250487,11.6548635,DE
+Mikado Feinkost,Mikado Feinkost,deli,48.1239768,11.6579269,DE
+Sahan Supermarkt,Sahan Supermarkt,convenience,48.1235574,11.6575145,DE
+Alter Wirt,Alter Wirt,restaurant,48.1004971,11.544996,DE
+A.T.U,A.T.U,car_repair,48.1225597,11.6627349,DE
+Bet 3000,Bet 3000,bookmaker,48.1241332,11.6659253,DE
+Tapeten Huber,Tapeten Huber,wallpaper,48.1240924,11.6660291,DE
+Haar Stubn,Haar Stubn,hairdresser,48.1229605,11.6681186,DE
+296 - TwoNineSix,296 - TwoNineSix,clothes,48.1228266,11.6681543,DE
+Schreibwaren-Lotto Kade,Schreibwaren-Lotto Kade,stationery,48.1228162,11.6682703,DE
+Juwelier Baier,Juwelier Baier,jewelry,48.1225191,11.6686469,DE
+Bäckerei Traublinger,Bäckerei Traublinger,bakery,48.1222462,11.6691485,DE
+Sun Nails,Sun Nails,beauty,48.121632,11.6628672,DE
+Coiffeur Atelier,Coiffeur Atelier,hairdresser,48.1216568,11.6627667,DE
+Trattoria Tiberio,Trattoria Tiberio,restaurant,48.1216911,11.6626624,DE
+Surya,Surya,restaurant,48.1204857,11.6720122,DE
+Ohana,Ohana,restaurant,48.1669462,11.5732053,DE
+Ohayou,Ohayou,restaurant,48.1673164,11.5737459,DE
+Baumkirchner,Baumkirchner,restaurant,48.1271172,11.6298525,DE
+Weißes Bräuhaus,Weißes Bräuhaus,restaurant,48.1276398,11.6297863,DE
+vit:bikes,vit:bikes,bicycle,48.1264446,11.6312465,DE
+Kaminstube,Kaminstube,restaurant,48.1325845,11.6619931,DE
+Poseidon,Poseidon,restaurant,48.1411105,11.6617738,DE
+Irodion,Irodion,restaurant,48.1396589,11.6487533,DE
+VollCorner Bio,VollCorner Bio,supermarket,48.1460625,11.637707,DE
+Taj,Taj,restaurant,48.1473013,11.6843201,DE
+IT Corner,IT Corner,restaurant,48.1508731,11.6829939,DE
+Paganini,Paganini,restaurant,48.1801476,11.5995931,DE
+Rüen Thong,Rüen Thong,restaurant,48.1509952,11.5486745,DE
+Norma,Norma,supermarket,48.1276918,11.6341012,DE
+Kreiller's,Kreiller's,restaurant,48.1277397,11.6339939,DE
+RAM'S Food Market,RAM'S Food Market,bakery,48.1392564,11.5177244,DE
+Bäckerei Balkania,Bäckerei Balkania,bakery,48.1398354,11.5179816,DE
+ILGUSTO,ILGUSTO,restaurant,48.1469231,11.6404019,DE
+Getränke Schön,Getränke Schön,beverages,48.1184902,11.6278574,DE
+Rokko's Wirtshaus und Pension,Rokko's Wirtshaus und Pension,restaurant,48.1173219,11.6554276,DE
+Autohof Altenwerder,Autohof Altenwerder,fuel,53.5130531,9.9138334,DE
+Das Bauernhaus,Das Bauernhaus,restaurant,53.5805153,9.9055684,DE
+Mr. Wash,Mr. Wash,fuel,53.5640329,9.9235889,DE
+SB 24,SB 24,fuel,53.5601168,9.9301242,DE
+Café am Planschbecken,Café am Planschbecken,cafe,53.5966611,10.0215259,DE
+Nehberg,Nehberg,bakery,53.5921782,10.076186,DE
+POCO,POCO,furniture,53.5894256,10.0991793,DE
+Konditorei Nehberg,Konditorei Nehberg,bakery,53.5876262,10.0869543,DE
+Bauhaus,Bauhaus,doityourself,53.5769521,10.0809685,DE
+Markant,Markant,kiosk,53.5772062,10.0837055,DE
+Schollmeyer,Schollmeyer,electronics,53.5799727,10.0817794,DE
+Cafe Bistro ATW,Cafe Bistro ATW,bakery,53.5879879,10.0701545,DE
+Fahrrad Nielandt,Fahrrad Nielandt,bicycle,53.5840296,10.076958,DE
+Fahrrad Dulsberg,Fahrrad Dulsberg,bicycle,53.5807998,10.0598267,DE
+1000 Räder,1000 Räder,bicycle,53.5772732,10.0581247,DE
+Taverna Metaxa,Taverna Metaxa,restaurant,53.5817607,10.0633549,DE
+Paulaner's,Paulaner's,restaurant,53.5505024,9.9809707,DE
+Spicy - Hotpot & Hunan cuisine 辣师傅,Spicy - Hotpot & Hunan cuisine 辣师傅,restaurant,53.5636292,10.0333115,DE
+Schweinske,Schweinske,restaurant,53.5610317,10.0312569,DE
+BLOCK HOUSE,BLOCK HOUSE,restaurant,53.5715814,10.0699098,DE
+Ambulante Senioren- und Krankenbetreuung Dabrowska GmbH,Ambulante Senioren- und Krankenbetreuung Dabrowska GmbH,kiosk,53.5813226,10.0803596,DE
+LüttLiv,LüttLiv,restaurant,53.5857798,10.0449119,DE
+Freie Tankstelle,Freie Tankstelle,fuel,53.5654693,10.0409619,DE
+T.R.U.D.E.,T.R.U.D.E.,restaurant,53.5850016,10.0450945,DE
+Chi,Chi,beauty,53.5531199,10.0033261,DE
+Café May,Café May,cafe,53.5796013,10.0252884,DE
+Süshi-Express Lakritz-Depot,Süshi-Express Lakritz-Depot,confectionery,53.5831699,10.0708182,DE
+Ethio,Ethio,restaurant,53.549477,9.9274846,DE
+Trattoria Toscana,Trattoria Toscana,restaurant,53.5475906,9.9292942,DE
+La Casita Azul,La Casita Azul,restaurant,53.5512302,9.9307274,DE
+Olympisches Feuer,Olympisches Feuer,restaurant,53.5609384,9.963111,DE
+Jeff's Cheesecake Café,Jeff's Cheesecake Café,cafe,53.5969403,10.0048452,DE
+Der Kiezbäcker,Der Kiezbäcker,bakery,53.5490935,9.9597973,DE
+Pavillon,Pavillon,cafe,53.5510058,9.9253374,DE
+Blaue Adria,Blaue Adria,restaurant,53.5351344,10.0415824,DE
+SB-Waschcenter,SB-Waschcenter,laundry,53.533654,10.0455321,DE
+MRT Bikes,MRT Bikes,bicycle,53.5855903,10.0331957,DE
+Radladen,Radladen,bicycle,53.5565216,9.9186681,DE
+Tipico,Tipico,bookmaker,53.578709,10.0397656,DE
+Condomerie Hamburg,Condomerie Hamburg,gift,53.5492799,9.9646584,DE
+Haerlin,Haerlin,restaurant,53.5557185,9.9916858,DE
+Schanzenbäcker,Schanzenbäcker,bakery,53.544986,10.0226721,DE
+Bäckerei Allaf,Bäckerei Allaf,bakery,53.5453278,10.0224439,DE
+Schanzenbäckerei,Schanzenbäckerei,bakery,53.5456124,10.0248212,DE
+Frischemarkt Wang,Frischemarkt Wang,convenience,53.5471272,10.0554074,DE
+Piccolo Paradiso,Piccolo Paradiso,restaurant,53.5514359,9.9809243,DE
+Restaurant Adria,Restaurant Adria,restaurant,53.5447491,10.0895845,DE
+Fuhle Kiosk,Fuhle Kiosk,kiosk,53.598362,10.0416868,DE
+Gräber Räder,Gräber Räder,bicycle,53.5978109,10.0421087,DE
+dieda Reinigung,dieda Reinigung,dry_cleaning,53.5977386,10.0421524,DE
+Spätkauf in der Fuhle,Spätkauf in der Fuhle,convenience,53.5976677,10.0422162,DE
+Poren Tief,Poren Tief,beauty,53.5975052,10.0423234,DE
+Orchideen Palast,Orchideen Palast,restaurant,53.5966438,10.0435783,DE
+YING Thai Massage,YING Thai Massage,massage,53.5802087,9.9464135,DE
+Waxcat,Waxcat,beauty,53.5500401,9.9984366,DE
+Kamiros,Kamiros,restaurant,53.5977583,10.0428056,DE
+Salon Uta,Salon Uta,hairdresser,53.596152,10.0437361,DE
+Dallmeyers Backhus,Dallmeyers Backhus,bakery,53.5944598,10.0443866,DE
+Nik Café,Nik Café,kiosk,53.5792935,10.0258351,DE
+Tre Pazzi,Tre Pazzi,cafe,53.5788223,10.0140897,DE
+peco Hockey,peco Hockey,sports,53.5779126,10.0146298,DE
+Kaufhaus Kleinschmidt - Altes & Schönes,Kaufhaus Kleinschmidt - Altes & Schönes,kiosk,53.5809908,10.0192481,DE
+Johs-Bike Service,Johs-Bike Service,bicycle,53.5779909,10.0188085,DE
+Pritsch,Pritsch,bakery,53.5761226,10.0238954,DE
+Wäscherei Kinne,Wäscherei Kinne,laundry,53.5762419,10.0242255,DE
+EDEKA Linow,EDEKA Linow,supermarket,53.5774719,10.0210212,DE
+New Balance,New Balance,shoes,53.5519406,10.0030218,DE
+Schulterblatt Bike's,Schulterblatt Bike's,bicycle,53.5656512,9.9591357,DE
+Erika's Eck,Erika's Eck,restaurant,53.5610678,9.9675684,DE
+La Sepia,La Sepia,restaurant,53.5589306,9.9645671,DE
+Pamukkale Köz,Pamukkale Köz,restaurant,53.5624282,9.9634528,DE
+Souperia,Souperia,restaurant,53.5617024,9.9648113,DE
+Schanzenstern Bio-Restaurant,Schanzenstern Bio-Restaurant,restaurant,53.5536162,9.9302063,DE
+em - breakfast. coffee. waffles. drinks.,em - breakfast. coffee. waffles. drinks.,cafe,53.5590133,9.9645108,DE
+Hatari,Hatari,restaurant,53.5593936,9.9645183,DE
+Asia House,Asia House,restaurant,53.5597713,9.9639605,DE
+Gül Markt,Gül Markt,convenience,53.5058963,9.9927728,DE
+Bamboo,Bamboo,restaurant,53.5013399,10.07993,DE
+Avanti Bistro,Avanti Bistro,kiosk,53.5840519,10.0202974,DE
+ALDI Nord,ALDI Nord,supermarket,53.5843464,10.0177036,DE
+Wasch Center,Wasch Center,laundry,53.5840762,10.0192393,DE
+China-Restaurant Ming Dynastie,China-Restaurant Ming Dynastie,restaurant,53.5728594,10.0635049,DE
+Nino's Eiscafe,Nino's Eiscafe,cafe,53.5331813,10.039865,DE
+Mensa Blattwerk,Mensa Blattwerk,restaurant,53.5656295,9.9852309,DE
+Unser Markt,Unser Markt,supermarket,53.565994,9.986871,DE
+Gran Sasso,Gran Sasso,restaurant,53.565001,9.9869465,DE
+MoHo's,MoHo's,cafe,53.564869,9.987091,DE
+Café Canela,Café Canela,cafe,53.5627144,9.9890018,DE
+Schiwi,Schiwi,computer,53.5942053,9.9975012,DE
+Jam Jam,Jam Jam,restaurant,53.5734328,10.0705985,DE
+Ni Hao,Ni Hao,restaurant,53.5752095,10.0744829,DE
+Rodizio Rio,Rodizio Rio,restaurant,53.5754515,10.0751321,DE
+Das Peace,Das Peace,restaurant,53.5585523,9.9751236,DE
+Variable,Variable,restaurant,53.5591638,9.975182,DE
+Inos,Inos,restaurant,53.5572346,10.0525774,DE
+Edeka Wiedner,Edeka Wiedner,supermarket,53.5623097,9.9501304,DE
+Blattgold,Blattgold,restaurant,53.5627701,9.9608184,DE
+Hofladen,Hofladen,farm,53.5226614,10.0678277,DE
+Moorfleeter Getränkemarkt,Moorfleeter Getränkemarkt,alcohol,53.5015931,10.0795646,DE
+Feldstern,Feldstern,restaurant,53.5579557,9.9674188,DE
+La Casita,La Casita,restaurant,53.5575054,9.9676474,DE
+Rosenhof,Rosenhof,restaurant,53.5634018,9.9813691,DE
+Eis-Livotto,Eis-Livotto,cafe,53.5629016,9.9774846,DE
+Frucht & Salatbar,Frucht & Salatbar,greengrocer,53.5995852,9.9637333,DE
+Tarifa,Tarifa,restaurant,53.5531624,9.931217,DE
+Knuth,Knuth,cafe,53.5530564,9.9310803,DE
+Die kleine Konditorei,Die kleine Konditorei,bakery,53.5791848,9.9557952,DE
+Mama Rosa,Mama Rosa,restaurant,53.5801832,9.9615764,DE
+Kiosk Industry,Kiosk Industry,convenience,53.5809571,9.9573749,DE
+Taverna Lefkas,Taverna Lefkas,restaurant,53.5729398,10.0443965,DE
+CAP-Markt,CAP-Markt,supermarket,53.5824937,10.0271125,DE
+Jörg Northe GmbH,Jörg Northe GmbH,trade,53.5368779,10.0374259,DE
+Peter Pane,Peter Pane,restaurant,53.5595059,10.0136866,DE
+Casse-Croûte,Casse-Croûte,restaurant,53.5545585,9.9861813,DE
+Quán 99,Quán 99,restaurant,53.5745095,10.0586561,DE
+Marquardt Küchen,Marquardt Küchen,kitchen,53.5522663,10.0403674,DE
+Restaurantkneipe Hardy's,Restaurantkneipe Hardy's,restaurant,53.5744652,9.9637627,DE
+Das Lokal,Das Lokal,restaurant,53.5752192,9.9662217,DE
+Herzstück Eimsbüttel,Herzstück Eimsbüttel,restaurant,53.5739746,9.9618109,DE
+Ristorante Terzetto,Ristorante Terzetto,restaurant,53.5657138,9.9792639,DE
+Heemann,Heemann,restaurant,53.5789044,9.964622,DE
+SVAAdish,SVAAdish,restaurant,53.5691429,9.9634498,DE
+Chamant,Chamant,restaurant,53.5967297,9.9326875,DE
+Apollon bei Pano,Apollon bei Pano,restaurant,53.5994624,9.922237,DE
+Cup'n Go,Cup'n Go,restaurant,53.5675449,9.9812512,DE
+Nur Hier,Nur Hier,bakery,53.5670833,9.9805896,DE
+Kinh Do,Kinh Do,restaurant,53.5680405,9.9799345,DE
+Edeka Anders,Edeka Anders,supermarket,53.5683667,9.9804125,DE
+Saliza Café,Saliza Café,cafe,53.5696033,9.9796248,DE
+Junge,Junge,bakery,53.5681246,9.9880727,DE
+Edeka Niemerszein & Co,Edeka Niemerszein & Co,supermarket,53.5723837,9.9876283,DE
+Edeka Niemerszein,Edeka Niemerszein,supermarket,53.5758456,9.9540439,DE
+Café Douro,Café Douro,cafe,53.5708444,9.9788956,DE
+Medic-Hair,Medic-Hair,wigs,53.5843616,9.9967808,DE
+Fischereihafen Restaurant,Fischereihafen Restaurant,restaurant,53.5444951,9.9358863,DE
+Das Feuerschiff,Das Feuerschiff,restaurant,53.5435215,9.9789345,DE
+La Veneziana,La Veneziana,cafe,53.5677668,9.9815113,DE
+Abaton Bistro,Abaton Bistro,restaurant,53.567628,9.9818536,DE
+copyteam,copyteam,copyshop,53.5681988,9.9822689,DE
+Dat Backhus,Dat Backhus,bakery,53.541232,9.9932394,DE
+Sala Thai,Sala Thai,restaurant,53.5411869,9.992861,DE
+Surfkitchen,Surfkitchen,restaurant,53.5411613,9.992955,DE
+Campus Suite,Campus Suite,cafe,53.5418192,9.9931964,DE
+Vietnam Town,Vietnam Town,restaurant,53.5414305,9.9908822,DE
+Al Lido,Al Lido,restaurant,53.5414885,9.9917193,DE
+Preis-Oase,Preis-Oase,department_store,53.551874,9.9370165,DE
+St.Georg Bäckerei,St.Georg Bäckerei,bakery,53.5576458,10.0207228,DE
+Akari,Akari,restaurant,53.5685948,10.0179007,DE
+Tjaden's Bio Frischemarkt Neustadt,Tjaden's Bio Frischemarkt Neustadt,supermarket,53.5502468,9.9816006,DE
+Mr. Baker,Mr. Baker,bakery,53.5776072,9.9474078,DE
+Heymann,Heymann,books,53.5766954,9.9494152,DE
+Deichmann,Deichmann,shoes,53.5763518,9.9492221,DE
+Oster Tailor,Oster Tailor,tailor,53.5790956,9.9465484,DE
+Betriebssportcasino,Betriebssportcasino,restaurant,53.5479824,10.0308402,DE
+Schönes Leben,Schönes Leben,restaurant,53.5455304,9.9976168,DE
+El Tequito,El Tequito,restaurant,53.546044,9.9537841,DE
+OUT-FIT,OUT-FIT,hairdresser,53.5824032,9.9727525,DE
+Domino,Domino,toys,53.5822464,9.9724194,DE
+Maihan,Maihan,restaurant,53.5829187,9.9753311,DE
+Bierspezi,Bierspezi,beverages,53.5832598,9.969993,DE
+Mangold,Mangold,restaurant,53.5629788,9.9187575,DE
+Lavish,Lavish,beauty,53.5637108,9.9160315,DE
+Castello,Castello,restaurant,53.5926147,9.9297722,DE
+Vasco da Gama,Vasco da Gama,restaurant,53.5578894,10.0116622,DE
+Deli Indo,Deli Indo,restaurant,53.5621481,10.0171116,DE
+Casa Romana,Casa Romana,restaurant,53.5553859,10.0088494,DE
+von Allwörden,von Allwörden,bakery,53.5563908,9.9905584,DE
+OIL!,OIL!,fuel,53.5467265,9.985114,DE
+Bäckerei Sankt Georg,Bäckerei Sankt Georg,bakery,53.5567404,10.0170813,DE
+Express Waschcenter,Express Waschcenter,laundry,53.5553852,10.0120305,DE
+KiK,KiK,clothes,53.555349,10.0097397,DE
+Iranisches Molana,Iranisches Molana,restaurant,53.5558052,10.0152141,DE
+Beira Rio,Beira Rio,restaurant,53.5459198,9.9729233,DE
+Big Bull,Big Bull,restaurant,53.550945,9.9796445,DE
+EDEKA Frähmcke,EDEKA Frähmcke,supermarket,53.5502442,9.9786697,DE
+Ola Lisboa,Ola Lisboa,restaurant,53.5460212,9.9752488,DE
+Porto,Porto,restaurant,53.5457976,9.97533,DE
+Casa del Sabor,Casa del Sabor,restaurant,53.5456541,9.9753488,DE
+D. Jose,D. Jose,restaurant,53.5459028,9.975904,DE
+O Farol,O Farol,restaurant,53.546143,9.975869,DE
+Casa Madeira,Casa Madeira,restaurant,53.5460974,9.9756454,DE
+Mehndi Restaurant & Bar,Mehndi Restaurant & Bar,restaurant,53.5458858,9.9762129,DE
+Panthera Rodizio,Panthera Rodizio,restaurant,53.5461603,9.9769651,DE
+Nello,Nello,restaurant,53.5458381,9.9742866,DE
+Old Commercial Room,Old Commercial Room,restaurant,53.5481753,9.9779081,DE
+Hairstylist ali aslan,Hairstylist ali aslan,hairdresser,53.5707204,10.027407,DE
+Hamburg Supermarkt,Hamburg Supermarkt,supermarket,53.5484752,10.013237,DE
+Il Siciliano,Il Siciliano,restaurant,53.5550049,9.9802903,DE
+Riads,Riads,restaurant,53.5548491,9.9800543,DE
+Foto Wannack,Foto Wannack,photo,53.5511228,9.9773344,DE
+Kleinhuis Cafe&Weinstube,Kleinhuis Cafe&Weinstube,restaurant,53.5512754,9.9773362,DE
+Jour fixe,Jour fixe,cafe,53.5774137,9.9770362,DE
+Heinrichs Salon,Heinrichs Salon,hairdresser,53.5680316,9.98164,DE
+Café Ines,Café Ines,cafe,53.5942962,9.9442076,DE
+September,September,restaurant,53.556689,9.9748728,DE
+Restaurant Békaa,Restaurant Békaa,restaurant,53.5650457,9.9775912,DE
+Pedalkraft,Pedalkraft,bicycle,53.5648685,9.9774848,DE
+Mama Trattoria,Mama Trattoria,restaurant,53.584592,9.9806334,DE
+YONG korean,YONG korean,restaurant,53.562776,9.9614866,DE
+Meşhur Adıyaman Çiğ Köftecisi,Meşhur Adıyaman Çiğ Köftecisi,restaurant,53.5177754,9.9866895,DE
+Grindel Backhus,Grindel Backhus,bakery,53.59435,9.9965217,DE
+Budnikowsky,Budnikowsky,chemist,53.5944091,9.9967165,DE
+Ristorante da Lui,Ristorante da Lui,restaurant,53.5945771,9.9982416,DE
+Phone Place,Phone Place,mobile_phone,53.5945644,9.9980959,DE
+Effenberger Vollkornbäckerei,Effenberger Vollkornbäckerei,bakery,53.5945442,9.9978617,DE
+EDEKA Frischemarkt Bartels,EDEKA Frischemarkt Bartels,supermarket,53.5950197,9.998796,DE
+Winterhuder Zoo,Winterhuder Zoo,pet,53.5950273,10.0005485,DE
+Wolsdorff,Wolsdorff,tobacco,53.5946268,9.9984643,DE
+Juwelier Harnisch,Juwelier Harnisch,jewelry,53.5951413,9.998233,DE
+Blume 2000,Blume 2000,florist,53.594622,10.0004222,DE
+McPaper,McPaper,stationery,53.5944822,10.0012588,DE
+Sterling media@home,Sterling media@home,electronics,53.594424,10.0006861,DE
+Mamma Leonne,Mamma Leonne,restaurant,53.5811053,9.9696468,DE
+Kiosk,Kiosk,kiosk,53.5629147,9.9487271,DE
+Il Cristallo,Il Cristallo,restaurant,53.563131,9.9489125,DE
+Bulgarische Kost,Bulgarische Kost,convenience,53.5654793,9.9507004,DE
+Holstenbäckerei,Holstenbäckerei,bakery,53.5663033,9.9534698,DE
+Panjaab,Panjaab,restaurant,53.5688397,9.9832316,DE
+UNI-KIOSK,UNI-KIOSK,kiosk,53.5669126,9.9804242,DE
+Lotto,Lotto,kiosk,53.5677874,9.9815283,DE
+Die Waschküche,Die Waschküche,laundry,53.557423,10.0108785,DE
+Blumen-Station Karaolan,Blumen-Station Karaolan,florist,53.5523329,10.008354,DE
+Hortensia,Hortensia,florist,53.5582697,10.0127463,DE
+Grüneberg,Grüneberg,cafe,53.5582266,10.0126711,DE
+Casa Di Roma,Casa Di Roma,restaurant,53.5579898,10.0123232,DE
+HEM Tankstelle,HEM Tankstelle,fuel,53.5887621,9.9308054,DE
+Tjaden's Bio Frischemarkt,Tjaden's Bio Frischemarkt,supermarket,53.5734399,9.9496462,DE
+Mahlzeit Bistro,Mahlzeit Bistro,restaurant,53.544074,9.9237024,DE
+Il Gambero,Il Gambero,restaurant,53.5464189,9.9222532,DE
+Tarantella,Tarantella,restaurant,53.5584999,9.9903117,DE
+SportScheck,SportScheck,sports,53.5508028,9.9962525,DE
+Back Geschwister,Back Geschwister,bakery,53.5513297,9.9951455,DE
+Nostalgia bei Sotiris,Nostalgia bei Sotiris,restaurant,53.550202,9.926919,DE
+Flying Market,Flying Market,restaurant,53.5504244,9.9272788,DE
+Farina di Nonna,Farina di Nonna,restaurant,53.5520897,9.9319939,DE
+Coffee Fellows,Coffee Fellows,cafe,53.5521158,9.9322828,DE
+BOK,BOK,restaurant,53.5520783,9.9332358,DE
+Farina meets Mehl,Farina meets Mehl,restaurant,53.5591667,9.9249321,DE
+La Maison d´Avignon,La Maison d´Avignon,restaurant,53.549683,9.9303866,DE
+GP GetränkeShop,GP GetränkeShop,beverages,53.549302,9.9270488,DE
+Torrefaktum,Torrefaktum,coffee,53.5569476,9.9278603,DE
+Tjaden's BioFrischemarkt,Tjaden's BioFrischemarkt,supermarket,53.5597156,9.9098529,DE
+Hoppe’s Restaurant,Hoppe’s Restaurant,restaurant,53.544623,9.9132769,DE
+Café Elbterrassen,Café Elbterrassen,restaurant,53.5445322,9.9140735,DE
+Zum alten Lotsenhaus,Zum alten Lotsenhaus,restaurant,53.5449087,9.9120362,DE
+Orion,Orion,erotic,53.5948019,10.0436265,DE
+Wheel Work,Wheel Work,bicycle,53.5637203,9.9291871,DE
+Café Mini & Me,Café Mini & Me,cafe,53.5633954,9.9270231,DE
+Schröder Gas,Schröder Gas,fuel,53.5648682,9.926193,DE
+Osteria La Botte,Osteria La Botte,restaurant,53.5635806,9.919318,DE
+B.O.C.,B.O.C.,bicycle,53.5634307,9.9258309,DE
+Unsere Bäckerei & Kiosk,Unsere Bäckerei & Kiosk,bakery,53.5637852,9.9200653,DE
+Kalliopea,Kalliopea,restaurant,53.5982403,10.0379638,DE
+Café-Shop Blueberry,Café-Shop Blueberry,cafe,53.5564901,10.0216254,DE
+Café Berliner Tor,Café Berliner Tor,cafe,53.5571934,10.0228843,DE
+Wunderwerk,Wunderwerk,florist,53.5500967,9.9796124,DE
+Endlich-Salon,Endlich-Salon,cafe,53.5554615,9.9815072,DE
+Double Coffee,Double Coffee,cafe,53.5554532,9.981186,DE
+Room21 Hair,Room21 Hair,hairdresser,53.5547394,9.9799826,DE
+Moria,Moria,tattoo,53.554578,9.9799941,DE
+Kiosk 32,Kiosk 32,newsagent,53.5545822,9.9797196,DE
+Copenhagen Coffee Lab,Copenhagen Coffee Lab,cafe,53.5541161,9.9797517,DE
+Klemann,Klemann,shoes,53.5540442,9.9800509,DE
+Neustadt Kiosk,Neustadt Kiosk,kiosk,53.5524555,9.9805057,DE
+Erika Vaitkute,Erika Vaitkute,household_linen,53.5517835,9.9805717,DE
+Marcus Zernial,Marcus Zernial,hairdresser,53.5521623,9.9802134,DE
+Loving Hut,Loving Hut,restaurant,53.5517302,9.9802985,DE
+Junge + Hay Textilpflege,Junge + Hay Textilpflege,dry_cleaning,53.5503937,9.9780084,DE
+Koech,Koech,bicycle,53.5599481,10.0622412,DE
+Malik Pizza,Malik Pizza,restaurant,53.5722971,9.9500405,DE
+Tabakwaren Andreas Kübbke,Tabakwaren Andreas Kübbke,newsagent,53.5450379,10.0229053,DE
+Sunny´s Shop,Sunny´s Shop,kiosk,53.5344562,10.0409378,DE
+Blumenhaus Kerschke,Blumenhaus Kerschke,florist,53.5344684,10.0407718,DE
+Der Kebap,Der Kebap,restaurant,53.5367134,10.033745,DE
+Schneemann,Schneemann,beverages,53.5344306,10.0419776,DE
+Werkhaus,Werkhaus,stationery,53.5520367,9.9963569,DE
+Pic-a-deli,Pic-a-deli,restaurant,53.5443638,10.025068,DE
+buddha's kitchen,buddha's kitchen,restaurant,53.5442408,9.9392066,DE
+am kai,am kai,restaurant,53.5445569,9.9343431,DE
+Anleger 1870,Anleger 1870,restaurant,53.5657249,10.0191581,DE
+TSK Schuhkontor,TSK Schuhkontor,shoes,53.5996717,9.9162745,DE
+Maquis,Maquis,restaurant,53.5514051,9.9489419,DE

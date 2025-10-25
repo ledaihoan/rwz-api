@@ -1,0 +1,74 @@
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["fullTextSearch", "fullTextIndex"]
+}
+
+datasource db {
+  provider          = "mysql"
+  url               = env("DATABASE_URL")
+  shadowDatabaseUrl = env("SHADOW_DATABASE_URL")
+}
+
+model Country {
+  id         Int      @id @default(autoincrement())
+  iso_3166_2 String   @unique @db.Char(2)
+  iso_3166_3 String   @unique @db.Char(3)
+  name       String   @db.VarChar(100)
+  createdAt  DateTime @default(now())
+
+  users  User[]
+  stores Store[]
+}
+
+model User {
+  id        String                   @id @default(uuid()) @db.Char(36)
+  email     String                   @unique @db.VarChar(255)
+  password  String                   @db.VarChar(255)
+  firstName String                   @db.VarChar(100)
+  lastName  String                   @db.VarChar(100)
+  countryId Int
+  address   String?                  @db.Text
+  latitude  Decimal                  @default(0) @db.Decimal(10, 8)
+  longitude Decimal                  @default(0) @db.Decimal(11, 8)
+  location  Unsupported("POINT")     @default(dbgenerated("(ST_GeomFromText('POINT(0 0)', 4326))"))
+  createdAt DateTime                 @default(now())
+  updatedAt DateTime                 @updatedAt
+
+  country   Country    @relation(fields: [countryId], references: [id])
+  favorites Favorite[]
+
+  @@index([countryId])
+}
+
+model Store {
+  id          String               @id @default(uuid()) @db.Char(36)
+  name        String               @db.VarChar(255)
+  englishName String               @db.VarChar(255)
+  serviceType String               @db.VarChar(100)
+  countryId   Int
+  latitude    Decimal              @db.Decimal(10, 8)
+  longitude   Decimal              @db.Decimal(11, 8)
+  location    Unsupported("POINT") @default(dbgenerated("(ST_GeomFromText('POINT(0 0)', 4326))"))
+  address     String?              @db.Text
+  createdAt   DateTime             @default(now())
+
+  country   Country    @relation(fields: [countryId], references: [id])
+  favorites Favorite[]
+
+  @@index([countryId])
+  @@index([serviceType])
+  @@fulltext([englishName])
+}
+
+model Favorite {
+  id        String   @id @default(uuid()) @db.Char(36)
+  userId    String   @db.Char(36)
+  storeId   String   @db.Char(36)
+  createdAt DateTime @default(now())
+
+  user  User  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  store Store @relation(fields: [storeId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, storeId])
+  @@index([userId])
+}

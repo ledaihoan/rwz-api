@@ -1,0 +1,858 @@
+name,name_en,service_type,lat,lng,country_code
+Christine Sports Cycle Marketing,Christine Sports Cycle Marketing,bicycle,14.5522371,120.9950633,PH
+G and K wine,G and K wine,alcohol,14.5528536,120.9926673,PH
+The Bike Room,The Bike Room,bicycle,14.5507606,120.9955894,PH
+Harry's Liquor Mart,Harry's Liquor Mart,alcohol,14.5534762,120.9925761,PH
+Liana's Supermarket,Liana's Supermarket,supermarket,14.5474077,120.9958981,PH
+Cartimar Orchid Center,Cartimar Orchid Center,garden_centre,14.5514287,120.9970044,PH
+Wine Specialist,Wine Specialist,beverages,14.5536215,120.99367,PH
+Ross Cycle Center,Ross Cycle Center,bicycle,14.5509943,120.9952098,PH
+Byke Cyti,Byke Cyti,bicycle,14.5510559,120.9951904,PH
+Kamakura Japanese Restaurant,Kamakura Japanese Restaurant,restaurant,14.5532842,120.995001,PH
+Max's,Max's,restaurant,14.5326796,120.9936211,PH
+Starbucks,Starbucks,cafe,14.5472631,121.0349809,PH
+Madonna's Cuisine,Madonna's Cuisine,cafe,14.5384516,120.994311,PH
+Shakey's,Shakey's,restaurant,14.5230946,121.0005663,PH
+Philippine Airlines Domestic Road Ticket Office,Philippine Airlines Domestic Road Ticket Office,ticket,14.5266105,121.0001207,PH
+Conrad's Grille,Conrad's Grille,restaurant,14.5264633,120.999684,PH
+SaveMore Market,SaveMore Market,supermarket,14.5379101,120.9999971,PH
+Air Philippines Express Ticket Office,Air Philippines Express Ticket Office,ticket,14.5244431,121.0004421,PH
+Red Ribbon,Kuya-J,bakery,14.5351406,120.9934461,PH
+Chowking,Chowking,restaurant,14.5309775,120.9936733,PH
+Fish Market,Fish Market,seafood,14.5462847,120.9882571,PH
+Spiral,Spiral,restaurant,14.5530715,120.980442,PH
+Rustan's Fresh Market,Rustan's Fresh Market,supermarket,14.536142,121.0185959,PH
+7-Eleven,7-Eleven,convenience,14.5547968,121.0448502,PH
+Phò Bac,Phò Bac,restaurant,14.5539473,121.0479247,PH
+Zhu,Zhu,restaurant,14.5539752,121.048378,PH
+Pancake House,Pancake House,restaurant,14.5511979,121.0498801,PH
+Johnny B. Good,Johnny B. Good,restaurant,14.5523564,121.0256573,PH
+L' Incontro,L' Incontro,restaurant,14.5656627,121.0234328,PH
+Esperanza Flowers,Esperanza Flowers,florist,14.5564209,121.013191,PH
+Internet 168,Internet 168,internet_cafe,14.5631601,121.0284499,PH
+Chihuahua,Chihuahua,restaurant,14.5517598,121.0204948,PH
+Coffee Bean & Tea Leaf,Coffee Bean & Tea Leaf,cafe,14.5652004,121.0365121,PH
+Bacolod Chicken Inasal,Bacolod Chicken Inasal,restaurant,14.5772313,120.9843217,PH
+Opple Lighting Showroom,Opple Lighting Showroom,lighting,14.6577587,121.005628,PH
+Isetann,Isetann,mall,14.6228453,121.0536282,PH
+Rocha's,Rocha's,restaurant,14.6475521,121.0645905,PH
+Goodyear Servitek,Goodyear Servitek,car_repair,14.6083341,121.016877,PH
+Mabuhay Textile Market,Mabuhay Textile Market,fabric,14.6055603,120.9673216,PH
+Texas Roadhouse Grill,Texas Roadhouse Grill,restaurant,14.5506953,121.0498979,PH
+Cafe Apassionato,Cafe Apassionato,bakery,14.56491,121.023048,PH
+Pho 24,Pho 24,restaurant,14.5646374,121.0363767,PH
+Dulceline,Dulceline,restaurant,14.640845,121.0301128,PH
+Pound by Todd English,Pound by Todd English,restaurant,14.5510574,121.0503647,PH
+Aqua Best,Aqua Best,water,14.5797221,121.0629656,PH
+Rj Supermarket,Rj Supermarket,supermarket,14.55948,121.084442,PH
+Pc Options,Pc Options,computer,14.588601,121.04383,PH
+Carwash,Carwash,car_repair,14.6604573,121.0442629,PH
+Chef Robert's Table,Chef Robert's Table,restaurant,14.5105575,120.999087,PH
+TGI Fridays,TGI Fridays,restaurant,14.5510342,121.050637,PH
+Shell,Shell,fuel,14.645381,120.963226,PH
+Automatic Supercentre,Automatic Supercentre,electronics,14.62108,121.055694,PH
+Kaya,Kaya,restaurant,14.5642719,121.0364111,PH
+Greenery Kitchen,Greenery Kitchen,restaurant,14.5721327,121.0135479,PH
+Petron,Petron,fuel,14.6529585,120.9880275,PH
+Via Mare,Via Mare,restaurant,14.5625212,121.011632,PH
+AMA Car Shop,AMA Car Shop,car_repair,14.5769367,121.0804731,PH
+Garden Restaurant,Garden Restaurant,restaurant,14.5638791,121.0295241,PH
+Annabelle Brake Bonding and Clutch Relining,Annabelle Brake Bonding and Clutch Relining,car_repair,14.6655532,121.0059195,PH
+Farmers Market Bargain Center,Farmers Market Bargain Center,mall,14.618551,121.053176,PH
+Shinjuku,Shinjuku,restaurant,14.5534904,121.0140029,PH
+Kenny Rogers Roasters,Kenny Rogers Roasters,restaurant,14.5356583,120.9933392,PH
+Zuchini,Zuchini,restaurant,14.6297352,121.0320469,PH
+Syvels Cubao,Syvels Cubao,shoes,14.62344,121.05606,PH
+Optimum Mo,Optimum Mo,car_repair,14.6249768,120.9983968,PH
+UCC Coffee Café Terrace,UCC Coffee Café Terrace,cafe,14.5502274,121.0447164,PH
+Watami,Watami,restaurant,14.5521165,121.0200362,PH
+Mightee Mart,Mightee Mart,mall,14.6372805,120.9964928,PH
+Ktv,Ktv,restaurant,14.581271,121.077011,PH
+Metro,Metro,fuel,14.6074543,120.9946732,PH
+Prestige Cars,Prestige Cars,car,14.5317541,121.0239271,PH
+Cathay Builders,Cathay Builders,home_furnishing,14.5387993,121.0083515,PH
+Bbq,Bbq,restaurant,14.6861916,121.0901071,PH
+Mila's Lechon,Mila's Lechon,restaurant,14.6258141,120.9902475,PH
+Grill 56,Grill 56,restaurant,14.5813,121.0599509,PH
+Som's Noodle House,Som's Noodle House,restaurant,14.5678257,121.0238979,PH
+Dencio's,Dencio's,restaurant,14.5647371,121.0365827,PH
+Fully Booked,Fully Booked,books,14.5496723,121.0527688,PH
+Shops,Shops,yes,14.606451,120.974456,PH
+Watsons,Watsons,chemist,14.5727958,121.0639868,PH
+St. Marc Café,St. Marc Café,cafe,14.5502388,121.0494648,PH
+Proline Sports Center,Proline Sports Center,sports,14.5879527,121.0446411,PH
+Rolex Service Center,Rolex Service Center,watches,14.55339,121.019187,PH
+Big Scoop,Big Scoop,ice_cream,14.607812,121.0268624,PH
+Starbucks Magallanes,Starbucks Magallanes,cafe,14.536007,121.0186745,PH
+Smokeys,Smokeys,restaurant,14.5628615,121.010954,PH
+My Steak N Grill,My Steak N Grill,restaurant,14.6347,121.030761,PH
+Swan Lake Restaurant,Swan Lake Restaurant,bakery,14.65012,120.988029,PH
+Hermès,Hermès,clothes,14.5521282,121.0227717,PH
+Teknika Sales & Diesel Service,Teknika Sales & Diesel Service,car_repair,14.628585,120.9739407,PH
+Dizon Farms,Dizon Farms,convenience,14.5618378,121.0273096,PH
+Honda Cars Shaw Blvd,Honda Cars Shaw Blvd,car,14.58945,121.0413199,PH
+Pizza Hut,Pizza Hut,restaurant,14.6086361,121.0172933,PH
+Dubciti Pit Stop,Dubciti Pit Stop,car_repair,14.56987,121.023666,PH
+10th Avenue Shopper's Mall,10th Avenue Shopper's Mall,mall,14.6513409,120.9842406,PH
+Unakichi,Unakichi,restaurant,14.5525976,121.0147543,PH
+Puregold Jr.,Puregold Jr.,supermarket,14.5856886,121.0015243,PH
+Nokia,Nokia,mobile_phone,14.5641058,121.0361793,PH
+Max's Chicken,Max's Chicken,restaurant,14.57669,120.98439,PH
+Mesa,Mesa,restaurant,14.536486,120.9801125,PH
+Cafe Caruso,Cafe Caruso,restaurant,14.5654953,121.0225582,PH
+Säntis Delicatessen,Säntis Delicatessen,deli,14.5604399,121.0086198,PH
+Office Warehouse,Office Warehouse,stationery,14.5522555,121.0135392,PH
+Buds,Buds,restaurant,14.5813909,121.0600199,PH
+Uncle John's,Uncle John's,convenience,14.5630003,121.0111509,PH
+Republic Supermarket,Republic Supermarket,supermarket,14.60287,120.981529,PH
+Choi Garden,Choi Garden,restaurant,14.6051287,121.0551509,PH
+New Kamameshi Sushi Bar,New Kamameshi Sushi Bar,restaurant,14.5644823,121.0017881,PH
+Milky Way Café,Milky Way Café,restaurant,14.5507761,121.0193379,PH
+Von Dutch,Von Dutch,convenience,14.5500221,121.0519865,PH
+Greenhearts,Greenhearts,garden_centre,14.63412,121.02626,PH
+Yellow Cab Makati Ave,Yellow Cab Makati Ave,restaurant,14.5667632,121.0306251,PH
+Goldilocks,Goldilocks,bakery,14.6315439,120.9989402,PH
+Pan de Manila,Pan de Manila,bakery,14.6534408,120.998179,PH
+Cucina Reposo,Cucina Reposo,restaurant,14.5676762,121.0238507,PH
+Lawson,Lawson,convenience,14.5838061,121.0615759,PH
+Car Snack,Car Snack,restaurant,14.563191,121.0139989,PH
+Sugi,Sugi,restaurant,14.5517439,121.0206788,PH
+Gumbo,Gumbo,restaurant,14.5765,120.984001,PH
+Triplex Auto Detailing,Triplex Auto Detailing,car_parts,14.63205,121.054901,PH
+Elbert's Steak Room,Elbert's Steak Room,restaurant,14.5610565,121.025514,PH
+Yamato Bakery Cafe,Yamato Bakery Cafe,cafe,14.5582018,121.0333822,PH
+Buddy's,Buddy's,restaurant,14.5672912,121.0221778,PH
+True Value,True Value,hardware,14.5639894,121.0362995,PH
+Dolor's Kakanin,Dolor's Kakanin,bakery,14.6700056,120.948145,PH
+Estrel's Caramel Cakes,Estrel's Caramel Cakes,pastry,14.6340549,121.0309046,PH
+Regasco LPG Refilling Station,Regasco LPG Refilling Station,gas,14.6590176,120.9618393,PH
+Masagana Citymall,Masagana Citymall,mall,14.547531,120.999008,PH
+Petals Galore,Petals Galore,garden_centre,14.572661,120.995437,PH
+Escolta,Escolta,restaurant,14.555593,121.0251829,PH
+SumoSam,SumoSam,restaurant,14.565194,121.0367544,PH
+Tutuban Centermall 1,Tutuban Centermall 1,mall,14.60751,120.972862,PH
+Jones all day,Jones all day,restaurant,14.5494552,121.0541381,PH
+Dutch Boy,Dutch Boy,doityourself,14.5440169,121.0166371,PH
+Tesoros - Mabini,Tesoros - Mabini,convenience,14.5768065,120.9814894,PH
+Next Door,Next Door,restaurant,14.5637638,121.0290172,PH
+Santi's Deli,Santi's Deli,deli,14.5773737,121.0593685,PH
+Arellanos,Arellanos,convenience,14.5633025,121.0289998,PH
+Paris Delice,Paris Delice,restaurant,14.5625994,121.02831,PH
+Flying V,Flying V,fuel,14.6180047,121.0069781,PH
+Luk Foo Cantonese Kitchen,Luk Foo Cantonese Kitchen,restaurant,14.5009245,120.9973334,PH
+Brazil Brazil,Brazil Brazil,restaurant,14.5650528,121.0361536,PH
+Hossein's,Hossein's,restaurant,14.5496102,121.0534476,PH
+St Patrick,St Patrick,supermarket,14.6291668,121.0567075,PH
+Ryu Ramen & Curry,Ryu Ramen & Curry,restaurant,14.6307342,121.034648,PH
+F. T. I. Retail Market,F. T. I. Retail Market,supermarket,14.508657,121.0451916,PH
+Se5,Se5,convenience,14.625221,120.987579,PH
+Filling Station,Filling Station,restaurant,14.5634581,121.0297386,PH
+Unique Novelties,Unique Novelties,convenience,14.6449105,121.0215928,PH
+Petra Restaurant,Petra Restaurant,restaurant,14.6016421,121.0542874,PH
+Coffee Project,Coffee Project,cafe,14.5525948,121.0182239,PH
+Nike,Nike,clothes,14.550788,121.0512275,PH
+Rub Ribs Bbq,Rub Ribs Bbq,restaurant,14.5671605,121.0236445,PH
+Neo Service Center,Neo Service Center,repair,14.58859,121.043571,PH
+Trinity Restaurant,Trinity Restaurant,restaurant,14.545087,120.9864475,PH
+Secret Recipe,Secret Recipe,restaurant,14.576431,120.98381,PH
+Caltex,Caltex,fuel,14.639201,120.97599,PH
+Makati Chef Garden Restaurant,Makati Chef Garden Restaurant,restaurant,14.55689,121.013076,PH
+Andok's,Andok's,restaurant,14.6436317,121.0270845,PH
+Amici Mercantile,Amici Mercantile,doityourself,14.6205951,121.0004585,PH
+Welcome Supermarket,Welcome Supermarket,supermarket,14.6175006,121.0022156,PH
+Great Bikes,Great Bikes,bicycle,14.6232615,121.0926948,PH
+Jorge Bike Shop,Jorge Bike Shop,bicycle,14.6234522,121.0951463,PH
+John Wilkie,John Wilkie,bicycle,14.6291939,121.0967238,PH
+JSEC,JSEC,restaurant,14.6377252,121.0765005,PH
+E-Bai's (Former Manang's Location),E-Bai's (Former Manang's Location),restaurant,14.6368727,121.0784941,PH
+National Book Store,National Book Store,books,14.6369195,121.0740299,PH
+Kenny Roger's Roasters,Kenny Roger's Roasters,restaurant,14.6375579,121.0741036,PH
+The Marketplace,The Marketplace,supermarket,14.5997663,121.069314,PH
+Sänti's Delicatessen,Sänti's Delicatessen,supermarket,14.5999708,121.0691303,PH
+Eastwood City Walk 1,Eastwood City Walk 1,mall,14.6090325,121.0809112,PH
+Eastwood City Walk 2,Eastwood City Walk 2,mall,14.6100315,121.0811298,PH
+Eastwood Mall,Eastwood Mall,mall,14.6102364,121.0798162,PH
+Teppanyaki,Teppanyaki,restaurant,14.5389847,120.9790804,PH
+Motopaps,Motopaps,car_repair,14.544258,121.0578059,PH
+Tony Roma's,Tony Roma's,restaurant,14.5510961,121.0263456,PH
+Royal Star,Royal Star,appliance,14.6359108,121.0971784,PH
+Rey Valencia,Rey Valencia,tailor,14.6239652,121.096222,PH
+Ma Mon Luk,Ma Mon Luk,restaurant,14.6002297,120.9842488,PH
+Seafood Island,Seafood Island,restaurant,14.5364199,120.9791615,PH
+Mien San Noodle House,Mien San Noodle House,restaurant,14.6082709,121.0385089,PH
+Happy Valley Noodle House,Happy Valley Noodle House,restaurant,14.6082267,121.0386637,PH
+Airport Juan,Airport Juan,restaurant,14.5237259,121.0001701,PH
+Knobbies,Knobbies,bicycle,14.608632,121.0707976,PH
+Sambokojin,Sambokojin,restaurant,14.5981345,121.0592548,PH
+Hot Shot Grill,Hot Shot Grill,restaurant,14.6382203,121.0368693,PH
+Zafra Motors,Zafra Motors,car,14.6435496,120.9931341,PH
+Nacional Memorial Homes,Nacional Memorial Homes,funeral_directors,14.6121796,121.0171974,PH
+"Triple V (Dad's, Kamayan, Saisaki)","Triple V (Dad's, Kamayan, Saisaki)",restaurant,14.5980722,121.0593137,PH
+Seat Mate Auto Interiors,Seat Mate Auto Interiors,car_repair,14.578403,121.0351612,PH
+Little Store on the Hill,Little Store on the Hill,convenience,14.5991357,121.0381094,PH
+Jo-Liza Antique Store,Jo-Liza Antique Store,antiques,14.602121,121.0378497,PH
+Bridgestone,Bridgestone,tyres,14.6058262,121.0374233,PH
+Aklatang Lunas,Aklatang Lunas,books,14.6175893,120.9829142,PH
+Salt & Pepper,Salt & Pepper,restaurant,14.5978562,121.0593677,PH
+The Red Crab,The Red Crab,restaurant,14.6300309,121.0340801,PH
+Endless Bicycle Store,Endless Bicycle Store,bicycle,14.5504807,121.0082071,PH
+Red Ribbon,Red Ribbon,bakery,14.631148,120.9986243,PH
+Lola Diding's,Lola Diding's,restaurant,14.6580276,121.0461123,PH
+QC Tune Shop,QC Tune Shop,car_repair,14.6198758,121.0078469,PH
+North Park Nex,North Park Nex,restaurant,14.5847879,121.0657052,PH
+Pizzetta Greek,Pizzetta Greek,restaurant,14.6444492,121.0607967,PH
+007,007,restaurant,14.6027895,121.0504373,PH
+Bike Town Cyclery,Bike Town Cyclery,bicycle,14.544563,121.0162365,PH
+C3 Events,C3 Events,restaurant,14.6036337,121.0522996,PH
+All Terra Bike,All Terra Bike,bicycle,14.6045512,121.0799253,PH
+Tokyo Tokyo,Tokyo Tokyo,restaurant,14.5606487,121.0152136,PH
+Swagat,Swagat,restaurant,14.5562803,121.01846,PH
+Melo's Steakhouse,Melo's Steakhouse,restaurant,14.640732,121.0374113,PH
+Mason's,Mason's,cafe,14.6393567,121.07424,PH
+V. V. Dental Clinic,V. V. Dental Clinic,pawnbroker,14.6425707,121.0744152,PH
+Turks,Turks,restaurant,14.6426804,121.0744081,PH
+Craving's,Craving's,restaurant,14.6352927,121.0740112,PH
+Tapa King,Tapa King,restaurant,14.6391871,121.0742274,PH
+Seattle's Best Coffee,Seattle's Best Coffee,cafe,14.6375091,121.0741022,PH
+David's Salon,David's Salon,hairdresser,14.6383918,121.0741921,PH
+Sweet Inspirations,Sweet Inspirations,restaurant,14.6384461,121.0742137,PH
+Yellow Cab,Yellow Cab,restaurant,14.6392392,121.0742302,PH
+Cyber and Fashion Mall,Cyber and Fashion Mall,mall,14.6077646,121.0803518,PH
+Cubby,Cubby,laundry,14.5585166,121.0233411,PH
+Bonchon Chicken,Bonchon Chicken,restaurant,14.5602975,121.0182148,PH
+Dingfeng Travel and Tours Corp,Dingfeng Travel and Tours Corp,travel_agency,14.5611569,121.0210428,PH
+Bo's Coffee,Bo's Coffee,cafe,14.5614368,121.0239214,PH
+North Park,North Park,restaurant,14.5596095,121.0163785,PH
+Max's Restaurant,Max's Restaurant,restaurant,14.5596444,121.0163271,PH
+Figaro,Figaro,cafe,14.560611,121.0254742,PH
+RDM Vulcanizing,RDM Vulcanizing,tyres,14.6198381,121.0891009,PH
+Sisig Society,Sisig Society,restaurant,14.5564216,121.0196853,PH
+Tokyo Tokyo To Go,Tokyo Tokyo To Go,restaurant,14.5568279,121.0190858,PH
+Sinangag Express,Sinangag Express,restaurant,14.5523362,121.0139058,PH
+Merriam Webster Bookstore,Merriam Webster Bookstore,books,14.5512411,121.013776,PH
+Amici,Amici,restaurant,14.5512808,121.014132,PH
+Philippine Christian Bookstore,Philippine Christian Bookstore,books,14.5516232,121.012755,PH
+Motolite,Motolite,car_repair,14.553102,121.0134542,PH
+Yellow Cab Pizza Co.,Yellow Cab Pizza Co.,restaurant,14.5607193,121.0151705,PH
+The Coffee Bean & Tea Leaf,The Coffee Bean & Tea Leaf,cafe,14.6572211,121.0559308,PH
+Villarica,Villarica,pawnbroker,14.5499628,121.023045,PH
+Tachibana Izakaya Robota,Tachibana Izakaya Robota,restaurant,14.5499486,121.0231264,PH
+Western appliance store,Western appliance store,electronics,14.5483904,121.0249357,PH
+Isshin,Isshin,restaurant,14.5488223,121.0246726,PH
+CD-R King,CD-R King,electronics,14.5490234,121.0244343,PH
+Yakiniku sakura,Yakiniku sakura,restaurant,14.5491344,121.0243714,PH
+ACME Pawnshop,ACME Pawnshop,pawnbroker,14.5491229,121.024196,PH
+Design Ligna,Design Ligna,furniture,14.5494718,121.023853,PH
+Cebuana Lhuillier,Cebuana Lhuillier,pawnbroker,14.5506155,121.021543,PH
+Diane Optical,Diane Optical,optician,14.5506072,121.021663,PH
+King Philip tailoring,King Philip tailoring,tailor,14.5507068,121.020582,PH
+Philip,Philip,tailor,14.5507567,121.020015,PH
+Flower Depot,Flower Depot,florist,14.5508232,121.019715,PH
+Casa flores de Belen,Casa flores de Belen,florist,14.5508398,121.019621,PH
+Exclusively His,Exclusively His,tailor,14.5508481,121.019543,PH
+Copy Landia,Copy Landia,copyshop,14.5507401,121.019543,PH
+Royal Barge Travel & Tours,Royal Barge Travel & Tours,travel_agency,14.5507318,121.019689,PH
+Azuthai,Azuthai,restaurant,14.5507701,121.0194017,PH
+Tsukiji,Tsukiji,restaurant,14.5507663,121.019462,PH
+Cirkulo,Cirkulo,restaurant,14.550781,121.0192784,PH
+Fuji Sauna Spa,Fuji Sauna Spa,spa,14.5535163,121.0144053,PH
+Hoka Hoka Bento Ramen,Hoka Hoka Bento Ramen,restaurant,14.5534903,121.0143285,PH
+Kikufuji,Kikufuji,restaurant,14.5535838,121.0140003,PH
+Cyotto Stop,Cyotto Stop,supermarket,14.5536591,121.0140029,PH
+Coco Cafe,Coco Cafe,cafe,14.5537964,121.013629,PH
+Reyes Haircutters,Reyes Haircutters,hairdresser,14.5590607,121.0125097,PH
+Toney & Jackey,Toney & Jackey,hairdresser,14.5600209,121.0124744,PH
+The Market,The Market,deli,14.5599687,121.024952,PH
+Vanilla Bean Cafe,Vanilla Bean Cafe,cafe,14.5601842,121.0244618,PH
+121 Grill and Restaurant,121 Grill and Restaurant,restaurant,14.5601281,121.0244451,PH
+Lavandera Mo,Lavandera Mo,laundry,14.5597474,121.0240598,PH
+Apartment 1B,Apartment 1B,restaurant,14.5590095,121.0221964,PH
+Cafe Alfonso,Cafe Alfonso,restaurant,14.5591982,121.0218999,PH
+Gonzo Grill and Restaurant,Gonzo Grill and Restaurant,restaurant,14.5591836,121.0217971,PH
+Bento box,Bento box,restaurant,14.5595906,121.0204771,PH
+Red Salon,Red Salon,hairdresser,14.5602983,121.019767,PH
+Ropali,Ropali,motor,14.5578178,121.0071569,PH
+K5 Maxspeed Tire Center,K5 Maxspeed Tire Center,car_parts,14.6206455,121.0616621,PH
+Perfect Circle,Perfect Circle,car_parts,14.6207124,121.0097758,PH
+Bellini's,Bellini's,restaurant,14.6225218,121.0569605,PH
+Kia Makati,Kia Makati,car,14.5479848,121.0137566,PH
+Mitsubishi Motors,Mitsubishi Motors,car,14.548468,121.0141229,PH
+Lucky Rainbow,Lucky Rainbow,restaurant,14.5562925,121.0099793,PH
+JMC,JMC,car,14.5467587,121.0149952,PH
+Patpat's Kansi,Patpat's Kansi,restaurant,14.5659569,121.0087738,PH
+Conti's,Conti's,restaurant,14.5497968,121.0543336,PH
+LGA Froglegs,LGA Froglegs,restaurant,14.6015023,120.977132,PH
+Kaffee Rafael,Kaffee Rafael,cafe,10.3156399,123.8921272,PH
+Yayoy's Grill & Resto Bar,Yayoy's Grill & Resto Bar,restaurant,10.3127392,123.8903028,PH
+STK ta Bay,STK ta Bay,restaurant,10.3128918,123.8902456,PH
+Cyma Restuarant,Cyma Restuarant,restaurant,10.3184556,123.9059813,PH
+Johann Commercial,Johann Commercial,supermarket,10.3262532,123.9523026,PH
+Laguna Cafe,Laguna Cafe,restaurant,10.3182238,123.905502,PH
+Julies Bakeshop,Julies Bakeshop,bakery,10.2886939,123.944755,PH
+Cebu Home Builders,Cebu Home Builders,doityourself,10.315316,123.9591367,PH
+AA's BBQ Restaurant,AA's BBQ Restaurant,restaurant,10.3043543,123.9601893,PH
+24 Convenience Store,24 Convenience Store,convenience,10.3209183,123.9110704,PH
+Yokohama Service Center,Yokohama Service Center,car,10.3419109,123.917941,PH
+Viking,Viking,restaurant,10.3362636,123.9323941,PH
+Honda Motors (As Fortuna),Honda Motors (As Fortuna),car,10.3378803,123.9294397,PH
+Suzuki Motor Cars,Suzuki Motor Cars,car,10.341621,123.919003,PH
+Lighthouse Restaurant,Lighthouse Restaurant,restaurant,10.3109039,123.9029052,PH
+The New White Gold House Rest,The New White Gold House Rest,restaurant,10.306416,123.9101145,PH
+Healtea,Healtea,supermarket,10.2979824,123.8953864,PH
+TPO Auto World Opo,TPO Auto World Opo,car,10.3301375,123.948129,PH
+Metro Fresh & Easy,Metro Fresh & Easy,supermarket,10.332877,123.9495527,PH
+Ziebart Service Center,Ziebart Service Center,car_repair,10.3301931,123.9097899,PH
+Sun Gold Home and Office Furnitures,Sun Gold Home and Office Furnitures,furniture,10.311509,123.916394,PH
+Hyundia Motors,Hyundia Motors,car,10.340109,123.923475,PH
+Rapide Auto Service,Rapide Auto Service,car_repair,10.3316864,123.9345518,PH
+Cita Mina Fish Market,Cita Mina Fish Market,seafood,10.3433993,123.9150697,PH
+Cebu Home & Builders Center,Cebu Home & Builders Center,trade,10.3436008,123.9159565,PH
+Suzuki Service Center,Suzuki Service Center,motorcycle,10.3388189,123.9282392,PH
+Toyota Cebu City - M. J. Cuenco,Toyota Cebu City - M. J. Cuenco,car,10.2952104,123.9050946,PH
+Jd Primo Arts Antique,Jd Primo Arts Antique,antiques,10.304562,123.9017789,PH
+Boosog Restaurant,Boosog Restaurant,restaurant,10.3123242,123.8949128,PH
+Autolab Car Service,Autolab Car Service,car,10.3186289,123.9028386,PH
+168 Hypermart,168 Hypermart,supermarket,10.31213,123.950264,PH
+Bernadette's Lechon,Bernadette's Lechon,restaurant,10.310534,123.914791,PH
+Boardwalk Plaza,Boardwalk Plaza,mall,10.3167191,123.9339478,PH
+Hyundai Trucks,Hyundai Trucks,car,10.3201859,123.9292981,PH
+Jo's Chicken Inasal,Jo's Chicken Inasal,restaurant,10.325918,123.9225788,PH
+Julie's,Julie's,bakery,10.2839204,123.9946299,PH
+Julie's Bakeshop,Julie's Bakeshop,bakery,10.320146,123.930946,PH
+Leona's Cake & Pastries,Leona's,bakery,10.3210324,123.9108121,PH
+Kimaya Spa,Kimaya Spa,massage,10.29652,123.96426,PH
+Mikado Japanese Restuarant,Mikado Japanese Restuarant,restaurant,10.32163,123.904482,PH
+Robinsons Home Depot,Robinsons Home Depot,hardware,10.321267,123.91157,PH
+Sun Gold Home & Office,Sun Gold,furniture,10.3120105,123.9161197,PH
+Asmara Restaurant and Bar,Asmara Restaurant and Bar,restaurant,10.3448592,123.910608,PH
+SaveMore,SaveMore,supermarket,10.3246806,123.9345302,PH
+Joven Restaurant & Manila FoodShop,Joven Restaurant & Manila FoodShop,restaurant,10.3245965,123.934777,PH
+Plaza Pino,Plaza Pino,restaurant,10.3318629,123.8997603,PH
+Green AP,Green AP,restaurant,10.3137842,123.9576993,PH
+Mister Donut,Mister Donut,cafe,10.3104379,123.8943221,PH
+Julies,Julies,bakery,10.326982,123.9222909,PH
+CBX IT Solutions,CBX IT Solutions,electronics,10.325565,123.9448945,PH
+BR Town Square,BR Town Square,mall,10.3357868,123.9507157,PH
+Esther Guiller Dried Fish Dealer,Esther Guiller Dried Fish Dealer,seafood,10.2962351,123.891072,PH
+Robinsons Supermarket,Robinsons Supermarket,supermarket,10.2599363,123.8296974,PH
+Conching Native Chicken and Fastfood,Conching Native Chicken and Fastfood,restaurant,10.3101223,123.9149888,PH
+Shell Café,Shell Café,cafe,10.3250209,123.9162027,PH
+NAP's Vulcanizing Shop,NAP's Vulcanizing Shop,tyres,10.3195661,123.9254403,PH
+Cafe Laguna,Cafe Laguna,cafe,10.3128557,123.9184803,PH
+Bean Date,Bean Date,cafe,10.320218,123.9030117,PH
+Nonki,Nonki,restaurant,10.3246422,123.9774059,PH
+Salon De Rose,Salon De Rose,hairdresser,10.3260427,123.9772021,PH
+La Tegola,La Tegola,restaurant,10.3256085,123.9768396,PH
+Jy Square Centre,Jy Square Centre,mall,10.3302827,123.8986009,PH
+Anna Mig Bakeshop,Anna Mig Bakeshop,bakery,10.3492262,123.9134213,PH
+Calda Pizza,Calda Pizza,kiosk,10.350714,123.9134629,PH
+Ipar's Restaurante Y Bar De Tapas,Ipar's Restaurante Y Bar De Tapas,restaurant,10.3058031,123.8976289,PH
+Park n Go Bakery,Park n Go Bakery,bakery,10.305211,123.8980365,PH
+"Thinking Tools, Inc","Thinking Tools, Inc",computer,10.3029264,123.897788,PH
+Mae Krua Thai Cuisine,Mae Krua Thai Cuisine,restaurant,10.3058451,123.897375,PH
+Mang Tinapay,Mang Tinapay,bakery,10.3071437,123.896301,PH
+Philippine Airlines Ticketing Office,Philippine Airlines Ticketing Office,ticket,10.3039037,123.8954581,PH
+Tiger Airways Ticketing Office,Tiger Airways Ticketing Office,ticket,10.3040835,123.8953834,PH
+Angelica Bakeshop,Angelica Bakeshop,pastry,10.305424,123.8948917,PH
+MV Starcraft ticket office,MV Starcraft ticket office,ticket,10.2934967,123.9072182,PH
+Yamaha,Yamaha,motorcycle,10.2558224,123.8117287,PH
+Shakey's Pizza,Shakey's Pizza,restaurant,10.3102999,123.8921602,PH
+Cassildas Bakeshop,Cassildas Bakeshop,bakery,10.3186563,123.899619,PH
+Arbee's bakeshop,Arbee's bakeshop,bakery,10.2735443,123.8495726,PH
+Ryan's Pizzarelli House,Ryan's Pizzarelli House,restaurant,10.3148026,123.8951961,PH
+Le Beau Monde,Le Beau Monde,hairdresser,10.3116955,123.9003926,PH
+Budget Builders Inc.,Budget Builders Inc.,doityourself,10.2930319,123.8797748,PH
+JRA Seafood,JRA Seafood,restaurant,10.3114699,123.9022715,PH
+Café George,Café George,restaurant,10.3296615,123.909906,PH
+Sweet Lily Bakeshop,Sweet Lily Bakeshop,bakery,10.2918495,123.8706082,PH
+C24,C24,convenience,10.3253426,123.9076817,PH
+Bo's Coffee Club,Bo's Coffee Club,cafe,10.3413033,123.9125426,PH
+Royal Krua Thai,Royal Krua Thai,restaurant,10.341282,123.9126421,PH
+Postrio,Postrio,cafe,10.3412128,123.9127712,PH
+The Sizzlin' Pepper Steak,The Sizzlin' Pepper Steak,restaurant,10.3189868,123.9049204,PH
+Wakamatsu,Wakamatsu,restaurant,10.3218415,123.9131797,PH
+Banilad StudyCenter,Banilad StudyCenter,department_store,10.3234041,123.9073399,PH
+Oz Racing,Oz Racing,motorcycle,10.3232971,123.9055733,PH
+Wombat's Womb Cafe,Wombat's Womb Cafe,cafe,10.2935114,123.9876713,PH
+Monterey Meatshop,Monterey Meatshop,butcher,10.3149189,123.8819424,PH
+Dal ROTI Corner,Dal ROTI Corner,cafe,10.3022494,123.8892527,PH
+Golden Cowrie,Golden Cowrie,restaurant,10.3287846,123.9026446,PH
+Unitop Maguikay,Unitop Maguikay,supermarket,10.3356293,123.93875,PH
+Dimas Sari Sari,Dimas Sari Sari,convenience,10.370845,123.9517968,PH
+Yum Yum Sari Sari,Yum Yum Sari Sari,convenience,10.3707418,123.9521205,PH
+Yum Yum Bakery,Yum Yum Bakery,bakery,10.3702458,123.9531344,PH
+Mahlzeit MealTime!,Mahlzeit MealTime!,restaurant,10.3310372,123.9438776,PH
+168,168,supermarket,10.311,123.9521345,PH
+Grand Convention,Grand Convention,restaurant,10.3224271,123.9042636,PH
+H-Mart,H-Mart,convenience,10.3290791,123.9020035,PH
+JY Supermarket,JY Supermarket,supermarket,10.3303692,123.898246,PH
+Moon Cafe,Moon Cafe,restaurant,10.3284982,123.9060478,PH
+Firozian Indian Tea House,Firozian Indian Tea House,restaurant,10.3151729,123.8921963,PH
+St. Mortiz Restaurant,St. Mortiz Restaurant,restaurant,10.3157613,123.9025181,PH
+Honda,Honda,motorcycle,10.3770736,123.9611885,PH
+J Centre Mall,J Centre Mall,supermarket,10.3359703,123.9344114,PH
+Mang Inasal,Mang Inasal,restaurant,10.3356067,123.9338755,PH
+Carlo Reyes Salon,Carlo Reyes Salon,hairdresser,10.3439765,123.9121979,PH
+Koreana Grocery,Koreana Grocery,restaurant,10.3437405,123.9121654,PH
+Franzy,Franzy,hairdresser,10.3727622,123.9547648,PH
+Mitsubishi Service and Repair,Mitsubishi Service and Repair,car_repair,10.3382009,123.9434378,PH
+Korner Kafe,Korner Kafe,cafe,10.3381113,123.9427006,PH
+UDC Gift Shop,UDC Gift Shop,gift,10.3381248,123.9427921,PH
+Pacifica Dive,Pacifica Dive,scuba_diving,10.3379984,123.9429479,PH
+SMCT Co.,SMCT Co.,motorcycle,10.3375487,123.9434697,PH
+Great Wall Auto,Great Wall Auto,car,10.3371894,123.9429876,PH
+Xcomp,Xcomp,computer,10.3157622,123.8850762,PH
+Dong Juan,Dong Juan,restaurant,10.336072,123.9346697,PH
+Tsiboom,Tsiboom,restaurant,10.3358425,123.934887,PH
+Chika-an,Chika-an,restaurant,10.3258259,123.9340984,PH
+Coffee Dream,Coffee Dream,cafe,10.3246411,123.9346939,PH
+Joven's Grill,Joven's Grill,restaurant,10.3244036,123.9345222,PH
+Tandoori,Tandoori,restaurant,10.3252928,123.9338651,PH
+Atek's Ngoyong Train,Atek's Ngoyong Train,restaurant,10.3250751,123.9116573,PH
+Inday Celia's Guitar Factory,Inday Celia's Guitar Factory,musical_instrument,10.2944829,123.9874758,PH
+Susing's Guitar Factory,Susing's Guitar Factory,musical_instrument,10.2934077,123.9886735,PH
+7D,7D,food,10.3396243,123.9310377,PH
+Go Dong Ri Korean,Go Dong Ri Korean,restaurant,10.3230543,123.9785706,PH
+Hukad sa Golden Cowrie,Hukad sa Golden Cowrie,restaurant,10.3254518,123.9769108,PH
+Anahata Spa,Anahata Spa,massage,10.2868037,123.9985146,PH
+Patio Gavino,Patio Gavino,restaurant,10.2864542,123.9993454,PH
+Carlo's Batchoy,Carlo's Batchoy,restaurant,10.3156792,123.8913255,PH
+Marty Mart,Marty Mart,convenience,10.3186737,123.8998476,PH
+Cyclemen Enterprises,Cyclemen Enterprises,motorcycle_repair,10.376915,123.9616628,PH
+Safety Signs Philippines,Safety Signs Philippines,hardware,10.3459692,123.9481507,PH
+Wired Systems Corporation,Wired Systems Corporation,computer,10.3133168,123.8960654,PH
+Samchino Restaurant,Samchino Restaurant,restaurant,10.3132843,123.8962095,PH
+Brunch Desserts,Brunch Desserts,restaurant,10.3131886,123.8960948,PH
+Brown Cup,Brown Cup,cafe,10.3130316,123.8961524,PH
+Mother's Fried Chicken,Mother's Fried Chicken,restaurant,10.3131014,123.8961277,PH
+Angelica's Bakeshop,Angelica's Bakeshop,bakery,10.3133959,123.8961412,PH
+Taras,Taras,restaurant,10.3133239,123.8963838,PH
+Saint Martin's Bakery,Saint Martin's Bakery,bakery,10.2807849,123.8547047,PH
+Ichiriki Chaya,Ichiriki Chaya,restaurant,10.3398955,123.9231262,PH
+Chibori,Chibori,restaurant,10.3313183,123.9084902,PH
+Assi Mart,Assi Mart,supermarket,10.3210795,123.9112453,PH
+Chosun Galbi,Chosun Galbi,restaurant,10.3434439,123.9147158,PH
+Crazy Crab,Crazy Crab,restaurant,10.3388578,123.9108527,PH
+일미식당,일미식당,restaurant,10.3402574,123.9112137,PH
+Chosun Chicken,Chosun Chicken,restaurant,10.3442457,123.9122054,PH
+Tomsigdang,Tomsigdang,restaurant,10.3265647,123.9172368,PH
+Seohae,Seohae,restaurant,10.3396874,123.9252246,PH
+San Jose Bakeshop,San Jose Bakeshop,bakery,10.3173134,123.8896441,PH
+Bubble Bee Tea House,Bubble Bee Tea House,restaurant,10.3173557,123.8948959,PH
+Diana and Candy Bookstore,Diana and Candy Bookstore,books,10.3170264,123.8992586,PH
+Philippine Airlines Gorordo Ticket Office,Philippine Airlines Gorordo Ticket Office,ticket,10.317041,123.9005782,PH
+Corvic Auto Repair & Service Center,Corvic Auto Repair & Service Center,car_repair,10.3127687,123.9004498,PH
+OEM Mags & Wheels,OEM Mags & Wheels,car_repair,10.3129376,123.9004525,PH
+Sunburst,Sunburst,restaurant,10.3103937,123.8964587,PH
+Nuat Thai Massage,Nuat Thai Massage,massage,10.3114705,123.9022103,PH
+The Beer Barrel Cebu,The Beer Barrel Cebu,restaurant,10.3436554,123.9110937,PH
+Mamma Maria's Pizzeria,Mamma Maria's Pizzeria,restaurant,10.3317194,123.9076232,PH
+Asialink Finance Corporation,Asialink Finance Corporation,money_lender,10.3109056,123.9031183,PH
+Victor Ortega Salon Spa,Victor Ortega Salon Spa,beauty,10.3108555,123.9032444,PH
+Noelle West Bridals,Noelle West Bridals,clothes,10.3114052,123.9035462,PH
+Metro Wholesale Mart,Metro Wholesale Mart,supermarket,10.2969301,123.8990279,PH
+The Spa of Cebu,The Spa of Cebu,massage,10.3436225,123.9107644,PH
+Pizzeria Michelangelo,Pizzeria Michelangelo,restaurant,10.3436961,123.9108944,PH
+Superior Laundry Station,Superior Laundry Station,dry_cleaning,10.3184371,123.8987527,PH
+Edwin Alba,Edwin Alba,travel_agency,10.3181578,123.9019904,PH
+El Sagayno Cuisine,El Sagayno Cuisine,restaurant,10.3170654,123.899527,PH
+Kwikspar,Kwikspar,restaurant,10.3189989,123.9015958,PH
+Heavenly Weddings & Debuts Cebu,Heavenly Weddings & Debuts Cebu,clothes,10.3131497,123.9026602,PH
+Gold Beauty Studio,Gold Beauty Studio,beauty,10.313491,123.9027802,PH
+Uncle John's Escario,Uncle John's Escario,convenience,10.317547,123.8957255,PH
+Robinsons EasyMart,Robinsons EasyMart,supermarket,10.3178999,123.8953005,PH
+Marjo's Pochero,Marjo's Pochero,restaurant,10.3166306,123.9005174,PH
+Headway Motorcycle Hub,Headway Motorcycle Hub,motorcycle_parts,10.3166707,123.9011823,PH
+Sapphire Hair Studio,Sapphire Hair Studio,hairdresser,10.3193377,123.899675,PH
+Davids Salon,Davids Salon,hairdresser,10.3170791,123.9002765,PH
+Pakals Restaurant,Pakals Restaurant,restaurant,10.3110893,123.8974732,PH
+Gasul Escario,Gasul Escario,gas,10.3174796,123.8950345,PH
+Anita's Bakeshop,Anita's Bakeshop,bakery,10.3303236,123.897691,PH
+M-Tech Auto Accessories,M-Tech Auto Accessories,car_parts,10.3243407,123.9083278,PH
+Thai Royale Spa,Thai Royale Spa,massage,10.3140351,123.9021405,PH
+Angel's Sports Wear,Angel's Sports Wear,clothes,10.3112475,123.9035947,PH
+Bintana Coffee House and Restaurant,Bintana Coffee House and Restaurant,restaurant,10.315047,123.8960055,PH
+EATiology,EATiology,restaurant,10.3134215,123.8963328,PH
+Familia Xiamen Cuisine,Familia Xiamen Cuisine,restaurant,10.3102759,123.8964857,PH
+MR. COFFEE,MR. COFFEE,cafe,10.3101176,123.8964106,PH
+Florence Convenience Store,Florence Convenience Store,convenience,10.3135348,123.9026526,PH
+NEST Home and Fabrique,NEST Home and Fabrique,clothes,10.3135558,123.9023202,PH
+Kalidades House of Flowers,Kalidades House of Flowers,florist,10.3110784,123.8985053,PH
+Bread After Bread,Bread After Bread,bakery,10.3208184,123.9112658,PH
+DLS Chicken,DLS Chicken,restaurant,10.3206496,123.9110566,PH
+Vicky's Homemade Goodies,Vicky's Homemade Goodies,confectionery,10.3197358,123.911223,PH
+Richmond Cafe,Richmond Cafe,cafe,10.3139585,123.9014472,PH
+Common Ground,Common Ground,cafe,10.3165752,123.9002517,PH
+Rose Carinderia,Rose Carinderia,restaurant,10.3167071,123.8985841,PH
+Little India,Little India,restaurant,10.3096152,123.8958049,PH
+Fr. Landz Pizza,Fr. Landz Pizza,restaurant,10.3147385,123.8857578,PH
+Palawan Pawnshop,Palawan Pawnshop,pawnbroker,10.2994656,123.8788123,PH
+Barberohan Sa Mango,Barberohan Sa Mango,hairdresser,10.3109587,123.90294,PH
+Helpa Store,Helpa Store,convenience,10.3113504,123.9009377,PH
+Levi Store,Levi Store,kiosk,10.3166651,123.9008304,PH
+Axcel's Foodhaus,Axcel's Foodhaus,restaurant,10.3157732,123.9012853,PH
+Angel's Love Store,Angel's Love Store,kiosk,10.3164446,123.9009505,PH
+2Five8,2Five8,convenience,10.3172685,123.9021294,PH
+Kusinang Pinoy,Kusinang Pinoy,restaurant,10.310769,123.8918698,PH
+Flame It,Flame It,restaurant,10.3103837,123.8921192,PH
+P.H.A.T. Pho,P.H.A.T. Pho,restaurant,10.3100327,123.8921165,PH
+Dimsum Talk Fusion,Dimsum Talk Fusion,restaurant,10.3107268,123.891741,PH
+Orange Brutus,Orange Brutus,restaurant,10.3106291,123.8919476,PH
+Bai,Bai,restaurant,10.3100618,123.896274,PH
+You,You,restaurant,10.3100915,123.8963346,PH
+BDP Store,BDP Store,kiosk,10.3169051,123.8991368,PH
+Dream Runway Salon & Spa,Dream Runway Salon & Spa,hairdresser,10.3184429,123.8988035,PH
+Ralph's Wines & Spirits,Ralph's Wines & Spirits,alcohol,10.3192748,123.8988874,PH
+Pasajero Motors Corporation,Pasajero Motors Corporation,car,10.321852,123.9102044,PH
+Mic Check KTV,Mic Check KTV,restaurant,10.3169546,123.8934507,PH
+Jeany's Collection,Jeany's Collection,clothes,10.2968604,123.8855568,PH
+"Home Bakers, Inc.","Home Bakers, Inc.",bakery,10.314469,123.8943865,PH
+Sprocketeer,Sprocketeer,restaurant,10.3126379,123.8948379,PH
+Hairs 2 You,Hairs 2 You,hairdresser,10.3141996,123.8941934,PH
+Maria Bakeshop,Maria Bakeshop,bakery,10.318125,123.8974191,PH
+Don Merto's Restaurant and Deli,Don Merto's Restaurant and Deli,restaurant,10.3156192,123.894329,PH
+BBQ City,BBQ City,restaurant,10.3131935,123.8948197,PH
+Majic Wellness Cafe,Majic Wellness Cafe,cafe,10.3126578,123.8949967,PH
+Kuya Don Grill Station,Kuya Don Grill Station,restaurant,10.3096353,123.9035401,PH
+Yale Hardware,Yale Hardware,hardware,10.2922568,123.9037345,PH
+Cosmopolitan Funeral Homes,Cosmopolitan Funeral Homes,funeral_directors,10.3363739,123.9449978,PH
+Emcor,Emcor,department_store,10.3261748,123.9774365,PH
+Forever Living Products - Cebu Product Center,Forever Living Products - Cebu Product Center,nutrition_supplements,10.3100242,123.8957767,PH
+Body and Soul,Body and Soul,massage,10.3093417,123.8949753,PH
+Adidas,Adidas,sports,10.3023906,123.962237,PH
+Gaisano Savers Mart,Gaisano Savers Mart,supermarket,10.2902442,123.9678502,PH
+Ric's Salon,Ric's Salon,beauty,10.2926919,123.9661553,PH
+Red Ribbon Capitol Branch,Red Ribbon Capitol Branch,bakery,10.3128286,123.8923382,PH
+Jones Brothers Pizza,Jones Brothers Pizza,restaurant,10.3129966,123.8924304,PH
+Espresso Bay,Espresso Bay,cafe,10.317666,123.8947045,PH
+Washfairy,Washfairy,dry_cleaning,10.3170454,123.8989712,PH
+Le Cafe Le Noir,Le Cafe Le Noir,cafe,10.3202573,123.8997802,PH
+Sophia Couturier Wedding Events,Sophia Couturier Wedding Events,clothes,10.3195038,123.9016069,PH
+Kan-Anan Cebuano Restaurant,Kan-Anan Cebuano Restaurant,restaurant,10.3203889,123.9034363,PH
+Joneal School Supply,Joneal School Supply,stationery,10.3115405,123.9017303,PH
+Best Buy Mart,Best Buy Mart,department_store,10.2958597,123.8988578,PH
+Manuel's Restaurant,Manuel's Restaurant,restaurant,10.3203016,123.9032134,PH
+Novo,Novo,department_store,10.2964628,123.8979725,PH
+Your Convenience Store,Your Convenience Store,convenience,10.3151244,123.8921001,PH
+Salingsing Bakeshop,Salingsing Bakeshop,bakery,10.3320063,123.898965,PH
+Tops Resto Korean BBQ,Tops Resto Korean BBQ,restaurant,10.3396546,123.896398,PH
+Maiqui's Bread Cakes Pastries,Maiqui's Bread Cakes Pastries,bakery,10.3436771,123.8944106,PH
+Jingle Bread,Jingle Bread Bakeshop,bakery,10.3438069,123.8937405,PH
+Cafe Capriccio,Cafe Capriccio,restaurant,10.3394611,123.8963868,PH
+Busay View Grill,Busay View Grill,restaurant,10.3528066,123.8869299,PH
+Cennen Store,Cennen Store,kiosk,10.3552499,123.8851033,PH
+Del Mar's Store,Del Mar's Store,convenience,10.3701414,123.8748734,PH
+Darwin & William Store,Darwin & William Store,kiosk,10.3651046,123.8811927,PH
+KGL Store,KGL Store,convenience,10.3710991,123.8755278,PH
+Virge Store,Virge Store,convenience,10.3716664,123.8750397,PH
+Skygo,Skygo,motorcycle,10.3000984,123.8762188,PH
+M Lhuillier,M Lhuillier,pawnbroker,10.299729,123.8786918,PH
+Henry Lhuillier,Henry Lhuillier,pawnbroker,10.3106462,123.8951522,PH
+Muvanz Pocherohan and Seafood,Muvanz Pocherohan and Seafood,restaurant,10.3114228,123.8950029,PH
+Coffee Bean Scent,Coffee Bean Scent,cafe,10.3105441,123.8966579,PH
+Petron Auto Care Services,Petron Auto Care Services,car_repair,10.3176174,123.8967691,PH
+Pan De Malunggay,Pan De Malunggay,bakery,10.3123212,123.895204,PH
+Cafeteria Jose,Cafeteria Jose,cafe,10.3128279,123.8956627,PH
+Wash N' Dry,Wash N' Dry,dry_cleaning,10.3124802,123.8951789,PH
+LKB,LKB,fuel,10.3750326,123.8527309,PH
+Gaisano Mart,Gaisano Mart,convenience,10.3141116,123.9149609,PH
+8th Street Bar & Coffee Lounge,8th Street Bar & Coffee Lounge,cafe,10.3195555,123.9030895,PH
+Puso Bistro & Bar,Puso Bistro & Bar,restaurant,10.3197033,123.9032263,PH
+Subaru Cebu,Subaru Cebu,car,10.3380259,123.9292178,PH
+Worldwide Tile Depot,Worldwide Tile Depot,tiles,10.3390816,123.9255912,PH
+A.M. Builder's Depot,A.M. Builder's Depot,doityourself,10.3386859,123.928653,PH
+Suzuki North Cebu,Suzuki North Cebu,car,10.3347225,123.9334005,PH
+Davao Central Convenience Store,Davao Central Convenience Store,convenience,7.1016258,125.634816,PH
+Central Convenience,Central Convenience,convenience,7.0611447,125.5594984,PH
+DCCS Ggas,DCCS Ggas,fuel,7.1002725,125.6406579,PH
+Coral Dive,Coral Dive,scuba_diving,7.0758589,125.6250083,PH
+Coffee at Yellow Hauz,Coffee at Yellow Hauz,cafe,7.0757527,125.6066216,PH
+Colasas Barbecue,Colasas Barbecue,restaurant,7.0626844,125.6095704,PH
+Coco's South Bistro,Coco's South Bistro,restaurant,7.0602926,125.5878598,PH
+Buffet Palace,Buffet Palace,restaurant,7.0883277,125.6114704,PH
+Probinsya,Probinsya,restaurant,7.0876103,125.6135099,PH
+Ahfat 2 Seafood Plaza,Ahfat 2 Seafood Plaza,restaurant,7.0887336,125.6130084,PH
+Amara Cafe,Amara Cafe,cafe,7.0619612,125.5944529,PH
+Fly-O-Grill,Fly-O-Grill,restaurant,7.1023507,125.6145728,PH
+Panadero,Panadero,bakery,7.0873082,125.6239811,PH
+Starlight Hardware,Starlight Hardware,hardware,7.0737801,125.6128039,PH
+Midland Electronics,Midland Electronics,electronics,7.0679371,125.6109731,PH
+Davao City Times Trading,Davao City Times Trading,hardware,7.0689012,125.6116046,PH
+Jade Bookstore,Jade Bookstore,books,7.072745,125.6123872,PH
+Davao Express Hardware,Davao Express Hardware,hardware,7.1021282,125.6349812,PH
+Gerry's Grill,Gerry's Grill,restaurant,7.0779601,125.6143081,PH
+Kyohida Motors,Kyohida Motors,car_repair,7.0401478,125.5259132,PH
+MVT Motors,MVT Motors,car_repair,7.0405191,125.5255658,PH
+Hi Power Motors,Hi Power Motors,car,7.0494023,125.5388719,PH
+Elain K Pawnshop,Elain K Pawnshop,pawnbroker,7.0508418,125.5411979,PH
+Angel Haus Hardware,Angel Haus Hardware,hardware,7.0543683,125.5454895,PH
+Ulas Hardware,Ulas Hardware,hardware,7.0544705,125.5456182,PH
+Davao Central Convinience Store,Davao Central Convinience Store,convenience,7.0552174,125.5459159,PH
+Southern Banawe,Southern Banawe,car_repair,7.0598284,125.5516865,PH
+Pan de Maya,Pan de Maya,bakery,7.059871,125.5529396,PH
+Go Easy Builders Mart,Go Easy Builders Mart,hardware,7.0495191,125.5668221,PH
+Global Auto Tech of Davao,Global Auto Tech of Davao,car_repair,7.0426637,125.5690067,PH
+Felis Beach Resort Complex,Felis Beach Resort Complex,restaurant,7.0409607,125.5725347,PH
+Pan de Pane,Pan de Pane,bakery,7.0410884,125.574938,PH
+Twin H Beach Resort,Twin H Beach Resort,restaurant,7.0423662,125.5838815,PH
+Ecoland Drive Grocers,Ecoland Drive Grocers,convenience,7.0444276,125.5868341,PH
+Blue Valley Purified Drinking Water,Blue Valley Purified Drinking Water,water,7.0461227,125.591778,PH
+Gasera Corp.,Gasera Corp.,hardware,7.0554574,125.6000977,PH
+BESJC Royal Elegance Home Furnishing,BESJC Royal Elegance Home Furnishing,hardware,7.0570106,125.6010691,PH
+JP Lumber,JP Lumber,trade,7.0614804,125.6010566,PH
+Ttoki,Ttoki,restaurant,7.0822836,125.6097277,PH
+Ssamjang,Ssamjang,restaurant,7.0823778,125.6098508,PH
+Swiss Deli,Swiss Deli,restaurant,7.101117,125.6329117,PH
+Merco,Merco,bakery,7.1023391,125.6329493,PH
+Market Basket,Market Basket,supermarket,7.1021222,125.6332418,PH
+Monterey,Monterey,butcher,7.1073256,125.6469413,PH
+Tata Benitos,Tata Benitos,cafe,7.0678697,125.6061073,PH
+Basti's Brew,Basti's Brew,cafe,7.0677747,125.6060583,PH
+Yogi,Yogi,convenience,7.0709982,125.6057996,PH
+Kopi lah Roti,Kopi lah Roti,cafe,7.0784916,125.6088825,PH
+Lorie's Cafe,Lorie's Cafe,cafe,7.0788941,125.6092737,PH
+Paterno's,Paterno's,restaurant,7.0674554,125.6163889,PH
+C5,C5,cafe,7.0703944,125.6139808,PH
+New Asia Restaurant,New Asia Restaurant,restaurant,7.0746735,125.6132406,PH
+TechnoMart,TechnoMart,electronics,7.0765253,125.6154266,PH
+Fat Ryan's Mini-Mart,Fat Ryan's Mini-Mart,convenience,7.0707879,125.6168373,PH
+Techo Life,Techo Life,computer,7.0688991,125.6095935,PH
+Mandarin Tea Garden,Mandarin Tea Garden,restaurant,7.0659987,125.6098051,PH
+Davao Lounge,Davao Lounge,restaurant,7.0685382,125.6058463,PH
+LYR Appliance and Furniture,LYR Appliance and Furniture,furniture,7.0748603,125.6131219,PH
+Felcris Supermarket,Felcris Supermarket,supermarket,7.069549,125.6045127,PH
+Davao GH Office Depot,Davao GH Office Depot,books,7.0756102,125.6199229,PH
+Mindanao Bakery,Mindanao Bakery,bakery,7.0743831,125.6219584,PH
+Shirt Stop,Shirt Stop,clothes,7.0766615,125.6126655,PH
+Hagar's Place,Hagar's Place,restaurant,7.1065562,125.6462822,PH
+Panaderia,Panaderia,bakery,7.0653469,125.6061319,PH
+Karlyn's,Karlyn's,restaurant,7.0776217,125.5823002,PH
+Cafe Rysus,Cafe Rysus,cafe,7.0703011,125.6055158,PH
+Fagioli's,Fagioli's,cafe,7.0710478,125.6058742,PH
+Sweet Aroma Bakeshoppe,Sweet Aroma Bakeshoppe,bakery,7.0691605,125.6053812,PH
+Coney Davao Ukay,Coney Davao Ukay,second_hand,7.0684776,125.6066448,PH
+Golden Brown,Golden Brown,restaurant,7.0684931,125.6062411,PH
+Pia's Cafe,Pia's Cafe,restaurant,7.0566875,125.60019,PH
+Annie's bakeshop,Annie's bakeshop,bakery,7.0565505,125.6004581,PH
+Canadian Auto Supply,Canadian Auto Supply,car_parts,7.0693618,125.6039003,PH
+Pryce Autogas,Pryce Autogas,fuel,7.0310668,125.5121914,PH
+Bulls,Bulls,restaurant,7.0993878,125.6149135,PH
+HB1,HB1,convenience,7.088937,125.505753,PH
+Central Convenience Store,Central Convenience Store,convenience,7.0908693,125.503561,PH
+Balolong,Balolong,bakery,7.0892503,125.5054405,PH
+Berting's Barbershop,Berting's Barbershop,hairdresser,7.0744868,125.5466492,PH
+Gutierrez Catering & Function House,Gutierrez Catering & Function House,restaurant,7.0789575,125.5458055,PH
+Cañete Orchid Garden,Cañete Orchid Garden,garden_centre,7.085774,125.529572,PH
+Enteng Land Scaper,Enteng Land Scaper,garden_centre,7.085977,125.529823,PH
+Bigby's Cafe,Bigby's Cafe,restaurant,7.0504375,125.5881018,PH
+Bo's Cafe,Bo's Cafe,cafe,7.0496409,125.588137,PH
+BluGre,BluGre,cafe,7.0493055,125.5882627,PH
+Dream Cafe,Dream Cafe,cafe,7.0504628,125.5885735,PH
+Mandarin,Mandarin,restaurant,7.0780491,125.6143422,PH
+Elysee's Restaurant & Coffee Club,Elysee's Restaurant & Coffee Club,restaurant,7.1111599,125.6497285,PH
+Dimsum Diner,Dimsum Diner,restaurant,7.0968354,125.6183971,PH
+La Piscine Grill & Cafe,La Piscine Grill & Cafe,restaurant,7.0905141,125.615621,PH
+Cecil's Snack Inn,Cecil's Snack Inn,cafe,7.0678912,125.6084131,PH
+Sinbad,Sinbad,restaurant,7.0688776,125.6130865,PH
+The Paper Tree,The Paper Tree,stationery,7.0765117,125.6145215,PH
+Caltex Star Mart,Caltex Star Mart,convenience,7.1034772,125.643181,PH
+Uncle Mark,Uncle Mark,bakery,7.099313,125.6149191,PH
+North Cisa Builders Center,North Cisa Builders Center,doityourself,7.1075438,125.6137799,PH
+Ombu Chicken House,Ombu Chicken House,restaurant,7.0760195,125.6211774,PH
+Antonio's Bar & Grill,Antonio's Bar & Grill,restaurant,7.0788208,125.6079062,PH
+Shell Select,Shell Select,convenience,7.0979546,125.6220617,PH
+Diaz Hardware,Diaz Hardware,hardware,7.0836264,125.6251268,PH
+Bistro Rosario,Bistro Rosario,restaurant,7.0800433,125.609106,PH
+Kitchen Pantry,Kitchen Pantry,bakery,7.0744413,125.6129036,PH
+New Davao Famous Restaurant,Davao Famous,restaurant,7.0736791,125.6148622,PH
+Manolette Bakeshop,Manolette Bakeshop,bakery,7.1939554,125.6480331,PH
+Arabilla Hardware,Arabilla Hardware,hardware,7.193587,125.6477418,PH
+Narding Pawnshop,Narding Pawnshop,pawnbroker,7.1932819,125.6478448,PH
+Dee Ann Bakery,Dee Ann Bakery,bakery,7.1932465,125.6481205,PH
+Dose,Dose,restaurant,7.1420514,125.6612876,PH
+Glory Enterprise,Glory Enterprise,convenience,7.1350425,125.6615006,PH
+Nanay Bebeng's,Nanay Bebeng's,restaurant,7.0786157,125.6047633,PH
+Wa Ki Restaurant,Wa Ki Restaurant,restaurant,7.0604287,125.5643874,PH
+Davao Diamond Industrial Supply,Davao Diamond Industrial Supply,doityourself,7.0760089,125.6230131,PH
+S. Herrera Bros.,S. Herrera Bros.,hardware,7.0747708,125.6245611,PH
+VM Security Technologies Inc.,VM Security Technologies Inc.,electronics,7.0756471,125.6243724,PH
+Lachi's,Lachi's,pastry,7.0818826,125.6014791,PH
+Elle Vance Enterprises,Elle Vance Enterprises,motorcycle,7.1170512,125.61612,PH
+Shop ni Jem2,Shop ni Jem2,car_repair,7.1243943,125.6227701,PH
+Pritong Manok,Pritong Manok,restaurant,7.0500243,125.5883653,PH
+Trellis N' Vines,Trellis N' Vines,restaurant,7.0767684,125.6062365,PH
+Soul Kitchen,Soul Kitchen,restaurant,7.0776166,125.6055178,PH
+Sugarmunch,Sugarmunch,bakery,7.0811559,125.6025201,PH
+Cafe Andressa,Cafe Andressa,restaurant,7.111463,125.6135396,PH
+Tea Cup Time,Tea Cup Time,cafe,7.068733,125.6060549,PH
+Crepelato Gelato,Crepelato Gelato,restaurant,7.0718582,125.6059948,PH
+Yamashita Diner,Yamashita Diner,restaurant,7.0761666,125.6067208,PH
+Ivy Jane Dampa Restaurant,Ivy Jane Dampa Restaurant,restaurant,7.044353,125.5911054,PH
+Clare Restaurant,Clare Restaurant,restaurant,7.0665133,125.6086022,PH
+Velasco Bookstore,Velasco Bookstore,books,7.0653952,125.6066278,PH
+Wison Shopping Center,Wison Shopping Center,department_store,7.0658175,125.6058673,PH
+Conpinco Appliance Center,Conpinco Appliance Center,furniture,7.0837594,125.6124547,PH
+Speed Star,Speed Star,car_repair,7.0828795,125.6142142,PH
+RunClub,RunClub,outdoor,7.0825349,125.6130994,PH
+Mama Maria Pizzeria,Mama Maria Pizzeria,restaurant,7.0840427,125.612344,PH
+Sweet Art Confections,Sweet Art Confections,confectionery,7.0595519,125.5814061,PH
+Mandaue Foam Furniture Showroom,Mandaue Foam Furniture Showroom,furniture,7.1009125,125.6372015,PH
+Mary Kay,Mary Kay,clothes,7.0665308,125.6109449,PH
+Blue Waters Function Hall,Blue Waters Function Hall,restaurant,7.0962797,125.6643469,PH
+Turquoise Kebab Restaurant,Turquoise Kebab Restaurant,restaurant,7.0687764,125.6151876,PH
+Penong's,Penong's,restaurant,7.0891606,125.5055913,PH
+ECE Marketing,ECE Marketing,variety_store,7.0519609,125.5952676,PH
+Honey Bear,Honey Bear,deli,7.022619,125.5002909,PH
+Tupperware Service Center,Tupperware Service Center,kitchen,7.0520534,125.5908351,PH
+Japanese Zen Oriental Spa,Japanese Zen Oriental Spa,massage,7.0712494,125.6061262,PH
+Astro Balloons,Astro Balloons,toys,7.0602923,125.5994629,PH
+Samulco,Samulco,supermarket,7.0505104,125.5410419,PH
+BlueCab Cafe,BlueCab Cafe,restaurant,7.0758361,125.6246756,PH
+Cooling Coil,Cooling Coil,car_repair,7.0836208,125.6162997,PH
+Tia Nina Pizza & Pasta,Tia Nina Pizza & Pasta,restaurant,7.0228067,125.500556,PH
+Yuhico Orchids,Yuhico Orchids,garden_centre,7.0679462,125.5360581,PH
+NCCC Supermarket,NCCC Supermarket,supermarket,7.1439395,125.6606094,PH
+Computer World,Computer World,computer,7.0698571,125.6136209,PH
+Honda Mega Motors,Honda Mega Motors,motorcycle,7.0779729,125.6186917,PH
+Project D,Project D,car_repair,7.0751779,125.6195906,PH
+Collado Funeral Homes,Collado Funeral Homes,funeral_directors,7.0605368,125.5539075,PH
+Helen's,Helen's,pawnbroker,7.0687899,125.6194895,PH
+Super Ferry Office,Super Ferry Office,ticket,7.0772957,125.624346,PH
+LBC,LBC,variety_store,7.118917,125.6271842,PH
+Pan De Pugon,Pan De Pugon,bakery,7.0970888,125.6191984,PH
+Suzuki Auto - Davao,HINO,car,7.110946,125.6498707,PH
+Sony,Sony,electronics,7.0669166,125.6044857,PH
+Ladislawa Country Club,Ladislawa Country Club,restaurant,7.0968906,125.6070406,PH
+Fuji Mart Japanese Grocery,Fuji Mart Japanese Grocery,convenience,7.1018546,125.6329839,PH
+Ram's Chicken & Grill,Ram's Chicken & Grill,restaurant,7.0519144,125.5902351,PH
+Citra Mina Seafood Market,Citra Mina Seafood Market,seafood,7.051983,125.5905536,PH
+Jewm Eggs,Jewm Eggs,yes,7.0915377,125.6335931,PH
+Green Heights Clubhouse,Green Heights Clubhouse,restaurant,7.104253,125.6062466,PH
+Villa Funeraria,Villa Funeraria,funeral_directors,7.0250856,125.5053005,PH
+Loring's Restaurant,Loring's Restaurant,restaurant,7.0613637,125.5904761,PH
+RJ Homes,RJ Homes,furniture,7.0675924,125.6059004,PH
+Cruven,Cruven,car_repair,7.0731051,125.5865525,PH
+Pru Life UK,Pru Life UK,variety_store,7.0605395,125.5938201,PH
+Honda Desmark,Honda Desmark,motorcycle,7.0615629,125.5930119,PH
+Honda Prestige Traders,Honda Prestige Traders,motorcycle,7.0518511,125.5897863,PH
+Karlyn's Food Station,Karlyn's Food Station,restaurant,7.0495364,125.5833089,PH
+Dencio's Sa Hilltop,Dencio's Sa Hilltop,restaurant,7.0931904,125.568692,PH
+Deco Arts,Deco Arts,hardware,7.0505647,125.5822586,PH
+Wedding Bells,Wedding Bells,clothes,7.0517898,125.5906164,PH
+Mega Wheels,Mega Wheels,car,7.053517,125.5967917,PH
+Kian Bee Trading,Kian Bee Trading,fabric,7.0742204,125.6239699,PH
+H.P. Acebedo Optical,H.P. Acebedo Optical,optician,7.0741568,125.6191737,PH
+Frontier Travel Tours,Frontier Travel Tours,travel_agency,7.07373,125.6160244,PH
+Good Fortune Travel Centre,Good Fortune Travel Centre,travel_agency,7.0724167,125.6150323,PH
+Taklobo,Taklobo,restaurant,7.0664325,125.5822659,PH
+Victoria Home Furnishing,Victoria Home Furnishing,furniture,7.0883035,125.6122003,PH
+Sen Ton Whan,Sen Ton Whan,restaurant,7.0881504,125.6123297,PH
+Grand Emperor Seafood & Restaurant,Grand Emperor Seafood & Restaurant,restaurant,7.0884004,125.6132268,PH
+Ahfat 3 Seafood Plaza,Ahfat 3 Seafood Plaza,restaurant,7.0881417,125.6134327,PH
+Emerald Seafood Palace,Emerald Seafood Palace,restaurant,7.0874881,125.6133792,PH
+Ahfat 1 Seafood Plaza,Ahfat 1 Seafood Plaza,restaurant,7.0884596,125.6127179,PH
+La Core,La Core,hairdresser,7.088554,125.6131382,PH
+Progress Home & Office Furnishing,Progress Home & Office Furnishing,furniture,7.0497081,125.5856995,PH
+Jiffy Cars,Jiffy Cars,car_repair,7.0495171,125.5858734,PH
+South Milandia,South Milandia,hardware,7.0509354,125.5819612,PH
+Davao Jergo 4x4 Repair & Machine Shop,Davao Jergo 4x4 Repair & Machine Shop,car_repair,7.0523572,125.5810044,PH
+Natasha,Natasha,clothes,7.0513188,125.5885127,PH
+Marikina Shoe Exchange,Marikina Shoe Exchange,shoes,7.0513522,125.5885837,PH
+Khash Persian Kebab & Resto Bar,Khash Persian Kebab & Resto Bar,restaurant,7.0527511,125.5934019,PH
+Comglasco AG,Comglasco AG,car_repair,7.0833609,125.6126123,PH
+Tiny Kitchen,Tiny Kitchen,restaurant,7.0810765,125.6096902,PH
+Nedmar Auto Supply,Nedmar Auto Supply,car_parts,7.075002,125.6155131,PH
+Copylandia,Copylandia,copyshop,7.0751754,125.6128402,PH
+Golden Peter Pan Bakeshop,Golden Peter Pan Bakeshop,restaurant,7.0685205,125.6046066,PH
+Tile Depot,Tile Depot,hardware,7.056741,125.600612,PH
+Billy the Kid,Billy the Kid,restaurant,7.0571422,125.5720985,PH
+Honda Motor One,Honda Motor One,motorcycle,7.0598476,125.5666291,PH
+Panadero Expresso,Panadero Expresso,cafe,7.0695104,125.6145953,PH
+Honda Prestige Trader,Honda Prestige Trader,motorcycle,7.1130509,125.6213584,PH
+Bonifacio Motors,Bonifacio Motors,car_repair,7.1139136,125.6518065,PH
+Dabaw Flower Center,Dabaw Flower Center,garden_centre,7.1124859,125.6506834,PH
+Honda Best Bike,Honda Best Bike,motorcycle,7.0857084,125.6275638,PH
+Five Star Surplus & Hardware,Five Star Surplus & Hardware,hardware,7.0836321,125.6238714,PH
+Transition Parts & Service,Transition Parts & Service,car_repair,7.0858643,125.622579,PH
+Uwell Bodega Sales,Uwell Bodega Sales,department_store,7.0808172,125.6220821,PH
+Tesoro Printing Press,Tesoro Printing Press,copyshop,7.0793159,125.6228486,PH
+Fiscalizer,Fiscalizer,copyshop,7.0710579,125.618561,PH
+Asia Glass Palace,Asia Glass Palace,glaziery,7.0739221,125.619871,PH
+Mindanao La Suerte Marketing,Mindanao La Suerte Marketing,fabric,7.0741709,125.6205797,PH
+Super Standard Plumbing,Super Standard Plumbing,hardware,7.071427,125.6155242,PH
+Weng's Vulcanizing,Weng's Vulcanizing,tyres,7.0701081,125.6141176,PH
+Glamour Crab Buffet,Glamour Crab Buffet,restaurant,7.0693992,125.6132806,PH
+Tong-Yang Smokeless Grill & Shabu Shabu,Tong-Yang Smokeless Grill & Shabu Shabu,restaurant,7.0765299,125.6194337,PH
+Min - Aire,Min - Aire,car_repair,7.0786947,125.6191548,PH
+New Davao Goldstar Hardware,New Davao Goldstar Hardware,hardware,7.0786133,125.6190038,PH
+Light Talk,Light Talk,furniture,7.090277,125.6189719,PH
+MM Marble,MM Marble,hardware,7.0896395,125.6095854,PH
+Lifestyle Lightings & Home Accessories,Lifestyle Lightings & Home Accessories,furniture,7.0831109,125.6125863,PH
+Drift Tech,Drift Tech,car_repair,7.0746813,125.6127008,PH
+Seoulga,Seoulga,restaurant,7.0882705,125.611398,PH
+SouthPort Auto Center,SouthPort Auto Center,car_repair,7.0558869,125.6003107,PH
+Home Channel,Home Channel,variety_store,7.0756103,125.6122387,PH
+Tupperware Brands,Tupperware Brands,kitchen,7.0753978,125.6127056,PH
+Trust Trade Guns & Ammo,Trust Trade Guns & Ammo,weapons,7.0754376,125.612553,PH
+The Federal Gun Exchage,The Federal Gun Exchage,weapons,7.0759186,125.6122854,PH
+Thai Boran,Thai Boran,massage,7.0724229,125.6069358,PH
+Italian Job,Italian Job,restaurant,7.0725786,125.6069378,PH
+Glamour Resto & Caterer,Glamour Resto & Caterer,restaurant,7.0724917,125.6069389,PH
+Crab Buffet,Crab Buffet,restaurant,7.0725347,125.6069385,PH
+Ground Image Tires & Services,Ground Image Tires & Services,car_repair,7.0520289,125.590746,PH
+House of Decors,House of Decors,curtain,7.0518308,125.5907905,PH
+Sentro Verde,Sentro Verde,restaurant,7.0758035,125.6088935,PH
+Davao Milon Trade,Davao Milon Trade,variety_store,7.0736627,125.6145396,PH
+Romson Auto Supply,Romson Auto Supply,variety_store,7.0736639,125.6156098,PH
+Stivy Auto Parts & Hardware,Stivy Auto Parts & Hardware,hardware,7.0737183,125.6157786,PH
+Tai-Pan Palace,Tai-Pan Palace,restaurant,7.0667223,125.6073052,PH
+Rego's Pasta Express,Rego's Pasta Express,restaurant,7.0767137,125.6095808,PH
+Johnny Cupcakes,Johnny Cupcakes,cafe,7.0768548,125.6097232,PH
+Tri-Star Engineering,Tri-Star Engineering,car_repair,7.088475,125.6309749,PH
+NCCC Express,NCCC Express,convenience,7.1022374,125.6335394,PH
+Spirale,Spirale,restaurant,7.10341,125.6334833,PH
+Mercedes Benz,Mercedes Benz,car_repair,7.0892842,125.6303833,PH
+Davao Veterinary Clinic,Davao Veterinary Clinic,variety_store,7.0747876,125.6196041,PH
+Cafe Demitasse,Cafe Demitasse,cafe,7.0774134,125.6053314,PH
+Hilton Truck Sales,Hilton Truck Sales,car,7.1117362,125.6505169,PH
+Lyndon's Worlds Worst Ribs & Awful Chicken,Lyndon's Worlds Worst Ribs & Awful Chicken,restaurant,7.0699715,125.6142186,PH
+Integrated Bar & Cafe,Integrated Bar & Cafe,cafe,7.0650821,125.6138896,PH
+Carlo Reyes Hair Salon,Carlo Reyes Hair Salon,hairdresser,7.0582298,125.5681923,PH
+Cortess Printing Corporation,Cortess Printing Corporation,copyshop,7.0643621,125.6127746,PH
+Leandro's Specialties & Catering,Leandro's Specialties & Catering,restaurant,7.0795523,125.6083394,PH
+Happy Home Cafe & Diner,Happy Home Cafe & Diner,restaurant,7.0795061,125.6082812,PH
+Yamaha 3 S Shop,Yamaha 3 S Shop,motorcycle,7.0904111,125.6188475,PH
+Real Lubeman,Real Lubeman,car_repair,7.0884042,125.6233436,PH
+Golden Lotus bakeshop,Golden Lotus bakeshop,bakery,7.0870296,125.6219876,PH
+Frames 2 Go,Frames 2 Go,frame,7.0837979,125.6124424,PH
+Toryano's Native Chicken House,Toryano's Native Chicken House,restaurant,7.0697246,125.6073802,PH
+Aznebo,Aznebo,restaurant,7.1353256,125.6901606,PH
+Pen Haus,Pen Haus,books,7.136137,125.6886503,PH
+Vulcanizing Shop,Vulcanizing Shop,tyres,7.1326209,125.6956156,PH
+Montano Funeral Homes,Montano Funeral Homes,funeral_directors,7.1319172,125.6966766,PH
+Farma Auto Supply,Farma Auto Supply,car_repair,7.1482962,125.659019,PH
+4 Brothers Vehicle Repair Services,4 Brothers Vehicle Repair Services,repair,7.1281167,125.6372446,PH
+Davao Bolt Center,Davao Bolt Center,hardware,7.0758219,125.6173627,PH
+Jun - Vilma Auto Repair Shop,Jun - Vilma Auto Repair Shop,car_repair,7.0427477,125.5816009,PH
+Oriental Touch Shiatsu Center,Oriental Touch Shiatsu Center,massage,7.0505319,125.590453,PH
+Sunya Restaurant,Sunya Restaurant,restaurant,7.0669243,125.606166,PH
+Davao Import Distributor,Davao Import Distributor,furniture,7.0655826,125.6076563,PH
+Kusina Davao,Kusina Davao,restaurant,7.0668526,125.6062716,PH
+Toyozu,Toyozu,car_parts,7.0753656,125.6166567,PH
+Lauan Industries Inc.,Lauan Industries Inc.,car_parts,7.0754165,125.6163653,PH
+Kim Guan Trading,Kim Guan Trading,hardware,7.0746625,125.6230938,PH
+Thinking Tools,Thinking Tools,computer,7.0770013,125.6189557,PH
+Pets Mart,Pets Mart,pet,7.0769758,125.6181544,PH
+Sub W Four Car Concepts,Sub W Four Car Concepts,electronics,7.0758717,125.6117679,PH
+Alfa Furniture & Showroom,Alfa Furniture & Showroom,furniture,7.0684291,125.6031569,PH
+Road Watch,Road Watch,car_repair,7.0972251,125.6176356,PH
+Sarimakan Crab Buffet,Sarimakan Crab Buffet,restaurant,7.0672924,125.6114196,PH
+Kookel's,Kookel's,restaurant,7.0610685,125.5570494,PH
+Mer' Allure Salon & Spa,Mer' Allure Salon & Spa,hairdresser,7.0533175,125.5986867,PH
+Samsung the AV Room,Samsung the AV Room,video,7.0766774,125.619424,PH
+The Cafe Mediterranean,The Cafe Mediterranean,restaurant,7.0766037,125.6194288,PH
+Rhean Cycle Mart,Rhean Cycle Mart,motorcycle,7.0804991,125.6212824,PH
+Davao Print Distributor,Davao Print Distributor,copyshop,7.0565838,125.6004635,PH
+Museo Cafe,Museo Cafe,cafe,7.0776048,125.6072922,PH
+Conching's Native Chicken,Conching's Native Chicken,restaurant,7.0765566,125.6060108,PH
+Mang Del's Kambingan,Mang Del's Kambingan,restaurant,7.0769009,125.6059189,PH

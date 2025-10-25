@@ -1,0 +1,624 @@
+name,name_en,service_type,lat,lng,country_code
+Giolitti,Giolitti,cafe,41.9010573,12.4772481,IT
+Eni,Eni,fuel,41.909256,12.417657,IT
+IP,IP,fuel,41.8611696,12.5332808,IT
+Esso,Esso,fuel,41.860684,12.442811,IT
+Agip,Agip,fuel,41.950518,12.571197,IT
+Erg,Erg,fuel,41.949405,12.563902,IT
+Api,Api,fuel,41.8645415,12.422337,IT
+Q8,Q8,fuel,41.8525852,12.4768841,IT
+Total,Total,fuel,41.8758021,12.4172439,IT
+TotalErg,TotalErg,fuel,41.8948464,12.5683145,IT
+StarOIL,StarOIL,fuel,41.925869,12.414535,IT
+REPSOL (ex ERG),REPSOL (ex ERG),fuel,41.9148443,12.4639291,IT
+Tamoil,Tamoil,fuel,41.882929,12.5344717,IT
+Gasauto,Gasauto,fuel,41.8613446,12.5341886,IT
+Shell,Shell,fuel,41.8505872,12.4350532,IT
+Q8 Easy,Q8 Easy,fuel,41.9107889,12.5489749,IT
+Ludoil,Ludoil,fuel,41.910219,12.4745955,IT
+Tiber,Tiber,fuel,41.925019,12.42322,IT
+EWA Point,EWA Point,fuel,41.921559,12.423038,IT
+Petrol Italia,Petrol Italia,fuel,41.925129,12.413937,IT
+Tpp Roma,Tpp Roma,fuel,41.865836,12.4788407,IT
+Ewa,Ewa,fuel,41.913354,12.413784,IT
+IES,IES,fuel,41.960069,12.406601,IT
+Toil,Toil,fuel,41.930076,12.4228568,IT
+Il Barattolino,Il Barattolino,convenience,41.9475457,12.5381443,IT
+rgb46 - relax gallery books,rgb46 - relax gallery books,books,41.880572,12.4748965,IT
+Pizzeria ai Marmi,Pizzeria ai Marmi,restaurant,41.8882634,12.4737899,IT
+Sichuan Haozi,Sichuan Haozi,restaurant,41.8958135,12.4994549,IT
+Iper La Spesa,Iper La Spesa,supermarket,41.893177,12.509422,IT
+Bar San Calisto,Bar San Calisto,beverages,41.8890547,12.4707375,IT
+Dar filettaro a Santa Barbara,Dar filettaro a Santa Barbara,restaurant,41.8946709,12.473696,IT
+Tuba,Tuba,cafe,41.8893885,12.5247246,IT
+Al Peperoncino,Al Peperoncino,restaurant,41.8534267,12.4769832,IT
+Ricambi Auto-Moto-Bici,Ricambi Auto-Moto-Bici,motorcycle,41.8529119,12.4768975,IT
+Caffé Arcioni,Caffé Arcioni,cafe,41.9269906,12.5103576,IT
+Petrol Gamma,Petrol Gamma,fuel,41.8763137,12.4712449,IT
+Caffé Parnaso,Caffé Parnaso,cafe,41.931046,12.4912422,IT
+Casina delle Muse,Casina delle Muse,cafe,41.9306836,12.4898821,IT
+Caffé Berardo,Caffé Berardo,cafe,41.9256253,12.4871104,IT
+Caffé Hungaria,Caffé Hungaria,cafe,41.9221744,12.4926379,IT
+Bar del Tennis,Bar del Tennis,cafe,41.9301169,12.4557331,IT
+Casina Valadier,Casina Valadier,cafe,41.9101982,12.4797871,IT
+Imperatori Armellini,Imperatori Armellini,cafe,41.9184807,12.522832,IT
+Depa Phonecenter,Depa Phonecenter,convenience,41.8560301,12.4850141,IT
+Zio d'America,Zio d'America,cafe,41.943691,12.5480485,IT
+Caffé Afrodite,Caffé Afrodite,cafe,41.9186439,12.4957135,IT
+Sant'Eustachio,Sant'Eustachio,cafe,41.8982524,12.4754268,IT
+La Casa del Caffè Tazza D’oro,La Casa del Caffè Tazza D’oro,cafe,41.8995925,12.4774865,IT
+Rosati,Rosati,restaurant,41.9100758,12.4760696,IT
+Ai Tre Scalini,Ai Tre Scalini,wine,41.8962767,12.4904433,IT
+Bar Rosi,Bar Rosi,cafe,41.8888496,12.5269051,IT
+Trattoria Ada e Mario,Trattoria Ada e Mario,restaurant,41.8753153,12.5143323,IT
+Gustosando,Gustosando,restaurant,41.8995399,12.4274338,IT
+Sa Posada,Sa Posada,restaurant,41.8799461,12.5079037,IT
+Pewex,Pewex,supermarket,41.8446306,12.4909213,IT
+Pizzeria Formula 1,Pizzeria Formula 1,restaurant,41.8970186,12.5126806,IT
+Smaf,Smaf,fuel,41.8747914,12.5128318,IT
+Todis,Todis,supermarket,41.876342,12.5176154,IT
+Da Francesco,Da Francesco,restaurant,41.8993181,12.4704034,IT
+Jonathan,Jonathan,cafe,41.8991754,12.4707372,IT
+Pizzeria Nuovo Mondo,Pizzeria Nuovo Mondo,restaurant,41.88212,12.4761722,IT
+Mister Bike,Mister Bike,bicycle,41.867647,12.527031,IT
+Le Streghe,Le Streghe,restaurant,41.8628159,12.5517228,IT
+Mio Bar,Mio Bar,cafe,41.9190012,12.4994512,IT
+Mok,Mok,restaurant,41.9107033,12.4985854,IT
+Superstore Sma,Superstore Sma,supermarket,41.9510622,12.4128737,IT
+F.lli Pasquini,F.lli Pasquini,cafe,41.9571645,12.4126419,IT
+HanCook Ristorante Coreano Roma (한쿡),HanCook Ristorante Coreano Roma (한쿡),restaurant,41.8841154,12.516125,IT
+Buscaglione,Buscaglione,cafe,41.8777974,12.5268155,IT
+San Domenico,San Domenico,cafe,41.8767503,12.528566,IT
+Montecastrilli,Montecastrilli,cafe,41.8771999,12.5323284,IT
+Quinto's,Quinto's,cafe,41.8686979,12.4942834,IT
+T-Bone Station,T-Bone Station,restaurant,41.9415954,12.4703981,IT
+Vigna Stelluti,Vigna Stelluti,cafe,41.9472402,12.466459,IT
+Evento,Evento,cafe,41.9396942,12.4662873,IT
+Malù,Malù,cafe,41.947748,12.4704043,IT
+PonteTazio 1923,PonteTazio 1923,cafe,41.93517,12.5343185,IT
+Casa Claudia Jazz and Garden,Casa Claudia Jazz and Garden,restaurant,41.9335681,12.5337923,IT
+Caffè da Raffaele,Caffè da Raffaele,cafe,41.9180503,12.5256455,IT
+Bar degli Studenti,Bar degli Studenti,cafe,41.8573195,12.5706744,IT
+Non Solo Bar,Non Solo Bar,cafe,41.8607249,12.5695357,IT
+M.A. Supermercati,M.A. Supermercati,supermarket,41.8639862,12.5698685,IT
+Star Oil,Star Oil,fuel,41.8921978,12.4376576,IT
+Mangianapoli,Mangianapoli,restaurant,41.8613966,12.5508448,IT
+Mare Blu,Mare Blu,restaurant,41.8613184,12.5503871,IT
+Pot Pourri,Pot Pourri,restaurant,41.8633389,12.4904421,IT
+Tandoori,Tandoori,restaurant,41.8882718,12.5296209,IT
+Ar Buchetto,Ar Buchetto,restaurant,41.8764462,12.5183672,IT
+Api-Ip,Api-Ip,fuel,41.8849546,12.5729228,IT
+Trattoria Zampagna,Trattoria Zampagna,restaurant,41.8606718,12.4787066,IT
+Patrizia Turchetti,Patrizia Turchetti,cafe,41.8781633,12.5373492,IT
+Enerpetroli,Enerpetroli,fuel,41.9118027,12.4483755,IT
+Angelico Bici,Angelico Bici,bicycle,41.9138571,12.4577618,IT
+Cacio e pepe,Cacio e pepe,restaurant,41.9152918,12.4667117,IT
+Antico Falcone,Antico Falcone,restaurant,41.9121083,12.4530395,IT
+Bar dell'angolo,Bar dell'angolo,cafe,41.912266,12.4490788,IT
+PlanetWin365,PlanetWin365,bookmaker,41.867306,12.5356092,IT
+Arco bistrot,Arco bistrot,restaurant,41.8674244,12.5357996,IT
+La Bicicletta-Cicli Mirtella,La Bicicletta-Cicli Mirtella,bicycle,41.9198745,12.458401,IT
+Nuraghe Sardo,Nuraghe Sardo,restaurant,41.9109582,12.4458961,IT
+Cafe Vaticano,Cafe Vaticano,cafe,41.9070485,12.4533278,IT
+La casa del goloso,La casa del goloso,cafe,41.9413109,12.5756598,IT
+Comandini Garden,Comandini Garden,garden_centre,41.9309803,12.5778655,IT
+La Locanda del Borgo,La Locanda del Borgo,restaurant,41.9644904,12.5967911,IT
+Sir-Conad,Sir-Conad,supermarket,41.8720922,12.5151327,IT
+Dolcilandia,Dolcilandia,pastry,41.9423471,12.5772868,IT
+Ristorante la Torre,Ristorante la Torre,restaurant,41.9314264,12.5782808,IT
+La Bottega del Caffè,La Bottega del Caffè,cafe,41.8949549,12.4910693,IT
+'O Masto 3 - Al Vesuvio,'O Masto 3 - Al Vesuvio,restaurant,41.862281,12.488147,IT
+Sushi Kyo,Sushi Kyo,restaurant,41.8416285,12.4814825,IT
+Dolce Maniera,Dolce Maniera,bakery,41.9105038,12.457813,IT
+La Caraffa,La Caraffa,restaurant,41.869362,12.5171761,IT
+Hang Zhou,Hang Zhou,restaurant,41.8937017,12.5086185,IT
+Conad,Conad,supermarket,41.8544841,12.4869757,IT
+Siciliainbocca,Siciliainbocca,restaurant,41.9326793,12.4675588,IT
+Caffè Tiziano,Caffè Tiziano,cafe,41.93046,12.4679288,IT
+Flaminia Computer,Flaminia Computer,computer,41.9305111,12.4680827,IT
+Flaminia,Flaminia,hardware,41.9325426,12.4672874,IT
+Lo Sgobbone,Lo Sgobbone,restaurant,41.9284983,12.4624623,IT
+Bar Vivona,Bar Vivona,cafe,41.8334779,12.4657066,IT
+Da Domenico,Da Domenico,restaurant,41.8857268,12.5376744,IT
+Il Baffetto,Il Baffetto,restaurant,41.8983047,12.4703507,IT
+NO Pizza Party,NO Pizza Party,restaurant,41.8086009,12.4834345,IT
+Il Tiaso,Il Tiaso,books,41.8898116,12.5256948,IT
+Acconciatore,Acconciatore,hairdresser,41.873651,12.513751,IT
+Quattordicesimo Piano - Il Fungo,Quattordicesimo Piano - Il Fungo,restaurant,41.8243848,12.4630291,IT
+Stazione di Servizio TotalErg,Stazione di Servizio TotalErg,fuel,41.855056,12.4910349,IT
+Marani Bar,Marani Bar,cafe,41.897029,12.5132836,IT
+noleggio bici,noleggio bici,bicycle,41.91596,12.4827886,IT
+Noleggio Villa Ada,Noleggio Villa Ada,bicycle,41.9352885,12.5061134,IT
+Castoro,Castoro,supermarket,41.883302,12.5033292,IT
+Ciclofficina GAZOMETRO,Ciclofficina GAZOMETRO,bicycle,41.8711052,12.4779938,IT
+Vini e Olii,Vini e Olii,wine,41.8893133,12.524452,IT
+Gros,Gros,supermarket,41.9113849,12.5020762,IT
+Repsol,Repsol,fuel,41.8458001,12.4759527,IT
+Pizzeria Er Panonto,Pizzeria Er Panonto,restaurant,41.8623106,12.485038,IT
+Otium,Otium,restaurant,41.8629353,12.4899561,IT
+Il Faraone,Il Faraone,cafe,41.8947982,12.4910764,IT
+Panorama 2001,Panorama 2001,restaurant,41.846643,12.4111407,IT
+La Fiorentina,La Fiorentina,restaurant,41.91009,12.4527926,IT
+L'Orange - Restaurant Wine Bar,L'Orange - Restaurant Wine Bar,restaurant,41.8807244,12.4666495,IT
+Natalino e Maurizio,Natalino e Maurizio,restaurant,41.9418377,12.4704781,IT
+L'Ortica,L'Ortica,restaurant,41.9419469,12.4715511,IT
+l'Acquolina,l'Acquolina,restaurant,41.9424612,12.4739717,IT
+Carrefour,Carrefour,supermarket,41.9445438,12.4737019,IT
+OVS,OVS,clothes,41.9419468,12.4710629,IT
+Tuodì,Tuodì,supermarket,41.944069,12.4742207,IT
+La gioia,La gioia,restaurant,41.9478031,12.5505921,IT
+Coop,Coop,supermarket,41.8103768,12.4847621,IT
+Café Art,Café Art,cafe,41.9124896,12.518073,IT
+Lettere Caffè,Lettere Caffè,cafe,41.8858115,12.4725707,IT
+Tigre,Tigre,supermarket,41.8507416,12.4948756,IT
+Antica Trattoria Tritone,Antica Trattoria Tritone,restaurant,41.9024028,12.4854491,IT
+L'Archetto,L'Archetto,restaurant,41.9347026,12.4202317,IT
+Osteria dell'Angelo,Osteria dell'Angelo,restaurant,41.9116467,12.4564744,IT
+L'insalatiera,L'insalatiera,restaurant,41.9129016,12.4523408,IT
+PIM,PIM,supermarket,41.9271499,12.4161852,IT
+Mr.Zhao,Mr.Zhao,restaurant,41.9118548,12.449925,IT
+Hamerica's,Hamerica's,restaurant,41.9085363,12.4551361,IT
+B.Ro Beef Bar,B.Ro Beef Bar,restaurant,41.9270766,12.4859111,IT
+Molto,Molto,restaurant,41.9276395,12.4865917,IT
+Caminetto,Caminetto,restaurant,41.9281757,12.4861621,IT
+La Pariolina,La Pariolina,restaurant,41.9286275,12.4860221,IT
+Ercoli 1928,Ercoli 1928,restaurant,41.9291742,12.486144,IT
+Il Dodo Cafe,Il Dodo Cafe,cafe,41.9283754,12.4861255,IT
+Bambus Bar,Bambus Bar,cafe,41.9272118,12.4859319,IT
+da Dino,da Dino,restaurant,41.9039741,12.5031043,IT
+Antico Caffè Greco,Antico Caffè Greco,cafe,41.9056653,12.4816137,IT
+Hard Rock Cafe,Hard Rock Cafe,restaurant,41.9064472,12.490003,IT
+Dal Bolognese,Dal Bolognese,restaurant,41.9099368,12.4760925,IT
+Canova,Canova,cafe,41.9102801,12.4770388,IT
+New Town,New Town,restaurant,41.9060313,12.447796,IT
+Tiberino,Tiberino,restaurant,41.8906948,12.477909,IT
+IN's,IN's,supermarket,41.9354989,12.422212,IT
+Caffetteria al Parlamento,Caffetteria al Parlamento,cafe,41.9025614,12.4779967,IT
+Hybun Joya,Hybun Joya,shoes,41.9046412,12.4780855,IT
+La Fontanella Borghese,La Fontanella Borghese,restaurant,41.903563,12.476709,IT
+Bar Borghese,Bar Borghese,cafe,41.903579,12.4768378,IT
+Marcantonio,Marcantonio,restaurant,41.9038773,12.4599903,IT
+Il Regno del Cornetto,Il Regno del Cornetto,pastry,41.9419007,12.5540917,IT
+Xeron Cafè,Xeron Cafè,cafe,41.9100224,12.4525456,IT
+La Villetta,La Villetta,restaurant,41.9276942,12.410838,IT
+I Tre Fratelli,I Tre Fratelli,restaurant,41.8623105,12.4899375,IT
+CRAI,CRAI,convenience,41.9333341,12.4193573,IT
+Caffè Braccio,Caffè Braccio,cafe,41.8803063,12.4843363,IT
+La Feltrinelli,La Feltrinelli,books,41.9092502,12.4567059,IT
+Raina Minimarket,Raina Minimarket,convenience,41.909653,12.4577792,IT
+La Pimpaccia,La Pimpaccia,restaurant,41.879381,12.4507835,IT
+Anzalone,Anzalone,furniture,41.9376171,12.4224071,IT
+La Piazzetta,La Piazzetta,restaurant,41.9120324,12.4495371,IT
+Il bar sotto al mare,Il bar sotto al mare,restaurant,41.9086305,12.4522057,IT
+bianco,bianco,fuel,41.8393289,12.5461672,IT
+One Way,One Way,cafe,41.902635,12.4947393,IT
+bar Casarola,bar Casarola,cafe,41.8151127,12.4913685,IT
+Pizza Roma,Pizza Roma,restaurant,41.8175526,12.4904426,IT
+Pam,Pam,supermarket,41.8174724,12.4894892,IT
+Girasole,Girasole,restaurant,41.8149949,12.4914298,IT
+Ipercarni,Ipercarni,supermarket,41.8132953,12.4863815,IT
+Gianni Style,Gianni Style,hairdresser,41.915491,12.4527922,IT
+CTS,CTS,supermarket,41.9536198,12.4572278,IT
+La Brasserie de Milan,La Brasserie de Milan,restaurant,45.4613015,9.1544733,IT
+Creative-Cables Store Milano,Creative-Cables Store Milano,lighting,45.4605383,9.17509,IT
+COIL,COIL,fuel,45.4982699,9.1673143,IT
+Maxcom,Maxcom,fuel,45.416889,9.205298,IT
+Gpl Metano,Gpl Metano,fuel,45.443268,9.118652,IT
+Enilive,Enilive,fuel,45.456633,9.1224037,IT
+@pump,@pump,fuel,45.4973264,9.1798725,IT
+Grifo,Grifo,fuel,45.4306749,9.1779972,IT
+Retitalia,Retitalia,fuel,45.4809886,9.2150483,IT
+Keropetrol,Keropetrol,fuel,45.4569156,9.2411137,IT
+Beyfin,Beyfin,fuel,45.4806577,9.1003168,IT
+Vega,Vega,fuel,45.4089691,9.1749225,IT
+Stazione di servizio IP,Stazione di servizio IP,fuel,45.4409142,9.1723281,IT
+Butan Gas,Butan Gas,fuel,45.461258,9.158733,IT
+Cantalupa Ovest,Cantalupa Ovest,fuel,45.4190858,9.1553283,IT
+Romolo s.a.s.,Romolo s.a.s.,fuel,45.4426242,9.1593255,IT
+Fremar,Fremar,fuel,45.402423,9.155753,IT
+Pane e Dolci,Pane e Dolci,bakery,45.4604611,9.1550019,IT
+Eataly Smeraldo,Eataly Smeraldo,mall,45.4805707,9.1878758,IT
+U2,U2,supermarket,45.4879879,9.2418033,IT
+Iper Milano Portello,Iper Milano Portello,supermarket,45.4901442,9.1454007,IT
+La Mela Bianca,La Mela Bianca,restaurant,45.4885485,9.1653266,IT
+Carrefour Market,Carrefour Market,supermarket,45.4880185,9.1662268,IT
+Pam local,Pam local,supermarket,45.4887952,9.1650628,IT
+Lidl,Lidl,supermarket,45.4623188,9.1488458,IT
+NU,NU,restaurant,45.4912471,9.2444364,IT
+Da Marco,Da Marco,restaurant,45.4944919,9.221509,IT
+La Corte della Risaia,La Corte della Risaia,restaurant,45.4276655,9.1398143,IT
+Mercato Comunale,Mercato Comunale,convenience,45.4312791,9.1626739,IT
+Volta Street,Volta Street,restaurant,45.4785976,9.1842604,IT
+Bomaki,Bomaki,restaurant,45.4781417,9.1842247,IT
+Denzel,Denzel,restaurant,45.464983,9.1554107,IT
+punto SMA,punto SMA,supermarket,45.4640671,9.1553131,IT
+Panificio Classico Panetteria,Panificio Classico Panetteria,bakery,45.4617622,9.1515779,IT
+Ai Muciaccia,Ai Muciaccia,restaurant,45.4600738,9.1564997,IT
+Qor,Qor,restaurant,45.4626252,9.157709,IT
+El Prestin del Cantun,El Prestin del Cantun,bakery,45.4667159,9.159693,IT
+La bicicletteria,La bicicletteria,bicycle,45.4618588,9.1546812,IT
+Conad City,Conad City,supermarket,45.4683645,9.1549991,IT
+BricoCenter,BricoCenter,doityourself,45.4619973,9.1359909,IT
+Trattoria Caprese,Trattoria Caprese,restaurant,45.4667632,9.1521402,IT
+Da Berti,Da Berti,restaurant,45.4887909,9.1966345,IT
+Trattoria Casa Fontana - 23 risotti,Trattoria Casa Fontana - 23 risotti,restaurant,45.4938118,9.1985901,IT
+Carlo Pignatelli,Carlo Pignatelli,clothes,45.4527451,9.1841351,IT
+Mister Golf,Mister Golf,sports,45.4681576,9.2067643,IT
+Zoo Planet,Zoo Planet,pet,45.4678043,9.221259,IT
+Punto Simply,Punto Simply,supermarket,45.4741594,9.2184026,IT
+Bar Nilo,Bar Nilo,cafe,45.4887935,9.1943986,IT
+Starbucks,Starbucks,cafe,45.4882021,9.1953454,IT
+Il mago del pane,Il mago del pane,bakery,45.442179,9.1333701,IT
+a Riccione,a Riccione,restaurant,45.4944891,9.1959957,IT
+Stefano Cesano,Stefano Cesano,books,45.466269,9.1654618,IT
+Cafè Archimede,Cafè Archimede,cafe,45.4656535,9.2213141,IT
+Findomestic,Findomestic,money_lender,45.4962433,9.2200003,IT
+Daniel,Daniel,restaurant,45.4786582,9.1892715,IT
+Officina 12,Officina 12,restaurant,45.4520568,9.1752912,IT
+Fabbrica,Fabbrica,restaurant,45.4507894,9.1692677,IT
+Ristorante Bande Nere,Ristorante Bande Nere,restaurant,45.4616601,9.1357832,IT
+Rifugio Delicatessen,Rifugio Delicatessen,restaurant,45.4858994,9.168171,IT
+Il Giardino della Birra,Il Giardino della Birra,restaurant,45.4708645,9.2430698,IT
+Ciclofficina,Ciclofficina,bicycle,45.4765182,9.2268104,IT
+Saturn,Saturn,hifi,45.4042478,9.1536603,IT
+Arcaplanet,Arcaplanet,pet,45.4625885,9.2300165,IT
+Sahara Café,Sahara Café,cafe,45.4502169,9.151306,IT
+Il re delle bontà,Il re delle bontà,bakery,45.4526163,9.1452499,IT
+Gelsomina,Gelsomina,cafe,45.4802145,9.201232,IT
+Bar Baldassarre,Bar Baldassarre,cafe,45.481866,9.203625,IT
+Carmel,Carmel,restaurant,45.4559089,9.1366189,IT
+Palayok - Cucina Filippina,Palayok - Cucina Filippina,restaurant,45.4481943,9.1384121,IT
+Videoclub Le Cinema,Videoclub Le Cinema,video,45.4569899,9.1544081,IT
+Carrefour Express,Carrefour Express,convenience,45.4799254,9.2034133,IT
+Laumge Cafe,Laumge Cafe,cafe,45.4469689,9.1612831,IT
+Lo Scoglio sul Naviglio,Lo Scoglio sul Naviglio,restaurant,45.4451644,9.1445164,IT
+Taberna Vasca,Taberna Vasca,restaurant,45.4448043,9.1428846,IT
+La Prosciutteria,La Prosciutteria,restaurant,45.4899689,9.1889659,IT
+Pizzeria Piccola Ischia,Pizzeria Piccola Ischia,restaurant,45.4541489,9.2159819,IT
+Kapuziner Platz,Kapuziner Platz,restaurant,45.4558756,9.2056971,IT
+Giorgione,Giorgione,car_repair,45.4603549,9.1563859,IT
+Le Onde,Le Onde,hairdresser,45.4596959,9.1558601,IT
+Smile,Smile,cafe,45.4603367,9.1551443,IT
+Rovighi,Rovighi,watches,45.4597576,9.1550611,IT
+Washington 76,Washington 76,cafe,45.4590954,9.1545367,IT
+Fatto Bene Burger,Fatto Bene Burger,restaurant,45.4675712,9.1555418,IT
+Roxy Bar,Roxy Bar,cafe,45.4489424,9.1623861,IT
+Rossignoli,Rossignoli,bicycle,45.475005,9.1834214,IT
+Cicli Motocicli Mazzei Umile Emilio,Cicli Motocicli Mazzei Umile Emilio,bicycle,45.4361909,9.2004469,IT
+Area Bici,Area Bici,bicycle,45.4336642,9.1834832,IT
+Disio - Desiderio Siciliano,Disio - Desiderio Siciliano,bakery,45.455773,9.1712789,IT
+Cantun,Cantun,restaurant,45.4872513,9.197977,IT
+Meat me,Meat me,restaurant,45.4888473,9.1830352,IT
+Zio Provolone,Zio Provolone,restaurant,45.4431787,9.1161113,IT
+Terranova,Terranova,clothes,45.4804312,9.2106619,IT
+Doppelgänger,Doppelgänger,clothes,45.4564721,9.1746297,IT
+La Esse,La Esse,supermarket,45.4569487,9.1753324,IT
+Pintxo,Pintxo,restaurant,45.4865484,9.1648819,IT
+Signorvino,Signorvino,restaurant,45.4812546,9.1860677,IT
+NihonKai,NihonKai,restaurant,45.4910015,9.1534731,IT
+Max's,Max's,cafe,45.4572103,9.1544083,IT
+Al Capriccio,Al Capriccio,restaurant,45.454744,9.1543017,IT
+Don Raffaele,Don Raffaele,restaurant,45.4587057,9.1541195,IT
+Seta Beauty,Seta Beauty,beauty,45.457244,9.1529447,IT
+Alice,Alice,restaurant,45.4512463,9.1511177,IT
+Giuliano Suardi,Giuliano Suardi,cafe,45.4473595,9.1559704,IT
+Ebony,Ebony,cafe,45.4861797,9.2266105,IT
+Mammina,Mammina,restaurant,45.4779672,9.1841551,IT
+TIM,TIM,telecommunication,45.4777177,9.1840314,IT
+Assaje,Assaje,restaurant,45.4783259,9.1842808,IT
+Art Rock Cafè,Art Rock Cafè,cafe,45.4489386,9.2023167,IT
+Pomodorino,Pomodorino,restaurant,45.4504362,9.2028232,IT
+The Brisket Smokehouse,The Brisket Smokehouse,restaurant,45.4506209,9.1700733,IT
+Lego,Lego,toys,45.4666904,9.1980152,IT
+Pepe Nero,Pepe Nero,restaurant,45.4489554,9.2110082,IT
+Martesana,Martesana,pastry,45.4526107,9.2017446,IT
+Rossignoli Zanazzi,Rossignoli Zanazzi,bicycle,45.4542625,9.1593026,IT
+Vecchio Aratro,Vecchio Aratro,restaurant,45.499762,9.223294,IT
+Bar Felice,Bar Felice,cafe,45.4391976,9.155327,IT
+Gocce di caffè,Gocce di caffè,cafe,45.4420621,9.1550458,IT
+Carmen 2,Carmen 2,restaurant,45.4405918,9.1552532,IT
+Il Diamante 2 - Ristorante Grill Pizzeria,Il Diamante 2 - Ristorante Grill Pizzeria,restaurant,45.4395888,9.1541822,IT
+Pucatè - Bubble Tea,Pucatè - Bubble Tea,cafe,45.4788704,9.2031626,IT
+Tutta 'Nata Storia,Tutta 'Nata Storia,restaurant,45.4403736,9.1786974,IT
+Caffè 48,Caffè 48,cafe,45.4439553,9.1824684,IT
+Libreria Egea,Libreria Egea,books,45.4509208,9.189746,IT
+Pizzeria,Pizzeria,restaurant,45.4996731,9.2933469,IT
+Sole d'oriente,Sole d'oriente,restaurant,45.4437363,9.1800203,IT
+Ghenza,Ghenza,restaurant,45.4415864,9.1790333,IT
+Niky Bar,Niky Bar,cafe,45.4429375,9.179059,IT
+Fico d'India,Fico d'India,restaurant,45.4407975,9.1801319,IT
+Il Paquito,Il Paquito,restaurant,45.4406169,9.1801577,IT
+Isola Bar,Isola Bar,cafe,45.4472205,9.1796901,IT
+Mint Cafe,Mint Cafe,restaurant,45.4511665,9.1897035,IT
+Coin,Coin,department_store,45.4624784,9.2063858,IT
+Cafè Vigorelli,Cafè Vigorelli,cafe,45.4828111,9.1584389,IT
+IYO Experience,IYO Experience,restaurant,45.4867737,9.159562,IT
+Sma Auchan,Sma Auchan,supermarket,45.4860592,9.1602275,IT
+Tempurateca,Tempurateca,restaurant,45.4861675,9.1600421,IT
+La Parrilla Mexicana Milano,La Parrilla Mexicana Milano,restaurant,45.4850275,9.1609476,IT
+Indrani,Indrani,restaurant,45.4859964,9.1596515,IT
+Al Toscanaccio,Al Toscanaccio,restaurant,45.4846305,9.1628726,IT
+Oriental Pleasure,Oriental Pleasure,restaurant,45.4856795,9.1628638,IT
+Snakesstudio,Snakesstudio,tattoo,45.4845873,9.1653944,IT
+Katei,Katei,restaurant,45.4848856,9.1649861,IT
+Contro Vento,Contro Vento,restaurant,45.4846164,9.1658099,IT
+dorelan,dorelan,bed,45.4813717,9.1640921,IT
+Corona Gomma,Corona Gomma,tyres,45.4836795,9.164105,IT
+Ritratto di Caffè,Ritratto di Caffè,cafe,45.4839621,9.1633457,IT
+L'Enoteca di Bonazzi,L'Enoteca di Bonazzi,wine,45.4829344,9.1658752,IT
+Rong Lai,Rong Lai,restaurant,45.4828365,9.16569,IT
+Pasticceria Scaringi,Pasticceria Scaringi,pastry,45.4836739,9.1644306,IT
+La Rosa dei Venti,La Rosa dei Venti,restaurant,45.4837794,9.1642847,IT
+L. Cantoni,L. Cantoni,bakery,45.4839981,9.1635533,IT
+Express Cafè,Express Cafè,cafe,45.4810212,9.1618768,IT
+Millenium café,Millenium café,cafe,45.4807068,9.1604412,IT
+Fresco,Fresco,restaurant,45.4811153,9.1644158,IT
+Sempione 49,Sempione 49,cafe,45.481826,9.1635061,IT
+Aquarius,Aquarius,restaurant,45.4816749,9.1636918,IT
+Time Out,Time Out,cafe,45.4864124,9.1590177,IT
+La Birreria Italiana,La Birreria Italiana,restaurant,45.4827064,9.1666905,IT
+Flash Bar,Flash Bar,cafe,45.4825026,9.1667512,IT
+Francone moto,Francone moto,motorcycle,45.4824447,9.1682625,IT
+Pasticceria Mac Mahon,Pasticceria Mac Mahon,convenience,45.4981252,9.1527464,IT
+Bar Castelli,Bar Castelli,cafe,45.499159,9.1504076,IT
+Al 37,Al 37,cafe,45.487121,9.1620329,IT
+Elicamoto,Elicamoto,motorcycle,45.4867395,9.167695,IT
+Cucina In,Cucina In,restaurant,45.4849763,9.1669741,IT
+Baronsec Uno,Baronsec Uno,laundry,45.4846732,9.1664983,IT
+3 Jolie,3 Jolie,restaurant,45.4852204,9.1672155,IT
+Ristorante Brasile,Ristorante Brasile,restaurant,45.4946248,9.1558934,IT
+Peter Pan Cafè,Peter Pan Cafè,cafe,45.4995952,9.1492329,IT
+Lavasecco Pezzotti,Lavasecco Pezzotti,laundry,45.442197,9.183283,IT
+Latteria,Latteria,convenience,45.4421095,9.1832896,IT
+Bar Tiffany,Bar Tiffany,cafe,45.4516696,9.1868555,IT
+NaturaSì,NaturaSì,supermarket,45.4518951,9.1870304,IT
+Gattullo,Gattullo,pastry,45.4519996,9.1858381,IT
+Lino's Coffe,Lino's Coffe,cafe,45.4509808,9.1895706,IT
+Lleva Taps,Lleva Taps,restaurant,45.4598362,9.1714761,IT
+Autogrill,Autogrill,restaurant,45.4009605,9.122015,IT
+Fontanili E Merli Onoranze Funebri,Fontanili E Merli Onoranze Funebri,funeral_directors,45.438764,9.1831742,IT
+Illy Cafe,Illy Cafe,cafe,45.4448892,9.1793271,IT
+Piante e fiori Vincenzo,Piante e fiori Vincenzo,florist,45.4539148,9.1871277,IT
+Venti 136,Venti 136,cafe,45.451535,9.187457,IT
+Amici Miei,Amici Miei,restaurant,45.4508431,9.1918941,IT
+Green Mill,Green Mill,cafe,45.4482032,9.1867801,IT
+Savino Parrucchiere Uomo,Savino Parrucchiere Uomo,hairdresser,45.4382622,9.1831817,IT
+Charmant,Charmant,restaurant,45.4723196,9.2267793,IT
+Gelateria Delice,Gelateria Delice,cafe,45.4710468,9.2287397,IT
+Pizzeria Oceania,Pizzeria Oceania,restaurant,45.4704608,9.2289409,IT
+Ribot,Ribot,restaurant,45.4832357,9.1379787,IT
+Cotica,Cotica,restaurant,45.4887504,9.1187053,IT
+l'Arca,l'Arca,restaurant,45.4863737,9.1288109,IT
+Edicola di Piazza della Repubblica,Edicola di Piazza della Repubblica,kiosk,45.4924491,9.293895,IT
+Promoclub Segrate,Promoclub Segrate,convenience,45.4896079,9.2967611,IT
+Besia,Besia,doityourself,45.4944204,9.29497,IT
+tagliatiXilsuccesso,tagliatiXilsuccesso,hairdresser,45.4946385,9.2942458,IT
+easyChic,easyChic,clothes,45.4957365,9.2939401,IT
+Cris,Cris,cafe,45.4949543,9.2942297,IT
+Sudan,Sudan,cafe,45.4942391,9.2958512,IT
+Pelagatti,Pelagatti,jewelry,45.4918031,9.2944068,IT
+Antica Trattoria Lampugnano,Antica Trattoria Lampugnano,restaurant,45.4868109,9.1275471,IT
+Energas,Energas,fuel,40.912941,14.221201,IT
+Indipendente,Indipendente,fuel,40.967509,14.316387,IT
+Eni Station,Eni Station,fuel,40.940344,14.303534,IT
+Metano,Metano,fuel,40.884248,14.216961,IT
+Pasticceria Generoso,Pasticceria Generoso,pastry,40.8089258,14.3535666,IT
+Molo Beverello,Molo Beverello,cafe,40.8384191,14.2551589,IT
+Antica Trattoria Da Rosetta,Antica Trattoria Da Rosetta,restaurant,40.9007137,14.2770989,IT
+Euroesse,Euroesse,supermarket,40.8057903,14.3521209,IT
+MD Discount,MD Discount,supermarket,40.8069727,14.3534127,IT
+Superò,Superò,supermarket,40.8484495,14.2489029,IT
+Macelleria Diretto,Macelleria Diretto,butcher,40.9850403,14.2358385,IT
+MiniMarket,MiniMarket,supermarket,40.9858493,14.2336076,IT
+Caffetteria Bernini,Caffetteria Bernini,cafe,40.847642,14.2314564,IT
+Trattoria Vanvitelli,Trattoria Vanvitelli,restaurant,40.8441268,14.231378,IT
+Grieco,Grieco,bakery,40.8474921,14.231819,IT
+Smart Oil,Smart Oil,fuel,40.9797905,14.2245006,IT
+Yab,Yab,clothes,40.8939843,14.3918397,IT
+CJ Petroli,CJ Petroli,fuel,40.9054659,14.3888255,IT
+Pizzeria - Friggitoria Giuseppe Leopardi,Pizzeria - Friggitoria Giuseppe Leopardi,restaurant,40.8910301,14.2524599,IT
+La Cantina Di Carmine,La Cantina Di Carmine,restaurant,40.9105616,14.2683723,IT
+N'dringte n'dra,N'dringte n'dra,restaurant,40.9190376,14.3059142,IT
+Libreria Flora,Libreria Flora,books,40.9184013,14.3102703,IT
+Centro Carni 2,Centro Carni 2,butcher,40.9202107,14.3081993,IT
+Il Vizietto,Il Vizietto,tobacco,40.965447,14.2026316,IT
+Decò,Decò,supermarket,40.9012952,14.2827403,IT
+Sisa,Sisa,supermarket,40.902023,14.2844998,IT
+Viva lo Re,Viva lo Re,restaurant,40.8022637,14.3527202,IT
+Follie di Fiori,Follie di Fiori,florist,40.8421258,14.3693177,IT
+Bar Centrale,Bar Centrale,cafe,40.8431101,14.3695907,IT
+Pizzeria Funiculi,Pizzeria Funiculi,restaurant,40.8462744,14.3711892,IT
+Sterminator Vesevo,Sterminator Vesevo,cafe,40.8442562,14.3701009,IT
+Bar Plinio,Bar Plinio,cafe,40.8422133,14.3697731,IT
+Pasticceria Angela,Pasticceria Angela,cafe,40.842499,14.3698809,IT
+D-Power,D-Power,fuel,40.8426617,14.3652723,IT
+Pizzeria da Michele,Pizzeria da Michele,restaurant,40.819591,14.328539,IT
+Carrefour Market V.Abate,Carrefour Market V.Abate,supermarket,40.8482423,14.2302145,IT
+Carrefour Via Orsi,Carrefour Via Orsi,supermarket,40.8512034,14.2314111,IT
+Supermercati Deco,Supermercati Deco,supermarket,40.8518511,14.2344995,IT
+Gelateria Otranto,Gelateria Otranto,vacant,40.847391,14.2315442,IT
+La Feltrinelli Express,La Feltrinelli Express,books,40.8520875,14.2724363,IT
+Intersport,Intersport,sports,40.8439385,14.2306998,IT
+Brandi,Brandi,restaurant,40.8367467,14.2468974,IT
+Cartolibreria Rizzo,Cartolibreria Rizzo,books,40.8904952,14.2647731,IT
+My Day,My Day,restaurant,40.9060432,14.2846741,IT
+Il Caffettucio,Il Caffettucio,cafe,40.8531567,14.2700069,IT
+Unieuro,Unieuro,electronics,40.8532145,14.2692378,IT
+Caffe dei Principe,Caffe dei Principe,cafe,40.8427967,14.2325902,IT
+Gioia,Gioia,shoes,40.8426837,14.2310923,IT
+Macelleria,Macelleria,butcher,40.8425318,14.2307617,IT
+Golocious,Golocious,restaurant,40.8426969,14.2295532,IT
+3 Store,3 Store,mobile_phone,40.8426543,14.2327526,IT
+Biblò,Biblò,clothes,40.8426045,14.2324302,IT
+Blandolino,Blandolino,clothes,40.8428571,14.2330306,IT
+L'Orto,L'Orto,greengrocer,40.8425936,14.2323636,IT
+Made In Europe Project,Made In Europe Project,clothes,40.8427742,14.2323112,IT
+Antonio Barbaro,Antonio Barbaro,clothes,40.8381885,14.2496546,IT
+Box Office,Box Office,ticket,40.8383146,14.2501233,IT
+Caffe Roma,Caffe Roma,cafe,40.8386155,14.2497371,IT
+Caffeteria Umberto,Caffeteria Umberto,cafe,40.8383171,14.2500572,IT
+Hope Outlet,Hope Outlet,clothes,40.8391404,14.2505941,IT
+Imperatrice,Imperatrice,clothes,40.8390373,14.2492752,IT
+Sephora,Sephora,perfumery,40.8387079,14.2497123,IT
+Tabacchi,Tabacchi,tobacco,40.8390304,14.2494057,IT
+Timberland,Timberland,clothes,40.8389676,14.2497107,IT
+Vision Ottica,Vision Ottica,optician,40.8383196,14.2499747,IT
+Alba,Alba,restaurant,40.827908,14.2195452,IT
+Dotoli M2,Dotoli M2,car,40.8235082,14.2182059,IT
+Chalet Ciro,Chalet Ciro,cafe,40.8267492,14.2201384,IT
+Lo Squalo,Lo Squalo,restaurant,40.826692,14.2195186,IT
+El Poble,El Poble,restaurant,40.8319712,14.2430568,IT
+Henry VIII,Henry VIII,restaurant,40.8674178,14.2481476,IT
+Nana,Nana,restaurant,40.8630727,14.2484828,IT
+Scugnizzi,Scugnizzi,restaurant,40.8568294,14.2482174,IT
+Mexico,Mexico,cafe,40.8532648,14.2709528,IT
+Pasticceria Attanasio,Pasticceria Attanasio,pastry,40.8531641,14.2690018,IT
+SfogliateLAB,SfogliateLAB,cafe,40.8533339,14.2713978,IT
+Vodafone,Vodafone,telecommunication,40.8531618,14.2700579,IT
+Oro New,Oro New,jewelry,40.8531187,14.2695387,IT
+Aladin,Aladin,restaurant,40.8531719,14.2701598,IT
+E-Store,E-Store,mobile_phone,40.8532498,14.2708074,IT
+Wind Tre,Wind Tre,telecommunication,40.8533261,14.2711341,IT
+Pasticceria delle rose,Pasticceria delle rose,yes,40.9579973,14.3100714,IT
+Palazzo Marchesale,Palazzo Marchesale,restaurant,40.9584373,14.3237105,IT
+Gran Caffè Gambrinus,Gran Caffè Gambrinus,cafe,40.8367413,14.2484715,IT
+MD,MD,supermarket,40.825367,14.2029777,IT
+Pasticceria Settembre,Pasticceria Settembre,bakery,40.8549385,14.2234214,IT
+Acustica,Acustica,musical_instrument,40.849091,14.2522645,IT
+Alexander Caffe,Alexander Caffe,cafe,40.8482536,14.2528086,IT
+Armonicordi,Armonicordi,clothes,40.8487135,14.2525283,IT
+Centro Chitarre,Centro Chitarre,musical_instrument,40.8487697,14.2524894,IT
+Face,Face,clothes,40.8481399,14.2528787,IT
+Gay Odin,Gay Odin,confectionery,40.8476282,14.2531499,IT
+Gran Caffe Neapolis,Gran Caffe Neapolis,cafe,40.8482694,14.2551351,IT
+Lombardi,Lombardi,restaurant,40.8477002,14.2534644,IT
+Mirte tipografia,Mirte tipografia,convenience,40.8489385,14.2523727,IT
+Miletti,Miletti,musical_instrument,40.8480485,14.2529224,IT
+Oblomova,Oblomova,clothes,40.8484319,14.2526746,IT
+Piccolo Sogni,Piccolo Sogni,jewelry,40.8477577,14.2536367,IT
+S. Ghidelli,S. Ghidelli,computer,40.847729,14.2535505,IT
+Ubik,Ubik,books,40.8481988,14.2544984,IT
+Pizzeria dell'Angelo,Pizzeria dell'Angelo,restaurant,40.8485421,14.2560803,IT
+Vesi,Vesi,restaurant,40.8490189,14.2573416,IT
+Antico Caffe Moro,Antico Caffe Moro,cafe,40.8515923,14.2696815,IT
+Caffeteria La Glaciale,Caffeteria La Glaciale,cafe,40.8516889,14.2705341,IT
+I Sapori di Parthenope,I Sapori di Parthenope,restaurant,40.8517051,14.2708081,IT
+Iris,Iris,restaurant,40.8515575,14.2693439,IT
+La Cantina dei Mille,La Cantina dei Mille,restaurant,40.8515517,14.2692269,IT
+Original Marines,Original Marines,clothes,40.8518828,14.2723977,IT
+Desigual,Desigual,clothes,40.8518201,14.2722018,IT
+Foot Locker,Foot Locker,shoes,40.8517285,14.2722341,IT
+Hudson News,Hudson News,newsagent,40.8518217,14.2723997,IT
+Tezenis,Tezenis,clothes,40.8516475,14.2722402,IT
+VyTA,VyTA,cafe,40.8517422,14.2724138,IT
+Z,Z,clothes,40.8516811,14.2724078,IT
+Trattoria Enoteca Campagnola,Trattoria Enoteca Campagnola,restaurant,40.8506813,14.2562073,IT
+Super Mini Market,Super Mini Market,convenience,40.8507529,14.2568194,IT
+A'ddò figlio 'e Michele,A'ddò figlio 'e Michele,restaurant,40.8697271,14.2683508,IT
+Caffetteria Miracoli,Caffetteria Miracoli,cafe,40.8584463,14.2552729,IT
+Rescigno,Rescigno,cafe,40.8559748,14.2577199,IT
+Volta,Volta,cafe,40.8516155,14.2504372,IT
+Ristorante Il Bellini,Ristorante Il Bellini,restaurant,40.8494957,14.2521097,IT
+Antica Trattoria da Carmine,Antica Trattoria da Carmine,restaurant,40.8508372,14.2570224,IT
+Pizzeria Trianon,Pizzeria Trianon,restaurant,40.8501193,14.2637046,IT
+Gino Sorbillo,Gino Sorbillo,restaurant,40.8503878,14.2553401,IT
+Di Matteo,Di Matteo,restaurant,40.8512861,14.2580195,IT
+L'Antica Pizzeria da Michele,L'Antica Pizzeria da Michele,restaurant,40.8497493,14.263352,IT
+Edicola,Edicola,newsagent,40.8669606,14.3791717,IT
+La Casereccia,La Casereccia,restaurant,40.8957367,14.2948214,IT
+Edicola Dante,Edicola Dante,newsagent,40.8501939,14.2498818,IT
+Pizzeria Le Sorelle Bandiera,Pizzeria Le Sorelle Bandiera,restaurant,40.8515917,14.2571182,IT
+Casa Reale,Casa Reale,restaurant,40.8384005,14.250716,IT
+Libreria Pacifico,Libreria Pacifico,books,40.8492672,14.2506128,IT
+Unieuro City,Unieuro City,electronics,40.8489117,14.2832615,IT
+Optomarket,Optomarket,optician,40.8487733,14.283202,IT
+Xerox,Xerox,hifi,40.8486455,14.2831513,IT
+Star Shop,Star Shop,books,40.8440193,14.2521723,IT
+Masardona,Masardona,restaurant,40.8485121,14.2734771,IT
+Café de Paris,Café de Paris,cafe,40.8088236,14.3540033,IT
+Vesuvius,Vesuvius,cafe,40.8063449,14.3500291,IT
+Pizzeria del popolo,Pizzeria del popolo,restaurant,40.846756,14.2665785,IT
+Glamour Bar,Glamour Bar,cafe,40.8715284,14.3335833,IT
+I Re di Napoli,I Re di Napoli,restaurant,40.8301194,14.245574,IT
+Regina Margherita,Regina Margherita,restaurant,40.8301264,14.2452307,IT
+Anema & Cozze,Anema & Cozze,restaurant,40.8301954,14.2451033,IT
+Antonio & Antonio,Antonio & Antonio,restaurant,40.8301245,14.245389,IT
+Rosolino,Rosolino,restaurant,40.8306288,14.250221,IT
+La Cantinella,La Cantinella,restaurant,40.8322828,14.2511141,IT
+Il Posto Accanto,Il Posto Accanto,restaurant,40.8305334,14.2501727,IT
+Acquolina,Acquolina,restaurant,40.8301153,14.2458234,IT
+Brace & Risotti,Brace & Risotti,restaurant,40.8308976,14.2445065,IT
+Errico Porzio,Errico Porzio,restaurant,40.83099,14.2444314,IT
+Ammare,Ammare,restaurant,40.8315661,14.24309,IT
+Trattoria Chiatamone,Trattoria Chiatamone,restaurant,40.8304045,14.2460094,IT
+La Cantina dei Lazzari,La Cantina dei Lazzari,restaurant,40.8306248,14.2488673,IT
+Borgo Antico Santa Lucia,Borgo Antico Santa Lucia,restaurant,40.8316477,14.2489155,IT
+La Scialuppa,La Scialuppa,restaurant,40.8285894,14.2484415,IT
+O'Chiaiese,O'Chiaiese,restaurant,40.8282281,14.2483664,IT
+Ciro dal 1936,Ciro dal 1936,restaurant,40.8285772,14.2480874,IT
+La Bersagliera,La Bersagliera,restaurant,40.8296624,14.248532,IT
+Zi' Teresa dal 1860,Zi' Teresa dal 1860,restaurant,40.8296736,14.2481323,IT
+Sorbillo,Sorbillo,restaurant,40.8317172,14.2417495,IT
+Stella,Stella,restaurant,40.8316838,14.2421377,IT
+Cru...do Re,Cru...do Re,restaurant,40.8320288,14.2417997,IT
+Ninetta,Ninetta,restaurant,40.8317847,14.2427583,IT
+Dal Presidente,Dal Presidente,restaurant,40.851642,14.2590841,IT
+Pisanti,Pisanti,books,40.8448546,14.2570228,IT
+Palazzo Petrucci,Palazzo Petrucci,restaurant,40.8485281,14.2545645,IT
+pizzeria Belvedere,pizzeria Belvedere,restaurant,40.804761,14.3567883,IT
+Pasticceria Roscir,Pasticceria Roscir,cafe,40.8055,14.35306,IT
+Plaza Cafè,Plaza Cafè,cafe,40.8061201,14.3530511,IT
+Caffetteria Italia,Caffetteria Italia,cafe,40.8069001,14.3519256,IT
+Forum Cafè,Forum Cafè,cafe,40.8074665,14.3513462,IT
+Tubba Catubba,Tubba Catubba,restaurant,40.8033187,14.352006,IT
+Cin Cin Travels,Cin Cin Travels,travel_agency,40.8074283,14.3557678,IT
+Aramar Cafè,Aramar Cafè,cafe,40.8076437,14.355965,IT
+Majorano,Majorano,hardware,40.8563522,14.3253135,IT
+Petrol,Petrol,fuel,40.9546974,14.232657,IT
+Nonna Tittina,Nonna Tittina,restaurant,40.829287,14.2226492,IT
+Pandorino e Torromacco,Pandorino e Torromacco,gift,40.8380385,14.2497982,IT
+Trattoria da Mammarella,Trattoria da Mammarella,restaurant,40.8519957,14.2610153,IT
+Caffè Rosati,Caffè Rosati,cafe,40.8369771,14.2484196,IT
+Lumafral,Lumafral,restaurant,40.9209727,14.354317,IT
+Don Ernesto,Don Ernesto,restaurant,40.8306545,14.2447158,IT
+Ford Service,Ford Service,car_repair,40.8668455,14.3562889,IT
+ST Oil,ST Oil,fuel,40.8631326,14.3564036,IT
+L.u.i.s.e.,L.u.i.s.e.,restaurant,40.8390065,14.2482786,IT
+Pizzeria da Gaetano,Pizzeria da Gaetano,restaurant,40.8548506,14.2669954,IT
+Mimi alla Ferrovia,Mimi alla Ferrovia,restaurant,40.853415,14.267262,IT
+Trattoria Avellinese,Trattoria Avellinese,restaurant,40.850793,14.2693066,IT
+La Pizzettata,La Pizzettata,restaurant,40.8425387,14.2252151,IT
+Forniture Edili Marasca,Forniture Edili Marasca,yes,40.8571528,14.2170886,IT
+Sole 365,Sole 365,supermarket,40.8605622,14.2213572,IT
+Flor do Cafè,Flor do Cafè,supermarket,40.8470938,14.2271998,IT
+F.lli Amato,F.lli Amato,yes,40.8481906,14.2294371,IT
+Dino Galiano,Dino Galiano,electronics,40.8453467,14.2251372,IT
+Dodecà,Dodecà,supermarket,40.8435663,14.2340831,IT
+Conad GM3,Conad GM3,supermarket,40.8422995,14.2204429,IT
+La Brace,La Brace,restaurant,40.8636732,14.2187589,IT
+Parafarmacia Biondi,Parafarmacia Biondi,chemist,40.8436235,14.2232493,IT
+Pizzeria Gorizia,Pizzeria Gorizia,restaurant,40.8426666,14.2222967,IT
+Acqua & Sapone,Acqua & Sapone,chemist,40.8515229,14.2286891,IT
+Conad Falcone,Conad Falcone,supermarket,40.8395554,14.2209258,IT
+Pasticceria Vincenzo Bellavia,Pasticceria Vincenzo Bellavia,confectionery,40.8536775,14.2301963,IT
+Rosticceria La Padella,Rosticceria La Padella,restaurant,40.8535014,14.2305165,IT
+Pizzeria da Emilio,Pizzeria da Emilio,restaurant,40.848158,14.2227857,IT
+Beauty Hair Top,Beauty Hair Top,hairdresser,40.846331,14.2421025,IT
+Eni Energy Store,Eni Energy Store,energy,40.8544131,14.2371089,IT
+Il Mattino,Il Mattino,kiosk,40.8682948,14.2123297,IT
+Giuseppone a Mare,Giuseppone a Mare,restaurant,40.8024129,14.2065354,IT
+Pasticceria Capparelli,Pasticceria Capparelli,confectionery,40.8509093,14.2572669,IT
+Sole365,Sole365,supermarket,40.9339765,14.3561488,IT
+Supermercato Ciro Amodio,Supermercato Ciro Amodio,supermarket,40.8232848,14.2004946,IT
+Supermercato Decò,Supermercato Decò,supermarket,40.8362771,14.2113474,IT
+Maxistore Decò,Maxistore Decò,supermarket,40.825895,14.357875,IT
+Despar,Despar,supermarket,40.8359142,14.3609134,IT
+Supermercato SISA - Gruppo di Polo,Supermercato SISA - Gruppo di Polo,supermarket,40.8230659,14.356631,IT
+G,G,fuel,40.8141207,14.3666542,IT
+Country House,Country House,restaurant,40.9867901,14.2247767,IT
+Krugel,Krugel,restaurant,40.8383666,14.2143346,IT
+Mattozzi pizzeria,Mattozzi pizzeria,restaurant,40.8441352,14.2486864,IT
+Elettroforno,Elettroforno,bakery,40.8144792,14.2077659,IT
+Pizzeria Olio e Pomodoro,Pizzeria Olio e Pomodoro,restaurant,40.841501,14.217672,IT
+Eco Store,Eco Store,yes,40.8416562,14.2180852,IT
+Autoricambi Boffa,Autoricambi Boffa,car_parts,40.8550052,14.2758973,IT

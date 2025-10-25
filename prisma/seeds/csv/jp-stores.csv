@@ -1,0 +1,629 @@
+name,name_en,service_type,lat,lng,country_code
+Kygnus,Kygnus,fuel,35.6795668,139.7946657,JP
+スターバックス,Starbucks,cafe,35.684236,139.7390476,JP
+帝国ホテルプラザ東京,The Imperial Hotel Plaza,mall,35.672127,139.7594638,JP
+文教堂,Bunkyodo,books,35.6678306,139.7577071,JP
+LABI,LABI,electric,35.6671262,139.7570348,JP
+キムラヤ,Kimuraya,appliance,35.665613,139.7577643,JP
+デニーズ,Denny's,restaurant,35.6613882,139.7761893,JP
+Circle K,KOJIMA,convenience,35.7823732,139.7795549,JP
+コーナン,Kohnan,doityourself,35.7750725,139.7716323,JP
+ソフトバンクショップ,SoftBank Shop,mobile_phone,35.6772184,139.7773429,JP
+セブン-イレブン,7-Eleven,convenience,35.625465,139.7451981,JP
+デイリーヤマザキ,Daily Yamazaki,convenience,35.6244224,139.7397757,JP
+けいすけラーメン,Keisuke Ramen,restaurant,35.6269249,139.7379208,JP
+つばめグリル,Tsubame Grill,restaurant,35.6276453,139.7373857,JP
+ローソン,Lawson,convenience,35.74801,139.7199045,JP
+珈琲館,Kohikan,cafe,35.7482853,139.7196284,JP
+新板橋書店,新板橋書店,books,35.7483689,139.7198538,JP
+ファミリーマート,FamilyMart,convenience,35.6265863,139.6723022,JP
+ドトールコーヒーショップ,Doutor Coffee Shop,cafe,35.6812934,139.6981229,JP
+SHELL,Showa Shell Sekiyu,fuel,35.6297156,139.6009863,JP
+スリーエフ,Three F,convenience,35.6246592,139.6077038,JP
+LOHACO,LOHACO,car,35.6238483,139.6080389,JP
+デニーズ,Dottole,restaurant,35.6228046,139.6089358,JP
+SUZUKI,SUZUKI,car,35.6222813,139.6093774,JP
+ENEOS,ENEOS,fuel,35.619323,139.6158564,JP
+Big Boy,Big Boy,restaurant,35.6184016,139.6190603,JP
+apollostation,apollostation,fuel,35.6084411,139.614113,JP
+TOYOTA LEXAS CPO,TOYOTA LEXAS CPO,car,35.60642,139.6433289,JP
+東京トヨペット尾山台店,東京トヨペット尾山台店,car,35.6041908,139.6513501,JP
+アウディジャパン(株),アウディジャパン(株),car,35.6031635,139.6533473,JP
+フォルクスワーゲン世田谷,フォルクスワーゲン世田谷,car,35.6030601,139.6551488,JP
+ロイヤルホスト尾山台店,ロイヤルホスト尾山台店,restaurant,35.6021414,139.656272,JP
+サイクルベースあさひ,Cycle Base Asahi,bicycle,35.6019068,139.6601653,JP
+焼きたてパン　きむらや,焼きたてパン　きむらや,bakery,35.7290793,139.7515806,JP
+粥 「喜喜」,Congee Kiki,restaurant,35.6726214,139.7124736,JP
+自家焙煎珈琲豆 「ルンバミーア」,Lumba Mia,cafe,35.6749577,139.7124612,JP
+ヘンドリックス・カリー・バー,Hendrix Curry Bar,restaurant,35.6748355,139.7124552,JP
+えさき,Esaki,restaurant,35.6716996,139.7131681,JP
+フォルクス 世田谷代田店,Folks,restaurant,35.6523308,139.6605397,JP
+シディーク,Siddique,restaurant,35.6959603,139.7710923,JP
+東京トヨペット,東京トヨペット,car,35.652592,139.6158229,JP
+Honda,Honda,car,35.631117,139.6255476,JP
+Mercedes-Benz,Mercedes-Benz,car,35.615945,139.6366384,JP
+アウディアプローブド世田谷,アウディアプローブド世田谷,car,35.6035473,139.653464,JP
+藍屋,Aiya,restaurant,35.7649728,139.7354605,JP
+SHELL,SHELL,fuel,35.6713025,139.6570274,JP
+ゼネラル,Tonen General,fuel,35.6671025,139.6137657,JP
+日産,Nissan,car,35.6622202,139.6144565,JP
+Mitsubishi,Mitsubishi,car,35.6329422,139.6245641,JP
+Lexus,Lexus,car,35.62957,139.6260752,JP
+コスモ,Cosmo,fuel,35.6787683,139.6887986,JP
+peacock,peacock,supermarket,35.648295,139.7084955,JP
+ROYAL PALACE,ROYAL PALACE,restaurant,35.6474335,139.7072906,JP
+ナチュラルローソン,Natural Lawson,convenience,35.6460475,139.7064263,JP
+ピーコックストア,Peacock Store,supermarket,35.645375,139.7079872,JP
+Neolive uri,Neolive uri,yes,35.6158292,139.6255999,JP
+まいばすけっと,My Basket,supermarket,35.634108,139.632271,JP
+日産プリンス東京,NISSAN Prince Tokyo,car,35.6322778,139.6380785,JP
+Land Rover,Land Rover,car,35.6322445,139.6385897,JP
+ファミリマート,FamilyMart Sakurashinmachi 1 Chome Store,convenience,35.6304443,139.6405204,JP
+サミット,Summit,supermarket,35.6505814,139.6671012,JP
+西友,Seiyu,supermarket,35.6445694,139.6702037,JP
+スリーエフ,Three-F,convenience,35.6079799,139.6471967,JP
+ローソンストア100,Lawson Store 100,convenience,35.6127534,139.7442377,JP
+パティシエ・イナムラショウゾウ,Patissier Inamura Shozo,restaurant,35.7229473,139.7734461,JP
+エクセルシオール,EXELCIOR,cafe,35.6439454,139.7486585,JP
+コモディイイダ,Comodi-iida,supermarket,35.681853,139.6280401,JP
+うちだ,Uchida,florist,35.7653026,139.7359123,JP
+あみやき亭,あみやき亭,restaurant,35.6467717,139.6179452,JP
+ロイヤルホスト,Royal Host,restaurant,35.7011612,139.7411608,JP
+牛しゃぶ　ますだや,Masudaya,restaurant,35.700928,139.741242,JP
+Inplexe,Inplexe,accessories,35.7005685,139.7414085,JP
+Le moccot,Le moccot,restaurant,35.7002762,139.7400191,JP
+琴の富士,琴の富士,restaurant,35.7002889,139.7398599,JP
+MATOI,MATOI,restaurant,35.7007442,139.7397005,JP
+ALBERATA,ALBERATA,restaurant,35.7009543,139.7399015,JP
+とんかつ　おかむら,とんかつ　おかむら,restaurant,35.7010038,139.7399397,JP
+Aflo french dining Tribes,Aflo french dining Tribes,restaurant,35.7008337,139.7393508,JP
+ちゃんこ　黒潮,Ishikawa,restaurant,35.7013027,139.7395479,JP
+attic room YASUKUNI-GAIEN/cafe&dining,attic room YASUKUNI-GAIEN/cafe&dining,cafe,35.6947455,139.74549,JP
+BIKE KNOX,BIKE KNOX,sports,35.7081295,139.721614,JP
+CAT'S CRADLE,CAT'S CRADLE,cafe,35.708607,139.7222682,JP
+ROOM PIA,ROOM PIA,estate_agent,35.7085443,139.7224389,JP
+ビレン,ビレン,cafe,35.7085991,139.7225562,JP
+磨ゐ土,磨ゐ土,restaurant,35.7086037,139.7222072,JP
+紅蓮,紅蓮,restaurant,35.7082757,139.721837,JP
+メルシー,Merci,restaurant,35.7065285,139.7205233,JP
+歌志軒,歌志軒,restaurant,35.7063402,139.7203426,JP
+焼肉　ホドリ,Yakiniku Hodori,restaurant,35.7062946,139.7203008,JP
+東京らっきょブラザーズ,Tokyo Rakkyo Brothers,restaurant,35.7062464,139.7202588,JP
+鶴巻湯コインランドリー,鶴巻湯コインランドリー,laundry,35.7077974,139.7228037,JP
+kitchen Old Bazar,kitchen Old Bazar,restaurant,35.7079632,139.7228881,JP
+いなげや,Inageya,supermarket,35.6691633,139.6342929,JP
+から好し,Karayoshi,restaurant,35.6816901,139.6277456,JP
+FamilyMart,Family Mart,convenience,35.662354,139.6601132,JP
+ローソン・スリーエフ,Lawson Three F,convenience,35.66237,139.6556153,JP
+永福町 大勝軒,永福町 大勝軒,restaurant,35.6762351,139.644008,JP
+BMW Tokyo,BMW Tokyo,car,35.683988,139.6281565,JP
+餃子の王将,Gyoza no Ohsho,restaurant,35.7170295,139.7367943,JP
+無印良品,MUJI,variety_store,35.6618594,139.6665565,JP
+フォルクスワーゲン六本木,Volkswagen,car,35.665522,139.7359042,JP
+サイクルスポット,Cycle Spot,bicycle,35.6717263,139.6165729,JP
+Santoku,Santoku,supermarket,35.7374554,139.808015,JP
+リブレ京成,Livre Keisei,supermarket,35.7353174,139.8015437,JP
+出光,Idemitsu Kosan,fuel,35.6129835,139.6868083,JP
+イエローハット西新井店,Yellow Hat,car,35.7779317,139.7704979,JP
+オートバックス,Autobacs,car_parts,35.7776199,139.8230181,JP
+ミニストップ,Ministop,convenience,35.6722513,139.6603825,JP
+ココカラファイン,Cocokara Fine,chemist,35.6678234,139.650291,JP
+ジョナサン,Jonathan's,restaurant,35.6979109,139.6437171,JP
+日比谷 松本楼,Matsumotoro,restaurant,35.6737913,139.7558071,JP
+ジョリーパスタ,Jolly Pasta,restaurant,35.742744,139.8135538,JP
+ココス,Coco's,restaurant,35.7423905,139.8132823,JP
+サモサ,Samosa,restaurant,35.6677464,139.7543211,JP
+ヨドバシカメラ,Yodobashi Camera,electronics,35.6916415,139.7018895,JP
+Isetan Men's,Isetan Men's,shoes,35.692411,139.70467,JP
+Barney's New York,Barney's New York,shoes,35.692472,139.702481,JP
+陸中,陸中,butcher,35.7563087,139.657792,JP
+東京ラーメン 大番,東京ラーメン 大番,restaurant,35.7603418,139.674597,JP
+YSP杉並南,YSP杉並南,motorcycle,35.6681059,139.635494,JP
+ブックオフ,Book Off,books,35.6822114,139.6264778,JP
+Esso,ESSO,fuel,35.682102,139.645081,JP
+根の津,Sanukiudon Nenotsu,restaurant,35.7199166,139.76271,JP
+金太郎飴,Kintaro-ame,bakery,35.7197899,139.7629481,JP
+芋甚,Imojin,cafe,35.7202072,139.7636211,JP
+よろずや、ほたる,よろずや、ほたる,gift,35.7195881,139.7645052,JP
+魚菜　根津　呼友,魚菜　根津　呼友,restaurant,35.7195481,139.7645508,JP
+あんぱちや,Anpachiya,hardware,35.7194128,139.7643242,JP
+柳の庭,柳の庭,gift,35.719667,139.76457,JP
+喫茶・ギャラリー　りんごや,Ringoya,cafe,35.7196021,139.7646513,JP
+NaCaSa,NaCaSa,cafe,35.7197603,139.7648584,JP
+ROSA 雑貨や,Rosa,supermarket,35.7193721,139.7647897,JP
+染物 洗張 丁子屋,Chojiya,clothes,35.7205462,139.7645826,JP
+カフェ・コパン,カフェ・コパン,cafe,35.720447,139.7649404,JP
+織物工房　ル・ポワル,織物工房　ル・ポワル,clothes,35.7203866,139.7650091,JP
+音羽屋,Otowaya,furniture,35.720098,139.7655113,JP
+Couzt Cafe,Couzt Cafe,cafe,35.720653,139.7655874,JP
+屋代美術,Yashiro's Art,antiques,35.7223706,139.7639366,JP
+studio Buckeye,studio Buckeye,variety_store,35.7226844,139.7643827,JP
+いろはに木工所,Irohani Crafthouse,furniture,35.7229875,139.7641919,JP
+趣味の切手と古銭,趣味の切手と古銭,antiques,35.7231155,139.764328,JP
+谷中まんじゅう 福丸,Fukumaru,pastry,35.7259887,139.7645109,JP
+やなか珈琲店,Yanaka Coffee,cafe,35.7268789,139.7647679,JP
+明富夢,Atomu,bakery,35.7275843,139.7663113,JP
+後藤の飴,Goto no Ame,confectionery,35.727735,139.76667,JP
+Heming,Heming,hairdresser,35.7518281,139.7111016,JP
+パークス砧,パークス砧,kiosk,35.630986,139.621292,JP
+ツウィン (Twin),ツウィン (Twin),cafe,35.781494,139.8999954,JP
+アコレ平和台1丁目店,アコレ平和台1丁目店,supermarket,35.7604011,139.6641432,JP
+生活クラブ館,生活クラブ館,supermarket,35.6755795,139.6453676,JP
+イタリアントマト,イタリアントマト,cafe,35.659449,139.686303,JP
+蒟蒻問屋　柳沢商店,Konyaku Donya Yanagisawa Store,Konyaku Donya,35.7174872,139.8137291,JP
+まとい,まとい,cafe,35.7173569,139.813897,JP
+ガスト,Gusto,restaurant,35.6724496,139.6516679,JP
+栄寿司 (Sakae Sushi),栄寿司 (Sakae Sushi),restaurant,35.737878,139.807591,JP
+尾花,Obana,restaurant,35.7315125,139.7969321,JP
+BHARAT,BHARAT,restaurant,35.6773444,139.6691871,JP
+関宿屋,関宿屋,restaurant,35.7847618,139.8979239,JP
+八嶋商店,八嶋商店,gift,35.7841207,139.897559,JP
+Cafe Hatopoppo,Cafe Hatopoppo,cafe,35.690629,139.743881,JP
+東京日石オートガス,東京日石オートガス,fuel,35.6494898,139.6317116,JP
+スーパーオオゼキ,"OZEKI Co.,Ltd.",supermarket,35.6479092,139.6312888,JP
+カフェ・ベローチェ,CAFE VELOCE,cafe,35.6874265,139.7425804,JP
+Odakyu OX,Odakyu OX,supermarket,35.6426868,139.6085823,JP
+メガネスーパー,Meganesuper,optician,35.644146,139.6086647,JP
+A&A認定ベクターワークスカフェジャパン,A&A Vectorworks Cafe Japan,cafe,35.7010661,139.759867,JP
+リンガーハット,Ringer Hut,restaurant,35.6478449,139.7457635,JP
+手打ちそば 山禅,手打ちそば 山禅,restaurant,35.7476271,139.6592018,JP
+コロネット,コロネット,bakery,35.7589624,139.6583669,JP
+ピアス美容室,ピアス美容室,hairdresser,35.7603249,139.6618269,JP
+理容アナン,理容アナン,hairdresser,35.7604642,139.6619289,JP
+エンゼル,エンゼル,dry_cleaning,35.7606296,139.6626048,JP
+ナガオカ,ナガオカ,butcher,35.7621445,139.6675347,JP
+トレジャー・ファクトリー,Treasure Factory,second_hand,35.7621677,139.6702864,JP
+美容室ゆいゆい,美容室ゆいゆい,hairdresser,35.6567837,139.6473179,JP
+本多酒店,本多酒店,alcohol,35.6820769,139.6528966,JP
+クリーニング リリー,クリーニング リリー,dry_cleaning,35.6916141,139.6532888,JP
+CELL-BUS,CELL-BUS,beauty,35.7002389,139.6474675,JP
+丸杉食品,丸杉食品,greengrocer,35.7001604,139.6473134,JP
+チャングミ,Changumi,restaurant,35.6629611,139.6952126,JP
+文山青果,文山青果,greengrocer,35.6843669,139.6283942,JP
+ビューティサロンつだ,ビューティサロンつだ,hairdresser,35.6910208,139.6369918,JP
+ほがらか整骨院,ほがらか整骨院,massage,35.6923004,139.6373557,JP
+高円寺肉汁うどん,高円寺肉汁うどん,restaurant,35.6920067,139.636379,JP
+パーマヘア高越,パーマヘア高越,hairdresser,35.695865,139.6353066,JP
+いちねんせい,いちねんせい,hairdresser,35.6690116,139.623513,JP
+銭形,銭形,restaurant,34.7628959,135.4723519,JP
+Dimple,Dimple,cafe,34.7197695,135.4244277,JP
+ダイゲン自動車工業,ダイゲン自動車工業,car_repair,34.7176086,135.4251203,JP
+Honda Cars 尼崎,Honda Cars Amagasaki Chuo,car,34.7197861,135.4241261,JP
+ひろ,Hiro,restaurant,34.7214428,135.4228953,JP
+秋田たばこ店,Akita Cigar Shop,tobacco,34.7182563,135.4255836,JP
+ヘアーサロン フジナミ,Hair Salon Fujinami,hairdresser,34.7175505,135.4246113,JP
+ドッグサロンプチプチ,Doggu saron putiputi,pets dressing,34.719056,135.4191215,JP
+理容フクシマ,Haircutting Fukushima,hairdresser,34.7187649,135.422372,JP
+River,River,cafe,34.719437,135.4242683,JP
+大物食品,Daimotsu Foods,food,34.7184246,135.4230202,JP
+喫茶エルム,Cafe Erumu,cafe,34.7172817,135.4266545,JP
+コインランドリーママランド,コインランドリーママランド,laundry,34.7192718,135.4274904,JP
+アマスタ  アマセン,amasta AMASEN,mall,34.718887,135.4163698,JP
+アマゴッタ,アマゴッタ,mall,34.7186398,135.4192664,JP
+尼崎モーター,尼崎モーター,car_repair,34.7193544,135.424974,JP
+丸古食品,丸古食品,food,34.7193599,135.4251191,JP
+向井龍泉堂,向井龍泉堂,hanko,34.7193912,135.4246549,JP
+あすか,あすか,restaurant,34.7194305,135.4243308,JP
+仏壇 金剛堂,仏壇 金剛堂,religion,34.7161508,135.4258705,JP
+アズナス,Asnas,convenience,34.7189093,135.4169932,JP
+サークルK,Circle K,convenience,34.680704,135.4861344,JP
+昌栄印刷,昌栄印刷,copyshop,34.7206216,135.4241813,JP
+ごはん屋茶屋,ごはん屋茶屋,restaurant,34.7197561,135.4263041,JP
+三興石油 川口町給油所,三興石油 川口町給油所,fuel,34.6821556,135.4818636,JP
+ミスタータイヤマン,Mr Tireman,tyres,34.7197229,135.4217647,JP
+夕陽丘石油,夕陽丘石油,fuel,34.660168,135.5096518,JP
+美容室ルミ子の部屋,美容室ルミ子の部屋,hairdresser,34.7272851,135.4140316,JP
+新日本石油 堀江給油所‎,新日本石油 堀江給油所‎,fuel,34.672836,135.4845475,JP
+高島屋,Takashimaya,department_store,34.6646286,135.5017961,JP
+ドスパラ,Dospara,computer,34.6630033,135.505252,JP
+ローロ サイクル ワークス,LORO Cycle Works,bicycle,34.6877306,135.5102583,JP
+阪急 ファミリーストア,阪急 ファミリーストア,supermarket,34.6559595,135.5223534,JP
+珈琲館茶考,珈琲館茶考,cafe,34.6807384,135.4859908,JP
+高尾商事天王寺サービスステーション‎,高尾商事天王寺サービスステーション‎,fuel,34.6515798,135.5179465,JP
+Seattle's Best Coffee,Seattle's Best Coffee,cafe,34.690881,135.4985468,JP
+ホームセンターコーナン,ホームセンターコーナン,doityourself,34.6939596,135.5257051,JP
+ホームセンター コーナン,ホームセンター コーナン,doityourself,34.695668,135.560873,JP
+kuromaru,kuromaru,restaurant,34.7359423,135.4821038,JP
+流れ鮨,流れ鮨,restaurant,34.7355804,135.4816762,JP
+スーパー玉出 アビコ店,Super Tamade,supermarket,34.6008545,135.5076528,JP
+フレッシュコア,フレッシュコア,supermarket,34.735198,135.4349004,JP
+せんた君,せんた君,laundry,34.7345034,135.4414305,JP
+神戸トヨペット杭瀬,神戸トヨペット杭瀬,car,34.719795,135.4324824,JP
+朝日オートセンター,朝日オートセンター,car,34.7198825,135.4330134,JP
+明石焼・お好み焼き　たこよし,明石焼・お好み焼き　たこよし,restaurant,34.7226061,135.4397922,JP
+美容室フォーカス,美容室フォーカス,hairdresser,34.7219489,135.4398327,JP
+ダイソー,Daiso,variety_store,34.7216207,135.4401198,JP
+コダマクリナーズ,コダマクリナーズ,laundry,34.7216593,135.4399273,JP
+池永米穀店,池永米穀店,rice,34.7202535,135.4412992,JP
+スーパーナショナル,スーパーナショナル,supermarket,34.6684791,135.4611488,JP
+くらしハウス,Kurashi House,convenience,34.7982521,135.4144156,JP
+餃子の王将,餃子の王将,restaurant,34.7924985,135.4089846,JP
+ジャパン,ジャパン,variety_store,34.6940459,135.5267644,JP
+Umiya Cafe,Umiya Cafe,cafe,34.6693815,135.4974217,JP
+珈琲艇 CABIN,珈琲艇 CABIN,cafe,34.6693309,135.4966662,JP
+エディオン,EDION,electronics,34.7416385,135.4792976,JP
+ライフ,LIFE,supermarket,34.741004,135.4788218,JP
+ベビーザらス,ベビーザらス,clothes,34.7412347,135.4790449,JP
+庄内サイクル,庄内サイクル,bicycle,34.7491755,135.4748273,JP
+二葉寿司,Futabazushi,restaurant,34.792314,135.4502923,JP
+UDトラックスジャパン西淀工場,UDトラックスジャパン西淀工場,car_repair,34.6968334,135.424886,JP
+釜たけうどん,Kamatake Udon,restaurant,34.6641654,135.5039801,JP
+踊るうどん,踊るうどん,restaurant,34.7275319,135.5568883,JP
+焼肉たむら,焼肉たむら,restaurant,34.7003022,135.5429626,JP
+TSUTAYA,TSUTAYA,video,34.7354465,135.5652928,JP
+スーパー玉出,SuperTamade,supermarket,34.7361527,135.5651309,JP
+COMME ÇA ISM,COMME ÇA ISM,clothes,34.7358004,135.5660602,JP
+マジョリカ,Majolica,restaurant,34.7352316,135.5684801,JP
+サンディ,Sundi,supermarket,34.7335302,135.5647456,JP
+ヤマザキショップ,Yamazaki Shop,convenience,34.6790295,135.4775986,JP
+阪急オアシス豊中駅前店,阪急オアシス豊中駅前店,supermarket,34.786876,135.4616022,JP
+コーナンPRO,KOHNAN PRO,doityourself,34.6787098,135.4611752,JP
+ラ・ムー,ラ・ムー,supermarket,34.6780855,135.4596614,JP
+いたや酒店,いたや酒店,alcohol,34.7524404,135.5986129,JP
+ミニストップ伊丹瑞穂町店,ミニストップ伊丹瑞穂町店,convenience,34.7935841,135.4058115,JP
+てるてる,てるてる,bicycle,34.6711291,135.4744855,JP
+杵屋,KINEYA,restaurant,34.6686572,135.4756031,JP
+らーめん魚慶,らーめん魚慶,restaurant,34.7459661,135.5394315,JP
+イズミヤカナート,イズミヤカナート,supermarket,34.7469149,135.5397668,JP
+イトーサイクル,Ito Cycle,bicycle,34.7417008,135.545164,JP
+理容 浜田,理容 浜田,hairdresser,34.7381252,135.4837891,JP
+天下一品,Tenkaippin,restaurant,34.7367768,135.5618066,JP
+尾道ラーメン山長,尾道ラーメン山長,restaurant,34.7332677,135.5647463,JP
+時屋,時屋,restaurant,34.7282966,135.5012526,JP
+田村書店,田村書店,books,34.68193,135.4663206,JP
+大阪王,大阪王,restaurant,34.7380531,135.5397728,JP
+エコークリーニング,Echo cleaning,dry_cleaning,34.7380431,135.5427315,JP
+ファウンテン (Fountain),ファウンテン (Fountain),restaurant,34.7390249,135.5391643,JP
+チャリンコマン,チャリンコマン,bicycle,34.7403286,135.5320899,JP
+多夢多夢,多夢多夢,cafe,34.7373883,135.5370546,JP
+キッチンオリジン,Kitchen Origin,deli,34.746959,135.5405934,JP
+ほっかほっか亭,Hokka Hokka Tei,deli,34.7389099,135.5277483,JP
+やよい軒天六店,やよい軒天六店,restaurant,34.711127,135.510946,JP
+Joshin,Joshin,electronics,34.6622461,135.45913,JP
+関西スーパー,Kansai Super,supermarket,34.6622576,135.4589407,JP
+コノミヤ,コノミヤ,supermarket,34.6816862,135.5443405,JP
+サンディ天六店,サンディ天六店,supermarket,34.7115063,135.5120232,JP
+スギ薬局,Sugi Pharmacy,chemist,34.7372846,135.4966353,JP
+福西サイクル,福西サイクル,bicycle,34.7378089,135.5252131,JP
+auショップ,au shop,mobile_phone,34.6749695,135.4758756,JP
+まなびの友社,まなびの友社,books,34.676283,135.4723041,JP
+やよい軒,YAYOIKEN,restaurant,34.6744805,135.4774281,JP
+ウエダ文具,ウエダ文具,stationery,34.6765825,135.4715866,JP
+M-wave,M-wave,hairdresser,34.6771799,135.4702462,JP
+キララ鍼灸整骨院,キララ鍼灸整骨院,massage,34.6763678,135.472057,JP
+トリーゴ,トリーゴ,bakery,34.6746415,135.4769245,JP
+HIRO・BRAND,HIRO・BRAND,bakery,34.6768056,135.4708359,JP
+ホビーショップモリ,ホビーショップモリ,toys,34.677512,135.46943,JP
+メガネのタカギ,メガネのタカギ,optician,34.6769276,135.4707801,JP
+千鳥屋,千鳥屋,confectionery,34.6758462,135.4732714,JP
+喫茶ひとみ,喫茶ひとみ,cafe,34.6757836,135.473224,JP
+喫茶カトレヤ,喫茶カトレヤ,cafe,34.6764737,135.4715631,JP
+喫茶四季,喫茶四季,cafe,34.6767014,135.4713122,JP
+大木整骨院,大木整骨院,massage,34.6771566,135.4700025,JP
+宇奈とと九条店（鰻丼）,宇奈とと九条店（鰻丼）,restaurant,34.6752373,135.4749756,JP
+理容ホワイト,理容ホワイト,hairdresser,34.6770912,135.470179,JP
+西部事務用品,西部事務用品,stationery,34.6776466,135.4690941,JP
+高松書店,高松書店,books,34.6744927,135.4776011,JP
+三菱商事石油,三菱商事石油,fuel,34.6759615,135.4666245,JP
+ヴィアサイクルズヴィレッジ,Via Cycles Village,bicycle,34.7101685,135.5072318,JP
+古本市場,古本市場,books,34.6796173,135.5498123,JP
+しまむら,Shimamura,clothes,34.6694161,135.4737363,JP
+びっくりドンキー,Bikkuri Donkey,restaurant,34.6698873,135.4732095,JP
+サイゼリヤ,Saizeriya,restaurant,34.6693619,135.4735126,JP
+ユニクロ,UNIQLO,clothes,34.6697153,135.4730384,JP
+西松屋,Nishimatsuya,baby_goods,34.6698024,135.4731362,JP
+ドン.キホーテ,ドン.キホーテ,doityourself,34.6748866,135.5572077,JP
+くし幸食品,くし幸食品,deli,34.6771807,135.4699594,JP
+とらや,とらや,confectionery,34.6775878,135.4682387,JP
+ふぐ安,ふぐ安,restaurant,34.6778486,135.4679242,JP
+キシャル,キシャル,restaurant,34.6761826,135.4725271,JP
+フクスケ,フクスケ,cafe,34.6758646,135.4730342,JP
+一番,一番,restaurant,34.6762112,135.4724562,JP
+丸谷,丸谷,pawnbroker,34.676559,135.4687538,JP
+前田佛壇店,前田佛壇店,yes,34.6775685,135.469275,JP
+婦人服飾エミナ,婦人服飾エミナ,clothes,34.6773732,135.4697527,JP
+栗山,栗山,restaurant,34.6773122,135.4696657,JP
+進輝ミシン電器商会,進輝ミシン電器商会,electronics,34.6775894,135.4692248,JP
+洋服の青山,AOYAMA,clothes,34.6719776,135.5435637,JP
+七番館,七番館,cafe,34.6741438,135.4761605,JP
+小川下,小川下,restaurant,34.6743506,135.4762571,JP
+昭和書籍,昭和書籍,books,34.6744643,135.476347,JP
+加藤屋 大阪にぼ次郎,加藤屋 大阪にぼ次郎,restaurant,34.7291751,135.5008297,JP
+Audi 大阪中央サービスセンター,Audi 大阪中央サービスセンター,car_repair,34.6711377,135.4770412,JP
+DOG CAFE SERGE,DOG CAFE SERGE,cafe,34.6709025,135.4884952,JP
+辻重庵,辻重庵,tea,34.6707852,135.4825,JP
+ユアーズ,ユアーズ,electronics,34.6813915,135.4664176,JP
+古家後治療院,古家後治療院,massage,34.6774708,135.4678121,JP
+和処 たかはし,和処 たかはし,restaurant,34.6806461,135.4665895,JP
+焼肉 味味亭,焼肉 味味亭,restaurant,34.6803286,135.4667923,JP
+金海,金海,restaurant,34.681576,135.4659427,JP
+原たばこ店,原たばこ店,tobacco,34.6813647,135.4664473,JP
+山本秀雄商店,山本秀雄商店,hardware,34.6815608,135.4663261,JP
+ホームセンターショーエイ,ホームセンターショーエイ,doityourself,34.7465956,135.5952109,JP
+食品館アプロ,食品館アプロ,supermarket,34.7479128,135.5989114,JP
+LOGIC,LOGIC,restaurant,34.6687875,135.4946077,JP
+かに道楽,Kanidoraku,restaurant,34.6688634,135.5015017,JP
+業務スーパー市岡店,業務スーパー市岡店,supermarket,34.6656688,135.4558579,JP
+馳走庵,馳走庵,restaurant,34.6828534,135.4986691,JP
+タイヨー,タイヨー,dry_cleaning,34.7639609,135.4752861,JP
+タムラ,タムラ,dry_cleaning,34.7607544,135.4752671,JP
+ホワイト急便,ホワイト急便,dry_cleaning,34.7650251,135.4751711,JP
+サンチョ・パンサ,サンチョ・パンサ,cafe,34.7493162,135.4752237,JP
+泉本店,泉本店,alcohol,34.6799052,135.4787342,JP
+COFFEE HOUSE アイドル,COFFEE HOUSE アイドル,cafe,34.6790699,135.4747659,JP
+プジョー大阪中央サービスポイント,プジョー大阪中央サービスポイント,car_repair,34.6793634,135.4735901,JP
+小島竹夫商店,小島竹夫商店,yes,34.6789292,135.4753157,JP
+K-ネット,K-ネット,yes,34.6760794,135.4727634,JP
+きき,きき,cafe,34.6769935,135.4704084,JP
+こうはら昆布店,こうはら昆布店,deli,34.6763486,135.4721069,JP
+ベルコ,ベルコ,yes,34.6763127,135.4722005,JP
+中井茗楽園,中井茗楽園,tea,34.6761161,135.4726653,JP
+林辰,林辰,alcohol,34.6794416,135.4714629,JP
+真章堂 さわだ,真章堂 さわだ,stationery,34.6761409,135.4726081,JP
+TAILOR TSUJIMURA,TAILOR TSUJIMURA,clothes,34.6770419,135.4702862,JP
+コーヒー ルンバ,コーヒー ルンバ,cafe,34.6367801,135.5003791,JP
+タムラデンキ,タムラデンキ,electronics,34.6391729,135.5009293,JP
+八千代堂菓子店,八千代堂菓子店,confectionery,34.6366761,135.5003405,JP
+大田商会,大田商会,bicycle,34.6183566,135.4928068,JP
+ミツワデンキ,ミツワデンキ,electronics,34.6730262,135.4750285,JP
+冨喜寿司,冨喜寿司,restaurant,34.6815895,135.4666633,JP
+そねやカメラ,そねやカメラ,photo,34.6154076,135.4921323,JP
+イトー,イトー,hairdresser,34.6177719,135.4926235,JP
+ユミ美容室,ユミ美容室,hairdresser,34.6155435,135.4921545,JP
+ルイズ美容室,ルイズ美容室,hairdresser,34.61656,135.4923638,JP
+古川無線本店,古川無線本店,electronics,34.6147233,135.4920173,JP
+Lanvin,Lanvin,cafe,34.6127843,135.4906249,JP
+Water front,Water front,clothes,34.6129606,135.4903823,JP
+mu,mu,confectionery,34.6128699,135.4903655,JP
+わだち,わだち,variety_store,34.6129946,135.49039,JP
+ゴトウ,ゴトウ,books,34.6130336,135.4903471,JP
+南海園,南海園,florist,34.6131255,135.4903165,JP
+広州,広州,restaurant,34.6130978,135.490419,JP
+100YEN SHOP Meets.,100YEN SHOP Meets.,variety_store,34.6129203,135.4903303,JP
+キヨ美容室,Kiyo's Hairdresser,hairdresser,34.6284556,135.4948934,JP
+ゴトウスポーツ,GOTO SPORTS,sports,34.6290027,135.4964115,JP
+呑気,Nonki,restaurant,34.6286258,135.4965054,JP
+更科,Sarashina,restaurant,34.6285191,135.4948878,JP
+花水木,Hanamizuki,cafe,34.6298686,135.4945728,JP
+辻米穀店,Tsuji's,yes,34.6287739,135.4965551,JP
+岸本カメラ,岸本カメラ,photo,34.6379667,135.4897276,JP
+HAIR SALON NAKATANI,HAIR SALON NAKATANI,hairdresser,34.6389924,135.4890789,JP
+がばちょ,がばちょ,restaurant,34.6683052,135.4870516,JP
+北京,北京,restaurant,34.6682892,135.4875947,JP
+紀州屋,紀州屋,restaurant,34.6682719,135.4877665,JP
+食品館 桜川,食品館 桜川,supermarket,34.6679055,135.4879998,JP
+Permanente,Permanente,hairdresser,34.7092763,135.5016319,JP
+更科,更科,restaurant,34.7105626,135.5094373,JP
+総大醤,Sodaisho,restaurant,34.710236,135.507619,JP
+ニトリ,ニトリ,doityourself,34.705043,135.5999658,JP
+コジマNEW,コジマNEW,hifi,34.7050805,135.5994133,JP
+グルメシティ,Gourmet City,supermarket,34.7041343,135.5811485,JP
+サンディ,サンディ,supermarket,34.7045532,135.5823823,JP
+大黒屋,Daikokuya,pawnbroker,34.6993474,135.4953114,JP
+ジョイフル,ジョイフル,restaurant,34.6314075,135.5641729,JP
+タックルベリー (Tackle Berry),Tackle Berry,sports,34.673465,135.4699874,JP
+新福菜館本店,新福菜館本店,restaurant,34.9867552,135.762489,JP
+珈琲店　再願,珈琲店　再願,cafe,35.024421,135.7963664,JP
+SEDONA Coffee & restrant,SEDONA Coffee & restrant,restaurant,35.0239114,135.7963125,JP
+Pomme,Pomme,bakery,35.023311,135.7960249,JP
+やきとり大吉 堀川高辻店,Daikichi,restaurant,35.0002416,135.7525259,JP
+セブン-イレブン ハートイン,Seven-Eleven Heart-in,convenience,34.9548507,135.7094682,JP
+World Coffee,World Coffee,cafe,35.0294728,135.7912924,JP
+かごのや五条七本松店 (Kagonoya),Kagonoya,restaurant,34.9957899,135.738943,JP
+フレスコ 桃山店,Fresco,supermarket,34.9330687,135.7657665,JP
+大中ラーメン,Daichu,restaurant,34.9328176,135.765569,JP
+Ganko Sanjo Honten (iK),Ganko Sanjo Honten,restaurant,35.0090771,135.77084,JP
+珉珉 　三条大橋店 (Minmin Sanjo Oohashi),Minmin Sanjo Oohashi,restaurant,35.0084615,135.771244,JP
+本家第一旭 (Honke Daiichiasahi),Honke Daiichiasahi,restaurant,34.986687,135.7624885,JP
+たかばしラーメン,たかばしラーメン,restaurant,34.9562396,135.7453025,JP
+チロル,チロル,bakery,34.914542,135.7701149,JP
+best value,best value,fuel,34.9571556,135.7603205,JP
+萬福,萬福,restaurant,34.9405143,135.7488957,JP
+グリル小宝,グリル小宝,restaurant,35.0159365,135.7847871,JP
+マツモト,Matsumoto,supermarket,34.9626207,135.7597296,JP
+宮本むなし,Miyamoto Munashi,restaurant,35.0107321,135.7539951,JP
+Lugol,Lugol,cafe,35.0112918,135.7566297,JP
+ampm,ampm,convenience,35.0111293,135.7566401,JP
+Coco!,Coco!,convenience,35.0107027,135.7544505,JP
+仙台炭火焼の店たんとろ (Tantoro),仙台炭火焼の店たんとろ (Tantoro),restaurant,34.9990112,135.7599553,JP
+高木珈琲店,高木珈琲店,cafe,34.9992698,135.7598895,JP
+Grace,Grace,cafe,34.9983659,135.7598783,JP
+魚屋の欧風ダイニングポワソニエ,魚屋の欧風ダイニングポワソニエ,restaurant,34.9979654,135.759966,JP
+CoCo壱番屋,CoCo ICHIBANYA,restaurant,34.9965141,135.7599608,JP
+京創作 平林亭 展望閣,京創作 平林亭 展望閣,restaurant,34.9894398,135.7600197,JP
+いにしえの店 尾張弥,Owariya,restaurant,34.989834,135.7601505,JP
+UCC Cafe Plaza,UCC Cafe Plaza,restaurant,34.9890904,135.7599634,JP
+Starbucks Coffee;餃子の王将,OHSHO,restaurant,34.9895639,135.7599547,JP
+どんぐり,Donguri,restaurant,34.943757,135.7520519,JP
+Boulangerie Briant,Boulangerie Briant,bakery,35.0316036,135.7316695,JP
+レストラン カルム,Restaurant Calm,restaurant,35.0339014,135.7261142,JP
+かごの屋,かごの屋,restaurant,35.0305697,135.7312207,JP
+喫茶ゆんげ,Cafe Yunge,cafe,35.0339768,135.7243936,JP
+至徳館購買部,至徳館購買部,convenience,35.0325448,135.7252306,JP
+GOSPEL,GOSPEL,cafe,35.0256439,135.794915,JP
+諒友館食堂 (Ryoyukan canteen),Ryoyukan canteen,restaurant,35.0327697,135.7224537,JP
+存心館食堂 (Zonshinkan canteen),Zonshinkan canteen,restaurant,35.0332531,135.7241307,JP
+諒友館コンビニ,諒友館コンビニ,convenience,35.0327346,135.7226178,JP
+Kyoto Cycling Tour Project,Kyoto Cycling Tour Project,rental,34.9862517,135.7542296,JP
+南海部品 京都東店,南海部品 京都東店,motorcycle,34.9658155,135.8136515,JP
+カー・トレ,カー・トレ,fuel,34.9477603,135.729967,JP
+和気藹々,和気藹々,cafe,34.9323664,135.7069341,JP
+ユーミー,ユーミー,hairdresser,34.9546916,135.7092959,JP
+Wonder Land,Wonder Land,cafe,34.9546931,135.7091584,JP
+けいらく堂,けいらく堂,massage,34.9534309,135.7062948,JP
+ワタナベ,ワタナベ,optician,34.9530673,135.7055731,JP
+向日町 コンタクト レンズ,向日町 コンタクト レンズ,optician,34.9530185,135.7054696,JP
+BOOKS ハセガワ,BOOKS ハセガワ,books,34.9530138,135.705586,JP
+レジベル,レジベル,bakery,34.9528684,135.7053788,JP
+青山商店,青山商店,hardware,34.9533122,135.7061047,JP
+Stardam,Stardam,hairdresser,34.9532858,135.7060721,JP
+京都にしむら屋,京都にしむら屋,pawnbroker,34.9519613,135.7044314,JP
+サイクル工房 TECH,サイクル工房 TECH,bicycle,34.9519246,135.704403,JP
+ESTHE-IN,ESTHE-IN,beauty,34.9518546,135.7042392,JP
+ほぐしの館,ほぐしの館,massage,34.9518692,135.7042789,JP
+aotani,aotani,hairdresser,34.9518183,135.7043521,JP
+かどや,かどや,chemist,34.9525994,135.7046603,JP
+春来,春来,restaurant,34.952634,135.7045837,JP
+ル／セブン,ル／セブン,hairdresser,34.9530503,135.7044063,JP
+ナイトウ,ナイトウ,hairdresser,34.951834,135.7071412,JP
+D.ash,D.ash,hairdresser,34.9527393,135.707151,JP
+シェ・ココ,シェ・ココ,cafe,34.9515968,135.7018608,JP
+Neast,Neast,hairdresser,34.9530006,135.7022851,JP
+おかざき,おかざき,alcohol,34.9526449,135.7032539,JP
+Vivi二条 (Vivi Nijo),Vivi二条 (Vivi Nijo),mall,35.0105324,135.7411475,JP
+apollostation,apolostation,fuel,35.0282801,135.7516681,JP
+生鮮館なかむら堀川,生鮮館なかむら堀川,supermarket,35.030816,135.7515784,JP
+ウェルシア・ダックス,ウェルシア・ダックス,chemist,35.0307321,135.7522116,JP
+ミニストップ大宮南山の前店,Mini Stop Oomiya_MinamiYamanomae Ten,convenience,35.0568494,135.7413516,JP
+ドラッグゆたか,ドラッグゆたか,chemist,35.0502979,135.7413528,JP
+Netz,Netz,car,35.0496658,135.7510466,JP
+コープにしがも,コープにしがも,supermarket,35.056374,135.7484317,JP
+ミッキー玩具,ミッキー玩具,toys,35.0565049,135.7481395,JP
+ローソンストアー100,ローソンストアー100,convenience,35.0483584,135.7404654,JP
+オートバックス,オートバックス,car_repair,35.0630515,135.7915268,JP
+チコマート,チコマート,convenience,35.0529274,135.7409456,JP
+ブックス京都,ブックス京都,books,35.0545,135.7484403,JP
+出光,IDEMITSU,fuel,35.0642795,135.7897126,JP
+バイクショップ　ロミオ,バイクショップ　ロミオ,bicycle,35.0484925,135.740585,JP
+フォルクス,フォルクス,restaurant,35.0509237,135.7599892,JP
+ナベセン家具,ナベセン家具,furniture,35.0571721,135.7437644,JP
+松野醤油,松野醤油,beverages,35.051093,135.73415,JP
+トヨタカローラ・京都上堀川,トヨタカローラ・京都上堀川,car,35.0491198,135.7517323,JP
+タイヤランド京都北,タイヤランド京都北,tyres,35.0545743,135.7408489,JP
+アミーゴ書店,アミーゴ書店,books,35.0520718,135.7673554,JP
+生鮮館かみがも,生鮮館かみがも,supermarket,35.0539787,135.758752,JP
+Holly's Cafe,Holly's Cafe,cafe,35.0038454,135.7578904,JP
+以学館食堂,以学館食堂,restaurant,35.031434,135.7250781,JP
+麺や未曾有,麺や未曾有,restaurant,35.03468,135.7272681,JP
+リカーマウンテン,Liquor Mountain,alcohol,35.035049,135.7275538,JP
+Your,Your,restaurant,35.0316986,135.7219399,JP
+イズミヤ,Izumiya,supermarket,35.0271603,135.7310851,JP
+ジャンボお好み焼き(Okonomi),ジャンボお好み焼き(Okonomi),restaurant,35.0260984,135.7247773,JP
+アミッチ,アミッチ,restaurant,35.0321568,135.7271146,JP
+べんけい,Benkei,restaurant,35.0321557,135.7271723,JP
+マハカレー,マハカレー,restaurant,35.0321588,135.7261128,JP
+音楽喫茶　ムジーク,音楽喫茶　ムジーク,cafe,35.0311785,135.7262548,JP
+無限洞,無限洞,restaurant,35.0315228,135.7262524,JP
+あくた川,Akutagawa,restaurant,35.032157,135.7261583,JP
+la,la,restaurant,35.031472,135.7360312,JP
+藤井,藤井,restaurant,35.0323501,135.7275547,JP
+ココット,ココット,restaurant,35.0323062,135.7275413,JP
+ロイズガーデン,ロイズガーデン,cafe,35.0330951,135.7277011,JP
+とんかつ,とんかつ,restaurant,35.0261005,135.7248318,JP
+UP CYCLES,UP CYCLES,bicycle,35.0321782,135.7272906,JP
+串八,串八,restaurant,35.0280745,135.7317013,JP
+傳七,傳七,restaurant,35.0279717,135.731708,JP
+観賞魚,観賞魚,seafood,35.0259558,135.7217315,JP
+やまねこ軒,Yamaneko-ken,cafe,35.0330994,135.7214683,JP
+わからん,わからん,restaurant,35.0318593,135.7303874,JP
+Habour Cafe,Habour Cafe,cafe,35.0286298,135.7312079,JP
+ピカンテ,ピカンテ,restaurant,35.0321361,135.7275511,JP
+とさや,とさや,restaurant,35.0323393,135.7269006,JP
+鉄平,鉄平,restaurant,35.033265,135.7267424,JP
+とりのすけ,とりのすけ,restaurant,35.0346256,135.7270991,JP
+喫茶店のひとみ,喫茶店のひとみ,restaurant,35.0312676,135.7246449,JP
+等持院とりはら,等持院とりはら,alcohol,35.0296421,135.7246142,JP
+ルヴァンクレール,ルヴァンクレール,cafe,35.0316067,135.7306975,JP
+Tamon,Tamon,supermarket,35.0268264,135.7182654,JP
+Sakai,Sakai,alcohol,35.0350186,135.7288306,JP
+auショップ,au,mobile_phone,35.0313476,135.7312661,JP
+かみとも,かみとも,supermarket,35.0460379,135.7482402,JP
+イワイ,イワイ,shoes,35.0479765,135.7486373,JP
+エムジー,エムジー,supermarket,35.0496922,135.7508911,JP
+HUG,HUG,hairdresser,34.933624,135.762094,JP
+Kiriyama Coffee,Kiriyama Coffee,cafe,34.9353107,135.7608307,JP
+おにくやさん,おにくやさん,butcher,34.9332642,135.760034,JP
+きた家,きた家,cafe,34.9309361,135.7598736,JP
+中国料理 くれたけ,中国料理 くれたけ,restaurant,34.9330655,135.7647358,JP
+ふじわら,ふじわら,gift,34.9303866,135.7618421,JP
+べんがらや,べんがらや,restaurant,34.930489,135.7618345,JP
+ヘアサロンオカベ,ヘアサロンオカベ,hairdresser,34.9300952,135.7608943,JP
+ペンギン化粧品,ペンギン化粧品,chemist,34.9329067,135.7651634,JP
+伏見夢百衆,伏見夢百衆,alcohol,34.9300162,135.7614012,JP
+月の蔵人,Tsukino Kurabito,restaurant,34.9305548,135.7618088,JP
+梅の花,梅の花,restaurant,34.9346062,135.7627426,JP
+洋食屋 コートレット,Cotelette,restaurant,34.9346241,135.7585459,JP
+辻政,辻政,restaurant,34.9302306,135.7598614,JP
+都ガクブチ,都ガクブチ,frame,34.9342729,135.760821,JP
+黄桜商店,黄桜商店,gift,34.9309579,135.7605046,JP
+社会福祉法人同和園　同和園,社会福祉法人同和園　同和園,supermarket,34.956926,135.814158,JP
+CAFE DU MON,CAFE DU MON,cafe,35.0424339,135.7473998,JP
+中華料理　紅華,中華料理　紅華,restaurant,35.0554585,135.7484164,JP
+DAIHATSU,DAIHATSU,car,35.0580948,135.7510739,JP
+Aコープ,Aコープ,supermarket,35.0738644,135.7876867,JP
+にぎり長次郎,にぎり長次郎,restaurant,35.0626038,135.7915183,JP
+ゆば泉,ゆば泉,restaurant,35.0643619,135.7888678,JP
+六基グリーン,六基グリーン,garden_centre,35.0643216,135.785943,JP
+柳工房,柳工房,second_hand,35.0499409,135.735203,JP
+リカーマウンテン,sunkus,alcohol,34.9976664,135.7461676,JP
+チファジャ,チファジャ,restaurant,35.0638032,135.7904012,JP
+クリーニングぴいぷる,クリーニングぴいぷる,dry_cleaning,35.0618545,135.7913434,JP
+焼肉北山(YakinikuKitayama),焼肉北山(YakinikuKitayama),restaurant,35.0540364,135.7672684,JP
+RG-O MAINTENANCE,RG-O MAINTENANCE,car_repair,35.0576577,135.7404846,JP
+クリーニングキララ,クリーニングキララ,dry_cleaning,35.0569515,135.741798,JP
+パル,パル,cafe,35.0551898,135.741006,JP
+日栄軒,日栄軒,confectionery,35.0539271,135.7409946,JP
+時計屋,時計屋,cafe,35.0664972,135.7427863,JP
+Cafe de miku,Cafe de miku,cafe,35.061786,135.7438821,JP
+わかば接骨院,わかば接骨院,massage,35.0629199,135.7439888,JP
+松川酒蔵,松川酒蔵,alcohol,35.0630444,135.7439942,JP
+Boo Boo HOUSE,Boo Boo HOUSE,car,35.0614182,135.7440705,JP
+オートステーション・キタムラ,オートステーション・キタムラ,car_repair,35.0518508,135.7409334,JP
+ケーキハウスMimura,ケーキハウスMimura,craft_confectionery,35.0517059,135.7409181,JP
+サプスポ,サプスポ,sports,35.049138,135.7409939,JP
+ソニアコーヒー,ソニアコーヒー,cafe,35.0511268,135.7412168,JP
+理容ヒロセ,理容ヒロセ,hairdresser,35.054389,135.7342089,JP
+AutoShopジーゼット,AutoShopジーゼット,motorcycle,35.0515788,135.7513116,JP
+HONDA DREAM,HONDA DREAM,motorcycle,35.0497342,135.7525471,JP
+TOUYOUTEI,TOUYOUTEI,restaurant,35.0512886,135.7634969,JP
+アメリカ,アメリカ,video,35.0500868,135.7704187,JP
+北山しばた接骨院,北山しばた接骨院,massage,35.0525084,135.7515894,JP
+安土・上嶋整骨院,安土・上嶋整骨院,massage,35.0497541,135.7469432,JP
+進々堂,進々堂,bakery,35.0515132,135.7662478,JP
+コスモ石油,Cosmo Oil Company,fuel,35.0435512,135.7619043,JP
+フレンドフーズ,FRIENDFOODS,supermarket,35.0483056,135.7704815,JP
+リカーマウンテン,リカーマウンテン,alcohol,35.0437727,135.7686785,JP
+生鮮館なかむら,生鮮館なかむら,supermarket,35.0442149,135.7702845,JP
+酒のケント,酒のケント,alcohol,35.0437935,135.770296,JP
+シマコーポレーション 京都右京店,シマコーポレーション 京都右京店,doityourself,34.9988272,135.7192012,JP
+Toyota,Toyota,car,34.9981744,135.7199727,JP
+kyoto coop,kyoto coop,supermarket,35.0066211,135.7201562,JP
+セカンドストリート,2nd STREET,second_hand,35.0289711,135.7312222,JP
+クリーニングカーニバル,クリーニングカーニバル,dry_cleaning,34.9984558,135.7199049,JP
+サイクルショップきゅうべぇ,サイクルショップきゅうべぇ,bicycle,35.0250906,135.7312988,JP
+タイヤ館,Taiyakan,car_parts,34.9979204,135.7199644,JP
+フジサンオート,フジサンオート,car,35.0001859,135.7192568,JP
+和食nowジョイ,和食nowジョイ,restaurant,35.0349263,135.7323793,JP
+"Cafe Bibliotic Hello! ","Cafe Bibliotic Hello! ",cafe,35.0137125,135.7641721,JP
+COFFE SHOP MAKI,COFFE SHOP MAKI,cafe,35.0493062,135.751711,JP
+MITSUBISHI MOTORS,MITSUBISHI MOTORS,car_repair,35.0505996,135.7442789,JP
+アイハートキムラ,アイハートキムラ,supermarket,35.0496025,135.748599,JP
+ドコモショップ,DoCoMo Shop,mobile_phone,35.0422626,135.7794439,JP
+フォルクスワーゲン,フォルクスワーゲン,car,35.0418749,135.7801683,JP
+マツダ,マツダ,car,35.037232,135.7818776,JP
+大垣書店＆coffee,大垣書店＆coffee,cafe,35.0412996,135.7819855,JP
+古本市場高野店,古本市場高野店,books,35.0407741,135.7821364,JP
+ジョリーパスタ,Jolly-Pasta,restaurant,34.9915039,135.7031318,JP
+ステーキガスト,Steak Gusto,restaurant,34.9875025,135.7048059,JP
+ラーメン来来亭,ラーメン来来亭,restaurant,34.9827313,135.7079,JP
+酒のケントボーイズ,酒のケントボーイズ,alcohol,34.9932382,135.7022556,JP
+COCKPIT北山店,COCKPIT北山店,tyres,35.0519586,135.7852271,JP
+Porsche,Porsche,car,35.0519245,135.7855457,JP
+ビジョンメガネ,Vision Megane,optician,35.0513114,135.7895434,JP
+ビデオ１,ビデオ１,video,35.0470233,135.78394,JP
+マツノキ,マツノキ,supermarket,35.043668,135.7915955,JP
+マツヤデンキ,マツヤデンキ,electronics,35.0519089,135.7848194,JP
+ミドリ電化,ミドリ電化,electronics,35.0515925,135.7852669,JP
+洋服の青山,Aoyama Tailor,clothes,35.0405539,135.7915229,JP
+生鮮館しらかわ,生鮮館しらかわ,supermarket,35.0362086,135.7914868,JP
+紳士服コナカ（閉店）,紳士服コナカ（閉店）,clothes,35.0518198,135.7747259,JP
+自転車のきゅうべぇ,自転車のきゅうべぇ,bicycle,35.0511858,135.7896803,JP
+山ノ内電気店,山ノ内電気店,electronics,35.0084045,135.7233762,JP
+BLUESKY,BLUESKY,laundry,35.008384,135.7192554,JP
+Floral Space Hana-Tuji,Floral Space Hana-Tuji,florist,35.0083848,135.7221654,JP
+さぶやん,さぶやん,restaurant,35.0084362,135.7193843,JP
+たにぐち,たにぐち,alcohol,35.0083777,135.721036,JP
+アプリコ,アプリコ,cafe,35.0083652,135.7201329,JP
+理容 小森,理容 小森,hairdresser,35.0083832,135.7219939,JP
+川津酒店,川津酒店,alcohol,35.0100198,135.7150406,JP
+白洋舎,Hakuyosha,dry_cleaning,35.0207295,135.7051551,JP

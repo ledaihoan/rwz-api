@@ -1,0 +1,3 @@
+CREATE DATABASE IF NOT EXISTS rwz_shadow;
+GRANT ALL PRIVILEGES ON rwz_shadow.* TO 'rwz_user'@'%';
+FLUSH PRIVILEGES;

@@ -1,0 +1,876 @@
+name,name_en,service_type,lat,lng,country_code
+Steinway Auto Repairs,Steinway Auto Repairs,car_repair,40.7707762,-73.9083348,US
+The Brass Rail,The Brass Rail,restaurant,40.7385968,-74.0303486,US
+Modell's Sporting Goods,Modell's Sporting Goods,sports,40.7307061,-74.0352746,US
+Staples,Staples,stationery,40.7306714,-74.034875,US
+Court Street,Court Street,restaurant,40.7433179,-74.0285824,US
+Sam Sunny,Sam Sunny,restaurant,40.7415576,-73.9784628,US
+Hee-Space Thrift Shop,Hee-Space Thrift Shop,charity,40.6611011,-73.953359,US
+The First Stop Deli Grocery,The First Stop Deli Grocery,convenience,40.645825,-74.0169726,US
+New Blondie,New Blondie,convenience,40.651682,-73.9755124,US
+Alnoor Boutique,Alnoor Boutique,clothes,40.6900102,-73.9929109,US
+SVA Campus Store,SVA Campus Store,gift,40.7387161,-73.9824733,US
+Porta Bella,Porta Bella,clothes,40.6437244,-74.0115417,US
+Barnes & Noble,Barnes & Noble,books,40.7369258,-73.9896011,US
+Knolls Shopping Center,Knolls Shopping Center,mall,40.8786111,-73.9172222,US
+Dahesh Museum of Art Gift Shop and Offices,Dahesh Museum of Art Gift Shop and Offices,gift,40.7250957,-74.0049076,US
+Pedro's,Pedro's,restaurant,40.7025316,-73.9865653,US
+Trudy's Ice Cream,Trudy's Ice Cream,restaurant,40.8003773,-73.9618056,US
+Everything Goes Book Cafe,Everything Goes Book Cafe,books,40.636934,-74.076656,US
+Talay Thai Restaurant,Talay Thai Restaurant,restaurant,40.6424804,-74.0766747,US
+Boutros,Boutros,restaurant,40.6901687,-73.9934852,US
+Bubo,Bubo,restaurant,40.7460362,-73.9776676,US
+Little Alley,Little Alley,restaurant,40.7473845,-73.9771526,US
+Waverly Urban Market,Waverly Urban Market,supermarket,40.6870366,-73.9664572,US
+Mocha Hookah,Mocha Hookah,cafe,40.6901914,-73.9935675,US
+Los Castillos,Los Castillos,convenience,40.6506127,-74.0048114,US
+Dellapietras,Dellapietras,butcher,40.6900737,-73.993141,US
+Market Carniceria,Market Carniceria,greengrocer,40.6505269,-74.0048997,US
+Galaxy Wireless & Gift Shop,Galaxy Wireless & Gift Shop,variety_store,40.6501044,-74.0053551,US
+Mikado,Mikado,restaurant,40.6902604,-73.9938187,US
+Random Accessories,Random Accessories,gift,40.7266107,-73.9901732,US
+Waverly Candy & Deli,Waverly Candy & Deli,convenience,40.6876443,-73.9665931,US
+Duman Home,Duman Home,linen,40.6867678,-73.9936023,US
+Dazzle Beauty Salon,Dazzle Beauty Salon,hairdresser,40.7486989,-73.9761859,US
+Green Dry Cleaners,Green Dry Cleaners,dry_cleaning,40.6867609,-73.966438,US
+M & A Design,M & A Design,window_blind,40.7029965,-73.9874746,US
+The Hidden Rose,The Hidden Rose,tattoo,40.7272676,-73.9903739,US
+The Musket Room,The Musket Room,restaurant,40.7239188,-73.9937813,US
+Ferreteria Hardware,Ferreteria Hardware,hardware,40.6500594,-74.0053992,US
+Metro by T-Mobile,Metro by T-Mobile,mobile_phone,40.6702594,-73.9506186,US
+Cricket Wireless,Cricket Wireless,mobile_phone,40.715726,-73.9990159,US
+Nail One,Nail One,beauty,40.7486672,-73.9762129,US
+Charming Nails,Charming Nails,beauty,40.6876868,-73.9666017,US
+Blank Street Coffee,Blank Street Coffee,cafe,40.6872881,-73.9753082,US
+Almonte Casual,Almonte Casual,beauty,40.6510107,-74.0036926,US
+A+ Skincare & Lash,A+ Skincare & Lash,beauty,40.6900874,-73.9961748,US
+Craft + Carry,Craft + Carry,beverages,40.7435659,-73.9799283,US
+My Favorite Cleaners & Laundry,My Favorite Cleaners & Laundry,dry_cleaning,40.6897993,-73.9936179,US
+Hoops Deli Grocery,Hoops Deli Grocery,convenience,40.6453921,-74.0094856,US
+Fu Kang Reflexology,Fu Kang Reflexology,massage,40.7160717,-73.9994196,US
+Elegant Decorations,Elegant Decorations,party,40.6500204,-74.0054467,US
+Nha Trang One,Nha Trang One,restaurant,40.7167899,-73.9996711,US
+Lenox Coffee,Lenox Coffee,cafe,40.810011,-73.9431823,US
+Arté Salon,Arté Salon,hairdresser,40.724848,-73.9931701,US
+Mi,Mi,restaurant,40.7461325,-73.9775916,US
+Damascus Bread & Bakery,Damascus Bread & Bakery,bakery,40.69005,-73.9930552,US
+142 Expressway Laundromat,142 Expressway Laundromat,laundry,40.690273,-73.9951007,US
+Dar-Us-Salam Bookstore,Dar-Us-Salam Bookstore,books,40.6857118,-73.9821364,US
+NY Eden Spa,NY Eden Spa,massage,40.7539832,-73.9686085,US
+Zum Stammtisch,Zum Stammtisch,restaurant,40.7018175,-73.8811268,US
+Franks Bike Shop,Franks Bike Shop,bicycle,40.7139378,-73.9803505,US
+Lake Pavilion,Lake Pavilion,restaurant,40.7426161,-73.8248756,US
+Happy Garden Restaurant,Happy Garden Restaurant,restaurant,40.7430063,-73.825794,US
+Yong Fa,Yong Fa,supermarket,40.743429,-73.8253477,US
+BP,BP,fuel,40.7393645,-73.8147562,US
+New World Mall,New World Mall,department_store,40.7595986,-73.8291313,US
+Mugs Ale House,Mugs Ale House,restaurant,40.7194991,-73.9557619,US
+Southside Coffee,Southside Coffee,cafe,40.6611342,-73.9902727,US
+Park Natural Foods,Park Natural Foods,health_food,40.6822674,-73.9961167,US
+Starbucks,Starbucks,cafe,40.7032771,-74.0141339,US
+Cafe Delecctica,Cafe Delecctica,cafe,40.7481687,-73.9766084,US
+The Inwood Farm,The Inwood Farm,restaurant,40.8727992,-73.918421,US
+Garden Café,Garden Café,restaurant,40.8681188,-73.9204207,US
+KMart,KMart,convenience,40.8252655,-73.8566272,US
+Aron's Kissena Farms,Aron's Kissena Farms,supermarket,40.7284202,-73.8141144,US
+Le Monde,Le Monde,restaurant,40.8057782,-73.9658657,US
+Whole Foods Market,Whole Foods Market,supermarket,40.7347925,-73.9913589,US
+Walgreens,Walgreens,chemist,40.7404986,-73.9864967,US
+Buttermilk Bakeshop,Buttermilk Bakeshop,pastry,40.6693598,-73.9929679,US
+The Meat Hook,The Meat Hook,butcher,40.7176379,-73.9477702,US
+One Love Deli,One Love Deli,convenience,40.7146404,-73.9445688,US
+Wholesome Basket,Wholesome Basket,convenience,40.7146787,-73.944223,US
+Late Night Deli,Late Night Deli,deli,40.714701,-73.9388646,US
+C-Town,C-Town,supermarket,40.7143904,-73.9441049,US
+Carmine's Pizzeria,Carmine's Pizzeria,restaurant,40.714968,-73.9443016,US
+El Loco Burrito,El Loco Burrito,restaurant,40.7148102,-73.9445968,US
+Tony's Pizza,Tony's Pizza,restaurant,40.7150542,-73.9446372,US
+East Met West,East Met West,restaurant,40.714447,-73.9439212,US
+Il Passatore,Il Passatore,restaurant,40.7143441,-73.9420637,US
+Columbia University Bookstore,Columbia University Bookstore,books,40.8071007,-73.9641277,US
+Sarah James,Sarah James,restaurant,40.6932477,-73.9425684,US
+Hard Rock Cafe,Hard Rock Cafe,restaurant,40.756994,-73.9865512,US
+Carbone,Carbone,restaurant,40.7554192,-73.9930152,US
+Freemans,Freemans,restaurant,40.7219891,-73.9924423,US
+Aurora,Aurora,restaurant,40.7156935,-73.9647329,US
+Best Bagel & Coffee,Best Bagel & Coffee,cafe,40.7522171,-73.9911323,US
+Toasties,Toasties,cafe,40.757084,-73.977893,US
+Lululemon,Lululemon,clothes,40.7572492,-73.9784073,US
+Audi,Audi,car,40.755224,-73.97568,US
+H&M,H&M,clothes,40.7535383,-73.9805923,US
+Zara,Zara,clothes,40.7537116,-73.9809753,US
+Zales,Zales,jewelry,40.750696,-73.982649,US
+Sephora,Sephora,cosmetics,40.75005,-73.9888498,US
+Tick Tock Diner,Tick Tock Diner,restaurant,40.7524435,-73.9935503,US
+Giovanni,Giovanni,restaurant,40.779131,-73.960536,US
+Schweitzer Linen,Schweitzer Linen,furniture,40.778723,-73.960194,US
+City Market Cafe,City Market Cafe,cafe,40.7786106,-73.9606629,US
+NY Camera & Electronics Corporation,NY Camera & Electronics Corporation,electronics,40.7526109,-73.9929161,US
+9th St Espresso,9th St Espresso,cafe,40.725087,-73.9777631,US
+Brooklyn Kitchen,Brooklyn Kitchen,doityourself,40.7176668,-73.9476862,US
+The Good Fork,The Good Fork,restaurant,40.6759784,-74.0142976,US
+Fine Fare,Fine Fare,supermarket,40.8555109,-73.9294503,US
+Vinegar Hill House,Vinegar Hill House,restaurant,40.7027578,-73.9812369,US
+Bicycle Station,Bicycle Station,bicycle,40.6962889,-73.9726486,US
+Westside Market,Westside Market,supermarket,40.7317446,-73.9885326,US
+Green Valley Market,Green Valley Market,convenience,40.6869571,-73.9626851,US
+Brooklyn Deli,Brooklyn Deli,convenience,40.6751967,-73.9564822,US
+Junior's,Junior's,restaurant,40.7582151,-73.9866267,US
+Diner,Diner,restaurant,40.7106766,-73.9655977,US
+Marlowe And Daughters,Marlowe And Daughters,butcher,40.710211,-73.964676,US
+Apple West 14th Street,Apple West 14th Street,electronics,40.7411861,-74.0054573,US
+Brooklyn General Store,Brooklyn General Store,craft,40.6840922,-74.0023385,US
+Exxon,Exxon,fuel,40.735199,-74.0435825,US
+Valero,Valero,fuel,40.7369038,-74.0379554,US
+Graziella's,Graziella's,restaurant,40.690471,-73.9694971,US
+Dannee Thai,Dannee Thai,restaurant,40.6904836,-73.960039,US
+Niko Coffee,Niko Coffee,cafe,40.8052757,-73.9624308,US
+Legal Grounds,Legal Grounds,cafe,40.7157911,-74.0414961,US
+Fuji East Restaurant,Fuji East Restaurant,restaurant,40.7590731,-73.9522681,US
+Ristorante Settepani,Ristorante Settepani,restaurant,40.8043628,-73.9476425,US
+Think Coffee,Think Coffee,cafe,40.7254073,-73.9923897,US
+NYU Bookstore,NYU Bookstore,books,40.7292215,-73.9932385,US
+Buffalo Exchange,Buffalo Exchange,clothes,40.7287947,-73.9936354,US
+Rumble,Rumble,clothes,40.7283854,-73.9939823,US
+Infinity Shoes,Infinity Shoes,shoes,40.7282196,-73.9946324,US
+Miz Mooz,Miz Mooz,shoes,40.728098,-73.9947214,US
+GameStop,GameStop,video_games,40.7280692,-73.9947451,US
+Transit,Transit,athletic,40.7274147,-73.9954317,US
+A Sneaker City,A Sneaker City,shoes,40.7271255,-73.995546,US
+Maria Tash,Maria Tash,jewelry,40.7269718,-73.9956715,US
+Juliette Restaurant,Juliette Restaurant,restaurant,40.716964,-73.959114,US
+miDmuS,miDmuS,restaurant,40.717029,-73.95921,US
+Senko Funeral Home,Senko Funeral Home,funeral_directors,40.7167216,-73.9586775,US
+Bedford Vintage,Bedford Vintage,clothes,40.7168786,-73.9585643,US
+Ako,Ako,restaurant,40.7169209,-73.9585388,US
+UVA Wines and Spirits,UVA Wines and Spirits,alcohol,40.717064,-73.958209,US
+Doughnut Plant,Doughnut Plant,cafe,40.7174274,-73.9583326,US
+Chocolate World,Chocolate World,chocolate,40.717722,-73.957349,US
+Twin Cafe,Twin Cafe,cafe,40.7149297,-74.0110479,US
+Verizon,Verizon,mobile_phone,40.715043,-74.011071,US
+Kaffe 1668,Kaffe 1668,cafe,40.7151714,-74.0110643,US
+Pick-a-Bagel,Pick-a-Bagel,cafe,40.7145898,-74.0151484,US
+Le Pain Quotidien,Le Pain Quotidien,cafe,40.7149567,-74.0094239,US
+Bed Bath & Beyond,Bed Bath & Beyond,houseware,40.7158302,-74.0123025,US
+Rockmeisha Izakaya,Rockmeisha Izakaya,restaurant,40.7326428,-74.002464,US
+Annisa,Annisa,restaurant,40.7326055,-74.0025709,US
+Super Stop & Shop,Super Stop & Shop,supermarket,40.8805852,-73.8251546,US
+Jubilee Marketplace,Jubilee Marketplace,greengrocer,40.7082521,-74.0063594,US
+John's of Bleecker St,John's of Bleecker St,restaurant,40.7316098,-74.0033416,US
+Joe's Pizza,Joe's Pizza,restaurant,40.7305467,-74.0020629,US
+Country Club Laundromat & Dry Cleaners,Country Club Laundromat & Dry Cleaners,laundry,40.8462899,-73.8195074,US
+Momo Sushi,Momo Sushi,restaurant,40.7051487,-73.9333751,US
+La Mexicana,La Mexicana,restaurant,40.7104365,-74.0997577,US
+Vineyard Vines,Vineyard Vines,clothes,40.7688194,-73.982397,US
+Strand Bookstore,Strand Bookstore,books,40.7332796,-73.9909401,US
+Hummus Place,Hummus Place,restaurant,40.7322601,-74.0033462,US
+Key Food,Key Food,supermarket,40.7617166,-73.9862921,US
+PacSun,PacSun,clothes,40.7223219,-73.9996236,US
+Extra Supermarket,Extra Supermarket,supermarket,40.7104052,-74.077189,US
+Lombardi's Pizza,Lombardi's Pizza,restaurant,40.7215933,-73.9956147,US
+Fairway Market,Fairway Market,supermarket,40.780745,-73.9817611,US
+Cafe Social 68,Cafe Social 68,cafe,40.7246121,-73.9843772,US
+Citrico Cafe & Agaveria Bar,Citrico Cafe & Agaveria Bar,cafe,40.7579727,-73.9232898,US
+Empire Coffee & Tea Co.,Empire Coffee & Tea Co.,cafe,40.7413494,-74.0307015,US
+Cafe Michelena,Cafe Michelena,restaurant,40.7422133,-74.0301318,US
+Carlo's Bake Shop,Carlo's Bake Shop,bakery,40.7371855,-74.0307861,US
+Trader Joe's,Trader Joe's,supermarket,40.7785925,-73.9822755,US
+Statue of Liberty & Ellis Island Tickets,Statue of Liberty & Ellis Island Tickets,ticket,40.7035183,-74.0169254,US
+Something Else On Fifth,Something Else On Fifth,clothes,40.6765885,-73.9805222,US
+Brick Lane,Brick Lane,restaurant,40.7266326,-73.9893341,US
+S. K. Gourmet Deli & Grocery,S. K. Gourmet Deli & Grocery,convenience,40.7266731,-73.9893048,US
+Pageant Print Shop,Pageant Print Shop,art,40.7267596,-73.9905313,US
+Tom's Restaurant,Tom's Restaurant,restaurant,40.8054509,-73.9654163,US
+Acme Pet Food,Acme Pet Food,pet,40.6774351,-73.9691553,US
+Osaka,Osaka,restaurant,40.6848533,-73.9948629,US
+Leland,Leland,restaurant,40.6797196,-73.9651937,US
+N & K Express Laundromat,N & K Express Laundromat,laundry,40.6737014,-73.9530752,US
+Farm Fresh Deli,Farm Fresh Deli,convenience,40.6767981,-73.9634095,US
+Times Up!,Times Up!,bicycle,40.710834,-73.96448,US
+Urban Rustic,Urban Rustic,restaurant,40.719235,-73.9528162,US
+The River Café,The River Café,restaurant,40.7037562,-73.994822,US
+The Hamilon Inn,The Hamilon Inn,restaurant,40.7289956,-74.0446947,US
+Basic Coffee Shop,Basic Coffee Shop,cafe,40.7266477,-74.0436947,US
+Bill's Townhouse,Bill's Townhouse,restaurant,40.7601706,-73.9730036,US
+Zootique,Zootique,gift,40.7672289,-73.9715817,US
+Dancing Crane Cafe,Dancing Crane Cafe,cafe,40.7671831,-73.9720578,US
+Uniqlo,Uniqlo,clothes,40.7235022,-73.998176,US
+Leone's Pizzeria,Leone's Pizzeria,restaurant,40.7106227,-73.8651011,US
+Chelsea Market,Chelsea Market,mall,40.7420513,-74.0048973,US
+FedEx Office,FedEx Office,copyshop,40.7523267,-73.9942482,US
+Mezcal's,Mezcal's,restaurant,40.6758313,-73.9807001,US
+Shaking Crab,Shaking Crab,restaurant,40.6757312,-73.9810959,US
+Tiffany & Company,Tiffany & Company,jewelry,40.7065818,-74.0100596,US
+Apple Store SoHo,Apple Store SoHo,electronics,40.725039,-73.9991532,US
+Four Seasons,Four Seasons,restaurant,40.7580948,-73.9720223,US
+Willner Chemists,Willner Chemists,chemist,40.7514625,-73.9784858,US
+Marchi's,Marchi's,restaurant,40.7431603,-73.9775799,US
+Pando Park,Pando Park,restaurant,40.7449757,-73.9831065,US
+Second Time Around,Second Time Around,clothes,40.7236731,-73.9946151,US
+Screaming Mimi's,Screaming Mimi's,clothes,40.7276373,-73.9935441,US
+Casio G Shock,Casio G Shock,ice_cream,40.7260951,-74.0007962,US
+B&H Photo Video,B&H Photo Video,electronics,40.7531288,-73.9961373,US
+Premium Laces,Premium Laces,shoes,40.7225835,-73.9975119,US
+Barney's Co-op,Barney's Co-op,clothes,40.7413644,-73.9989975,US
+Peachfrog,Peachfrog,clothes,40.7199877,-73.9568654,US
+Danny Grocery,Danny Grocery,convenience,40.6762724,-73.9627506,US
+Ideal Food Basket,Ideal Food Basket,supermarket,40.6761937,-73.9636498,US
+D'Agostino,D'Agostino,supermarket,40.7371928,-74.0066439,US
+Peas & Pickles,Peas & Pickles,supermarket,40.7026168,-73.9894421,US
+Barry Gordin Hair Design,Barry Gordin Hair Design,hairdresser,40.7313263,-74.0034046,US
+Smith & Wollensky,Smith & Wollensky,restaurant,40.7552548,-73.9709515,US
+Elite Palace,Elite Palace,restaurant,40.7363704,-73.8954454,US
+Clinton St. Baking Company,Clinton St. Baking Company,bakery,40.7211788,-73.9838832,US
+Chelsea Garden Center Red Hook,Chelsea Garden Center Red Hook,garden_centre,40.675089,-74.0159065,US
+Cult Gaia,Cult Gaia,clothes,40.7229924,-74.0019501,US
+Suitsupply,Suitsupply,clothes,40.7221884,-74.0009428,US
+J.Crew Men's Shop,J.Crew Men's Shop,clothes,40.7215489,-73.999866,US
+Elevate Soho,Elevate Soho,cannabis,40.7215487,-74.0002594,US
+Stromboli Pizza,Stromboli Pizza,restaurant,40.7277727,-73.985401,US
+Canteen Delicatessen & Cafe,Canteen Delicatessen & Cafe,cafe,40.6825167,-73.9793167,US
+Rose Deli & Grill,Rose Deli & Grill,convenience,40.6826628,-73.9797423,US
+The Breslin,The Breslin,restaurant,40.7456818,-73.9881244,US
+Duane Reade,Duane Reade,convenience,40.7673868,-73.9826675,US
+Blue Ribbon Sushi Bar & Grill,Blue Ribbon Sushi Bar & Grill,restaurant,40.7675881,-73.9831167,US
+Sushi Damo,Sushi Damo,restaurant,40.7677295,-73.9834926,US
+Morton Williams,Morton Williams,supermarket,40.7688846,-73.9852324,US
+RadioShack,RadioShack,electronics,40.7675765,-73.984466,US
+west elm,west elm,furniture,40.7700674,-73.9817956,US
+TJ Maxx,TJ Maxx,department_store,40.7663399,-73.9826892,US
+USA Brooklyn Delicatessen,USA Brooklyn Delicatessen,restaurant,40.7653848,-73.980359,US
+Carnegie Diner & Cafe,Carnegie Diner & Cafe,restaurant,40.765737,-73.9801162,US
+Brooklyn Diner,Brooklyn Diner,restaurant,40.7656073,-73.9808744,US
+Farinella,Farinella,restaurant,40.7671365,-73.9814703,US
+Best Buy,Best Buy,electronics,40.7426455,-73.9926972,US
+Hoy Wong Restaurant,Hoy Wong Restaurant,restaurant,40.7166141,-73.998003,US
+Southside Food Plaza,Southside Food Plaza,supermarket,40.7091952,-73.9642356,US
+Selini Neckwear Inc.,Selini Neckwear Inc.,clothes,40.7537134,-73.9914496,US
+Angelic Rise,Angelic Rise,jewelry,40.7537052,-73.9914123,US
+Lowe's,Lowe's,doityourself,40.8280177,-74.0922757,US
+Chili's,Chili's,restaurant,40.8303395,-74.0897169,US
+On The Run (Exxon),On The Run (Exxon),convenience,40.8284926,-74.0939307,US
+17 Farmer's Market,17 Farmer's Market,greengrocer,40.824749,-74.0952637,US
+Murry Hill Diner,Murry Hill Diner,restaurant,40.7459042,-73.9803026,US
+Bakeri,Bakeri,bakery,40.7200059,-73.9600762,US
+Europa Cafe,Europa Cafe,cafe,40.7566921,-73.9867194,US
+AT&T,AT&T,mobile_phone,40.756593,-73.9867931,US
+Red Lobster,Red Lobster,restaurant,40.7556031,-73.987571,US
+Madison & Vine,Madison & Vine,restaurant,40.75218,-73.9795023,US
+Pera,Pera,restaurant,40.7523353,-73.9793753,US
+T-Mobile,T-Mobile,mobile_phone,40.7524796,-73.9793029,US
+Cohen's Fashion Optical,Cohen's Fashion Optical,optician,40.7525762,-73.979134,US
+LA Fonda Del Sol,LA Fonda Del Sol,restaurant,40.7532708,-73.9773865,US
+ammos estiatorio,ammos estiatorio,restaurant,40.7542362,-73.977239,US
+The Beer Bar Cafe Centro,The Beer Bar Cafe Centro,cafe,40.7539377,-73.9768745,US
+The Capital Grille,The Capital Grille,restaurant,40.7538356,-73.9761648,US
+Bath & Body Works,Bath & Body Works,cosmetics,40.7527835,-73.9748802,US
+Maman,Maman,cafe,40.7523179,-73.9738176,US
+Ariston Floral Boutique,Ariston Floral Boutique,florist,40.7524384,-73.9747251,US
+Zucker's Bagels & Smoked Fish,Zucker's Bagels & Smoked Fish,cafe,40.750611,-73.9768239,US
+Gateway News,Gateway News,convenience,40.7509934,-73.9773762,US
+Bisto Marketplace,Bisto Marketplace,convenience,40.7514335,-73.9777549,US
+Central Cafe,Central Cafe,cafe,40.7519302,-73.978195,US
+The Heavenly Burger,The Heavenly Burger,restaurant,40.7517125,-73.9799108,US
+Jack's 99c Store,Jack's 99c Store,variety_store,40.7516376,-73.980881,US
+Park Avenue Liquor,Park Avenue Liquor,alcohol,40.7510771,-73.9807748,US
+Yankees,Yankees,clothes,40.7498546,-73.9833154,US
+Andaz,Andaz,cafe,40.7528897,-73.9811056,US
+Skechers,Skechers,shoes,40.753808,-73.9804143,US
+Urban Outfitters,Urban Outfitters,clothes,40.7542617,-73.9800487,US
+Connolly's,Connolly's,restaurant,40.7561557,-73.9776613,US
+Charles Tyrwhitt,Charles Tyrwhitt,clothes,40.7554348,-73.977162,US
+JoS. A. Bank,JoS. A. Bank,clothes,40.7552783,-73.977656,US
+My.Suit,My.Suit,clothes,40.7551081,-73.9778087,US
+Portabella,Portabella,clothes,40.7547985,-73.9776337,US
+Wafels and Dinges,Wafels and Dinges,cafe,40.7545385,-73.9840441,US
+7-Eleven,7-Eleven,convenience,40.7471461,-73.9832346,US
+Broadway Cafe,Broadway Cafe,cafe,40.7433913,-73.9892649,US
+Hallmark,Hallmark,toys,40.7588847,-73.9751138,US
+Express,Express,clothes,40.7585649,-73.9748533,US
+Black Fox Coffee,Black Fox Coffee,cafe,40.7614213,-73.9738724,US
+Breguet,Breguet,watches,40.7613079,-73.9749288,US
+Canada Goose,Canada Goose,clothes,40.7610889,-73.9750755,US
+Coach,Coach,bag,40.7608651,-73.9752575,US
+Swarovski,Swarovski,jewelry,40.7610186,-73.9756542,US
+St. John,St. John,clothes,40.7602252,-73.9757516,US
+Versace,Versace,clothes,40.7601652,-73.976054,US
+Victoria's Secret,Victoria's Secret,clothes,40.75944,-73.9768001,US
+Fancy NY Grill & Deli,Fancy NY Grill & Deli,convenience,40.7228421,-73.9856712,US
+American Retro Bar & Grill,American Retro Bar & Grill,restaurant,40.7650421,-73.9880624,US
+L'Ecole Restaurant,L'Ecole Restaurant,restaurant,40.7208901,-74.0003925,US
+Buddakan,Buddakan,restaurant,40.7421638,-74.0048429,US
+Tony's,Tony's,restaurant,40.7563915,-73.9854253,US
+Capital Grille at Time-Life,Capital Grille at Time-Life,restaurant,40.7607113,-73.9807687,US
+Le Parker Meridien Burger,Le Parker Meridien Burger,restaurant,40.7640653,-73.9782577,US
+Clever Blend,Clever Blend,cafe,40.679722,-73.9780478,US
+Green Ivy,Green Ivy,supermarket,40.6767635,-73.9837557,US
+Miti Miti,Miti Miti,restaurant,40.6786532,-73.979114,US
+Flea,Flea,clothes,40.6761253,-73.9804812,US
+Balade,Balade,restaurant,40.7302946,-73.9831042,US
+Global Fresh Marketplace,Global Fresh Marketplace,supermarket,40.7240812,-73.975958,US
+Russian Tea Room,Russian Tea Room,restaurant,40.7650339,-73.9793005,US
+Citgo,Citgo,fuel,40.8669392,-73.922712,US
+Market Diner,Market Diner,restaurant,40.7615758,-73.9973446,US
+Novello Market,Novello Market,convenience,40.7465639,-73.9720417,US
+Spectrum News,Spectrum News,newsagent,40.7466615,-73.9722753,US
+City Barber Shop,City Barber Shop,hairdresser,40.7464992,-73.9737729,US
+Clean Laundry,Clean Laundry,laundry,40.7464476,-73.9736914,US
+Chevron,Chevron,fuel,34.1032728,-118.237237,US
+Ralphs,Ralphs,supermarket,34.0172999,-118.4076922,US
+Yokohama Sushi,Yokohama Sushi,restaurant,34.0169087,-118.4066108,US
+Shell,Shell,fuel,34.1778393,-118.318237,US
+Sprouts Farmers Market,Sprouts Farmers Market,supermarket,34.1869185,-118.3187822,US
+Big Wang's,Big Wang's,restaurant,34.0996138,-118.3289013,US
+Cafe Etc.,Cafe Etc.,restaurant,34.0998981,-118.3293304,US
+Jerry's Famous Deli,Jerry's Famous Deli,restaurant,34.0770679,-118.3806155,US
+Bossa Nova,Bossa Nova,restaurant,34.0832711,-118.3858713,US
+Dollar Tree,Dollar Tree,variety_store,33.9735751,-118.3580275,US
+Target,Target,department_store,34.1429497,-118.258652,US
+99 Ranch Market,99 Ranch Market,supermarket,34.1880845,-118.465299,US
+Tofu Village,Tofu Village,restaurant,34.0619072,-118.3096159,US
+Danny's Bistro and Cafe,Danny's Bistro and Cafe,restaurant,33.9871321,-118.4734125,US
+Harley Davidson Shop,Harley Davidson Shop,sports,33.992371,-118.4783419,US
+Cafe Berlina,Cafe Berlina,cafe,34.0286219,-118.486294,US
+Tehran Market,Tehran Market,supermarket,34.0273728,-118.488516,US
+17th Street Cafe,17th Street Cafe,restaurant,34.0341961,-118.4924929,US
+Margo's,Margo's,restaurant,34.0335274,-118.4932833,US
+La La Land,La La Land,cafe,34.0327921,-118.494226,US
+Via Dolce,Via Dolce,cafe,34.0327139,-118.4943378,US
+Pradeep's,Pradeep's,restaurant,34.0324506,-118.4950672,US
+Erin McKenna's Bakery,Erin McKenna's Bakery,bakery,34.0326285,-118.494852,US
+Ingo's Tasty Diner,Ingo's Tasty Diner,vacant,34.0256586,-118.4905226,US
+The Duck Blind,The Duck Blind,alcohol,34.029849,-118.4976344,US
+Art's Table,Art's Table,restaurant,34.0290582,-118.4986661,US
+Louise's Trattoria,Louise's Trattoria,restaurant,34.0292668,-118.4985782,US
+Rosti,Rosti,restaurant,34.0291387,-118.4991961,US
+Natalee Thai,Natalee Thai,restaurant,34.0226655,-118.4006804,US
+Mobil,Mobil,fuel,34.0983921,-118.317663,US
+Mario's Peruvian Restaurant,Mario's Peruvian Restaurant,restaurant,34.0831841,-118.3262786,US
+CVS Pharmacy,CVS Pharmacy,chemist,33.9596518,-118.3968346,US
+Barbara's,Barbara's,cafe,34.0645693,-118.2181096,US
+Philippe The Original,Philippe The Original,restaurant,34.0596738,-118.236941,US
+Cole's P.E. Buffet,Cole's P.E. Buffet,restaurant,34.0448335,-118.2495584,US
+Famima,Famima,convenience,34.0520632,-118.2509637,US
+Bottega Louie,Bottega Louie,restaurant,34.047039,-118.256567,US
+Lili Ya,Lili Ya,restaurant,34.0511299,-118.2448967,US
+Restaurant Aoi,Restaurant Aoi,restaurant,34.0499025,-118.2399704,US
+Daikokuya,Daikokuya,restaurant,34.0499714,-118.2400831,US
+Great Thai,Great Thai,restaurant,34.0517217,-118.2666829,US
+Yard House,Yard House,restaurant,34.0449843,-118.265798,US
+Drago Centro,Drago Centro,restaurant,34.051302,-118.2570963,US
+Corner Bakery,Corner Bakery,cafe,34.0480163,-118.2617582,US
+Ciudad,Ciudad,restaurant,34.0525962,-118.2571993,US
+Wokcano,Wokcano,restaurant,34.0486901,-118.259063,US
+Wolfgang Puck,Wolfgang Puck,restaurant,34.0492588,-118.2563746,US
+Cafe Pinot,Cafe Pinot,restaurant,34.0511811,-118.2558175,US
+Daily Grill,Daily Grill,restaurant,34.049965,-118.2573452,US
+The Counter,The Counter,restaurant,34.0485569,-118.258255,US
+Marie's Coffee & Deli,Marie's Coffee & Deli,cafe,34.0486352,-118.258366,US
+Izakaya Gazen,Izakaya Gazen,restaurant,34.0491094,-118.239352,US
+G&M Oil Company #75,G&M Oil Company #75,fuel,34.1611268,-118.329908,US
+Ronnies's Diner,Ronnies's Diner,restaurant,33.9853271,-118.425096,US
+Original Pantry Cafe,Original Pantry Cafe,restaurant,34.0463719,-118.2628977,US
+Big Waves Laundromat,Big Waves Laundromat,laundry,34.0322879,-118.4758624,US
+Fromin's Deli,Fromin's Deli,restaurant,34.0302224,-118.484024,US
+Zekes Smokehouse,Zekes Smokehouse,restaurant,34.0905269,-118.3457736,US
+Gary Leonard Take My Picture,Gary Leonard Take My Picture,photo,34.0423688,-118.2558001,US
+Sara Palacios Gallery,Sara Palacios Gallery,photo,34.0417021,-118.2554451,US
+Quiadaiyn,Quiadaiyn,restaurant,34.0037145,-118.4330282,US
+Taqueria El Tapatio,Taqueria El Tapatio,restaurant,34.184925,-118.3388116,US
+Unurban Cafe,Unurban Cafe,cafe,34.0269392,-118.4555936,US
+Los Balcones,Los Balcones,restaurant,34.0960683,-118.3264426,US
+Purgatory Pizza,Purgatory Pizza,restaurant,34.0474525,-118.2257385,US
+Kerckhoff Coffee House,Kerckhoff Coffee House,cafe,34.0705686,-118.4433778,US
+Arco,Arco,fuel,34.0354024,-118.284313,US
+Cafe de Leche,Cafe de Leche,cafe,34.121259,-118.206804,US
+Hugo's,Hugo's,cafe,34.1578394,-118.4132217,US
+Musso & Frank,Musso & Frank,restaurant,34.101763,-118.3350264,US
+76,76,convenience,34.0692525,-118.291986,US
+AutoZone,AutoZone,car_parts,34.0825423,-118.2609295,US
+USA Gasoline,USA Gasoline,fuel,34.0733788,-118.217175,US
+Vacant Shop,Vacant Shop,vacant,34.0734813,-118.2152865,US
+Sinclair,Sinclair,fuel,34.0735207,-118.208118,US
+Conchita Market,Conchita Market,grocery;butcher,34.073596,-118.2041038,US
+Trojan Grounds (Starbucks),Trojan Grounds (Starbucks),cafe,34.0212898,-118.2824417,US
+Unincorporated Coffee Roasters,Unincorporated Coffee Roasters,cafe,34.1389047,-118.2138722,US
+Homegirl Cafe,Homegirl Cafe,cafe,34.0624267,-118.2358012,US
+Bank of America,Bank of America,bank,34.0273392,-118.487909,US
+El Cholo,El Cholo,restaurant,34.0244137,-118.4920773,US
+Co-opportunity Market,Co-opportunity Market,supermarket,34.0243189,-118.4827547,US
+Jiffy Lube,Jiffy Lube,car_repair,34.0214597,-118.465134,US
+Tacos por Favor,Tacos por Favor,restaurant,34.0197502,-118.4801728,US
+Fisher Lumber and Supplies,Fisher Lumber and Supplies,doityourself,34.0164442,-118.488129,US
+Bloomingdale's,Bloomingdale's,department_store,34.0135508,-118.4925513,US
+Larry Edmunds Bookshop,Larry Edmunds Bookshop,books,34.1013143,-118.3344322,US
+Red's Bookshop,Red's Bookshop,books,34.101358,-118.3362662,US
+Cafe Audrey,Cafe Audrey,cafe,34.1020949,-118.3362729,US
+Orange20 Bikes,Orange20 Bikes,bicycle,34.0834375,-118.2946531,US
+The Bicycle Kitchen/La Bicicocina,The Bicycle Kitchen/La Bicicocina,bicycle,34.0959335,-118.286227,US
+California Pizza Kitchen,California Pizza Kitchen,restaurant,34.0622772,-118.447144,US
+Snow White Cafe,Snow White Cafe,cafe,34.1017294,-118.3382697,US
+Empress Pavilion,Empress Pavilion,restaurant,34.0666824,-118.2372669,US
+Bagel Nosh,Bagel Nosh,cafe,34.0291121,-118.486351,US
+The Green Bean,The Green Bean,cafe,34.1274023,-118.2122839,US
+Sunset Vacuum Shop & Sew,Sunset Vacuum Shop & Sew,vacuum_cleaner;sewing,34.0949083,-118.3055038,US
+Cecy's Market,Cecy's Market,convenience,34.0951193,-118.300791,US
+La Providencia Market,La Providencia Market,convenience,34.0955913,-118.2876342,US
+El C Lollo Meat Market,El C Lollo Meat Market,supermarket,34.0769216,-118.275498,US
+Stefan's at LA Farm,Stefan's at LA Farm,restaurant,34.0302951,-118.4615121,US
+Tom Breneman's Restaurant,Tom Breneman's Restaurant,restaurant,34.0990787,-118.326905,US
+Majestic Malt Shop,Majestic Malt Shop,restaurant,34.046284,-118.249232,US
+Messhall Kitchen,Messhall Kitchen,restaurant,34.1116128,-118.287845,US
+Encanto,Encanto,restaurant,34.1106324,-118.2876573,US
+Pattaya Bai Thai Restaurant,Pattaya Bai Thai Restaurant,restaurant,34.1026007,-118.2920843,US
+Simply Thai,Simply Thai,restaurant,34.1046906,-118.2872591,US
+Chi Dynasty,Chi Dynasty,restaurant,34.1040977,-118.2877982,US
+Alcove Cafe & Bakery,Alcove Cafe & Bakery,restaurant,34.1062341,-118.2877096,US
+"Tub Tim Siam - Closed, needs update","Tub Tim Siam - Closed, needs update",restaurant,34.1038999,-118.2872188,US
+Albertsons,Albertsons,supermarket,34.1088413,-118.287919,US
+Pho VT,Pho VT,restaurant,34.1057366,-118.287138,US
+The Coffee Bean & Tea Leaf,The Coffee Bean & Tea Leaf,cafe,34.1098325,-118.287797,US
+Louvre Banquet Hall,Louvre Banquet Hall,restaurant,34.1032292,-118.2919463,US
+Fred 62,Fred 62,restaurant,34.1046247,-118.291645,US
+Figaro Bistrot,Figaro Bistrot,restaurant,34.1038134,-118.2916166,US
+Yai's on Vermont,Yai's on Vermont,restaurant,34.1008994,-118.2926464,US
+Jon's Marketplace,Jon's Marketplace,supermarket,34.1001798,-118.2926464,US
+Desert Rose,Desert Rose,restaurant,34.1019509,-118.2872293,US
+Nossa Capirinha,Nossa Capirinha,restaurant,34.1073013,-118.287281,US
+Trattoria Farfalla,Trattoria Farfalla,restaurant,34.1075639,-118.2872775,US
+Sushi Ai,Sushi Ai,restaurant,34.1074505,-118.287278,US
+Lucifer's Pizza,Lucifer's Pizza,restaurant,34.1070398,-118.28729,US
+Palermo Italian Restaurant,Palermo Italian Restaurant,restaurant,34.1048398,-118.2916334,US
+Skylight Books,Skylight Books,books,34.104207,-118.291618,US
+The Dresden Restaurant & Lounge,The Dresden Restaurant & Lounge,restaurant,34.103174,-118.2916325,US
+Green Leaves Vegan,Green Leaves Vegan,restaurant,34.1033686,-118.2875896,US
+House of Pies,House of Pies,restaurant,34.1050787,-118.2920313,US
+JCPenney,JCPenney,department_store,34.1440551,-118.259183,US
+Casablanca Furniture,Casablanca Furniture,furniture,34.0750673,-118.2527114,US
+Honda of Hollywood,Honda of Hollywood,car,34.0910273,-118.331389,US
+Stock Building Supply,Stock Building Supply,hardware,34.0912783,-118.3344179,US
+Cole Automotive,Cole Automotive,car_repair,34.0910006,-118.3302443,US
+Public Storage,Public Storage,storage_rental,34.0909673,-118.338924,US
+Magee's Donuts,Magee's Donuts,restaurant,34.0910473,-118.3366414,US
+Launderland Coin Laundry,Launderland Coin Laundry,laundry,34.0910473,-118.3367594,US
+Italy 2000,Italy 2000,furniture,34.0850367,-118.3443846,US
+Le Brea Auto Body Shop,Le Brea Auto Body Shop,car_repair,34.0869716,-118.344324,US
+Herbarium,Herbarium,cannabis,34.0885328,-118.3444948,US
+The Futon Shop,The Futon Shop,furniture,34.0828619,-118.3443042,US
+Diamond,Diamond,fabric,34.064515,-118.3442612,US
+Loft Antique Hardware,Loft Antique Hardware,hardware,34.0652993,-118.3442747,US
+Dispela,Dispela,antiques,34.0651838,-118.344269,US
+Passport International Furniture,Passport International Furniture,furniture,34.0788876,-118.3443256,US
+VIP Expert Auto Repair,VIP Expert Auto Repair,car_repair,34.050655,-118.3446585,US
+Futon City,Futon City,furniture,34.0544085,-118.3438404,US
+KT Automotive,KT Automotive,car_repair,34.0540351,-118.3438109,US
+A&G Food Mart,A&G Food Mart,convenience,34.0586006,-118.3456724,US
+Harry's Auto Collision Center,Harry's Auto Collision Center,car_repair,34.0565929,-118.3461042,US
+Mezian Motors,Mezian Motors,car_repair,34.0563218,-118.3456134,US
+AmeriPros Auto Body,AmeriPros Auto Body,car_repair,34.0608105,-118.344816,US
+Goodwill,Goodwill,charity,34.059895,-118.345165,US
+Lucy's Drive In,Lucy's Drive In,restaurant,34.0480971,-118.344857,US
+Lucio Sheet Metal,Lucio Sheet Metal,yes,34.0467303,-118.34538,US
+Universal Appliance and Kitchen Center,Universal Appliance and Kitchen Center,bathroom_furnishing,34.1429249,-118.3943675,US
+Shanghai Rose,Shanghai Rose,restaurant,34.1427409,-118.3945848,US
+The Coffee Bean,The Coffee Bean,cafe,34.1428386,-118.3945366,US
+Teru Sushi,Teru Sushi,restaurant,34.1431027,-118.3921226,US
+Studio Cafe,Studio Cafe,restaurant,34.1414667,-118.3874743,US
+La Vecchia Cucina,La Vecchia Cucina,restaurant,34.0012922,-118.4831006,US
+Solidarity,Solidarity,restaurant,34.0190477,-118.491143,US
+Fritto Misto,Fritto Misto,restaurant,34.015495,-118.4901507,US
+Lattitude Thai,Lattitude Thai,restaurant,34.0043291,-118.4731401,US
+Poom Thai,Poom Thai,restaurant,34.0101431,-118.4806164,US
+Sushi Hanashi,Sushi Hanashi,restaurant,34.0115909,-118.482404,US
+Ki Ra La Sushi,Ki Ra La Sushi,restaurant,34.0675759,-118.4090283,US
+La Dolce Vita,La Dolce Vita,restaurant,34.0674902,-118.4091621,US
+Roxbury Cafe,Roxbury Cafe,restaurant,34.0680931,-118.407235,US
+The Nosh,The Nosh,restaurant,34.0687419,-118.4073638,US
+Thai Vegan,Thai Vegan,restaurant,34.0654535,-118.412063,US
+Roni's,Roni's,restaurant,34.065338,-118.4122776,US
+"Urth Caffé -
+Melrose","Urth Caffé -
+Melrose",cafe,34.082072,-118.3788465,US
+Crustacean,Crustacean,restaurant,34.0692041,-118.4060978,US
+Modigliani Cafe,Modigliani Cafe,cafe,34.0677999,-118.4064089,US
+99 Cents Only Stores,99 Cents Only Stores,variety_store,34.0977284,-118.305009,US
+Tamarind Ave. Deli,Tamarind Ave. Deli,restaurant,34.0977573,-118.3191866,US
+Windsor Donuts,Windsor Donuts,cafe,34.0983059,-118.3061605,US
+Universal Hair Salon,Universal Hair Salon,hairdresser,34.0979305,-118.3058493,US
+Van Bakery,Van Bakery,bakery,34.0984634,-118.3075803,US
+EZ Lube,EZ Lube,car_repair,34.0983814,-118.3064059,US
+Ono Hawaiian BBQ,Ono Hawaiian BBQ,restaurant,34.0984014,-118.31057,US
+Shakey's,Shakey's,restaurant,34.0976962,-118.302913,US
+Cigarettes4Less,Cigarettes4Less,convenience,34.0985724,-118.3061042,US
+Delancey,Delancey,restaurant,34.0978329,-118.3192429,US
+JEM Motor Corp,JEM Motor Corp,car,34.0984602,-118.3128378,US
+Ocha,Ocha,restaurant,34.0984682,-118.3074293,US
+Jill's Paint,Jill's Paint,paint,34.1178587,-118.2602596,US
+ShowPro,ShowPro,rental,34.1167185,-118.252424,US
+Hans Gift Shop,Hans Gift Shop,gift,34.1148398,-118.2453653,US
+Shims Bargain,Shims Bargain,variety_store,34.1146489,-118.2451856,US
+Vince's Market,Vince's Market,supermarket,34.1139738,-118.253779,US
+Cafe Lovi,Cafe Lovi,cafe,34.0265784,-118.479159,US
+The California Endowment Courtyard Cafe,The California Endowment Courtyard Cafe,cafe,34.0593278,-118.2360282,US
+Uppers Cafe,Uppers Cafe,cafe,34.0278713,-118.477578,US
+Chez Jay,Chez Jay,restaurant,34.010464,-118.4932511,US
+Peet's Coffee,Peet's Coffee,cafe,34.0736918,-118.3233838,US
+Le Petit Greek,Le Petit Greek,restaurant,34.0739346,-118.3239126,US
+Kiku Sushi,Kiku Sushi,restaurant,34.0759119,-118.3233976,US
+Prado's,Great White,restaurant,34.0757609,-118.3233949,US
+La Bottega,La Bottega,restaurant,34.0747992,-118.3238854,US
+Sam's Bagels,Sam's Bagels,cafe,34.074537,-118.3233798,US
+Village Pizza,Village Pizza,restaurant,34.0740391,-118.3239099,US
+Smart & Final,Smart & Final,supermarket,34.0879126,-118.309646,US
+Sinful Pizza,Sinful Pizza,restaurant,34.1014426,-118.3280047,US
+Wurstküche,Wurstküche,restaurant,34.0455378,-118.2360081,US
+Covel Dining Hall,Covel Dining Hall,restaurant,34.0729383,-118.4500968,US
+Cafe 1919,Cafe 1919,restaurant,34.0726539,-118.4507834,US
+Rendezvous Restaurant,Rendezvous Restaurant,restaurant,34.0725866,-118.4518668,US
+Bruin Cafe,Bruin Cafe,cafe,34.072565,-118.4503114,US
+UCLA Hill Top Store,UCLA Hill Top Store,convenience,34.0723934,-118.4508935,US
+The Study at Hedrick,The Study at Hedrick,restaurant,34.0731693,-118.4523069,US
+De Neve Dining Hall,De Neve Dining Hall,restaurant,34.0704841,-118.4502655,US
+Seasnet Cafe,Seasnet Cafe,cafe,34.0692289,-118.4430217,US
+Kitchen 24,Kitchen 24,restaurant,34.1000867,-118.3293384,US
+Pinball Pizza,Pinball Pizza,restaurant,34.1733692,-118.3311095,US
+Rapid 14,Rapid 14,fuel,34.1716259,-118.334926,US
+Chili Johns,Chili Johns,restaurant,34.1800138,-118.3336458,US
+Office Depot,Office Depot,stationery,34.093717,-118.325951,US
+Go Burger,Go Burger,restaurant,34.0977995,-118.3264072,US
+Fox and he Hound,Fox and he Hound,restaurant,34.1410185,-118.3722425,US
+Sushi Dan,Sushi Dan,restaurant,34.140741,-118.3719957,US
+Auto World Broker,Auto World Broker,car,34.1413114,-118.250116,US
+Murakami Sushi,Murakami Sushi,restaurant,34.1020552,-118.3309347,US
+Barney's Beanery,Barney's Beanery,restaurant,34.0907823,-118.3746609,US
+Govinda's Buffet,Govinda's Buffet,restaurant,34.0252468,-118.3972169,US
+Bob's,Bob's,convenience,34.0288144,-118.4033159,US
+18 Minute Wash,18 Minute Wash,laundry,34.0309105,-118.4009484,US
+Star Mazda,Star Mazda,car,34.1281136,-118.255424,US
+Western Truck Exchange,Western Truck Exchange,car,33.9597739,-118.2815554,US
+Numero Uno Market,Numero Uno Market,supermarket,33.9598407,-118.2684904,US
+Pampa Furniture,Pampa Furniture,furniture,33.9585036,-118.2656794,US
+Happy Cleaners,Happy Cleaners,dry_cleaning,33.9598496,-118.2778942,US
+Mr. Ramen,Mr. Ramen,restaurant,34.0497124,-118.2396931,US
+Rakkan Ramen,Rakkan Ramen,restaurant,34.0495076,-118.239428,US
+Far Bar,Far Bar,restaurant,34.0496226,-118.2395849,US
+Korean BBQ House,Korean BBQ House,restaurant,34.0498115,-118.24218,US
+Anzen Hardware,Anzen Hardware,doityourself,34.0502826,-118.2405204,US
+Video Paradise,Video Paradise,video,34.0500826,-118.2402401,US
+Suehiro Cafe,Suehiro Cafe,restaurant,34.0498104,-118.2398257,US
+San Sui Tei,San Sui Tei,restaurant,34.050236,-118.2404477,US
+JiST Cafe,JiST Cafe,restaurant,34.0507644,-118.240384,US
+IS Fish Market,IS Fish Market,seafood,34.0395995,-118.2326029,US
+Comunity Made,Comunity Made,shoes,34.0389779,-118.232682,US
+C & J,C & J,fuel,34.06632,-118.2119621,US
+Northern Lights,Northern Lights,cafe,34.0744303,-118.4423483,US
+Untitled Café,Untitled Café,cafe,34.0759625,-118.440938,US
+Cafe 451,Cafe 451,cafe,34.0748497,-118.441283,US
+Jimmy's Coffee House,Jimmy's Coffee House,cafe,34.0737093,-118.4394346,US
+Bruin Buzz,Bruin Buzz,cafe,34.0701867,-118.4439673,US
+Sugarfish,Sugarfish,restaurant,34.0473499,-118.256999,US
+IHOP,IHOP,restaurant,34.0470446,-118.260069,US
+Roy's Hawaiian Fusion,Roy's Hawaiian Fusion,restaurant,34.0478055,-118.2611301,US
+The UPS Store,The UPS Store,copyshop,34.0460223,-118.261092,US
+Panini Cafe Downtown,Panini Cafe Downtown,restaurant,34.0450964,-118.2607358,US
+Vespa Sherman Oaks,Vespa Sherman Oaks,scooter,34.1480562,-118.4305459,US
+Time Warp Music,Time Warp Music,music,34.0046337,-118.4313078,US
+Mitsuwa Marketplace,Mitsuwa Marketplace,supermarket,34.0051047,-118.4335247,US
+LA Brakeless,LA Brakeless,bicycle,34.0043335,-118.4317439,US
+Bikerowave Co-op,Bikerowave Co-op,bicycle,34.004598,-118.4323256,US
+Outdoor Grill,Outdoor Grill,restaurant,33.9971067,-118.4345177,US
+Community,Community,restaurant,34.1089435,-118.2872848,US
+Yen Sushi & Sake Bar,Yen Sushi & Sake Bar,restaurant,34.1098336,-118.2879687,US
+Harari,Harari,clothes,34.0678269,-118.4047958,US
+A T Tramp,A T Tramp,hairdresser,34.0675092,-118.4052517,US
+Zankou Chicken,Zankou Chicken,restaurant,34.0984521,-118.300345,US
+DSW,DSW,shoes,33.9862626,-118.4413424,US
+C&O Cucina,C&O Cucina,restaurant,33.9893296,-118.4504778,US
+C& O Trattoria,C& O Trattoria,restaurant,33.9796583,-118.4661298,US
+Maxwell's,Maxwell's,restaurant,33.9929153,-118.4432696,US
+Nickel Diner,Nickel Diner,restaurant,34.0459981,-118.248945,US
+First Cup Caffe,First Cup Caffe,restaurant,34.049798,-118.2479742,US
+Edgebrook Cycle,Edgebrook Cycle,bicycle,41.9988654,-87.7634036,US
+DePaul University Bookstore,DePaul University Bookstore,books,41.9260172,-87.6534054,US
+Bubba Gump Shrimp Company,Bubba Gump Shrimp Company,restaurant,41.8914114,-87.6096584,US
+Pizano's Pizza & Pasta,Pizano's Pizza & Pasta,restaurant,41.8819751,-87.6256688,US
+Park Place Cafe,Park Place Cafe,cafe,41.9208448,-87.6332051,US
+Lou Malnati's Pizzeria,Lou Malnati's Pizzeria,restaurant,41.9291497,-87.6535647,US
+La Amistad,La Amistad,restaurant,41.9616342,-87.6766491,US
+Twin Anchors Restaurant & Tavern,Twin Anchors Restaurant & Tavern,restaurant,41.9127223,-87.638378,US
+Savor the Flavor,Savor the Flavor,cafe,41.9285344,-87.653374,US
+Broadway Bikes,Broadway Bikes,bicycle,41.9668568,-87.6581342,US
+Eleven City Diner,Eleven City Diner,restaurant,41.8686597,-87.6260919,US
+The Berghoff Restaurant,The Berghoff Restaurant,restaurant,41.8793454,-87.6284801,US
+R.H. Love Galleries,R.H. Love Galleries,art,41.8943532,-87.6265266,US
+Strange Cargo,Strange Cargo,clothes,41.9447179,-87.654773,US
+Nearly New Bikes,Nearly New Bikes,bicycle,41.9565248,-87.6516349,US
+Lakeshore Bike,Lakeshore Bike,bicycle,41.950567,-87.6432461,US
+Carniceria Guanajuato,Carniceria Guanajuato,supermarket,41.9387842,-87.6980674,US
+Beyond the Wall Posters & Frames,Beyond the Wall Posters & Frames,stationery,41.9397877,-87.6529294,US
+Centre Street Kitchen,Centre Street Kitchen,restaurant,41.9217489,-87.6593672,US
+Old Pueblo Cantina,Old Pueblo Cantina,restaurant,41.9217713,-87.658493,US
+La Canasta Grill,La Canasta Grill,restaurant,41.9215281,-87.6567394,US
+Corner Kitchen,Corner Kitchen,restaurant,41.9217238,-87.6647779,US
+Corner Cleaners,Corner Cleaners,dry_cleaning,41.9214945,-87.663048,US
+Mo's,Mo's,restaurant,41.9250697,-87.6625902,US
+Chicago's Discount Cleaner and Laundry,Chicago's Discount Cleaner and Laundry,dry_cleaning,41.9249188,-87.6615404,US
+Nail Fairy & Spa,Nail Fairy & Spa,beauty,41.925107,-87.6604844,US
+Royal Highness Zhu,Royal Highness Zhu,restaurant,41.9251336,-87.6592042,US
+Chicago Costume,Chicago Costume,costume,41.9254593,-87.6569769,US
+State Restaurant,State Restaurant,restaurant,41.9216551,-87.6525244,US
+Au Cheval,Au Cheval,restaurant,41.8846406,-87.6476069,US
+Golden Apple,Golden Apple,restaurant,41.9359674,-87.6632892,US
+The Shack,The Shack,electronics,41.9347795,-87.6680478,US
+Foremost Liquor,Foremost Liquor,alcohol,41.9363164,-87.6697805,US
+Peerless Imported Rugs,Peerless Imported Rugs,houseware,41.9369726,-87.6646324,US
+Rubin's Contemporary Furniture,Rubin's Contemporary Furniture,furniture,41.9372739,-87.665079,US
+Army Navy Sales,Army Navy Sales,military_surplus,41.9380405,-87.6666557,US
+Mona's Beauty Salon,Mona's Beauty Salon,beauty,41.9399619,-87.658528,US
+Giordano's Pizzeria,Giordano's Pizzeria,restaurant,41.940004,-87.6556831,US
+Fine Cleaners,Fine Cleaners,dry_cleaning,41.9377805,-87.6635984,US
+Ghareeb Nawaz,Ghareeb Nawaz,restaurant,41.9980101,-87.6815509,US
+Stella's Diner,Stella's Diner,restaurant,41.9377792,-87.6444705,US
+Drew's on Halsted,Drew's on Halsted,restaurant,41.9401147,-87.6491097,US
+Ann Sather,Ann Sather,restaurant,41.9437924,-87.6449641,US
+Kristoffer’s Cafe & Bakery,Kristoffer’s Cafe & Bakery,cafe,41.858146,-87.6464453,US
+Efebina's,Efebina's,cafe,41.8586987,-87.6606769,US
+San Soo Gab San,San Soo Gab San,restaurant,41.9775729,-87.688747,US
+Tre Kronor,Tre Kronor,restaurant,41.9758657,-87.7109515,US
+The Sweden Shop,The Sweden Shop,general,41.975858,-87.7113473,US
+La Fayette,La Fayette,pastry,41.9326717,-87.6434264,US
+Pj's Trick Shop,Pj's Trick Shop,hobby,41.947042,-87.702013,US
+Jake Melnick's Corner Tap,Jake Melnick's Corner Tap,restaurant,41.8955398,-87.6263496,US
+3550 Convenience Store,3550 Convenience Store,convenience,41.9483322,-87.6435225,US
+The New York Market,The New York Market,convenience,41.9496248,-87.6463764,US
+Kit Kat Club,Kit Kat Club,restaurant,41.9492876,-87.6497575,US
+Angelina's Italian Restaurant,Angelina's Italian Restaurant,restaurant,41.9471033,-87.6469665,US
+Eggsperience Pancakes & Cafe,Eggsperience Pancakes & Cafe,restaurant,41.9409507,-87.6441233,US
+Stan's Donuts & Coffee,Stan's Donuts & Coffee,cafe,41.942036,-87.6446812,US
+Ping Pong Asian-Thai,Ping Pong Asian-Thai,restaurant,41.9423073,-87.6446598,US
+Las Mananitas,Las Mananitas,restaurant,41.946246,-87.649292,US
+Savanna Restaurant,Savanna Restaurant,restaurant,41.9428145,-87.6494997,US
+Ino's Pizzeria,Ino's Pizzeria,restaurant,41.9904402,-87.6697339,US
+Huaraches Dona Chio,Huaraches Dona Chio,restaurant,41.9906854,-87.6694842,US
+Plymouth Court Cleaners,Plymouth Court Cleaners,dry_cleaning,41.875002,-87.6289641,US
+The Boeing Store,The Boeing Store,gift,41.8834414,-87.6386671,US
+Hairitics... Dye For Your Beliefs,Hairitics... Dye For Your Beliefs,hairdresser,41.9236884,-87.698871,US
+Furious Spoon - Logan Square,Furious Spoon - Logan Square,restaurant,41.924953,-87.700966,US
+Challengers Comics,Challengers Comics,books,41.915234,-87.687128,US
+Intelligentsia Coffee,Intelligentsia Coffee,cafe,41.8843548,-87.625863,US
+Bayan Ko Diner,Bayan Ko Diner,restaurant,41.9616363,-87.6753928,US
+Hazel,Hazel,houseware,41.9613575,-87.675741,US
+Chicago's Pizza,Chicago's Pizza,restaurant,41.9613426,-87.67683,US
+The Bad Apple,The Bad Apple,restaurant,41.959724,-87.6828837,US
+Best Buy Food & Liquor,Best Buy Food & Liquor,convenience,41.9616298,-87.6757086,US
+House of Wings,House of Wings,restaurant,41.9267484,-87.6409859,US
+Nine,Nine,restaurant,41.9251559,-87.6399232,US
+Tapas Restarurant/Bar,Tapas Restarurant/Bar,restaurant,41.9258684,-87.6408981,US
+Men's Wearhouse,Men's Wearhouse,clothes,41.8806059,-87.6283395,US
+JD Sports,JD Sports,sports,41.8816067,-87.6281389,US
+Nordstrom Rack,Nordstrom Rack,clothes,41.8828614,-87.6282788,US
+Burlington,Burlington,department_store,41.8823984,-87.6267731,US
+The Wild Goose Bar & Grill,The Wild Goose Bar & Grill,restaurant,41.9650343,-87.6864001,US
+Marmalade,Marmalade,restaurant,41.9613167,-87.6787734,US
+Il Milanese,Il Milanese,restaurant,41.9612699,-87.6839876,US
+Yojimbo's Garage,Yojimbo's Garage,bicycle,41.9058613,-87.6426888,US
+Metropolis Coffee,Metropolis Coffee,cafe,41.994444,-87.6572866,US
+Chicagoland Games Dice Dojo,Chicagoland Games Dice Dojo,games,41.9832846,-87.6603147,US
+Nick's Fishmarket Grill,Nick's Fishmarket Grill,restaurant,41.8889423,-87.6357074,US
+Pizza Art Cafe,Pizza Art Cafe,restaurant,41.9665156,-87.6938722,US
+Daily Bar and Grill,Daily Bar and Grill,restaurant,41.9648032,-87.6862189,US
+Essence of India,Essence of India,restaurant,41.9650425,-87.6860231,US
+Willow Cafe and Bistro,Willow Cafe and Bistro,restaurant,41.9674616,-87.687611,US
+Gideon Welles,Gideon Welles,restaurant,41.9633493,-87.6853445,US
+Bloop Bloop,Bloop Bloop,restaurant,41.9612731,-87.6840759,US
+Mariano's Fresh Market,Mariano's Fresh Market,supermarket,41.8854048,-87.6189659,US
+Tip Top Liquor,Tip Top Liquor,alcohol,41.9104239,-87.6947656,US
+Municipal Market,Municipal Market,supermarket,41.9027801,-87.691589,US
+Belly Shack,Belly Shack,restaurant,41.9162779,-87.6876159,US
+Milwaukee Dollar Plus,Milwaukee Dollar Plus,convenience,41.9169223,-87.6878216,US
+Ciclo Urbano,Ciclo Urbano,bicycle,41.9028324,-87.6893216,US
+Little Beans,Little Beans,cafe,41.9211995,-87.6730944,US
+The Goddess and Grocer,The Goddess and Grocer,restaurant,41.9220517,-87.6734351,US
+Bucktown Beanery,Bucktown Beanery,cafe,41.9212295,-87.6779251,US
+Soul del Sur,Soul del Sur,restaurant,41.9175173,-87.7092157,US
+South Loop Market,South Loop Market,convenience,41.8767318,-87.6347531,US
+PL$ Check Cashee,PL$ Check Cashee,money_lender,41.8674807,-87.6419936,US
+Bayan Ko,Bayan Ko,restaurant,41.9616405,-87.6749182,US
+The Perfect Cup,The Perfect Cup,cafe,41.9670666,-87.679341,US
+Jason's Deli,Jason's Deli,restaurant,41.8854801,-87.6293303,US
+Affinity Optical,Affinity Optical,optician,41.9534052,-87.7891349,US
+Jewel-Osco,Jewel-Osco,supermarket,41.9539684,-87.787687,US
+A's Restaurant & Pancake House,A's Restaurant & Pancake House,restaurant,41.9530925,-87.7863654,US
+Idea,Idea,furniture,41.9526669,-87.7906167,US
+Timothy O’Toole’s Pub,Timothy O’Toole’s Pub,restaurant,41.8932428,-87.6204681,US
+Ametric Supply Co.,Ametric Supply Co.,doityourself,41.9265674,-87.6710443,US
+Hyde Park Produce,Hyde Park Produce,greengrocer,41.8000239,-87.595493,US
+Sultan's Market,Sultan's Market,restaurant,41.9103339,-87.6797489,US
+Intelligentsia,Intelligentsia,cafe,41.9382563,-87.6441813,US
+Tel Aviv Kosher Bakery,Tel Aviv Kosher Bakery,bakery,41.9976152,-87.7039187,US
+IIT Campus Bookstore,IIT Campus Bookstore,books,41.8354827,-87.6255545,US
+IIT Campus Business Center,IIT Campus Business Center,copyshop,41.8360538,-87.6258309,US
+Pazzo's,Pazzo's,restaurant,41.877514,-87.6354221,US
+Tio Luis,Tio Luis,restaurant,41.8238296,-87.6887021,US
+Jack & Ginger's,Jack & Ginger's,restaurant,41.9178252,-87.6795216,US
+Le Bouchon,Le Bouchon,restaurant,41.9175667,-87.677763,US
+Milk and Honey Cafe,Milk and Honey Cafe,restaurant,41.9033721,-87.6757581,US
+Cafe Bella,Cafe Bella,cafe,41.9244862,-87.7112831,US
+Cafe Con Leche,Cafe Con Leche,bakery,41.930398,-87.7098277,US
+El Cid #2,El Cid #2,restaurant,41.929754,-87.7072267,US
+Lula Cafe,Lula Cafe,restaurant,41.9276815,-87.7068011,US
+New Wave Coffee,New Wave Coffee,cafe,41.9279155,-87.7051197,US
+Red Star Liquor,Red Star Liquor,convenience,41.9307373,-87.7099241,US
+CB2,CB2,furniture,41.9111678,-87.6486073,US
+Rayan's Discount Liquor,Rayan's Discount Liquor,alcohol,41.9617401,-87.6690255,US
+Urban Vegan,Urban Vegan,restaurant,41.9614679,-87.6694841,US
+Munno Pizzeria & Bistro,Munno Pizzeria & Bistro,restaurant,41.9669268,-87.6672606,US
+Rayan's Liquors,Rayan's Liquors,alcohol,41.9651346,-87.6665283,US
+Fin,Fin,restaurant,41.9653337,-87.6727215,US
+Tobacco Land,Tobacco Land,tobacco,41.9199074,-87.7167087,US
+Piece Brewery & Pizzeria,Piece Brewery & Pizzeria,restaurant,41.9102937,-87.6760621,US
+Disco City #8,Disco City #8,music,41.9294676,-87.7083201,US
+Torres-Omar Jewelry,Torres-Omar Jewelry,jewelry,41.9293758,-87.7081859,US
+Armitage Bike Shop,Armitage Bike Shop,bicycle,41.9171521,-87.7169142,US
+Nuevo Estilo,Nuevo Estilo,hairdresser,41.9241779,-87.7269028,US
+Celeste's Flower Shop,Celeste's Flower Shop,florist,41.9243485,-87.7251824,US
+Burrito Joint,Burrito Joint,restaurant,41.9243305,-87.7259629,US
+Marie's Bakery,Marie's Bakery,bakery,41.9243121,-87.723735,US
+Ecuador Fashion,Ecuador Fashion,clothes,41.9243713,-87.7239671,US
+Dulce Landia,Dulce Landia,confectionery,41.9243633,-87.7241012,US
+Jaber Dollar Store,Jaber Dollar Store,variety_store,41.9247143,-87.7217291,US
+Fantasticos Tuxedo Rental,Fantasticos Tuxedo Rental,clothes,41.9243908,-87.7215411,US
+Lina's Beauty Salon,Lina's Beauty Salon,hairdresser,41.9243709,-87.7223082,US
+Dollar Day Plus,Dollar Day Plus,variety_store,41.9243509,-87.7225391,US
+Blue Island Variety Discount Center,Blue Island Variety Discount Center,variety_store,41.9243469,-87.7228017,US
+Dona Maris Carniceria y Fruteria,Dona Maris Carniceria y Fruteria,greengrocer,41.9244028,-87.7217288,US
+Cafe Marie-Jeanne,Cafe Marie-Jeanne,cafe,41.8994033,-87.6965093,US
+Shokolad,Shokolad,restaurant,41.8958438,-87.6904051,US
+Puerto Rico Food and Liquors,Puerto Rico Food and Liquors,convenience,41.8992231,-87.6917185,US
+Cafe Jumping Bean,Cafe Jumping Bean,cafe,41.8577238,-87.6628124,US
+Market Creations,Market Creations,restaurant,41.8846515,-87.6237671,US
+Wildberry Pancakes and Cafe,Wildberry Pancakes and Cafe,restaurant,41.8846784,-87.6228175,US
+Hilltop,Hilltop,restaurant,41.9759646,-87.6991354,US
+The Cheesecake Factory,The Cheesecake Factory,restaurant,41.8986955,-87.6236895,US
+Athleta,Athleta,clothes,41.9439341,-87.6637313,US
+Noodles & Company,Noodles & Company,restaurant,41.9440434,-87.66374,US
+J.Crew,J.Crew,clothes,41.9442005,-87.6637677,US
+Indira Aveda Salon Spa,Indira Aveda Salon Spa,hairdresser,41.9444486,-87.6637827,US
+Kinzie Chophouse,Kinzie Chophouse,restaurant,41.8892942,-87.6341972,US
+Chicago Cut Steakhouse,Chicago Cut Steakhouse,restaurant,41.8881786,-87.6333711,US
+Sandwich Me In,Sandwich Me In,restaurant,41.9374071,-87.6484086,US
+India House,India House,restaurant,41.891439,-87.630394,US
+First Slice,First Slice,cafe,41.9662621,-87.7013037,US
+La Palapa Mariscos,La Palapa Mariscos,restaurant,41.8324359,-87.6755413,US
+Cermak Fresh Market,Cermak Fresh Market,supermarket,41.831001,-87.6761045,US
+Bridgeport Coffeehouse,Bridgeport Coffeehouse,cafe,41.8378637,-87.6509776,US
+Summer,Summer,restaurant,41.9944249,-87.6594092,US
+Revival Social Club,Revival Social Club,restaurant,41.9944467,-87.6596921,US
+Gino's North,Gino's North,restaurant,41.9944085,-87.6589707,US
+Pete's Pizza,Pete's Pizza,restaurant,41.9946955,-87.65852,US
+Resale - Second Hand etc,Resale - Second Hand etc,charity,41.9958242,-87.6601522,US
+Minas,Minas,hifi,41.9938646,-87.6698471,US
+Prosecco,Prosecco,restaurant,41.8952165,-87.6344593,US
+Terzo Piano,Terzo Piano,restaurant,41.8800158,-87.6223457,US
+Salam,Salam,restaurant,41.965757,-87.708734,US
+The Monkey's Paw,The Monkey's Paw,restaurant,41.9278273,-87.6636143,US
+The Coffee Studio,The Coffee Studio,cafe,41.9842875,-87.6691213,US
+Greek Islands,Greek Islands,restaurant,41.8789853,-87.6475092,US
+Kabuki,Kabuki,restaurant,41.9275472,-87.6414714,US
+Johnny Sprockets,Johnny Sprockets,bicycle,41.9388826,-87.644646,US
+Beer Temple,Beer Temple,alcohol,41.9386662,-87.6970303,US
+Familia Foods,Familia Foods,convenience,41.9207455,-87.7220043,US
+Lyndale Foods,Lyndale Foods,convenience,41.9219439,-87.7216704,US
+Taza,Taza,restaurant,41.8853746,-87.6355874,US
+Lawrence Fish Market,Lawrence Fish Market,restaurant,41.968419,-87.7249501,US
+Marshalls,Marshalls,department_store,41.9266413,-87.7881863,US
+Tata's Tacos,Tata's Tacos,restaurant,41.9531743,-87.7510333,US
+Las Tablas,Las Tablas,restaurant,41.9535803,-87.7508294,US
+Lorch Bros. Flowers,Lorch Bros. Flowers,florist,41.9535799,-87.7512357,US
+LaPorte Landromat,LaPorte Landromat,laundry,41.9535789,-87.7514021,US
+Singer,Singer,sewing,41.9535459,-87.7504558,US
+Hong Kong Restaurant,Hong Kong Restaurant,restaurant,41.9518201,-87.747461,US
+Aldi,Aldi,supermarket,41.8033885,-87.7057244,US
+"Al Khyam Grocery, Bakery & Restaurant","Al Khyam Grocery, Bakery & Restaurant",bakery,41.9678192,-87.7086592,US
+Blanz Pantry,Blanz Pantry,convenience,41.9657014,-87.7087511,US
+Village Thrift Store,Village Thrift Store,second_hand,41.9550083,-87.7077284,US
+The Coffee & Tea Exchange,The Coffee & Tea Exchange,cafe,41.9423948,-87.6442641,US
+Aroy Thai,Aroy Thai,restaurant,41.9667045,-87.6793194,US
+Joy's Noodles & Rice,Joy's Noodles & Rice,restaurant,41.9426831,-87.6443288,US
+Binny's Beverage Depot,Binny's Beverage Depot,alcohol,41.9367784,-87.6484542,US
+EaThai,EaThai,restaurant,41.9339805,-87.7072158,US
+Staropolska Restaurant,Staropolska Restaurant,restaurant,41.936156,-87.7193663,US
+J. C. Lind Bike Co.,J. C. Lind Bike Co.,bicycle,41.906099,-87.6343264,US
+Eggy's,Eggy's,restaurant,41.8854088,-87.6188393,US
+Bockwinkel's,Bockwinkel's,supermarket,41.8866379,-87.6221064,US
+Petco,Petco,pet,41.9376345,-87.6499079,US
+Green Grocer,Green Grocer,convenience,41.8911786,-87.6625356,US
+Hala In,Hala In,restaurant,41.9681805,-87.7439556,US
+Speedline Auto Service,Speedline Auto Service,car_repair,41.9774066,-87.6796305,US
+Miller’s Pub,Miller’s Pub,restaurant,41.8798242,-87.62636,US
+Middle East Bakery & Grocery,Middle East Bakery & Grocery,convenience,41.9762948,-87.668909,US
+Taste of Lebanon,Taste of Lebanon,restaurant,41.9760684,-87.6688893,US
+Andersonville Wine & Spirits,Andersonville Wine & Spirits,alcohol,41.9763065,-87.6682585,US
+Chicago Flower Company,Chicago Flower Company,florist,41.9175731,-87.6674863,US
+Daffodils,Daffodils,florist,41.9176669,-87.6765361,US
+Pistil & Vine,Pistil & Vine,florist,41.9166729,-87.6777511,US
+Asrai Garden,Asrai Garden,florist,41.9103729,-87.6764344,US
+Olivia's Market,Olivia's Market,convenience,41.9123956,-87.6781186,US
+Club Lucky,Club Lucky,restaurant,41.9124814,-87.6737117,US
+Bucktown Market,Bucktown Market,convenience,41.9124994,-87.6724672,US
+Lucia’s Gourmet Italian Cuisine,Lucia’s Gourmet Italian Cuisine,restaurant,41.9104118,-87.6736316,US
+Lillstreet Gallery & Artisan Gift Shop,Lillstreet Gallery & Artisan Gift Shop,gift,41.961704,-87.6733552,US
+Graham Crackers Comics,Graham Crackers Comics,books,41.8819857,-87.6249638,US
+Caffè Oliva,Caffè Oliva,restaurant,41.893123,-87.6128059,US
+Mint Ventures,Mint Ventures,cannabis,41.8862099,-87.641136,US
+Pete's Market,Pete's Market,supermarket,41.807559,-87.7053678,US
+Molly’s Cupcakes,Molly’s Cupcakes,cafe,41.8677461,-87.626052,US
+Sweet Bean,Sweet Bean,cafe,41.8676519,-87.6260638,US
+Yolk - South Loop,Yolk - South Loop,restaurant,41.8688255,-87.6245382,US
+Glazed and Infused,Glazed and Infused,bakery,41.8991079,-87.621583,US
+Joy Yee Noodle,Joy Yee Noodle,restaurant,41.8643963,-87.6466498,US
+Apple Bite Liquor,Apple Bite Liquor,supermarket,41.9353779,-87.6440766,US
+Fat Lee Supermarket,Fat Lee Supermarket,supermarket,41.8439368,-87.6327227,US
+Cafe 333,Cafe 333,restaurant,41.8863143,-87.635621,US
+Goodwin's,Goodwin's,restaurant,41.8858838,-87.6360264,US
+Brü Chicago,Brü Chicago,restaurant,41.9098468,-87.6768908,US
+Dirty Tiff's Cafe,Dirty Tiff's Cafe,restaurant,41.8091967,-87.6200842,US
+Ross,Ross,department_store,41.9243884,-87.7896029,US
+Pat's Pizzeria,Pat's Pizzeria,restaurant,41.9307707,-87.655881,US
+Foot Smile Spa,Foot Smile Spa,massage,41.9250475,-87.66639,US
+Hoosier Mama Pie Company,Hoosier Mama Pie Company,bakery,41.8962266,-87.6681081,US
+Fleur,Fleur,florist,41.9299757,-87.7086379,US
+Heritage General Store,Heritage General Store,bicycle,41.9356951,-87.6628628,US
+Mildblend Supply Co.,Mildblend Supply Co.,clothes,41.9060858,-87.6710198,US
+Waxman Candles,Waxman Candles,candles,41.9370564,-87.665248,US
+Hair Cuttery,Hair Cuttery,hairdresser,41.8687029,-87.6272613,US
+Kriser's,Kriser's,pet,41.8691326,-87.6272575,US
+American Eagle Outfitters,American Eagle Outfitters,clothes,41.9110306,-87.6537514,US
+Wells Cleaners,Wells Cleaners,tailor,41.9125606,-87.6345806,US
+Topo Gigio Ristorante,Topo Gigio Ristorante,restaurant,41.9096394,-87.6348401,US
+Turin Bicycle,Turin Bicycle,bicycle,41.9673233,-87.6793313,US
+INail,INail,beauty,41.8161097,-87.6438351,US
+Bravo Food and Liquor,Bravo Food and Liquor,alcohol,41.8160833,-87.6415862,US
+Joe's Barbershop,Joe's Barbershop,hairdresser,41.8161269,-87.6425955,US
+Basil Leaf,Basil Leaf,restaurant,41.9272981,-87.6413164,US
+Firecakes Donuts,Firecakes Donuts,cafe,41.9270011,-87.6411338,US
+Rocco Ranalli's,Rocco Ranalli's,restaurant,41.9172647,-87.6370796,US
+Smart Bike Parts,Smart Bike Parts,bicycle,41.917305,-87.703584,US
+Mammoth Poke & Ramen,Mammoth Poke & Ramen,restaurant,41.8856398,-87.6258796,US
+Gordon's Maple Ace Hardware,Gordon's Maple Ace Hardware,doityourself,41.9019848,-87.6293228,US
+Vas Foremost Liquors,Vas Foremost Liquors,alcohol,41.9229167,-87.6976011,US
+Gaslight Coffee Roasters,Gaslight Coffee Roasters,cafe,41.924632,-87.699928,US
+West Town Bikes,West Town Bikes,bicycle,41.9026772,-87.6893228,US
+Boriken,Boriken,alcohol,41.903156,-87.689628,US
+Design Within Reach,Design Within Reach,furniture,41.9106611,-87.6480906,US
+Backcountry,Backcountry,outdoor,41.9100457,-87.6536727,US
+Hoohobbers: Innovations for Children,Hoohobbers: Innovations for Children,baby_goods,41.912107,-87.66299,US
+Visionworks,Visionworks,optician,41.8683746,-87.6387767,US
+PetSmart,PetSmart,pet,41.8686902,-87.6385139,US
+Taqueria Traspasada,Taqueria Traspasada,restaurant,41.9389697,-87.6979732,US
+Alexander’s Restaurant,Alexander’s Restaurant,restaurant,41.9611893,-87.688453,US
+Arbre,Arbre,yes,41.9051881,-87.6347146,US
+Grill Room,Grill Room,restaurant,41.8806134,-87.6286511,US
+Essential Nail Spa,Essential Nail Spa,beauty,41.9223074,-87.6386625,US
+Taqueria Moran,Taqueria Moran,restaurant,41.922552,-87.697519,US
+Gordon's Ace Hardware - Orleans,Gordon's Ace Hardware - Orleans,doityourself,41.8902382,-87.637207,US
+Eppy's Deli,Eppy's Deli,restaurant,41.8849897,-87.6355762,US
+Naansense,Naansense,restaurant,41.885424,-87.6355896,US

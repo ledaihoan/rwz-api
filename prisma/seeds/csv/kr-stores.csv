@@ -1,0 +1,822 @@
+name,name_en,service_type,lat,lng,country_code
+필샵,Philshop,bicycle,37.5616302,127.0822092,KR
+한강문고,Han-Gang Bookstore,books,37.559409,126.9068447,KR
+kill,kill,cafe,37.59105,127.01221,KR
+샐위치,샐위치,cafe,37.56572,127.0709,KR
+세븐일레븐,Seven Eleven,convenience,37.50911,126.87849,KR
+바다공원,Bada Park,restaurant,37.522106,126.887794,KR
+동강나루터,동강나루터,restaurant,37.5582597,126.9729767,KR
+다비치안경,다비치안경,optician,37.4855286,126.9952827,KR
+하나로마트,Dong Seoul Nonghyup hanaro market,supermarket,37.601073,127.105612,KR
+합정마트,Hapjeong Mart,supermarket,37.5482413,126.913275,KR
+현대마트,Hyeondae Mart,supermarket,37.555781,127.136952,KR
+도영마트,Doyeong Mart,supermarket,37.600775,126.916971,KR
+정할인마트 이경시장,Igyeong Mart,supermarket,37.5944761,127.0662236,KR
+아이엠마트,Aiem Mart,supermarket,37.526554,126.898005,KR
+미도파마트,Midopa Mart,supermarket,37.483165,126.904929,KR
+우리들마트,Urideul Mart,supermarket,37.512694,126.938334,KR
+럭키할인마트,Reokki Retail Shop,supermarket,37.5276945,126.9995597,KR
+동원할인마트,Dongwon Retail Shop,supermarket,37.5902966,127.0926805,KR
+하나우리마트,Hanauri Mart,supermarket,37.5245151,126.9962099,KR
+제일할인마트,Jeil Retail Shop,supermarket,37.597799,126.962984,KR
+서경할인마트,Seogyeong Retail Shop,supermarket,37.608239,127.015113,KR
+우성할인마트,Useong Retail Shop,supermarket,37.543229,127.13102,KR
+삼보할인마트,Sambo Retail Shop,supermarket,37.548761,126.850053,KR
+문정할인마트,Munjeong Retail Shop,supermarket,37.493626,127.13294,KR
+매일마트,Maeil Mart,supermarket,37.554642,127.148998,KR
+가락농산물마트,Garangnongsanmul Mart,supermarket,37.598896,127.080212,KR
+새천년할인마트,Saecheonnyeon Retail Shop,supermarket,37.4636426,126.9014089,KR
+(주)신세계마트,Sinsegye Mart,supermarket,37.516715,127.105317,KR
+일화할인마트,Ilhwa Retail Shop,supermarket,37.549314,126.851323,KR
+다산마트,Dasan Mart,supermarket,37.512934,127.109344,KR
+강서농협 하나로마트,Gangseo National Agricultural Cooperative Federation Hanaro Mart,supermarket,37.5767656,126.8122007,KR
+대한마트,Daehan Mart,supermarket,37.535255,126.827402,KR
+벅스마트,Beokseu Mart,supermarket,37.602726,126.920499,KR
+배드민턴마트,Baedeuminteon Mart,supermarket,37.601879,126.91555,KR
+153안경마트;신도림동.구로역(중),153 Angyeong Mart;Sindorimdong.Guro Station,supermarket,37.5054489,126.8831901,KR
+한길마트,Hangil Mart,supermarket,37.561155,127.153644,KR
+한솔마트,Hansol Mart,supermarket,37.549054,126.873952,KR
+케이마트,Kei Mart,supermarket,37.5991947,127.1038835,KR
+세림무지개마트,Serimmujigae Mart,supermarket,37.564977,127.04498,KR
+대신동 그린마트,Daesindong Green Mart,supermarket,37.5675472,126.9464865,KR
+오케이할인마트,OK Retail Shop,supermarket,37.495572,126.953438,KR
+현대종합마트,Hyeondaejonghap Mart,supermarket,37.555721,126.897724,KR
+이지마트,Iji Mart,supermarket,37.5337265,126.9597755,KR
+피자마트,Pija Mart,supermarket,37.539278,126.834152,KR
+바코드마트,바코드마트,supermarket,37.483652,126.895265,KR
+동양트래블마트,Dongyangteuraebeul Mart,supermarket,37.5570614,126.9554539,KR
+씨마트,Ssi Mart,supermarket,37.636889,127.012345,KR
+신세계이마트,Shinsegae EMart,supermarket,37.5398806,127.0529605,KR
+대부마트,Daebu Mart,supermarket,37.6398,127.015627,KR
+스페셜마트,Seupesyeol Mart,supermarket,37.539194,126.959348,KR
+에어컨마트,Eeokeon Mart,supermarket,37.570554,126.930212,KR
+아이사랑안경마트,Aisarangangyeong Mart,supermarket,37.639696,127.074044,KR
+에어마트,Eeo Mart,supermarket,37.493995,127.01546,KR
+유기올마트,Yugiol Mart,supermarket,37.480273,126.907923,KR
+댄스마트,Daenseu Mart,supermarket,37.4842174,127.0107727,KR
+부동산마트,Budongsan Mart,supermarket,37.500937,127.024497,KR
+벼룩중고마트,Byeorukjunggo Mart,supermarket,37.476667,126.97523,KR
+참사랑건강마트,Chamsaranggeongang Mart,supermarket,37.626024,127.071517,KR
+모노마트,Mono Mart,supermarket,37.499761,127.089526,KR
+수미트마트,Sumiteu Mart,supermarket,37.635557,127.042039,KR
+테스터마트,Teseuteo Mart,supermarket,37.545415,126.846992,KR
+엠디마트,Emdi Mart,supermarket,37.530762,126.856258,KR
+인터넷마트,Inteonet Mart,supermarket,37.533966,126.963347,KR
+대화마트,Daehwa Mart,supermarket,37.5633527,126.9252941,KR
+카마트,Car Mart,supermarket,37.559722,127.066204,KR
+우드마트,Udeu Mart,supermarket,37.592193,127.084994,KR
+아줌마트,Ajum Mart,supermarket,37.533621,126.954865,KR
+자연애할인마트,Jayeonae Retail Shop,supermarket,37.60768,126.911343,KR
+건어물마트,Geoneomul Mart,supermarket,37.549738,127.13872,KR
+텍스마트,Tekseu Mart,supermarket,37.565528,127.06766,KR
+사이버마트,Cyber Mart,supermarket,37.608391,127.030244,KR
+웰리스패션마트,Welliseupaesyeon Mart,supermarket,37.5492699,127.0709024,KR
+타올마트,Taol Mart,supermarket,37.541699,127.09171,KR
+UPC마트,UPC Mart,supermarket,37.534112,126.962496,KR
+휴플레이스 천호화장품마트,Hyupeulleiseu Cheonhohwajangpum Mart,supermarket,37.538229,127.126325,KR
+e라벨마트,e Rabel Mart,supermarket,37.484491,126.894405,KR
+코사마트,Kosa Mart,supermarket,37.573458,127.022024,KR
+가나종합마트,Ganajonghap Mart,supermarket,37.631952,127.022155,KR
+농협쌀마트,National Agricultural Cooperative Federation Ssal Mart,supermarket,37.541624,126.842659,KR
+가나안할인마트,Ganaan Retail Shop,supermarket,37.456337,126.901805,KR
+그랜드씨마트,Grand Ssi Mart,supermarket,37.55068,127.13451,KR
+플러스마트,Peulleoseu Mart,supermarket,37.5376486,126.951702,KR
+현대할인마트,Hyeondae Retail Shop,supermarket,37.585451,127.01752,KR
+케이씨씨마트,Keississi Mart,supermarket,37.540204,127.141172,KR
+문구마트,Mungu Mart,supermarket,37.612078,126.9193087,KR
+티나마트,Tina Mart,supermarket,37.560252,126.845643,KR
+판촉물마트,Panchongmul Mart,supermarket,37.581356,127.054656,KR
+무지개마트,Mujigae Mart,supermarket,37.562765,127.038827,KR
+아울렛 디씨 마트,Aullet Dissi Mart,supermarket,37.518311,126.842578,KR
+인테리어디씨마트,Interieodissi Mart,supermarket,37.493681,126.903928,KR
+도원세일마트,Dowonseil Mart,supermarket,37.535154,126.8528827,KR
+근영마트,Geunyeong Mart,supermarket,37.500341,127.100456,KR
+가구마트,Gagu Mart,supermarket,37.590492,126.941761,KR
+롯데마트,Lotte Mart,supermarket,37.491756,127.117738,KR
+그린마트,Green Mart,supermarket,37.585486,127.020633,KR
+키폰마트,Kipon Mart,supermarket,37.514859,127.10767,KR
+네일마트,Neil Mart,supermarket,37.560149,126.97633,KR
+펫토이 애완동물마트,Pettoi Aewan Animal Mart,supermarket,37.533512,127.001611,KR
+코리아마트,Korea Mart,supermarket,37.5416298,127.0495327,KR
+디디엘마트,Didiel Mart,supermarket,37.557834,127.086342,KR
+오케이마트,OK Mart,supermarket,37.620652,127.081723,KR
+화로마트,Hwaro Mart,supermarket,37.54293,126.843556,KR
+디비마트,Dibi Mart,supermarket,37.642793,127.028812,KR
+하나인쇄 명함할인마트,Hanainswae Myeongham Retail Shop,supermarket,37.588479,127.087191,KR
+제노마트,Jeno Mart,supermarket,37.505003,127.022544,KR
+드럼마트,Deureom Mart,supermarket,37.572593,126.987731,KR
+플라워마트,Flower Mart,supermarket,37.460041,127.04862,KR
+우주마트,Uju Mart,supermarket,37.5355315,127.0960134,KR
+부광미용할인마트,Bugwangmiyong Retail Shop,supermarket,37.500064,127.137141,KR
+자전거마트,Jajeongeo Mart,supermarket,37.532297,127.123485,KR
+비데마트,Bide Mart,supermarket,37.494567,126.990254,KR
+한양 벽지마트,Hanyang Byeokji Mart,supermarket,37.518326,126.875002,KR
+랜스마트,Raenseu Mart,supermarket,37.533701,126.959797,KR
+정수기마트,Jeongsugi Mart,supermarket,37.638535,127.018374,KR
+분유마트,Bunyu Mart,supermarket,37.536769,126.94905,KR
+타운마트,Town Mart,supermarket,37.525185,126.859127,KR
+로얄비데마트,Royalbide Mart,supermarket,37.494557,126.9902694,KR
+스카이마트,Sky Mart,supermarket,37.611078,127.006626,KR
+베스트DC아울렛,Best DC Outlet,supermarket,37.4820862,126.9425321,KR
+고려자판기할인마트,Goryeojapangi Retail Shop,supermarket,37.501397,127.100783,KR
+보일러할인마트,Boilleo Retail Shop,supermarket,37.61291,126.923535,KR
+헬스디씨마트,Health DC Mart,supermarket,37.557363,127.028404,KR
+파워마트,Pawo Mart,supermarket,37.630759,127.022895,KR
+차이나마트,Chaina Mart,supermarket,37.529356,126.857196,KR
+신도림열쇠마트,Sindorimyeolsoe Mart,supermarket,37.511287,126.884361,KR
+정진가전마트,Jeongjingajeon Mart,supermarket,37.5357242,127.0955272,KR
+용산마트,Yongsan Mart,supermarket,37.534112,126.961466,KR
+웅진코웨이 마트,Ungjinkowei Mart,supermarket,37.572817,126.997102,KR
+제사마트,Jesa Mart,supermarket,37.484312,127.127348,KR
+현대이삿짐마트,Hyeondaeisasjim Mart,supermarket,37.4985,126.931195,KR
+동양마트,Dongyang Mart,supermarket,37.5172446,126.8882347,KR
+판촉물쇼핑마트,Panchongmul Shopping Mart,supermarket,37.643046,127.026746,KR
+기성키친마트,Giseongkichin Mart,supermarket,37.566555,127.003628,KR
+퓨마마트,Pyuma Mart,supermarket,37.506944,127.018548,KR
+크리스탈마트,Crystal Mart,supermarket,37.5671442,126.9909779,KR
+웨딩마트,Weding Mart,supermarket,37.575118,127.002755,KR
+중고마트,Junggo Mart,supermarket,37.494688,126.961559,KR
+청첩장마트,Cheongcheopjang Mart,supermarket,37.647155,127.033277,KR
+삼성테마트,Samseongte Mart,supermarket,37.534013,126.950288,KR
+성인마트,Seongin Mart,supermarket,37.476856,126.903755,KR
+가야마트,Gaya Mart,supermarket,37.6055607,127.0240179,KR
+홍삼마트,Hongsam Mart,supermarket,37.486519,126.948814,KR
+CU,CU,convenience,37.481003,126.914787,KR
+중앙마트,Jungang Mart,supermarket,37.553271,126.866384,KR
+그린식자재마트,Green Sikjajae Mart,supermarket,37.520134,126.854033,KR
+우리건강마트,Urigeongang Mart,supermarket,37.523521,126.842735,KR
+세븐일레븐,7-Eleven,convenience,37.5223568,126.8582812,KR
+백산식자재마트,Baeksansikjajae Mart,supermarket,37.576282,126.904282,KR
+효석마트,Hyoseok Mart,supermarket,37.518964,126.831175,KR
+리치마트,Richi Mart,supermarket,37.531762,127.140239,KR
+하나마트,Hana Mart,supermarket,37.5525796,126.8530766,KR
+원흥마트,Wonheung Mart,supermarket,37.618399,126.923717,KR
+럭키마트,Reokki Mart,supermarket,37.5418156,126.8414879,KR
+화랑마트,Hwarang Mart,supermarket,37.489329,126.825123,KR
+할인마트,Retail Shop,supermarket,37.45405,126.889551,KR
+해피마트,Haepi Mart,supermarket,37.571302,127.00018,KR
+보물마트,Bomul Mart,supermarket,37.45041,126.909905,KR
+신원마트,Sinwon Mart,supermarket,37.4992436,126.8635954,KR
+성신마트,Seongsin Mart,supermarket,37.522664,126.833494,KR
+프라임마트,Prime Mart,supermarket,37.571481,126.844791,KR
+플러스마트,Plus Mart,supermarket,37.492351,126.843747,KR
+케이,K)마트 (Kei (K) Mart,supermarket,37.48504,126.994204,KR
+우리할인마트,Uri Retail Shop,supermarket,37.635526,127.040385,KR
+피에스홈마트,PS Home Mart,supermarket,37.5735297,127.0113127,KR
+거여할인마트,Geoyeo Retail Shop,supermarket,37.4918517,127.1441947,KR
+하임마트,Haim Mart,supermarket,37.565905,127.020697,KR
+제일마트,Jeil Mart,supermarket,37.5586735,127.0737913,KR
+이수마트,Isu Mart,supermarket,37.5844904,127.0372948,KR
+와봐유K마트,Wabwayu K Mart,supermarket,37.474585,126.915491,KR
+구구마트,Gugu Mart,supermarket,37.668473,127.03189,KR
+365마트,365 Mart,supermarket,37.618553,126.932698,KR
+은평마트,Eunpyeong Mart,supermarket,37.5601649,126.9300518,KR
+오금농산물해피마트,Ogeumnongsanmulhaepi Mart,supermarket,37.502121,127.133701,KR
+윤경마트,Yungyeong Mart,supermarket,37.546306,126.939341,KR
+고향마트,Gohyang Mart,supermarket,37.535948,127.000889,KR
+홍익마트,Hongik Mart,supermarket,37.574926,126.957583,KR
+싱싱마트,Singsing Mart,supermarket,37.497576,126.998696,KR
+허니마트,Heoni Mart,supermarket,37.560575,127.163352,KR
+주공마트,Jugong Mart,supermarket,37.647321,127.065064,KR
+월곡축산마트,Wolgokchuksan Mart,supermarket,37.607457,127.036147,KR
+일품축산마트,Ilpumchuksan Mart,supermarket,37.6129207,126.9145532,KR
+리첸시아마트,Richensia Mart,supermarket,37.518758,126.93826,KR
+염창동L마트,Yeomchangdong L Mart,supermarket,37.550024,126.876518,KR
+(주)아이마트 (Ai Mart),Ai Mart,supermarket,37.530575,126.991105,KR
+양제건강마트,Yangjegeongang Mart,supermarket,37.578608,127.037933,KR
+한영십자재마트,Hanyeongsipjajae Mart,supermarket,37.4956,127.141614,KR
+태광마트,Taegwang Mart,supermarket,37.613556,127.076599,KR
+태양마트,Taeyang Mart,supermarket,37.5390018,126.8702929,KR
+82마트,82 Mart,supermarket,37.554559,127.087016,KR
+스포츠마트,Sports Mart,supermarket,37.613227,127.059951,KR
+온마트,On Mart,supermarket,37.579827,127.058333,KR
+프라임 휘트니스 센터,Prime Fitness Center,supermarket,37.535792,127.0959139,KR
+행복마트,Haengbok Mart,supermarket,37.513811,126.907582,KR
+정화마트,Jeonghwa Mart,supermarket,37.585187,127.041382,KR
+대지마트,Daeji Mart,supermarket,37.609073,127.052142,KR
+유천마트,Yucheon Mart,supermarket,37.527264,127.124042,KR
+보람마트,Boram Mart,supermarket,37.524483,126.923663,KR
+폼마트,Pom Mart,supermarket,37.471349,126.88821,KR
+대호할인마트,대호할인마트,supermarket,37.483929,126.955466,KR
+굿데이마트,Gutdei Mart,supermarket,37.604156,126.922109,KR
+웰빙촌마트,Well Being Chon Mart,supermarket,37.543919,127.01554,KR
+구의J마트,Guui J Mart,supermarket,37.532887,127.091817,KR
+동서울마트,Dong Seoul Mart,supermarket,37.58094,127.087645,KR
+나들가게 무지개마트,Nadeul-Mujigae Mart,supermarket,37.5955436,126.9101078,KR
+헬스기구할인마트,Health Machine Retail Shop,supermarket,37.610222,127.054937,KR
+GS25,GS25,convenience,37.5757402,127.0217503,KR
+하모니마트,Hamoni Mart,supermarket,37.591218,126.946315,KR
+삼우축산마트,Samuchuksan Mart,supermarket,37.57663,127.021972,KR
+21세기축산마트,21 Segichuksan Mart,supermarket,37.5081754,126.8864842,KR
+늘푸른할인마트,Neulpureun Retail Shop,supermarket,37.544539,126.831263,KR
+전자마트,Jeonja Mart,supermarket,37.607822,127.009455,KR
+C.A마트,C.A Mart,supermarket,37.544813,126.953769,KR
+한지마트,Hanji Mart,supermarket,37.5732884,126.9867221,KR
+One+마트,One+ Mart,supermarket,37.543167,127.068322,KR
+빨간마트,Bbalgan Mart,supermarket,37.488404,126.996749,KR
+인디마트,Indi Mart,supermarket,37.56599,126.810891,KR
+우리마트,Uri Mart,supermarket,37.543276,126.987369,KR
+영천마트,Yeongcheon Mart,convenience,37.569534,126.962368,KR
+목동마트,Mokdong Mart,supermarket,37.544347,126.873661,KR
+반포마트,Banpo Mart,supermarket,37.504899,127.023031,KR
+우가마트,Uga Mart,supermarket,37.534122,127.000257,KR
+지씨마트,Jissi Mart,supermarket,37.447307,126.907644,KR
+탑할인마트,Tap Retail Shop,supermarket,37.491349,126.855558,KR
+CU,CU Myeongryun Sungdae Branch,convenience,37.5826248,126.9986424,KR
+새로나마트,Saerona Mart,supermarket,37.584829,126.93627,KR
+훼미리마트,Family Mart,supermarket,37.517174,126.88373,KR
+단무지마트,Danmuji Mart,supermarket,37.5970346,127.091019,KR
+올스타마트 삼전점,Jamsil Mart,supermarket,37.5051845,127.0935485,KR
+월드마트,World Mart,supermarket,37.512617,127.123625,KR
+한진마트,Hanjin Mart,supermarket,37.4981,127.118919,KR
+E-편한마트,E- Pyeonhan Mart,supermarket,37.55883,127.037021,KR
+중랑만물할인마트,Jungnangmanmul Retail Shop,supermarket,37.590301,127.083919,KR
+카오디오마트,Kaodio Mart,supermarket,37.5003052,127.011735,KR
+e홍삼마트,e Hongsam Mart,supermarket,37.651861,127.058026,KR
+폰마트,Pon Mart,supermarket,37.5358884,127.0954278,KR
+대흥마트,Daeheung Mart,supermarket,37.505962,127.130342,KR
+동진열쇠마트,Dongjinyeolsoe Mart,supermarket,37.6295782,126.8331724,KR
+삼양마트,Samyang Mart,supermarket,37.690182,126.868762,KR
+명성마트,Myeongseong Mart,yes,37.6247552,126.8379788,KR
+22세기마트,22 Segi Mart,supermarket,37.6262613,126.8244032,KR
+원당썬마트,Wondangsseon Mart,supermarket,37.6632252,126.837749,KR
+이마트에브리데이,Emart,supermarket,37.6187019,126.8321327,KR
+대하마트,Daeha Mart,supermarket,37.6670952,126.8052486,KR
+신성벽지장판마트,Sinseongbyeokjijangpan Mart,supermarket,37.6401245,126.8321368,KR
+타이어마트,Taieo Mart,supermarket,37.6183791,126.8282332,KR
+고양시가전가구재활용마트,Goyangsigajeongagujaehwalyong Mart,supermarket,37.6285078,126.822813,KR
+명진문구마트,Myeongjinmungu Mart,supermarket,37.6384235,126.8330359,KR
+커튼마트,Keoteun Mart,supermarket,37.6188512,126.8336596,KR
+농수축산그린마트,Nongsuchuksan Green Mart,supermarket,37.650627,127.14208,KR
+은강할인마트,Eungang Retail Shop,supermarket,37.6496757,127.1449259,KR
+강남파워마트,Gangnampawo Mart,supermarket,37.650151,127.142414,KR
+금강21세기마트,Geumgang 21 Segi Mart,supermarket,37.678892,127.191506,KR
+지엠카마트,Jiemka Mart,supermarket,37.698872,127.19307,KR
+이불마트,Ibul Mart,supermarket,37.640958,127.154713,KR
+코리아할인마트,Korea Retail Shop,supermarket,37.519041,126.80547,KR
+양지마트,Yangji Mart,supermarket,37.482248,126.813564,KR
+미니마트,Mini Mart,supermarket,37.488898,126.818921,KR
+화인마트,Hwain Mart,supermarket,37.478747,126.805037,KR
+한아름마트,Hanareum Mart,supermarket,37.528628,126.817911,KR
+뉴그린마트,New Green Mart,supermarket,37.489984,126.818463,KR
+장터쇼핑 원종점,장터쇼핑 원종점,supermarket,37.5254329,126.802439,KR
+네배로마트,Nebaero Mart,supermarket,37.527658,126.819148,KR
+장군할인마트,Janggun Retail Shop,supermarket,37.528175,126.809613,KR
+낙원할인마트,Nakwon Retail Shop,supermarket,37.479121,126.810798,KR
+한신할인마트,Hansin Retail Shop,supermarket,37.525622,126.821963,KR
+고마운할인마트,Gomaun Retail Shop,supermarket,37.478797,126.812702,KR
+(주)에이스마트 (Ace Mart),Ace Mart,supermarket,37.5254007,126.80497,KR
+(주)홍내고향마트 (Hongnaegohyang Mart),Hongnaegohyang Mart,supermarket,37.524192,126.811396,KR
+만물생활용품DC마트,Manmulsaenghwalyongpum DC Mart,supermarket,37.528206,126.809963,KR
+키친마트,Kichin Mart,supermarket,37.4793449,126.8067026,KR
+이에스피마트,Ieseupi Mart,supermarket,37.4801983,126.8555094,KR
+홈마트,Home Mart,supermarket,37.464867,126.880324,KR
+진로마트,Jinro Mart,supermarket,37.6088298,127.1356009,KR
+청호마트,Cheongho Mart,supermarket,37.597685,127.137115,KR
+동아DC마트,Donga DC Mart,supermarket,37.518901,127.145036,KR
+나노자동차용품마트,Nanojadongchayongpum Mart,supermarket,37.49899,127.190505,KR
+건강마트,Geongang Mart,supermarket,37.522747,127.193496,KR
+진로마트,Jinno Mart,supermarket,37.416413,126.812851,KR
+농수산 할인 마트,SuperMarket,supermarket,37.4436798,126.8002038,KR
+한마음마트,Hanmaeum Mart,supermarket,37.452338,126.833297,KR
+피시마트,Pisi Mart,supermarket,37.41641,126.813404,KR
+국민마트,국민마트,supermarket,37.4327852,126.9929779,KR
+연미마트,Yeonmi Mart,supermarket,37.410592,126.909307,KR
+동문마트,Dongmun Mart,supermarket,37.405092,126.951861,KR
+뉴홈마트,New Hom Mart,supermarket,37.400967,126.973787,KR
+신세기마트,Sinsegi Mart,supermarket,37.403829,126.968122,KR
+그랜드마트,Grand Mart,supermarket,37.405183,126.964285,KR
+유원지마트,Park Mart,supermarket,37.4137,126.917125,KR
+관양할인마트,Gwanyang Retail Shop,supermarket,37.404688,126.959288,KR
+석수하나마트,Seoksuhana Mart,supermarket,37.410223,126.911323,KR
+우주할인마트,Uju Retail Shop,supermarket,37.405799,126.897831,KR
+청실그랜드마트,Cheongsil Grand Mart,supermarket,37.4096661,126.9118733,KR
+석수중고가전마트,Seoksujunggogajeon Mart,supermarket,37.411989,126.907456,KR
+맨즈바오 상봉점,맨즈바오 상봉점,hairdresser,37.592196,127.080781,KR
+삼선문방구,Samseon Stationery,convenience,37.583645,126.99886,KR
+상보문방구,Sangbo Stationery,stationery,37.672517,127.082344,KR
+슈퍼문방구,Syupeo Stationery,convenience,37.510849,127.116191,KR
+영진문방구,Yeongjin Stationery,convenience,37.537071,126.830576,KR
+롯데문방구,Lotte Stationery,convenience,37.551442,127.133912,KR
+성도문방구,Seongdo Stationery,convenience,37.573928,127.001718,KR
+제일문방구,Jeil Stationery,convenience,37.533928,127.075012,KR
+삼양문방구,Samyang Stationery,convenience,37.536121,126.826585,KR
+에덴문방구,Eden Stationery,convenience,37.5801455,126.8135485,KR
+한남문방구,Hannam Stationery,convenience,37.637067,127.025102,KR
+응암문방구,Eungam Stationery,convenience,37.587834,126.920804,KR
+중앙문방구,Jungang Stationery,convenience,37.47579,126.923128,KR
+조아문구,Joa Stationery,stationery,37.5629434,126.9778958,KR
+홈런문방구,Homneon Stationery,convenience,37.545377,127.128957,KR
+유미문방구,Yumi Stationery,convenience,37.629262,127.05592,KR
+유정문방구,Yujeong Stationery,convenience,37.591358,126.904311,KR
+영철문방구,Yeongcheol Stationery,convenience,37.6191237,127.0447897,KR
+영창문방구,Yeongchang Stationery,convenience,37.5349796,127.0924656,KR
+도매문방구,Domae Stationery,convenience,37.562637,127.067865,KR
+대청문방구,Daecheong Stationery,convenience,37.492571,127.090812,KR
+경북문방구,Gyeongbuk Stationery,convenience,37.538904,127.0674297,KR
+태희문방구,Taehui Stationery,convenience,37.502375,126.895951,KR
+강서문방구,Gangseo Stationery,stationery,37.4845745,127.0108127,KR
+차콜하우스,차콜하우스,cafe,35.2984112,129.0291446,KR
+잉크마트,Ingkeu Mart,supermarket,35.211133,129.082487,KR
+킹크랩대게할인마트,Kingkeuraepdaege Retail Shop,supermarket,35.162762,129.063941,KR
+펠트마트,Pelteu Mart,supermarket,35.21181,129.018063,KR
+올드마트,Oldeu Mart,supermarket,35.2897594,129.0969688,KR
+가구메가마트,Gagumega Mart,supermarket,35.072777,128.986011,KR
+보일러마트,Boilleo Mart,supermarket,35.172613,129.052783,KR
+당구마트,Danggu Mart,supermarket,35.0979116,129.0335039,KR
+비즈마트,Bijeu Mart,supermarket,35.170119,129.068977,KR
+동일카오디오용품마트,Dongilkaodioyongpum Mart,supermarket,35.233139,129.087361,KR
+모라재활용마트,Morajaehwalyong Mart,supermarket,35.1907641,128.9890195,KR
+탑마트,Yagu Mart,supermarket,35.216994,129.111159,KR
+센스플라워마트,Senseu Flower Mart,supermarket,35.2313099,129.0872141,KR
+하우스마트,House Mart,supermarket,35.101809,129.027814,KR
+인쇄할인마트,Inswae Retail Shop,supermarket,35.172948,128.984113,KR
+중고미싱마트,Junggomising Mart,supermarket,35.161536,129.056756,KR
+월드디젤마트,World Dijel Mart,supermarket,35.086104,129.035305,KR
+한빛피싱마트,Hanbichising Mart,supermarket,35.084513,129.008043,KR
+조은마트,Joeun Mart,supermarket,35.070422,129.069143,KR
+이장네마트,Ijangne Mart,supermarket,35.191226,129.0783052,KR
+에이에이치시시마트,Eieichisisi Mart,supermarket,35.15214,129.020194,KR
+분전반마트,Bunjeonban Mart,supermarket,35.14125,128.968696,KR
+부산인테리어마트,Busaninterieo Mart,supermarket,35.268949,129.088961,KR
+이사마트,Isa Mart,supermarket,35.222936,129.111987,KR
+북구오케이재활용마트,Bukgu OK Jaehwalyong Mart,supermarket,35.2094,129.001095,KR
+한빛 마트,hanbit market,supermarket,35.2292781,129.1606574,KR
+위크마트,Wikeu Mart,supermarket,35.163024,129.067951,KR
+창호철물마트,Changhocheolmul Mart,supermarket,35.262104,129.092244,KR
+재송컴마트,Jaesongkeom Mart,supermarket,35.1845496,129.126395,KR
+속옷할인마트,Sokos Retail Shop,supermarket,35.222432,129.084065,KR
+컴퓨터주변기기할인마트,Computer Jubyeongigi Retail Shop,supermarket,35.198994,129.105993,KR
+희주네구제마트,Huijuneguje Mart,supermarket,35.207447,129.002851,KR
+쿨비어마트,Kulbieo Mart,supermarket,35.170452,129.069958,KR
+최고싼마트,Choegossan Mart,supermarket,35.117859,129.079242,KR
+백세건강마트,Baeksegeongang Mart,supermarket,35.230986,129.08419,KR
+유니마트,Yuni Mart,supermarket,35.208655,129.004019,KR
+제이마트,Jei Mart,supermarket,35.073821,129.072148,KR
+황소마트,Hwangso Mart,supermarket,35.1968293,129.1036407,KR
+세계할인마트,Segye Retail Shop,supermarket,35.218314,129.079803,KR
+(주)내쇼날마트,Naesyonal Mart,supermarket,35.204156,128.99532,KR
+거산할인마트,Geosan Retail Shop,supermarket,35.090139,129.044098,KR
+농축할인마트,Nongchuk Retail Shop,supermarket,35.171072,129.106328,KR
+삼구유통칸마트,Samguyutongkan Mart,supermarket,35.129957,129.047415,KR
+비원플러스축산물할인마트,Biwonpeulleoseuchuksanmul Retail Shop,supermarket,35.161977,129.111089,KR
+베이킹마트,Beiking Mart,supermarket,35.099846,129.027526,KR
+신일쿠킹마트,Sinilkuking Mart,supermarket,35.100435,129.027205,KR
+크랩마트,Keuraep Mart,supermarket,35.070346,128.977812,KR
+팔도건축자재종합마트,Paldogeonchukjajaejonghap Mart,supermarket,35.11429,128.922077,KR
+소호아시아마트,Sohoasia Mart,supermarket,35.163977,128.979899,KR
+지구인쇄마트,Jiguinswae Mart,supermarket,35.2495511,129.0148156,KR
+대현인쇄마트,Daehyeoninswae Mart,supermarket,35.157738,129.054984,KR
+A+고기마트,A+ Gogi Mart,supermarket,35.088482,129.041883,KR
+대학인쇄할인마트,University Inswae Retail Shop,supermarket,35.130446,128.971497,KR
+재활용마트,Jaehwalyong Mart,supermarket,35.231861,129.092091,KR
+소영정육마트,Soyeongjeongyuk Mart,supermarket,35.220368,129.088059,KR
+축산한우마트,Chuksanhanu Mart,supermarket,35.092607,128.972923,KR
+지구촌인쇄할인마트,Jiguchoninswae Retail Shop,supermarket,35.175424,129.078631,KR
+나누리한우마트,Nanurihanu Mart,supermarket,35.144423,129.018122,KR
+K마트,K Mart,supermarket,35.1528815,129.0583139,KR
+케이비씨툴마트,Keibissitul Mart,supermarket,35.152507,128.987928,KR
+리빙마트,Ribing Mart,supermarket,35.204141,129.102087,KR
+광안마트,Gwangan Mart,supermarket,35.1607449,129.1085715,KR
+밀크C마트,Milkeu C Mart,supermarket,35.159483,129.068761,KR
+K할인마트,K Retail Shop,supermarket,35.102185,129.035542,KR
+모드니마트,Modeuni Mart,supermarket,35.14384,129.077094,KR
+비엔오마트,Bieno Mart,supermarket,35.102326,129.030574,KR
+M.C할인마트,M.C Retail Shop,supermarket,35.177155,129.105499,KR
+케이할인마트,Kei Retail Shop,supermarket,35.106357,129.036735,KR
+탑플러스마트,Tappeulleoseu Mart,supermarket,35.1325921,129.0947392,KR
+씰마트,Ssil Mart,supermarket,35.1602241,128.9819891,KR
+광원전기조명마트,Gwangwonjeongijomyeong Mart,supermarket,35.077349,129.070747,KR
+툴마트,Tul Mart,supermarket,35.150369,128.989252,KR
+하나공구마트,Hanagonggu Mart,supermarket,35.15899,128.982221,KR
+트랜스마트,Teuraenseu Mart,supermarket,35.108183,129.038316,KR
+서원 훼밀리 마트,Seowon Family Mart,supermarket,35.215916,129.104773,KR
+롯데밀크마트,Lotte Milkeu Mart,supermarket,35.163662,129.042326,KR
+코리마트,Kori Mart,supermarket,35.2058114,129.0870243,KR
+피케이마트,Pikei Mart,supermarket,35.115197,129.112384,KR
+푸른농산마트,Pureunnongsan Mart,supermarket,35.090749,129.007286,KR
+현대게임마트,Hyeondaegeim Mart,supermarket,35.163486,129.169149,KR
+식당개업할인마트,Sikdanggaeeop Retail Shop,supermarket,35.216252,129.085642,KR
+비타민과일마트,Bitamin fruit Mart,supermarket,35.181963,129.123736,KR
+원마트,Won Mart,supermarket,35.230679,129.156204,KR
+창성팬마트,Changseongpaen Mart,supermarket,35.221784,129.089934,KR
+명장가구마트,Myeongjanggagu Mart,supermarket,35.207647,129.099125,KR
+월드가구마트,World Gagu Mart,supermarket,35.213178,129.104483,KR
+현대가구마트,Hyeondaegagu Mart,supermarket,35.197248,129.007656,KR
+갈비마트,Galbi Mart,supermarket,35.2350408,129.0915495,KR
+새천년가구마트,Saecheonnyeongagu Mart,supermarket,35.127556,128.97211,KR
+동아가구할인마트,Dongagagu Retail Shop,supermarket,35.247098,129.089845,KR
+진양가구메가마트,Jinyanggagumega Mart,supermarket,35.162087,129.051428,KR
+엘지서부주유소조이마트,Eljiseobu Gas Station Joi Mart,supermarket,35.183077,128.97678,KR
+열쇠마트,Yeolsoe Mart,supermarket,35.267606,129.088965,KR
+중고전자마트,Junggojeonja Mart,supermarket,35.14018,129.05975,KR
+가연전자마트,Gayeonjeonja Mart,supermarket,35.171465,129.050045,KR
+서면열쇠마트,Seomyeonyeolsoe Mart,supermarket,35.1605889,129.0582685,KR
+엘지가연전자마트,Eljigayeonjeonja Mart,supermarket,35.171465,129.050045,KR
+D마트,D Mart,supermarket,35.1652397,129.0421704,KR
+탑마트,Top Mart,supermarket,35.170396,129.0517,KR
+J.C마트,J.C Mart,supermarket,35.21407,129.036413,KR
+굿마트,Gut Mart,supermarket,35.065718,128.981529,KR
+왕마트,Wang Mart,supermarket,35.2651276,129.0217892,KR
+뉴마트,New Mart,supermarket,35.191871,128.987318,KR
+빅마트,Bik Mart,supermarket,35.209119,129.008934,KR
+K-1마트,K-1 Mart,supermarket,35.1719682,129.0961583,KR
+씨티마트,City Mart,supermarket,35.121298,129.109625,KR
+화목마트,Hwamok Mart,supermarket,35.1706611,129.1777876,KR
+농자재대형할인마트,Nongjajaedaehyeong Retail Shop,supermarket,35.214607,128.967206,KR
+축협마트,National Livestock Cooperative Federation Mart,supermarket,35.215053,129.108485,KR
+럭키 미용실,Reokki hair,hairdresser,35.2091461,129.0262989,KR
+모닝마트,Moning Mart,supermarket,35.230397,129.093543,KR
+홈플러스익스프레스 부산금곡점,Home Plus Express,supermarket,35.2636492,129.0196762,KR
+축산마트,Chuksan Mart,supermarket,35.123139,129.097504,KR
+SK선경마트,SK Seongyeong Mart,supermarket,35.2457048,129.0879195,KR
+영산마트,Yeongsan Mart,supermarket,35.204721,129.098723,KR
+유나마트,Yuna Mart,supermarket,35.1917884,129.0768898,KR
+정림마트,Jeongnim Mart,supermarket,35.155246,128.984844,KR
+미주마트,Miju Mart,supermarket,35.087154,129.066005,KR
+가비마트,Gabi Mart,supermarket,35.2145719,129.0772527,KR
+아라마트,Ara Mart,supermarket,35.18963,129.078687,KR
+데이마트,Dei Mart,supermarket,35.189992,129.073531,KR
+행운마트,Haengun Mart,supermarket,35.154766,128.980656,KR
+오성마트,Oseong Mart,supermarket,35.184969,129.09782,KR
+럭키마트,Lucky Mart,supermarket,35.171868,129.1824488,KR
+에이마트,Ei Mart,supermarket,35.117853,129.03969,KR
+경동마트,Gyeongdong Mart,supermarket,35.181233,129.0719105,KR
+세일마트,Seil Mart,supermarket,35.16712,129.03328,KR
+경진마트,Gyeongjin Mart,supermarket,35.195926,129.013757,KR
+쵸이마트,Chyoi Mart,supermarket,35.149539,129.012258,KR
+자유마트,Jayu Mart,supermarket,35.087891,128.985315,KR
+쌍용마트,Ssangyong Mart,supermarket,35.175227,129.031989,KR
+둘반마트,Dulban Mart,supermarket,35.156597,129.022961,KR
+금수마트,Geumsu Mart,supermarket,35.095895,129.023616,KR
+유승마트,Yuseung Mart,supermarket,35.2104279,129.1251395,KR
+농심마트,Nongsim Mart,supermarket,35.203636,129.08711,KR
+동원마트,Dongwon Mart,supermarket,35.165656,128.979535,KR
+일광마트,Ilgwang Mart,supermarket,35.100055,129.014454,KR
+대교마트,Daegyo Mart,supermarket,35.089776,129.042305,KR
+부산마트,Busan Mart,supermarket,35.271095,129.091925,KR
+토곡마트,Togok Mart,supermarket,35.17697,129.107056,KR
+대신마트,Daesin Mart,supermarket,35.110153,129.016521,KR
+국제마트,International Mart,supermarket,35.1625854,129.0559742,KR
+친절마트,Chinjeol Mart,supermarket,35.167622,128.980613,KR
+청룡마트,Cheongnyong Mart,supermarket,35.2745871,129.0910145,KR
+한양마트,Hanyang Mart,supermarket,35.1891675,129.1068526,KR
+조성마트,Joseong Mart,supermarket,35.07859,128.978448,KR
+참참마트,Chamcham Mart,supermarket,35.2222536,129.0939394,KR
+정우마트,Jeongu Mart,supermarket,35.076652,128.972733,KR
+세화마트,Sehwa Mart,supermarket,35.1410155,129.0560767,KR
+영도마트,Yeongdo Mart,supermarket,35.091851,129.043154,KR
+알찬마트,Alchan Mart,supermarket,35.218425,129.079497,KR
+공마트,Gong Mart,supermarket,35.121298,129.109625,KR
+새들마트,Saedeul Mart,supermarket,35.104686,129.029726,KR
+3배로마트,3 Baero Mart,supermarket,35.121986,129.085463,KR
+파워C마트,Pawo C Mart,supermarket,35.09936,128.986232,KR
+J.U25시마트,J.U25 Si Mart,supermarket,35.121504,129.043939,KR
+유림M마트,Yurim M Mart,supermarket,35.176427,129.054841,KR
+탑월드마트,Tap World Mart,supermarket,35.140641,128.988311,KR
+페라리마트,Perari Mart,supermarket,35.156363,129.057622,KR
+금강탑마트,Geumgangtap Mart,supermarket,35.13578,128.97854,KR
+코오롱마트,Koorong Mart,supermarket,35.230065,129.011523,KR
+럭키DC마트,Reokki DC Mart,supermarket,35.2091183,129.0263875,KR
+장보고마트,Jangbogo Mart,supermarket,35.242883,129.011705,KR
+탑세일마트,Tapseil Mart,supermarket,35.125294,129.071276,KR
+엘지탑마트,Eljitap Mart,supermarket,35.1796195,129.1751484,KR
+파워시마트,Pawosi Mart,supermarket,35.097844,129.021205,KR
+한우리마트,Hanuri Mart,supermarket,35.1759784,129.048121,KR
+유림탑마트,Yurimtap Mart,supermarket,35.234676,129.020656,KR
+청십자마트,Cheongsipja Mart,supermarket,35.1919655,128.9891988,KR
+아시아마트,Asia Mart,supermarket,35.082842,128.965295,KR
+킹할인마트,King Retail Shop,supermarket,35.137493,129.086273,KR
+용당현대아이파크,Yongdang hyundai I Park,supermarket,35.1178368,129.0992634,KR
+굿모닝마트,Good Morning Mart,supermarket,35.229892,129.163048,KR
+무궁화마트,Mugunghwa Mart,supermarket,35.159424,129.060055,KR
+스피드마트,Seupideu Mart,supermarket,35.171117,129.101377,KR
+농심가마트,Nongsimga Mart,supermarket,35.0639973,128.9853689,KR
+동양마트,동양마트,supermarket,35.1706222,129.1163706,KR
+쇼핑몰마트,Shopping Mol Mart,supermarket,35.148443,129.051889,KR
+스위스마트,Swiss Mart,supermarket,35.2112168,129.0753196,KR
+베스트마트,Best Mart,supermarket,35.199776,129.133449,KR
+구포선마트,Guposeon Mart,supermarket,35.170748,129.139314,KR
+도깨비마트,Doggaebi Mart,supermarket,35.123427,129.088566,KR
+성황리마트,Seonghwangni Mart,supermarket,35.198496,129.099265,KR
+두배로마트,Dubaero Mart,supermarket,35.243707,129.020923,KR
+하나더마트,Hanadeo Mart,supermarket,35.205569,129.009791,KR
+상록필마트,Sangnokpil Mart,supermarket,35.1374857,129.0640013,KR
+아프로마트,Apeuro Mart,supermarket,35.19646,128.992842,KR
+세이브마트,Seibeu Mart,supermarket,35.187278,129.123261,KR
+메트로마트,Metro Mart,supermarket,35.079524,128.96985,KR
+제이시마트,Jeisi Mart,supermarket,35.22329,129.082836,KR
+원태양 마트,Wontaeyang Mart,supermarket,35.2670917,129.090329,KR
+월드탑마트,World Tap Mart,supermarket,35.200159,129.053215,KR
+스펀지마트,Seupeonji Mart,supermarket,35.2391692,129.0860548,KR
+삼거리마트,Samgeori Mart,supermarket,35.1742007,129.0658232,KR
+다이소,Daiso,variety_store,35.138192,128.977911,KR
+해피D.C마트,Haepi D.C Mart,supermarket,35.167347,129.157556,KR
+몰종합마트,Moljonghap Mart,supermarket,35.1297814,129.0481362,KR
+협진썬마트,Hyeopjinsseon Mart,supermarket,35.095261,128.990307,KR
+준할인마트,Jun Retail Shop,supermarket,35.152487,129.025038,KR
+다대참마트,Dadaecham Mart,supermarket,35.0617445,128.9795573,KR
+빅세일마트,Bikseil Mart,supermarket,35.168731,129.033608,KR
+다대빅마트,Dadaebik Mart,supermarket,35.05818,128.972832,KR
+세계로마트,Segyero Mart,supermarket,35.202323,129.074715,KR
+파워씨마트,Pawossi Mart,supermarket,35.196528,129.098569,KR
+CU 대연삼익그린점,CU Convenience Store,convenience,35.151737,129.089206,KR
+동아빅마트,Dongabik Mart,supermarket,35.113616,129.030179,KR
+청학빅마트,Cheonghakbik Mart,supermarket,35.091085,129.061878,KR
+홈플러스마트,Hompeulleoseu Mart,supermarket,35.100791,128.983255,KR
+24시할인마트,24 Si Retail Shop,supermarket,35.172909,129.072549,KR
+밀레니엄마트,Millenieom Mart,supermarket,35.1860441,129.0985437,KR
+삼성할인마트,Samseong Retail Shop,supermarket,35.123519,129.110237,KR
+주야할인마트,Juya Retail Shop,supermarket,35.2122713,129.0262188,KR
+강서할인마트,Gangseo Retail Shop,supermarket,35.1058413,128.965554,KR
+굿패밀리마트,Gut Family Mart,supermarket,35.079894,128.977619,KR
+탑훼미리마트,Tap Family Mart,supermarket,35.083796,129.02364,KR
+우방할인마트,Ubang Retail Shop,supermarket,35.205532,129.124226,KR
+초읍할인마트,Choeup Retail Shop,supermarket,35.177519,129.053648,KR
+럭키할인마트,Lucky Retail Shop,supermarket,35.15567,129.039798,KR
+이웃할인마트,Ius Retail Shop,supermarket,35.181291,129.105676,KR
+덕포할인마트,Deokpo Retail Shop,supermarket,35.172162,128.984345,KR
+대우할인마트,Daeu Retail Shop,supermarket,35.2029607,129.0755124,KR
+서원할인마트,Seowon Retail Shop,supermarket,35.215012,129.08824,KR
+세일세일마트,Seilseil Mart,supermarket,35.173426,129.098246,KR
+탑스피드마트,Tapseupideu Mart,supermarket,35.1086545,129.0202252,KR
+도락할인마트,Dorak Retail Shop,supermarket,35.2281124,129.0951513,KR
+탑세일마트,Aepeul Retail Shop,supermarket,35.2567432,129.0887498,KR
+감천할인마트,Gamcheon Retail Shop,supermarket,35.089445,129.003563,KR
+파워세일마트,Pawoseil Mart,supermarket,35.158635,129.121571,KR
+농심할인마트,Nongsim Retail Shop,supermarket,35.093642,129.022348,KR
+다해할인마트,Dahae Retail Shop,supermarket,35.066565,128.981649,KR
+서동할인마트,Seodong Retail Shop,supermarket,35.216047,129.102336,KR
+경동할인마트,Gyeongdong Retail Shop,supermarket,35.1837236,129.0731138,KR
+동궁활인마트,Donggunghwalin Mart,supermarket,35.123038,128.973351,KR
+매일할인마트,Maeil Retail Shop,supermarket,35.153842,128.996648,KR
+청구할인마트,Cheonggu Retail Shop,supermarket,35.175428,129.056739,KR
+미진할인마트,Mijin Retail Shop,supermarket,35.221779,129.151804,KR
+탑플러스마트,Top-Plus Mart,supermarket,35.1628684,129.1083616,KR
+생생할인마트,Saengsaeng Retail Shop,supermarket,35.0764702,128.9837745,KR
+연산할인마트,Yeonsan Retail Shop,supermarket,35.1852481,129.0773379,KR
+롯데할인마트,Lotte Retail Shop,supermarket,35.212927,129.082456,KR
+연지할인마트,Yeonji Retail Shop,supermarket,35.172503,129.056185,KR
+축협알뜰마트,National Livestock Cooperative Federation Alddeul Mart,supermarket,35.104136,128.974289,KR
+동진그린마트,Dongjin Green Mart,supermarket,35.099182,128.98261,KR
+원플러스마트,Wonpeulleoseu Mart,supermarket,35.272034,129.089728,KR
+동원드림마트,Dongwondeurim Mart,supermarket,35.133017,129.051087,KR
+탑제이씨마트,Tapjeissi Mart,supermarket,35.173454,129.116911,KR
+금사할인마트,Geumsa Retail Shop,supermarket,35.2223344,129.112585,KR
+유림할인마트,Yurim Retail Shop,supermarket,35.091327,128.9956739,KR
+E-플러스마트,E- Peulleoseu Mart,supermarket,35.202096,129.002422,KR
+공주카센터,Gongju Car Service Center,car_repair,37.44856,126.7910677,KR
+미래마트,Mirae Mart,supermarket,37.485113,126.742842,KR
+램프마트,Raempeu Mart,supermarket,37.4699,126.626783,KR
+효성낚시할인마트,Hyoseong Fishing Retail Shop,supermarket,37.528481,126.710751,KR
+대명LED전광판 할인마트,Daemyeong LED Jeongwangpan Retail Shop,supermarket,37.468026,126.700178,KR
+일렉마트,Illek Mart,supermarket,37.4807005,126.700885,KR
+인쇄마트,Inswae Mart,supermarket,37.506061,126.730716,KR
+한일철마트,Hanilcheol Mart,supermarket,37.491063,126.648324,KR
+DC마트,DC Mart,supermarket,37.528151,126.723542,KR
+대경낚시마트,Daegyeong Fishing Mart,supermarket,37.530735,126.72833,KR
+축산물마트,Chuksanmul Mart,supermarket,37.528838,126.708833,KR
+축산물DC마트,Chuksanmul DC Mart,supermarket,37.486413,126.685838,KR
+온누리마트,Onnuri Mart,supermarket,37.468972,126.674181,KR
+조이마트,Joi Mart,supermarket,37.504533,126.736171,KR
+짱마트,Jjang Mart,supermarket,37.481243,126.701578,KR
+에스엔에스스포츠마트,Eseueneseu Sports Mart,supermarket,37.490777,126.728916,KR
+수정식자재마트,Sujeongsikjajae Mart,supermarket,37.529736,126.724251,KR
+이정육마트,Ijeongyuk Mart,supermarket,37.501621,126.723451,KR
+우리정육마트,Urijeongyuk Mart,supermarket,37.5492213,126.6745495,KR
+라이프마트,Raipeu Mart,supermarket,37.453504,126.607855,KR
+라이프마트,Life Mart,supermarket,37.4524646,126.6042301,KR
+국제당구빌마트,International Danggubil Mart,supermarket,37.463904,126.686763,KR
+청학할인마트,Cheonghak Retail Shop,supermarket,37.42422,126.665185,KR
+보명조명마트,Bomyeongjomyeong Mart,supermarket,37.503904,126.713696,KR
+홍삼건강마트,Hongsamgeongang Mart,supermarket,37.5017911,126.7106692,KR
+올스마트,Olseu Mart,supermarket,37.4746244,126.6316417,KR
+장난감할인마트,Jangnangam Retail Shop,supermarket,37.496992,126.681807,KR
+(주)오토마트 (Oto Mart),Oto Mart,supermarket,37.50235,126.624526,KR
+용산컴퓨터도매마트,Yongsan Computer Domae Mart,supermarket,37.4624001,126.7358915,KR
+에스에이마트,Eseuei Mart,supermarket,37.405442,126.687003,KR
+서인천가구마트,Seoincheongagu Mart,supermarket,37.485348,126.66877,KR
+키마트,Ki Mart,supermarket,37.486356,126.738581,KR
+유일마트,Yuil Mart,supermarket,37.468311,126.706403,KR
+쿨마트,Kul Mart,supermarket,37.549207,126.680572,KR
+영마트,Yeong Mart,supermarket,37.527453,126.728985,KR
+효마트,Hyo Mart,supermarket,37.521189,126.699868,KR
+미도마트,Mido Mart,supermarket,37.468561,126.682532,KR
+감자마트,Gamja Mart,supermarket,37.527648,126.70788,KR
+드림마트,Deurim Mart,supermarket,37.449429,126.72601,KR
+세진마트,Sejin Mart,supermarket,37.492732,126.720594,KR
+쎄일마트,Sseil Mart,supermarket,37.540426,126.730372,KR
+열린마트,Yeollin Mart,supermarket,37.4678424,126.6809384,KR
+애경마트,Aegyeong Mart,supermarket,37.438742,126.658407,KR
+사랑마트,Sarang Mart,supermarket,37.52841,126.7340605,KR
+예스마트,Yes Mart,supermarket,37.503123,126.677254,KR
+예스마트,Yeseu Mart,supermarket,37.533733,126.709756,KR
+대원마트,Daewon Mart,supermarket,37.53495,126.725588,KR
+하나로마트,하나로마트,supermarket,37.5075402,126.7290855,KR
+태화마트,Taehwa Mart,supermarket,37.5228388,126.7290431,KR
+신현마트,Sinhyeon Mart,supermarket,37.490629,126.741234,KR
+선학마트,Seonhak Mart,supermarket,37.4176378,126.6951646,KR
+신한마트,Sinhan Mart,supermarket,37.485073,126.720577,KR
+두리마트,Duri Mart,supermarket,37.450273,126.722413,KR
+골든마트,Goldeun Mart,supermarket,37.504242,126.734163,KR
+빌라마트,Villa Mart,supermarket,37.455203,126.655773,KR
+영광마트,Yeonggwang Mart,supermarket,37.494872,126.741118,KR
+위드마트,Wideu Mart,supermarket,37.458817,126.685529,KR
+동우마트,Dongu Mart,supermarket,37.529779,126.677373,KR
+진흥마트,Jinheung Mart,supermarket,37.444199,126.740893,KR
+거북마트,Geobuk Mart,supermarket,37.503363,126.67371,KR
+한신마트,Hansin Mart,supermarket,37.503072,126.728493,KR
+광신마트,Gwangsin Mart,supermarket,37.5131874,126.7303161,KR
+부흥마트,Buheung Mart,supermarket,37.499238,126.72978,KR
+범아마트,Beoma Mart,supermarket,37.461196,126.640055,KR
+승미마트,Seungmi Mart,supermarket,37.5185487,126.7277932,KR
+경기마트,Gyeonggi Mart,supermarket,37.456698,126.7149,KR
+영종마트,Yeongjong Mart,supermarket,37.492869,126.538773,KR
+신애플마트,Sinaepeul Mart,supermarket,37.458827,126.648033,KR
+이디야커피,Ediya Coffee,cafe,37.538342,126.7192443,KR
+굿할인마트,Gut Retail Shop,supermarket,37.5131737,126.7337757,KR
+영남탑마트,Yeongnam top Mart,supermarket,37.597393,126.668092,KR
+소비자마트,Sobija Mart,supermarket,37.487151,126.722758,KR
+디시홈마트,Disihom Mart,supermarket,37.463848,126.71532,KR
+구월홈마트,Guwolhom Mart,supermarket,37.452485,126.721109,KR
+노른자마트,Noreunja Mart,supermarket,37.434661,126.685782,KR
+즐거운마트,Jeulgeoun Mart,supermarket,37.4579034,126.6977795,KR
+조아라마트,Joara Mart,supermarket,37.500392,126.738243,KR
+주안홈마트,Juanhom Mart,supermarket,37.45216,126.680842,KR
+한사랑마트,Hansarang Mart,supermarket,37.543942,126.679544,KR
+뉴월드마트,New World Mart,supermarket,37.587175,126.63342,KR
+주공홈마트,Jugonghom Mart,supermarket,37.5028965,126.7026986,KR
+명품할인마트,Myeongpum Supermarket,supermarket,37.4984626,126.7193002,KR
+E-할인마트,E- Retail Shop,supermarket,37.517279,126.665217,KR
+엄마손마트,Eommason Mart,supermarket,37.495044,126.726085,KR
+또와요마트,Ddowayo Mart,supermarket,37.5031064,126.7164024,KR
+에스케이마트,SK Mart,supermarket,37.450925,126.727737,KR
+심곡할인마트,Simgok Retail Shop,supermarket,37.54079,126.674847,KR
+행복할인마트,Haengbok Retail Shop,supermarket,37.5005908,126.7228539,KR
+드림할인마트,Deurim Retail Shop,supermarket,37.442731,126.678973,KR
+늘봄할인마트,Neulbom Retail Shop,supermarket,37.445292,126.659138,KR
+하나할인마트,Hana Retail Shop,supermarket,37.469444,126.676853,KR
+연안할인마트,Yeonan Retail Shop,supermarket,37.4535825,126.6048261,KR
+서광할인마트,Seogwang Retail Shop,supermarket,37.546984,126.670369,KR
+윤진할인마트,Yunjin Retail Shop,supermarket,37.541468,126.71837,KR
+강남시장마트,Gangnam Market Mart,supermarket,37.513108,126.67166,KR
+신용할인마트,Sinyong Retail Shop,supermarket,37.493709,126.738548,KR
+연희할인마트,Yeonhui Retail Shop,supermarket,37.546428,126.672993,KR
+논현주공마트,Nonhyeonjugong Mart,supermarket,37.409591,126.7111485,KR
+경일할인마트,Gyeongil Retail Shop,supermarket,37.453087,126.73186,KR
+수봉할인마트,Subong Retail Shop,supermarket,37.457628,126.670289,KR
+자유그린마트,Jayu Green Mart,supermarket,37.458018,126.655361,KR
+일송슈퍼마트,Ilsongsyupeo Mart,supermarket,37.550759,126.685581,KR
+인천할인마트,Incheon Retail Shop,supermarket,37.466833,126.683535,KR
+주공할인마트,Jugong Retail Shop,supermarket,37.482652,126.74017,KR
+월드할인마트,World Retail Shop,supermarket,37.52883,126.726314,KR
+선우할인마트,Seonu Retail Shop,supermarket,37.534437,126.73242,KR
+예스할인마트,Yeseu Retail Shop,supermarket,37.486219,126.717425,KR
+도화쎄일마트,Dohwasseil Mart,supermarket,37.468047,126.66244,KR
+상록할인마트,Sangnok Retail Shop,supermarket,37.566993,126.682829,KR
+백영할인마트,Baekyeong Retail Shop,supermarket,37.533984,126.706413,KR
+작전할인마트,Jakjeon Retail Shop,supermarket,37.534588,126.723851,KR
+용현할인마트,Yonghyeon Retail Shop,supermarket,37.450402,126.661556,KR
+남인천농협,Namincheon Nonghyup,supermarket,37.424186,126.645574,KR
+(주)동남마트 (Dongnam Mart),Dongnam Mart,supermarket,37.4004976,126.6691714,KR
+경인소비자마트,Gyeonginsobija Mart,supermarket,37.468524,126.6632,KR
+스카이할인마트,Sky Retail Shop,supermarket,37.468172,126.674331,KR
+하나로할인마트,Hanaro Retail Shop,supermarket,37.450156,126.724054,KR
+휘버스할인마트,Hwi Bus Retail Shop,supermarket,37.472077,126.705569,KR
+굿모닝할인마트,Good Morning Retail Shop,supermarket,37.4568861,126.7236895,KR
+풍성한할인마트,Pungseonghan Retail Shop,supermarket,37.5329674,126.7330801,KR
+성광주할인마트,Seonggwangju Retail Shop,supermarket,37.488741,126.719791,KR
+(주)빅토리아할인마트 (Victoria Retail Shop),Victoria Retail Shop,supermarket,37.441361,126.662112,KR
+성지수산활어회마트,Seongjisusanhwaleohoe Mart,supermarket,37.447538,126.597918,KR
+25시낚시마트,25 Si Fishing Mart,supermarket,37.552843,126.656977,KR
+낚시할인마트,Fishing Retail Shop,supermarket,37.484699,126.746242,KR
+삼양낚시할인마트,Samyang Fishing Retail Shop,supermarket,37.488624,126.729009,KR
+창고형낚시할인마트,Changgohyeong Fishing Retail Shop,supermarket,37.457479,126.6916,KR
+작전패션마트,Jakjeonpaesyeon Mart,supermarket,37.531253,126.722912,KR
+올림피아귀금속마트,Olympia Gwigeumsok Mart,supermarket,37.501073,126.726095,KR
+인천티엔지티상설마트,Incheontienjitisangseol Mart,supermarket,37.543682,126.72562,KR
+마이마트,Mai Mart,supermarket,37.47991,126.669183,KR
+거성가구마트,Geoseonggagu Mart,supermarket,37.4853459,126.6687056,KR
+장터홈마트,Jangteohom Mart,supermarket,37.45143,126.668771,KR
+보물창고 인쇄마트,Bomulchanggo Inswae Mart,supermarket,37.493983,126.733782,KR
+풍년마트,Pungnyeon Mart,supermarket,37.520062,126.708837,KR
+선경이불마트,Seongyeongibul Mart,supermarket,37.453148,126.66535,KR
+amp;정수기종합마트,amp; Jeongsugijonghap Mart,supermarket,37.44919,126.68286,KR
+놀부마트,Nolbu Mart,supermarket,37.5018168,126.7722391,KR
+투나마트,Tuna Mart,supermarket,37.4950261,126.7847866,KR
+보명마트,Bomyeong Mart,supermarket,37.518209,126.793604,KR
+영신마트,Yeongsin Mart,supermarket,37.4984799,126.7760152,KR
+대성마트,Daeseong Mart,supermarket,37.48642,126.787749,KR
+투투마트,Tutu Mart,supermarket,37.4896079,126.7552262,KR
+유아마트,Yua Mart,supermarket,37.486499,126.784886,KR
+라인마트,Rain Mart,supermarket,37.519294,126.787862,KR
+부영마트,Buyeong Mart,supermarket,37.5284218,126.7867771,KR
+상동마트,Sangdong Mart,supermarket,37.490791,126.7438872,KR
+뉴서울마트,New Seoul Mart,supermarket,37.486709,126.762537,KR
+엘지DC마트,Elji DC Mart,supermarket,37.523761,126.797305,KR
+이편한마트,Ipyeonhan Mart,supermarket,37.4798402,126.7639185,KR
+우주홈마트,Ujuhom Mart,supermarket,37.5078078,126.7496196,KR
+산홈마트,Sanhom Mart,supermarket,37.494362,126.794225,KR
+스마일마트,Smile Mart,supermarket,37.480128,126.791073,KR
+노마진마트,Nomajin Mart,supermarket,37.493889,126.764412,KR
+리파인마트 (Ripain Mart);복샤브샤브,Ripain Mart,supermarket,37.5067179,126.7511071,KR
+도매쌀마트,Domaessal Mart,supermarket,37.518396,126.786406,KR
+꿈할인마트,Ggum Retail Shop,supermarket,37.515731,126.786642,KR
+알토랑마트,Altorang Mart,supermarket,37.4880527,126.7662829,KR
+푸르지오마트,Pureujio Mart,supermarket,37.4848571,126.7687414,KR
+송내할인마트,Songnae Retail Shop,supermarket,37.484718,126.760003,KR
+럭키골프마트,Lucky Golf Mart,supermarket,37.5103852,126.7789566,KR
+한솔그린마트,Hansol Green Mart,supermarket,37.48404,126.756441,KR
+송림미니마트,Songnimmini Mart,supermarket,37.5193518,126.7849192,KR
+대신할인마트,Daesin Retail Shop,supermarket,37.47611,126.780611,KR
+대성할인마트,Daeseong Retail Shop,supermarket,37.488887,126.763214,KR
+상동할인마트,Sangdong Retail Shop,supermarket,37.512597,126.753038,KR
+종문마트,Jongmun Mart,supermarket,37.488756,126.760118,KR
+부천펫애견용품할인마트,Bucheonpetaegyeonyongpum Retail Shop,supermarket,37.484165,126.773593,KR
+현대아울렛마트,Hyeondaeaullet Mart,supermarket,37.507551,126.780688,KR
+은하수할인마트,Eunhasu Retail Shop,supermarket,37.501632,126.7687233,KR
+샬롬이편한마트,Syallomipyeonhan Mart,supermarket,37.47841,126.776446,KR
+24시부천할인마트,24 Sibucheon Retail Shop,supermarket,37.4878131,126.783339,KR
+바다회마트,Badahoe Mart,supermarket,37.482797,126.778953,KR
+중동가구마트,Jungdonggagu Mart,supermarket,37.5116018,126.7753333,KR
+경인마트,Gyeongin Mart,supermarket,37.5148,126.768025,KR
+깨비마트,Ggaebi Mart,supermarket,37.4976364,126.7843179,KR
+코끼리마트,Koggiri Mart,supermarket,37.483785,126.781255,KR
+(주)쎌룰라마트 (Ssellulla Mart),Ssellulla Mart,supermarket,37.511495,126.777819,KR
+치킨마트,Chicken Mart,supermarket,37.490084,126.755255,KR
+대부할인마트,Daebu Retail Shop,supermarket,37.350388,126.742302,KR
+태림이불디씨마트,Taerimibuldissi Mart,supermarket,37.34646,126.732243,KR
+늘푸른마트,Neulpureun Mart,supermarket,37.437772,126.782012,KR
+에이스식자재마트,에이스식자재마트,supermarket,37.378353,126.784825,KR
+대수할인마트,Daesu Retail Shop,supermarket,37.43281,126.796455,KR
+로얄마트,Royal Mart,supermarket,37.348329,126.735936,KR
+숲속마트,Supsok Mart,supermarket,37.3773756,126.7811098,KR
+우리W마트,Uri W Mart,supermarket,37.343111,126.690312,KR
+신그린마트,Sin Green Mart,supermarket,37.449057,126.792782,KR
+아울렛마트,Aullet Mart,supermarket,37.354105,126.722474,KR
+아이원마트,Aiwon Mart,supermarket,37.382199,126.758643,KR
+제이유25마트,Jeiyu 25 Mart,supermarket,37.351994,126.714834,KR
+청솔그린마트,Cheongsol Green Mart,supermarket,37.34694,126.729966,KR
+시화세일마트,Sihwaseil Mart,supermarket,37.3436938,126.743712,KR
+떳다할인마트,Ddeosda Retail Shop,supermarket,37.340688,126.783354,KR
+오복종합할인마트,Obokjonghap Retail Shop,supermarket,37.339044,126.753506,KR
+오렌지마트,Orenji Mart,supermarket,37.338294,126.754241,KR
+거산DC마트,Geosan DC Mart,supermarket,37.340688,126.783354,KR
+신선마트,Sinseon Mart,supermarket,37.3483729,126.7356511,KR
+토리노피자마트,Torinopija Mart,supermarket,37.3438669,126.7530455,KR
+세종문방구,Sejong Stationery,convenience,37.503077,126.7164024,KR
+소래문방구,Sorae Stationery,convenience,37.437772,126.782012,KR
+안동장터 소고기국밥,안동장터 소고기국밥,restaurant,37.493255,126.537194,KR
+카리브레스토랑,Carib Restaurant,restaurant,37.4935286,126.7233456,KR
+서울종합동물병원,Seoul Jonghap Animal Hospital);태화마트 (Taehwa Mart,supermarket,37.5116088,126.7256997,KR
+파리바게뜨,Paris Baguette,bakery,37.4883591,126.7527174,KR
+커피테라스,커피테라스,cafe,37.4972315,126.7620784,KR
+더벤티,The Venti,cafe,37.489775,126.7534879,KR
+늘편한치과,Neulpyeonhan Dental Clinic,supermarket,37.5074585,126.7538408,KR
+BBQ치킨,bb.q Olive Chicken Cafe,restaurant,37.4943776,126.7498459,KR
+스타벅스,Starbucks,cafe,37.4883166,126.7527191,KR
+본죽 시흥시화병원점,Bonjuk Siheungsihwabyeongwonjeom,restaurant,37.354293,126.723204,KR
+죽이야기 시화병원점,Jukiyagi Sihwabyeongwonjeom,restaurant,37.3534263,126.72516,KR
+파리바게뜨(시화병원점),Paribageddeu ( Sihwabyeongwonjeom ),bakery,37.354488,126.722896,KR
+비비큐치킨시화병원앞점,Bibikyu Chicken Sihwabyeongwonapjeom,restaurant,37.353903,126.72382,KR
+광고시장,Gwanggo Market,supermarket,37.501143,126.730958,KR
+문구시장,Mungu Market,supermarket,37.378893,126.783009,KR
+자생식물원,Jasaeng Florist,florist,37.511677,126.792838,KR
+형제식물원,Hyeongje Florist,florist,37.552508,126.675194,KR
+꽃나라꽃식물원,Ggochnaraggoch Florist,florist,37.488019,126.678753,KR
+정은식물원,Jeongeun Florist,florist,37.44217,126.777658,KR
+해령식물원,Haeryeong Florist,florist,37.51582,126.798869,KR
+상록식물원,Sangnok Florist,florist,37.47641,126.7010164,KR
+한아름식물원,Hanareum Florist,florist,37.44358,126.775431,KR
+명가오리집,Myungaorizip,restaurant,37.5262824,126.7362482,KR
+이마트트레이더스,이마트트레이더스,supermarket,37.4831397,126.6603163,KR
+S-oil 장안주유소,Jangan Gas Station,fuel,37.463161,126.645638,KR
+오주유소,O Gas Station,fuel,37.525827,126.753983,KR
+덕행주유소,Deokhaeng Gas Station,fuel,37.45564,126.603317,KR
+비전주유소,Bijeon Gas Station,fuel,37.466719,126.682983,KR
+서일주유소,Seoil Gas Station,fuel,37.45139,126.673237,KR
+사동주유소,Sadong Gas Station,fuel,37.4681188,126.6256964,KR
+삼보주유소,Sambo Gas Station,fuel,37.448092,126.732396,KR
+송도주유소,Songdo Gas Station,fuel,37.421225,126.645037,KR
+경원주유소,Gyeongwon Gas Station,fuel,37.44938,126.690226,KR
+오정주유소,Ojeong Gas Station,fuel,37.469167,126.6239781,KR
+심곡주유소,Simgok Gas Station,fuel,37.53968,126.675546,KR
+거보주유소,Geobo Gas Station,fuel,37.525088,126.706182,KR
+황금주유소,Hwanggeum Gas Station,fuel,37.4385084,126.6759526,KR
+현대오일뱅크 백악관주유소,Baekakgwan Gas Station,fuel,37.458317,126.6859,KR
+서광주유소,Seogwang Gas Station,fuel,37.5887546,126.6724489,KR
+문화주유소,Munhwa Gas Station,fuel,37.499341,126.653428,KR
+연희주유소,Yeonhui Gas Station,fuel,37.5422552,126.6765919,KR
+삼성주유소,Samseong Gas Station,fuel,37.431472,126.645892,KR
+영신주유소,Yeongsin Gas Station,fuel,37.525277,126.730301,KR
+인하주유소,Inha Gas Station,fuel,37.4471033,126.6529979,KR
+진영주유소,Jinyeong Gas Station,fuel,37.479751,126.683139,KR
+오일뱅크 노다지주유소,OilBank Nana Gas Station,fuel,37.4133621,126.6581136,KR
+대상주유소,Daesang Gas Station,fuel,37.522439,126.688239,KR
+행복주유소,Haengbok Gas Station,fuel,37.449528,126.716028,KR
+남부주유소,Nambu Gas Station,fuel,37.449742,126.701805,KR
+공성주유소,Gongseong Gas Station,fuel,37.458956,126.644368,KR
+청라주유소,Cheongna Gas Station,fuel,37.48728,126.645293,KR
+항도주유소,Hangdo Gas Station,fuel,37.475699,126.664124,KR
+태평주유소,Taepyeong Gas Station,fuel,37.432492,126.646913,KR
+강남주유소,Gangnam Gas Station,fuel,37.492004,126.661346,KR

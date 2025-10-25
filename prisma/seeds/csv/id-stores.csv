@@ -1,0 +1,885 @@
+name,name_en,service_type,lat,lng,country_code
+Hypermart,Hypermart,supermarket,-6.1946879,106.8156052,ID
+Grand Lucky,Grand Lucky,supermarket,-6.1332263,106.8306577,ID
+The FoodHall,The FoodHall,supermarket,-6.2276886,106.7973554,ID
+Foodmart Fresh Plaza Semanggi,Foodmart Fresh Plaza Semanggi,supermarket,-6.2199982,106.8141554,ID
+Angke Fish Market,Angke Fish Market,supermarket,-6.10717,106.7745403,ID
+Carrefour,Carrefour,supermarket,-6.2230704,106.8260443,ID
+Hero,Hero,supermarket,-6.2650962,106.8207591,ID
+Giant,Giant,supermarket,-6.2893523,106.7772184,ID
+Super Indo,Super Indo,supermarket,-6.1654142,106.7820668,ID
+Indomaret Bona Indah,Indomaret Bona Indah,convenience,-6.2974688,106.7826634,ID
+Farmer's Market,Farmer's Market,supermarket,-6.2183153,106.8351265,ID
+Death by Chocolate,Death by Chocolate,restaurant,-6.2315654,106.8091207,ID
+Tator,Tator,cafe,-6.185756,106.8291834,ID
+Burger Bangor,Burger Bangor,restaurant,-6.1853139,106.8292687,ID
+Planet Hollywood Jakarta,Planet Hollywood Jakarta,restaurant,-6.2270548,106.8188215,ID
+Pegadaian,Pegadaian,pawnbroker,-6.2904034,106.8364085,ID
+Soto kudus,Soto kudus,restaurant,-6.243612,106.8112063,ID
+Lotte Mart,Lotte Mart,supermarket,-6.2268317,106.8013602,ID
+CFC,CFC,restaurant,-6.1892346,106.7963777,ID
+Pizza Hut,Pizza Hut,restaurant,-6.1887754,106.7966001,ID
+Warung Tekko,Warung Tekko,restaurant,-6.2216971,106.8328855,ID
+McDonald's;Koppi,McDonald's;Koppi,fast_food;cafe,-6.2213848,106.8335368,ID
+Kafe Betawi,Kafe Betawi,restaurant,-6.2179322,106.8352926,ID
+QBox Cafe,QBox Cafe,restaurant,-6.217509,106.8351981,ID
+Comics Cafe,Comics Cafe,restaurant,-6.2176167,106.8352278,ID
+7-Eleven,7-Eleven,convenience,-6.221717,106.8327195,ID
+Johnny Andrean,Johnny Andrean,hairdresser,-6.2207906,106.8328893,ID
+Star Mart,Star Mart,convenience,-6.2204316,106.8358151,ID
+Otel Lobby,Otel Lobby,restaurant,-6.218784,106.8342014,ID
+Loewy,Loewy,restaurant,-6.2274971,106.8256943,ID
+Pastis,Pastis,restaurant,-6.2073613,106.8276206,ID
+Circle K,Circle K,convenience,-6.2072186,106.8269636,ID
+Jessy Bread,Jessy Bread,bakery,-6.1982939,106.8858917,ID
+Ayam Balphuss,Ayam Balphuss,restaurant,-6.2013183,106.8857998,ID
+Riung Tenda,Riung Tenda,restaurant,-6.2011358,106.8858153,ID
+Ayam Bakar Gilimanuk,Ayam Bakar Gilimanuk,restaurant,-6.1970682,106.8862437,ID
+Ikan Bakar Banyuwangi,Ikan Bakar Banyuwangi,restaurant,-6.2007422,106.8858317,ID
+Cafe Al Tahrir,Cafe Al Tahrir,cafe,-6.2205601,106.8325505,ID
+Dim Sum Inc,Dim Sum Inc,restaurant,-6.2216833,106.83293,ID
+Heartz Chicken Buffet,Heartz Chicken Buffet,restaurant,-6.2216817,106.8330017,ID
+Ko he Noor,Ko he Noor,restaurant,-6.2217055,106.832812,ID
+de Resto,de Resto,restaurant,-6.2216769,106.8329619,ID
+Bakmi GM,Bakmi GM,restaurant,-6.2216182,106.8333687,ID
+Body Shop,Body Shop,chemist,-6.2181514,106.83489,ID
+Caho Mung Qui Khach,Caho Mung Qui Khach,restaurant,-6.2181548,106.8345863,ID
+Daily Bread Bakery and Cafe,Daily Bread Bakery and Cafe,cafe,-6.2180374,106.8345492,ID
+Dapur Melayu,Dapur Melayu,restaurant,-6.2178965,106.8345593,ID
+E Corner,E Corner,restaurant,-6.2186576,106.835003,ID
+Ho Lung Sechan Cuisine,Ho Lung Sechan Cuisine,restaurant,-6.218346,106.8352004,ID
+Kopi Luwak,Kopi Luwak,cafe,-6.2182454,106.8352645,ID
+Madam Kwok,Madam Kwok,restaurant,-6.217655,106.8347415,ID
+Mangotree Bistro,Mangotree Bistro,restaurant,-6.2184859,106.8348267,ID
+Pandav Coffee;pandav coffe,Pandav Coffee;pandav coffe,cafe,-6.2182606,106.8346496,ID
+Starbucks,Starbucks,cafe,-6.2178663,106.8349406,ID
+Talaga,Talaga,restaurant,-6.2176986,106.8352477,ID
+Tgrill,Tgrill,restaurant,-6.2175912,106.8347584,ID
+Usselsspring,Usselsspring,restaurant,-6.2177623,106.8349136,ID
+"""Devista"" Laundry","""Devista"" Laundry",laundry,-6.2186219,106.8383282,ID
+"""King Londre"" Laundry","""King Londre"" Laundry",laundry,-6.2194693,106.8395509,ID
+"""Mitra Setia"" Binatu","""Mitra Setia"" Binatu",dry_cleaning,-6.2189514,106.8396099,ID
+"""Mitra"" Laundry","""Mitra"" Laundry",laundry,-6.2186002,106.835476,ID
+"""Superindah"" Laundry and Dry Clening","""Superindah"" Laundry and Dry Clening",laundry,-6.2189177,106.8383521,ID
+Q-Ta Laundry,Q-Ta Laundry,laundry,-6.2179792,106.8376365,ID
+Eastern Promise,Eastern Promise,restaurant,-6.2550113,106.8093074,ID
+Indomaret,Indomaret,convenience,-6.1990293,106.7821564,ID
+Lawson,Lawson,convenience,-6.2007729,106.7827568,ID
+Yung Yung Salon,Yung Yung Salon,hairdresser,-6.1453903,106.7880587,ID
+Kembang Goela,Kembang Goela,restaurant,-6.2174601,106.8166673,ID
+DanceSignal Spot - Immigrant,DanceSignal Spot - Immigrant,nightclub;restaurant,-6.193575,106.8224627,ID
+D'Marco Cafe,D'Marco Cafe,cafe,-6.1859185,106.8252696,ID
+Kantin Mega Rasa,Kantin Mega Rasa,restaurant,-6.1346378,106.8123495,ID
+Mbah Jingkrak Setiabudi,Mbah Jingkrak Setiabudi,restaurant,-6.2088121,106.8267782,ID
+KFC Pantai Indah Kapuk,KFC Pantai Indah Kapuk,restaurant,-6.1164866,106.7620997,ID
+SuperIndo,SuperIndo,supermarket,-6.1167853,106.7593423,ID
+Sui Sen,Sui Sen,restaurant,-6.1615105,106.8338961,ID
+Mamink Daeng Tata,Mamink Daeng Tata,restaurant,-6.2239344,106.8515147,ID
+Nyiur,Nyiur,restaurant,-6.1213446,106.8409451,ID
+Le Bridge Restaurant,Le Bridge Restaurant,restaurant,-6.1189012,106.8477316,ID
+Lanna Thai,Lanna Thai,restaurant,-6.1973908,106.8238871,ID
+Taco Local,Taco Local,restaurant,-6.2505445,106.7979146,ID
+Hacienda,Hacienda,restaurant,-6.22492,106.801425,ID
+Sederhana,Sederhana,restaurant,-6.1965871,106.8828857,ID
+The Cookshop,The Cookshop,convenience,-6.2295255,106.7965752,ID
+Alfa mart,Alfa mart,convenience,-6.262441,106.7220472,ID
+Indomaret Ceger,Indomaret Ceger,convenience,-6.261993,106.721036,ID
+Harmony Swalayan,Harmony Swalayan,supermarket,-6.2630502,106.7353053,ID
+Alfamart,Alfamart,convenience,-6.262505,106.7368583,ID
+Sederhana Bintaro,Sederhana Bintaro,restaurant,-6.2790461,106.7183377,ID
+PEPeNERO,PEPeNERO,restaurant,-6.2330083,106.8312451,ID
+Sederhana Padang,Sederhana Padang,restaurant,-6.2967003,106.7114046,ID
+Pasar Jombang,Pasar Jombang,supermarket,-6.2960189,106.7119319,ID
+Padang,Padang,restaurant,-6.296599,106.7120376,ID
+Mitra 10,Mitra 10,doityourself,-6.2596546,106.7474588,ID
+Tenda Biru Padang,Tenda Biru Padang,restaurant,-6.2607344,106.7505085,ID
+All Fresh Simatupang,All Fresh Simatupang,greengrocer,-6.2929148,106.8014406,ID
+Indoguna,Indoguna,supermarket,-6.2393277,106.8115771,ID
+Rumah Makan Padang Sederhana,Rumah Makan Padang Sederhana,restaurant,-6.1346457,106.8322389,ID
+ACE Hardware,ACE Hardware,doityourself,-6.172576,106.8628554,ID
+Endorse,Endorse,clothes,-6.2278192,106.8548468,ID
+Rava House,Rava House,restaurant,-6.2277225,106.8548632,ID
+Musketeers,Musketeers,restaurant,-6.2275834,106.8551233,ID
+Kebab Baba Rafi,Kebab Baba Rafi,restaurant,-6.2277934,106.8552056,ID
+Bakul TUkul,Bakul TUkul,restaurant,-6.2272402,106.8548485,ID
+Nasi Bebek,Nasi Bebek,restaurant,-6.227208,106.8549559,ID
+Nouia Brand,Nouia Brand,clothes,-6.2270712,106.8548098,ID
+Ayam Panggang Rawamangun,Ayam Panggang Rawamangun,restaurant,-6.226385,106.8549625,ID
+Subur Furniture,Subur Furniture,furniture,-6.1661233,106.8071451,ID
+Goma ramen,Goma ramen,restaurant,-6.187781,106.824934,ID
+FamilyMart,FamilyMart,convenience,-6.2791362,106.8395511,ID
+Rumah Solo,Rumah Solo,restaurant,-6.2798912,106.8156789,ID
+Rollingstonescafe,Rollingstonescafe,cafe,-6.276945,106.8201803,ID
+Anomali,Anomali,cafe,-6.2652328,106.8204941,ID
+Amigos,Amigos,restaurant,-6.265305,106.8203852,ID
+Waroeng Kito,Waroeng Kito,restaurant,-6.1660637,106.791354,ID
+FM Kitchen,FM Kitchen,cafe,-6.1940324,106.8470016,ID
+Excelso Express,Excelso Express,cafe,-6.1946364,106.8459773,ID
+Jambo Kupi,Jambo Kupi,cafe,-6.2980637,106.8401469,ID
+Sate Senayan,Sate Senayan,restaurant,-6.2554347,106.8095558,ID
+Holy Cow,Holy Cow,restaurant,-6.2330142,106.8123941,ID
+MM Juice,MM Juice,restaurant,-6.2418567,106.8101246,ID
+The Cake Storage,The Cake Storage,cafe,-6.2258157,106.8574812,ID
+Coffee Day STAPALA,Coffee Day STAPALA,cafe,-6.2671095,106.7318759,ID
+Bluegrass Bar & Grill,Bluegrass Bar & Grill,restaurant,-6.2194937,106.8342823,ID
+Alfa Midi,Alfa Midi,supermarket,-6.2484777,106.7734127,ID
+Cya Thai,Cya Thai,restaurant,-6.1114255,106.7414367,ID
+P&B,P&B,restaurant,-6.1126562,106.7429026,ID
+Hawaiian,Hawaiian,restaurant,-6.112525,106.7364994,ID
+Cafe De Hooi,Cafe De Hooi,cafe,-6.2845224,106.7809773,ID
+Warung Bang Hoody,Warung Bang Hoody,restaurant,-6.2775588,106.8274536,ID
+Phoenam,Phoenam,cafe,-6.187372,106.8273287,ID
+Kopi Oey,Kopi Oey,cafe,-6.2542917,106.8308244,ID
+Toko Material,Toko Material,yes,-6.2944968,106.837878,ID
+Holland Bakery,Holland Bakery,bakery,-6.2850177,106.8379487,ID
+Aceh Jame Kupi,Aceh Jame Kupi,cafe,-6.2533985,106.842095,ID
+Hino,Hino,trade,-6.2426655,106.863724,ID
+Ayam Goreng Berkah Rachmat,Ayam Goreng Berkah Rachmat,restaurant,-6.247904,106.8005381,ID
+Sony,Sony,electronics,-6.2552857,106.790206,ID
+Sushi Tengoku,Sushi Tengoku,restaurant,-6.2551524,106.7903093,ID
+Mentari Books,Mentari Books,books,-6.254682,106.790834,ID
+Kedai Nasi Uduk & Ayam Goreng Zainal Fanani,Kedai Nasi Uduk & Ayam Goreng Zainal Fanani,restaurant,-6.254737,106.7908035,ID
+Bakeri Amsterdam,Bakeri Amsterdam,bakery,-6.2548055,106.7907843,ID
+Toko Baru 3,Toko Baru 3,convenience,-6.2548762,106.7907538,ID
+Warteg Pasar Atas,Warteg Pasar Atas,restaurant,-6.2551887,106.7905731,ID
+Tambal Ban Patanjung,Tambal Ban Patanjung,tyres,-6.2552178,106.7905531,ID
+Prima Cars,Prima Cars,car,-6.2552809,106.7905296,ID
+Masakan Padang Sinar Famili,Masakan Padang Sinar Famili,restaurant,-6.2554909,106.7904439,ID
+Mazda Radio Dalam,Mazda Radio Dalam,car,-6.2560472,106.7902968,ID
+Saerah Motor,Saerah Motor,car_parts,-6.256215,106.7902306,ID
+Pusat Penjualan Accu Antasari,Pusat Penjualan Accu Antasari,car_parts,-6.2561446,106.7902365,ID
+Rajawali,Rajawali,car_repair,-6.256802,106.7900745,ID
+ADS Auto Gallery,ADS Auto Gallery,car,-6.2569726,106.7899953,ID
+John Goldy Toys,John Goldy Toys,toys,-6.2568974,106.7897241,ID
+JK Wheel,JK Wheel,tyres,-6.2571933,106.7899425,ID
+Laundry Hall,Laundry Hall,laundry,-6.2572625,106.7899077,ID
+Bryan Cars,Bryan Cars,car,-6.2573305,106.7898945,ID
+PT Kikijaya Airconindo,PT Kikijaya Airconindo,car_repair,-6.2573997,106.7898729,ID
+Shop & Drive Radio Dalam,Shop & Drive Radio Dalam,car_parts,-6.2574522,106.7898645,ID
+Hero Golf,Hero Golf,sports,-6.2574999,106.7898429,ID
+Hakasima,Hakasima,kitchen,-6.2573842,106.789532,ID
+Aneka Meubel,Aneka Meubel,furniture,-6.2576049,106.7898309,ID
+Tanjung Duren Pet Shop,Tanjung Duren Pet Shop,pet,-6.2577863,106.7897805,ID
+Warteg Sederhana,Warteg Sederhana,restaurant,-6.2579438,106.7896952,ID
+Snapy - Radio Dalam,Snapy - Radio Dalam,copyshop,-6.2581526,106.789646,ID
+Auto Garage,Auto Garage,car,-6.2583458,106.789628,ID
+M Auto Accessories,M Auto Accessories,tyres,-6.2583136,106.7893952,ID
+Mulia Wisata,Mulia Wisata,travel_agency,-6.2584604,106.7893556,ID
+HuGo Car Audio Specialist,HuGo Car Audio Specialist,car_parts,-6.2584962,106.7895668,ID
+Peking Duck Dimsum,Peking Duck Dimsum,restaurant,-6.2584532,106.7895656,ID
+Bengkel KIA,Bengkel KIA,car_repair,-6.258464,106.7896136,ID
+Alfamidi,Alfamidi,convenience,-6.2586143,106.789538,ID
+Alpen Apple Pie,Alpen Apple Pie,bakery,-6.2587615,106.7895014,ID
+Cimory Dairy Shop,Cimory Dairy Shop,dairy,-6.2588847,106.7894634,ID
+Holycow! Steak Hotel,Holycow! Steak Hotel,restaurant,-6.2588271,106.7894894,ID
+Noir,Noir,restaurant,-6.2587277,106.7892235,ID
+Melodi,Melodi,car_parts,-6.2588012,106.7892075,ID
+Quintino's Djava,Quintino's Djava,cafe,-6.2588589,106.7891995,ID
+Ayam Tulang Lunak Haji Nawi,Ayam Tulang Lunak Haji Nawi,restaurant,-6.2590113,106.789425,ID
+ORI Steak & Pasta,ORI Steak & Pasta,restaurant,-6.2590713,106.7894112,ID
+Kiko Auto Gallery,Kiko Auto Gallery,car,-6.2591776,106.789403,ID
+Toyota Auto 2000,Toyota Auto 2000,car,-6.2592894,106.7891233,ID
+Java Motors,Java Motors,car,-6.2593152,106.7893676,ID
+Vicenza,Vicenza,car_parts,-6.2594147,106.7893334,ID
+Warung Pempek Pak Raden,Warung Pempek Pak Raden,restaurant,-6.259798,106.7892358,ID
+2nd Bite,2nd Bite,bakery,-6.2598733,106.7892065,ID
+Radio Dalam Raya Motor,Radio Dalam Raya Motor,car_repair,-6.2604457,106.7890985,ID
+Raja Service,Raja Service,car_repair,-6.2605307,106.7890746,ID
+Sumber Abadi,Sumber Abadi,car_repair,-6.260723,106.789027,ID
+Anwan Center,Anwan Center,tyres,-6.2547976,106.7904824,ID
+Aneka Speed,Aneka Speed,tyres,-6.2546298,106.7905525,ID
+Arofah Tours,Arofah Tours,travel_agency,-6.2544635,106.7905945,ID
+JakPetz,JakPetz,pet,-6.2545058,106.7905829,ID
+MSD,MSD,sports,-6.2544034,106.790627,ID
+Andala Ban,Andala Ban,tyres,-6.2542849,106.7906929,ID
+Toko Samoja,Toko Samoja,variety_store,-6.2545972,106.7908555,ID
+Masakan Padang Talago Indah,Masakan Padang Talago Indah,restaurant,-6.2541566,106.7910208,ID
+Blambangan,Blambangan,tailor,-6.2540943,106.7910421,ID
+Twinsco,Twinsco,copyshop,-6.2538318,106.7911213,ID
+Masakan Padang Bintang Minang,Masakan Padang Bintang Minang,restaurant,-6.2531902,106.7911885,ID
+Warteg,Warteg,restaurant,-6.253142,106.7911931,ID
+Cotton,Cotton,laundry,-6.2527633,106.7910615,ID
+Setia Kawan Frame,Setia Kawan Frame,frame,-6.2526956,106.7910753,ID
+Rumah Cukur,Rumah Cukur,hairdresser,-6.2528195,106.7912589,ID
+Pempek Kelapa Gading 161,Pempek Kelapa Gading 161,restaurant,-6.2525119,106.7911077,ID
+B B Petshop,B B Petshop,pet,-6.2525464,106.7910927,ID
+Anugerah Jaya,Anugerah Jaya,car_parts,-6.2526244,106.7910811,ID
+Eiger,Eiger,outdoor,-6.2522445,106.7914101,ID
+Warnet Ichiban,Warnet Ichiban,cafe,-6.2520357,106.7912139,ID
+Autohaus,Autohaus,car,-6.2518015,106.7912832,ID
+Daihatsu,Daihatsu,car,-6.2516466,106.7913189,ID
+Vanquish,Vanquish,car_parts,-6.2518532,106.791536,ID
+Matapena,Matapena,copyshop,-6.2517304,106.791581,ID
+Ace Hardware Radio Dalam,Ace Hardware Radio Dalam,doityourself,-6.2515594,106.791618,ID
+Meguar's,Meguar's,car_parts,-6.2513999,106.7913928,ID
+Bebek H. Slamet,Bebek H. Slamet,restaurant,-6.2514263,106.7916422,ID
+Speed Auto Gallery,Speed Auto Gallery,car,-6.2511164,106.7914552,ID
+Herrkatz,Herrkatz,hairdresser,-6.2509523,106.7914967,ID
+Mega Beton,Mega Beton,hardware,-6.2511175,106.7916895,ID
+HAS,HAS,car_parts,-6.2509962,106.7917083,ID
+CCTV XX1,CCTV XX1,electronics,-6.2507282,106.7917784,ID
+Per Kilo house laundry,Per Kilo house laundry,laundry,-6.2506596,106.7917868,ID
+Jendela Tours and Travel,Jendela Tours and Travel,travel_agency,-6.2506011,106.7917918,ID
+5àsec,5àsec,dry_cleaning,-6.2505057,106.7918087,ID
+House of Ristra,House of Ristra,beauty,-6.2503166,106.7918524,ID
+Moz5 Salon Muslimah,Moz5 Salon Muslimah,hairdresser,-6.2501677,106.7918373,ID
+RIX Barbershop,RIX Barbershop,hairdresser,-6.2501058,106.7918407,ID
+Nawilis,Nawilis,car_repair,-6.2500037,106.7918794,ID
+Mesin jahit PFAF,Mesin jahit PFAF,tailor,-6.2496891,106.791908,ID
+Ansella International Tailor,Ansella International Tailor,tailor,-6.249746,106.79161,ID
+PN15,PN15,car,-6.2491181,106.7920342,ID
+El Chef Restaurant Cafe,El Chef Restaurant Cafe,restaurant,-6.249075,106.7916336,ID
+Akasya Ekspress,Akasya Ekspress,restaurant,-6.2483613,106.7920868,ID
+Camden Bar,Camden Bar,restaurant,-6.1912165,106.8375268,ID
+ANIBEE.TV,ANIBEE.TV,anime,-6.2579627,106.8142027,ID
+Skye,Skye,restaurant,-6.1968181,106.8226374,ID
+Honda,Honda,motorcycle,-6.2921178,106.8416152,ID
+Metro Cut,Metro Cut,hairdresser,-6.2862327,106.8328667,ID
+Pasar Enjo,Pasar Enjo,supermarket,-6.2150083,106.8782975,ID
+Ben's Mart,Ben's Mart,convenience,-6.2471794,106.8081319,ID
+Anomali Cafe,Anomali Cafe,cafe,-6.2673611,106.8154346,ID
+Bandar Jakarta Baywalk,Bandar Jakarta Baywalk,restaurant,-6.107678,106.7805287,ID
+Optik Melawai,Optik Melawai,optician,-6.2733109,106.7232582,ID
+Sate Khas Senayan,Sate Khas Senayan,restaurant,-6.2731544,106.7234747,ID
+Holland Bakery - City Resort,Holland Bakery - City Resort,bakery,-6.1349231,106.7306333,ID
+Midori,Midori,restaurant,-6.1868651,106.8266123,ID
+Loket,Tickets,ticket,-6.1736827,106.8272244,ID
+Alva,Alva,car,-6.2268434,106.8093154,ID
+Imperial Kitchen,Imperial Kitchen,restaurant,-6.2272846,106.8095795,ID
+Titik Temu,Titik Temu,cafe,-6.2272833,106.8093073,ID
+Minilovebites,Minilovebites,bakery,-6.2246042,106.8100702,ID
+H&M,H&M,clothes,-6.1950984,106.821126,ID
+Uniqlo,Uniqlo,clothes,-6.1951171,106.8212252,ID
+Pull & Bear,Pull & Bear,clothes,-6.1950424,106.8212628,ID
+Ikkudo Ichi,Ikkudo Ichi,restaurant,-6.1950822,106.8202796,ID
+Sushi Tei,Sushi Tei,restaurant,-6.1951302,106.8203292,ID
+PizzaExpress,PizzaExpress,restaurant,-6.1952022,106.8203507,ID
+Kinokuniya,Kinokuniya,books,-6.1952395,106.82023,ID
+Daily Foodhall,Daily Foodhall,supermarket,-6.1953235,106.8202971,ID
+Pancious,Pancious,restaurant,-6.1951716,106.8201241,ID
+Marche,Marche,restaurant,-6.1950706,106.8201241,ID
+Wareg Catering,Wareg Catering,restaurant,-6.293984,106.8158512,ID
+Photos,Photos,photo,-6.1867102,106.8250424,ID
+Kanpai Kedai Jepang,Kanpai Kedai Jepang,restaurant,-6.2574201,106.8531174,ID
+Ayam Bakar Mas Mono,Ayam Bakar Mas Mono,restaurant,-6.2282169,106.855643,ID
+Soto Gebrak!,Soto Gebrak!,restaurant,-6.224826,106.8531475,ID
+Sop Konro,Sop Konro,restaurant,-6.2239976,106.8516889,ID
+Bakmi Toko TIga,Bakmi Toko TIga,restaurant,-6.2413781,106.8473812,ID
+Toodz House - Cipete,Toodz House - Cipete,cafe,-6.277919,106.801822,ID
+Hard Rock Cafe,Hard Rock Cafe,restaurant,-6.2254253,106.8098871,ID
+Cacaoté,Cacaoté,cafe,-6.2324674,106.8110623,ID
+Huk Family Resto,Huk Family Resto,restaurant,-6.1760647,106.8597668,ID
+Tanamera Coffee,Tanamera Coffee,cafe,-6.1955736,106.8168132,ID
+Bakmi GM Sunda,Bakmi GM Sunda,restaurant,-6.1887788,106.8243119,ID
+Total Buah,Total Buah,convenience,-6.1340124,106.7157149,ID
+Pecel Pincuk Godong Ijo,Pecel Pincuk Godong Ijo,restaurant,-6.2731416,106.7582321,ID
+Informa,Informa,furniture,-6.2784931,106.7198839,ID
+Intermedia Bookstore,Intermedia Bookstore,books,-6.2699297,106.7392867,ID
+ABUBA Steak,ABUBA Steak,restaurant,-6.2702117,106.7395226,ID
+명가 한식당,명가 한식당,restaurant,-6.1445119,106.893057,ID
+Ketan Susu Kemayoran,Ketan Susu Kemayoran,cafe,-6.1608148,106.8492458,ID
+VW CENTER KEMAYORAN,VW CENTER KEMAYORAN,car,-6.1585436,106.8411755,ID
+Mie Hokkien Rajake,Mie Hokkien Rajake,restaurant,-7.2658834,112.7560738,ID
+Cafe Glass,Cafe Glass,cafe,-7.2661303,112.7646912,ID
+Singapore Focus Wedding,Singapore Focus Wedding,photo,-7.287037,112.7759826,ID
+Ah Yat Abalone Forum,Ah Yat Abalone Forum,restaurant,-7.2921492,112.7153034,ID
+Daun Lada,Daun Lada,restaurant,-7.282439,112.7068932,ID
+Kuningan Restaurant,Kuningan Restaurant,restaurant,-7.2716247,112.750176,ID
+Chery Automobile,Chery Automobile,car,-7.2697176,112.7512059,ID
+Mirota,Mirota,clothes,-7.276928,112.7471528,ID
+Pertamina,Pertamina,fuel,-7.2634443,112.7521186,ID
+Pangkas Rambut Doctor,Pangkas Rambut Doctor,hairdresser,-7.2902926,112.79971,ID
+D' Cost,D' Cost,restaurant,-7.2945494,112.6762066,ID
+Bon Cafe,Bon Cafe,cafe,-7.2957078,112.6760649,ID
+Weta Supermarket,Weta Supermarket,supermarket,-7.3126615,112.7040103,ID
+Toko Jaya 59,Toko Jaya 59,convenience,-7.3155467,112.7899556,ID
+Mel's Bakery,Mel's Bakery,bakery,-7.3128726,112.7894538,ID
+Toko Rejeki,Toko Rejeki,convenience,-7.3129866,112.7895019,ID
+Toko Harapan,Toko Harapan,doityourself,-7.2332756,112.7290244,ID
+Warung Bu Lilik,Warung Bu Lilik,cafe,-7.3601477,112.7290892,ID
+Pecel Nganjuk,Pecel Nganjuk,restaurant,-7.3619541,112.729064,ID
+Bubur Ayam Citra,Bubur Ayam Citra,restaurant,-7.3622544,112.7290736,ID
+Bebek Juara,Bebek Juara,restaurant,-7.3622041,112.729064,ID
+Double Happiness,Double Happiness,restaurant,-7.2679015,112.7371751,ID
+Supermarket Baru,Supermarket Baru,supermarket,-7.2441419,112.7448063,ID
+ISTANA MEBEL,ISTANA MEBEL,furniture,-7.3443197,112.6946879,ID
+SAS Cafe & Resto,SAS Cafe & Resto,restaurant,-7.2704261,112.7986184,ID
+IBC Pondok Tempo Doeloe,IBC Pondok Tempo Doeloe,restaurant,-7.381699,112.7508798,ID
+Agusta Computer Soluton,Agusta Computer Soluton,computer,-7.2785071,112.745231,ID
+Toko Alit Jaya,Toko Alit Jaya,convenience,-7.251905,112.7291835,ID
+Warkop Nobar,Warkop Nobar,cafe,-7.2531434,112.6447475,ID
+Depot Sari Sop Buntut,Depot Sari Sop Buntut,restaurant,-7.23698,112.7388116,ID
+Pecel Kebon Rojo,Pecel Kebon Rojo,restaurant,-7.2430189,112.7383002,ID
+Depo Bangunan,Depo Bangunan,doityourself,-7.3868286,112.7268459,ID
+Indomaret Semolowaru,Indomaret Semolowaru,convenience,-7.3010592,112.7757839,ID
+Alfamaret Semolowaru,Alfamaret Semolowaru,convenience,-7.3014742,112.7755593,ID
+Natasha Skin Care,Natasha Skin Care,beauty,-7.2850057,112.7329651,ID
+Zoya,Zoya,clothes,-7.2840443,112.7334919,ID
+Togamas,Togamas,books,-7.2952687,112.7384535,ID
+Palapa,Palapa,convenience,-7.2943597,112.7314355,ID
+Bon Ami,Bon Ami,bakery,-7.2833297,112.7352416,ID
+Bebek Goreng Hj. Slamet,Bebek Goreng Hj. Slamet,restaurant,-7.2744912,112.7481806,ID
+Holycow! Steakhouse by Chef Afit,Holycow! Steakhouse by Chef Afit,restaurant,-7.2666247,112.7399292,ID
+Lamongan Indah,Lamongan Indah,restaurant,-7.2702372,112.7605562,ID
+The Café,The Café,cafe,-7.2310091,112.7344491,ID
+Astra 2000,Astra 2000,car,-7.2827935,112.7814541,ID
+STEMPEL SHINY,STEMPEL SHINY,stationery,-7.2740897,112.7236246,ID
+Bebek Goreng H. Slamet,Bebek Goreng H. Slamet,restaurant,-7.3204609,112.7568277,ID
+Grand Palace,Grand Palace,department_store,-7.2614482,112.749952,ID
+Fat Choi Noodle,Fat Choi Noodle,restaurant,-7.2772972,112.7491781,ID
+3M Makassar,3M Makassar,restaurant,-7.3030962,112.781233,ID
+Six and Eat,Six and Eat,restaurant,-7.259623,112.7555903,ID
+Atrium Tunjungan Plaza TP 1,Atrium Tunjungan Plaza TP 1,mall,-7.2634618,112.7408647,ID
+A Cafe,A Cafe,restaurant,-7.2633233,112.740487,ID
+Aan Glow Salon,Aan Glow Salon,hairdresser,-7.2928074,112.7605664,ID
+Al hamra restaurant,Al hamra restaurant,restaurant,-7.2592403,112.7461506,ID
+K1 Karaoke Lounge,K1 Karaoke Lounge,cafe,-7.242816,112.7413808,ID
+Alex Salon Tumapel,Alex Salon Tumapel,hairdresser,-7.2858843,112.7409847,ID
+Gudeg Bu Toegijo,Gudeg Bu Toegijo,restaurant,-7.2792009,112.7576856,ID
+"KACANG IJO PUCANG ANOM ""PASAR PUCANG""","KACANG IJO PUCANG ANOM ""PASAR PUCANG""",restaurant,-7.2854392,112.7528843,ID
+Alfa Express Doho,Alfa Express Doho,convenience,-7.2897571,112.7862061,ID
+AIE DOHO,AIE DOHO,restaurant,-7.2818601,112.7439225,ID
+Aiola Eatery,Aiola Eatery,restaurant,-7.258735,112.7502426,ID
+Alfamart Pacar Keling,Alfamart Pacar Keling,convenience,-7.2581566,112.7541049,ID
+Mini Market,Mini Market,convenience,-7.2523068,112.7722367,ID
+Hanamasa,Hanamasa,restaurant,-7.2659117,112.7513729,ID
+Alfamart Panjang Jiwo,Alfamart Panjang Jiwo,convenience,-7.3069252,112.7628525,ID
+Alfamart Ciliwung,Alfamart Ciliwung,convenience,-7.2929912,112.7360482,ID
+Puzzle Studio,Puzzle Studio,photo,-7.2992127,112.7557674,ID
+Alfamart Manyar,Alfamart Manyar,convenience,-7.291546,112.7598956,ID
+"Hapsari (Tahu Bakso Semarang, Siomay)","Hapsari (Tahu Bakso Semarang, Siomay)",restaurant,-7.2622627,112.7404451,ID
+Demak Rombeng,Demak Rombeng,shoes,-7.2455541,112.7214818,ID
+Indomeret Arjuno,Indomeret Arjuno,convenience,-7.2657832,112.7277078,ID
+Alfamart Nginden Semolo 1,Alfamart Nginden Semolo 1,convenience,-7.2999315,112.7669391,ID
+Alfamidi Siwalankerto,Alfamidi Siwalankerto,convenience,-7.338067,112.7376452,ID
+Quickly,Quickly,cafe,-7.374167,112.7936515,ID
+Ramayana,Ramayana,mall,-7.2915433,112.718239,ID
+Kapas Krampung Plaza,Kapas Krampung Plaza,mall,-7.2484549,112.7584744,ID
+Ramayana Bakery,Ramayana Bakery,bakery,-7.2842121,112.7459232,ID
+High Point Cafe Speciality,High Point Cafe Speciality,cafe,-7.337004,112.7388901,ID
+Historica Coffee & Pastry,Historica Coffee & Pastry,cafe,-7.2694972,112.7494463,ID
+Rawon Calculator,Rawon Calculator,restaurant,-7.2916281,112.7401696,ID
+Rawon Setan,Rawon Setan,restaurant,-7.2592042,112.7351462,ID
+Hobby Pet Center,Hobby Pet Center,pet,-7.2963521,112.7598554,ID
+Kardus Bekas Jl. Semarang,Kardus Bekas Jl. Semarang,yes,-7.2552308,112.7278264,ID
+Hok Siong,Hok Siong,restaurant,-7.2580236,112.7323546,ID
+Hokky Buah,Hokky Buah,frame,-7.2683871,112.7440311,ID
+Recordance Photography,Recordance Photography,photo,-7.2826067,112.7837234,ID
+Honda Jemursari - PT. Mandala Mandiri Motor,Honda Jemursari - PT. Mandala Mandiri Motor,car,-7.3154562,112.7536659,ID
+Kedai kopi SINGGALANG,Kedai kopi SINGGALANG,cafe,-7.2492813,112.7307395,ID
+Reny Swalayan,Reny Swalayan,supermarket,-7.2985103,112.7552551,ID
+Rima Rajut,Rima Rajut,clothes,-7.3299582,112.7440395,ID
+"RM ""PADIN"" Aneka Penyetan (Bu. Dewi Achmad)","RM ""PADIN"" Aneka Penyetan (Bu. Dewi Achmad)",restaurant,-7.2557805,112.7324482,ID
+RM.Singgalang Jaya,RM.Singgalang Jaya,restaurant,-7.3750676,112.7947068,ID
+Kepiting Cak Gundul 1992,Kepiting Cak Gundul 1992,restaurant,-7.2782792,112.7078732,ID
+Roemah Ejank,Roemah Ejank,mall,-7.2831985,112.758654,ID
+Roti'O,Roti'O,bakery,-7.265503,112.752726,ID
+Roti' O,Roti' O,bakery,-7.3749146,112.795765,ID
+Rayya Perkasa Motor (RPM),Rayya Perkasa Motor (RPM),car_repair,-7.2549219,112.7218482,ID
+Astra Isuzu International Hrm- Tbk,Astra Isuzu International Hrm- Tbk,car,-7.2862921,112.701285,ID
+Atom Cafe,Atom Cafe,mall,-7.2415339,112.7446038,ID
+Tunjungan Plaza TP 4,Tunjungan Plaza TP 4,mall,-7.2620638,112.740365,ID
+Atrium Tunjungan Plaza TP 5,Atrium Tunjungan Plaza TP 5,mall,-7.2612972,112.7394477,ID
+Auto 2000,Auto 2000,car,-7.2828044,112.7810773,ID
+Autonet,Autonet,cafe,-7.2819951,112.7425595,ID
+AW Salon,AW Salon,hairdresser,-7.2740506,112.7529972,ID
+Ayam Bakar Primarasa,Ayam Bakar Primarasa,restaurant,-7.3301122,112.7303911,ID
+Ayam Bakar Wong Solo,Ayam Bakar Wong Solo,restaurant,-7.2599043,112.7438561,ID
+Ayam Goreng Asli Pemuda,Ayam Goreng Asli Pemuda,restaurant,-7.2578742,112.7310267,ID
+Ayam Goreng President,Ayam Goreng President,restaurant,-7.2580177,112.7324236,ID
+Ayam Tulang Lunak Malioboro,Ayam Tulang Lunak Malioboro,restaurant,-7.2795144,112.7376245,ID
+Rujak Cingur Ahmad Jais,Rujak Cingur Ahmad Jais,restaurant,-7.2554948,112.740236,ID
+Rujak Cingur Genteng Durasim,Rujak Cingur Genteng Durasim,restaurant,-7.2579908,112.7403535,ID
+Bakso Kepala Sapi,Bakso Kepala Sapi,restaurant,-7.2559081,112.7322429,ID
+Bakmi Plengkung Gading,Bakmi Plengkung Gading,restaurant,-7.2668316,112.7278827,ID
+Bakso Kotak Cak Rie,Bakso Kotak Cak Rie,restaurant,-7.3188814,112.7384304,ID
+Bakso Pak Sabar,Bakso Pak Sabar,restaurant,-7.272636,112.7528146,ID
+Bakso Solo,Bakso Solo,restaurant,-7.2736436,112.752319,ID
+Kober Mie Setan,Kober Mie Setan,restaurant,-7.2599453,112.7513861,ID
+Bangi Kopitiam,Bangi Kopitiam,restaurant,-7.2601542,112.7452536,ID
+Banana Bil-Bil Food,Banana Bil-Bil Food,restaurant,-7.2738994,112.6520007,ID
+Bandar Djakarta,Bandar Djakarta,restaurant,-7.282705,112.6875828,ID
+Konig,Konig,cafe,-7.2818933,112.7762419,ID
+Rumah Makan Sriwedari,Rumah Makan Sriwedari,restaurant,-7.3212425,112.7470407,ID
+Rumah Duka Adi Jasa,Rumah Duka Adi Jasa,funeral_directors,-7.2517927,112.7210664,ID
+House of Lea,House of Lea,beauty,-7.2952508,112.7159031,ID
+I Can Print,I Can Print,yes,-7.2938244,112.7611794,ID
+Indomaret Ngagel Jaya Tengah,Indomaret Ngagel Jaya Tengah,convenience,-7.2916504,112.7598473,ID
+Indomaret Pucang Anom,Indomaret Pucang Anom,convenience,-7.2844013,112.7578396,ID
+Bayu Motor,Bayu Motor,motorcycle_repair,-7.2955786,112.7458719,ID
+Indomaret Point,Indomaret Point,convenience,-7.2811846,112.7440687,ID
+Indomaret Raya Margorejo,Indomaret Raya Margorejo,convenience,-7.3183231,112.7384031,ID
+Indomaret Jenggolo,Indomaret Jenggolo,convenience,-7.2844475,112.7429301,ID
+Kue Cubit Premium Surabaya (@celicub),Kue Cubit Premium Surabaya (@celicub),bakery,-7.259593,112.7500259,ID
+Kudos Cafe,Kudos Cafe,cafe,-7.294822,112.6751715,ID
+Indomaret Pakis Tirtosari,Indomaret Pakis Tirtosari,convenience,-7.2888764,112.7216879,ID
+Bebek Goreng Cak Yudi,Bebek Goreng Cak Yudi,restaurant,-7.2215902,112.7310234,ID
+Bebek Goreng Harissa,Bebek Goreng Harissa,restaurant,-7.2601562,112.744596,ID
+Indomobil Finance,Indomobil Finance,car,-7.2688701,112.7394667,ID
+Nasi Bebek Kanwa,Nasi Bebek Kanwa,restaurant,-7.2846673,112.7305035,ID
+Inferno Music Studio & Rock Shop Surabaya,Inferno Music Studio & Rock Shop Surabaya,music,-7.2684738,112.772585,ID
+Bebek Pak Joss Cab. Dharmahusada,Bebek Pak Joss Cab. Dharmahusada,restaurant,-7.266949,112.7693229,ID
+Restoran Bebek Tepi Sawah Surabaya,Restoran Bebek Tepi Sawah Surabaya,restaurant,-7.2931307,112.7410561,ID
+Bebek Sinjay,Bebek Sinjay,restaurant,-7.2477882,112.7587431,ID
+Bebek Tugu Pahlawan,Bebek Tugu Pahlawan,restaurant,-7.2473742,112.7378476,ID
+Bebek Kayu Tangan,Bebek Kayu Tangan,restaurant,-7.298135,112.75236,ID
+Salon & Spa Musalimah Alafafa,Salon & Spa Musalimah Alafafa,beauty,-7.2775501,112.7624384,ID
+Sentra BG Junction,Sentra BG Junction,mall,-7.2550512,112.7340141,ID
+Sambel Bu Rudy,Sambel Bu Rudy,restaurant,-7.267145,112.7698673,ID
+J.Co,J.Co,bakery,-7.2857863,112.6808174,ID
+Sapi Milk,Sapi Milk,cafe,-7.2948767,112.7625001,ID
+Sate Ayam Madura Krembangan,Sate Ayam Madura Krembangan,restaurant,-7.2406764,112.7338244,ID
+Sate Ayam Mulyosari,Sate Ayam Mulyosari,restaurant,-7.2687922,112.7966507,ID
+Bima Restaurant,Bima Restaurant,restaurant,-7.2562508,112.738598,ID
+Layali Shisha Cafe and Lounge,Layali Shisha Cafe and Lounge,cafe,-7.2692876,112.7506084,ID
+Blackbarn Coffee,Blackbarn Coffee,cafe,-7.2848049,112.736194,ID
+Sate Kambing & Gulai Keputih,Sate Kambing & Gulai Keputih,restaurant,-7.2881922,112.7980034,ID
+Sate Klopo Ondomohen,Sate Klopo Ondomohen,restaurant,-7.2599859,112.7442619,ID
+Layar Perum Bukit Mas,Layar Perum Bukit Mas,restaurant,-7.2936484,112.7066604,ID
+Le Cafe Gourmand,Le Cafe Gourmand,cafe,-7.2661781,112.7399656,ID
+Bogajaya Juanda Airport,Bogajaya Juanda Airport,yes,-7.3741795,112.7933073,ID
+Le Saba,Le Saba,yes,-7.308818,112.7213126,ID
+Seafood Kapasan (Simo Lawang Baru Pojok),Seafood Kapasan (Simo Lawang Baru Pojok),restaurant,-7.2403972,112.7520042,ID
+Libby cafe,Libby cafe,cafe,-7.2696212,112.6967882,ID
+Broadway Barbershop,Broadway Barbershop,hairdresser,-7.289908,112.7755455,ID
+Sego Njamoer,Sego Njamoer,restaurant,-7.2820499,112.7892322,ID
+Libreria Eatery,Libreria Eatery,restaurant,-7.2928621,112.755556,ID
+Brother Union Eatery,Brother Union Eatery,restaurant,-7.2800787,112.7438658,ID
+Sego Sambel Mak Yeye,Sego Sambel Mak Yeye,restaurant,-7.3012724,112.7382068,ID
+Bu Rudy,Bu Rudy,restaurant,-7.2583867,112.7288824,ID
+Cailano,Cailano,restaurant,-7.2828265,112.7763242,ID
+CAK NING Oleh-Oleh Khas Indonesia,CAK NING Oleh-Oleh Khas Indonesia,yes,-7.3815872,112.7508772,ID
+Mahameru Restaurant,Mahameru Restaurant,restaurant,-7.2807432,112.7319113,ID
+Calibre,Calibre Coffee Roasters,cafe,-7.2611565,112.7488027,ID
+CALORIA RESTO,CALORIA RESTO,restaurant,-7.27596,112.773061,ID
+MAKAM FAMILI SAMBONGAN,MAKAM FAMILI SAMBONGAN,restaurant,-7.2794981,112.7470282,ID
+Makan Rumahan,Makan Rumahan,restaurant,-7.2975725,112.7678291,ID
+Carolina Watch Marina,Carolina Watch Marina,yes,-7.2925541,112.7191267,ID
+Carpentier Kitchen,Carpentier Kitchen,restaurant,-7.2845311,112.7363643,ID
+Sentra Kuliner Taman Flora,Sentra Kuliner Taman Flora,restaurant,-7.2944115,112.7612098,ID
+Caturra Espresso,Caturra Espresso,cafe,-7.2583456,112.7294178,ID
+Sevenday's Persewaan Komik,Sevenday's Persewaan Komik,books,-7.3189915,112.765569,ID
+Chicco Swalayan,Chicco Swalayan,supermarket,-7.3205838,112.7548325,ID
+Shinjuku Hairmake,Shinjuku Hairmake,beauty,-7.2694822,112.7796836,ID
+Marco Mario Souvenirs,Marco Mario Souvenirs,yes,-7.2758248,112.6960306,ID
+Circle K Siwalankerto,Circle K Siwalankerto,convenience,-7.3397002,112.7351181,ID
+Shizuka Pet Shop,Shizuka Pet Shop,pet,-7.2797792,112.744151,ID
+Circle K Nginden Semolo,Circle K Nginden Semolo,convenience,-7.2996828,112.764173,ID
+Sim Corner Tunjungan Plaza,Sim Corner Tunjungan Plaza,car,-7.2635098,112.7399714,ID
+Classroom,Classroom,yes,-7.2617908,112.7502925,ID
+Coffeezone,Coffeezone,cafe,-7.2837039,112.7414089,ID
+Coffee Toffee,Coffee Toffee,cafe,-7.2868818,112.7757162,ID
+Communal,Communal,cafe,-7.2821635,112.7762654,ID
+Cutbox Barber Shop,Cutbox Barber Shop,hairdresser,-7.2584799,112.7501646,ID
+Society Complex,Society Complex,restaurant,-7.2696093,112.749277,ID
+Sogo,Sogo,clothes,-7.2741001,112.7821352,ID
+Soto Ambengan Pak Sadi Asli,Soto Ambengan Pak Sadi Asli,restaurant,-7.2557241,112.7449926,ID
+The Billiton,The Billiton,bakery,-7.2763732,112.7495399,ID
+Donburi Be Happy,Donburi Be Happy,restaurant,-7.2506586,112.6613932,ID
+De Mandailing,De Mandailing,restaurant,-7.2879591,112.7757647,ID
+Soto Ayam Lamongan Cak Har,Soto Ayam Lamongan Cak Har,restaurant,-7.295653,112.7812929,ID
+Moi Garden,Moi Garden,restaurant,-7.2784716,112.7654968,ID
+Monas,Monas,travel_agency,-7.2667674,112.7717122,ID
+Soto Daging Marmoyo,Soto Daging Marmoyo,restaurant,-7.2966198,112.7399017,ID
+Monopole Coffee Lab,Monopole Coffee Lab,cafe,-7.2828406,112.694808,ID
+Soto Madura Tapak Siring,Soto Madura Tapak Siring,restaurant,-7.265689,112.7637491,ID
+Mr. Sauna & Mrs. Spa,Mr. Sauna & Mrs. Spa,beauty,-7.2725585,112.6974711,ID
+Soto Madura Wawan,Soto Madura Wawan,restaurant,-7.2920505,112.7247081,ID
+Depot AT 29,Depot AT 29,restaurant,-7.3204001,112.7652008,ID
+Depot Bali,Depot Bali,restaurant,-7.2524231,112.7419006,ID
+Muttonbird Bistro & Rooftop,Muttonbird Bistro & Rooftop,restaurant,-7.3173549,112.7804057,ID
+Warung Sejedewe,Warung Sejedewe,restaurant,-7.3196798,112.7627696,ID
+Depot Grace,Depot Grace,restaurant,-7.2513997,112.7721936,ID
+Depot Nasi Campur Pojok Tambak Bayan,Depot Nasi Campur Pojok Tambak Bayan,restaurant,-7.2477332,112.7415854,ID
+Depot Madiun Bu Rudy,Depot Madiun Bu Rudy,restaurant,-7.2706329,112.7213956,ID
+Depot Mak Ay,Depot Mak Ay,restaurant,-7.2757502,112.7055749,ID
+Depot Mangga,Depot Mangga,restaurant,-7.3142323,112.7630604,ID
+Special Nasi Udang Khas Bu Rudi,Special Nasi Udang Khas Bu Rudi,restaurant,-7.2804351,112.7075469,ID
+Depot Soto Madura Gubeng Pojok Asli,Depot Soto Madura Gubeng Pojok Asli,restaurant,-7.2602926,112.7514075,ID
+Klinik Natasha Skin Care,Klinik Natasha Skin Care,beauty,-7.2812987,112.7810431,ID
+Stilrod Cycle Shop,Stilrod Cycle Shop,cafe,-7.293055,112.7394879,ID
+STMJ Bu Nunuk Pojok Ngagel,STMJ Bu Nunuk Pojok Ngagel,cafe,-7.2944924,112.7461441,ID
+Joyo Optik,Joyo Optik,optician,-7.2773051,112.7513343,ID
+Domicile Kitchen & Lounge,Domicile Kitchen & Lounge,restaurant,-7.2689604,112.7502448,ID
+Surabaya CAFÈ,Surabaya CAFÈ,cafe,-7.2654319,112.7527206,ID
+Grand Ocean,Grand Ocean,restaurant,-7.2838694,112.6902128,ID
+Edi Fried Chicken,Edi Fried Chicken,restaurant,-7.257012,112.7596817,ID
+Suzana Bakery,Suzana Bakery,bakery,-7.2875744,112.7442709,ID
+Tahu Telor Pak Jayen,Tahu Telor Pak Jayen,restaurant,-7.2720902,112.7737765,ID
+Kartikasari Pujasera,Kartikasari Pujasera,restaurant,-7.278928,112.7653993,ID
+Es Teller Tanjung Anom,Es Teller Tanjung Anom,restaurant,-7.2573179,112.7366852,ID
+Excelso,Excelso,cafe,-7.2763121,112.7818725,ID
+Feliz Guest House & Cafe,Feliz Guest House & Cafe,cafe,-7.3219722,112.7463631,ID
+Florens Spa,Florens Spa,hairdresser,-7.3046922,112.7589088,ID
+French Bakery,French Bakery,bakery,-7.2889157,112.7565156,ID
+Fotokopi + Print TMB,Fotokopi + Print TMB,yes,-7.27502,112.7912564,ID
+Fresh One Bakery And Patisserie,Fresh One Bakery And Patisserie,bakery,-7.2810791,112.7320559,ID
+Fusia,Fusia,restaurant,-7.2849646,112.7315602,ID
+Teras Rumah Cafe,Teras Rumah Cafe,cafe,-7.2737522,112.7954887,ID
+Pop Smile Chicken,Pop Smile Chicken,restaurant,-7.3396913,112.7355897,ID
+The Coffee Bean & Tea Leaf,The Coffee Bean & Tea Leaf,cafe,-7.2930433,112.719656,ID
+Restaurant Padang Sederhana - Pondok Candra Indah,Restaurant Padang Sederhana - Pondok Candra Indah,restaurant,-7.3431958,112.7718274,ID
+The Harvest Patissier & Chocolatier,The Harvest Patissier & Chocolatier,bakery,-7.2899057,112.7378137,ID
+Toeng Market,Toeng Market,supermarket,-7.2571183,112.7288544,ID
+Toga MAS,Toga MAS,mall,-7.3178371,112.7406136,ID
+Toko Buku Uranus,Toko Buku Uranus,books,-7.2929367,112.7555394,ID
+Toko Nm,Toko Nm,yes,-7.2851144,112.7438578,ID
+PONDOK ALEXIS,PONDOK ALEXIS,restaurant,-7.3423056,112.7367056,ID
+Toko Oleh Oleh Bhek,Toko Oleh Oleh Bhek,yes,-7.2586371,112.7397799,ID
+Toko Oleh Oleh Sudi Mampir,Toko Oleh Oleh Sudi Mampir,yes,-7.2581877,112.7397144,ID
+Too Too Moo Patisserie,Too Too Moo Patisserie,cafe,-7.2840504,112.7360311,ID
+Karunia Sport,Karunia Sport,sports,-7.2650748,112.7957212,ID
+Warung Lesehan PANDAN SARI,Warung Lesehan PANDAN SARI,restaurant,-7.2514659,112.6522618,ID
+Ajbs Home Improvement Center,Ajbs Home Improvement Center,yes,-7.2927486,112.7454739,ID
+"Zangrandi, Ice Cream","Zangrandi, Ice Cream",cafe,-7.2635031,112.7460796,ID
+The Avenue Lounge Bar,The Avenue Lounge Bar,cafe,-7.2914353,112.7155623,ID
+Kedai Kopi (Keiko),Kedai Kopi (Keiko),cafe,-7.2858843,112.7759749,ID
+De mandailing Cafe n Eatery Jemur Sari,De mandailing Cafe n Eatery Jemur Sari,cafe,-7.322603,112.7423292,ID
+Otoclassic Cafe,Otoclassic Cafe,cafe,-7.2940318,112.7572188,ID
+GR Café (Gue Rasa ini Café),GR Café (Gue Rasa ini Café),cafe,-7.2923125,112.7495072,ID
+One Dollar Cafe,One Dollar Cafe,cafe,-7.2907982,112.7465567,ID
+Kafe Panorama,Kafe Panorama,cafe,-7.2824084,112.7622228,ID
+Shae Cafe and Eatery,Shae Cafe and Eatery,cafe,-7.2773927,112.746638,ID
+Noach Cafe & Bistro,Noach Cafe & Bistro,cafe,-7.2664268,112.7398709,ID
+Boncafe Steak & Ice Cream,Boncafe Steak & Ice Cream,restaurant,-7.2660414,112.7398197,ID
+Lentora,Lentora,restaurant,-7.2675532,112.740213,ID
+KPK Latar Ombo,KPK Latar Ombo,cafe,-7.3086561,112.7206005,ID
+Murah Jaya,Murah Jaya,yes,-7.324394,112.6987297,ID
+Le galleria,Le galleria,restaurant,-7.2939213,112.6495469,ID
+Hokky,Hokky,supermarket,-7.2928845,112.6773541,ID
+Dream of kahyangan,Dream of kahyangan,restaurant,-7.2925862,112.6546029,ID
+Warkop Damai,Warkop Damai,cafe,-7.3122818,112.7973987,ID
+After you,After you,cafe,-7.2914818,112.6478516,ID
+Tune,Tune,restaurant,-7.2832518,112.6862294,ID
+DS Bistro,DS Bistro,restaurant,-7.2862215,112.6562872,ID
+What's cook n',What's cook n',restaurant,-7.2916719,112.654897,ID
+Corea,Corea,restaurant,-7.2938572,112.6541793,ID
+Indomaret Lontar,Indomaret Lontar,convenience,-7.2827268,112.6603084,ID
+Pisa,Pisa,cafe,-7.2816688,112.6838289,ID
+Tutto Bono,Tutto Bono,restaurant,-7.2850685,112.6815365,ID
+Hartono,Hartono,electronics,-7.2828174,112.6826568,ID
+Soto Podjok,Soto Podjok,restaurant,-7.2940933,112.6502735,ID
+Himapala Unesa Kampus Ketintang,Himapala Unesa Kampus Ketintang,outdoor,-7.312959,112.7273454,ID
+Dandelion,Dandelion,beauty,-7.2881761,112.6552373,ID
+Layar Seafood,Layar Seafood,restaurant,-7.2804564,112.7675545,ID
+The golden saffron,The golden saffron,restaurant,-7.2948191,112.6546406,ID
+Viola,Viola,houseware,-7.296246,112.6542341,ID
+Meat shop,Meat shop,butcher,-7.2826576,112.6888143,ID
+House of David,House of David,hairdresser,-7.2919905,112.6735801,ID
+MIXTIX,MIXTIX,cafe,-7.2984682,112.649344,ID
+Myoung Ga,Myoung Ga,restaurant,-7.2835502,112.6859591,ID
+Pasar Bong,Pasar Bong,kiosk,-7.2385318,112.7408195,ID
+Spago,Spago,cafe,-7.290712,112.6546441,ID
+Fresh Meat Market Citraland,Fresh Meat Market Citraland,butcher,-7.2762632,112.645577,ID
+ACE,ACE,hardware,-7.2853194,112.6815925,ID
+Casa Luna,Casa Luna,restaurant,-8.5061537,115.2605184,ID
+Cafe Wayan & Bakery,"Cafe Wayan, Bakery, cooking class",cafe,-8.512843,115.2607543,ID
+Warung Ibu Dewi,Warung Ibu Dewi,restaurant,-8.6129421,115.2470729,ID
+Splash Bakery,Splash Bakery,restaurant,-8.679811,115.2586946,ID
+Randy's,Randy's,restaurant,-8.6854037,115.2621931,ID
+The Porch Cafe,The Porch Cafe,restaurant,-8.6908956,115.2631896,ID
+Smorga's,Smorga's,restaurant,-8.6936032,115.263789,ID
+Cafe Batujimbar,Cafe Batujimbar,restaurant,-8.6956183,115.2637998,ID
+The Wicked Parrot,The Wicked Parrot,restaurant,-8.6909154,115.2639171,ID
+Street Cafe,Street Cafe,restaurant,-8.6860073,115.2625136,ID
+Lotus Pond,Lotus Pond,restaurant,-8.6879205,115.2630329,ID
+La Taverna,La Taverna,restaurant,-8.6873063,115.2649121,ID
+The Village,The Village,restaurant,-8.6904727,115.2639117,ID
+White Sands,White Sands,restaurant,-8.6838791,115.2626616,ID
+made warung,Made's Warung,restaurant,-8.5033622,115.2503072,ID
+Mini Mart,Mini Mart,convenience,-8.6976829,115.1621495,ID
+Ary's Bookstore,Ary's Bookstore,books,-8.5067722,115.2617993,ID
+BB's Restaurant,BB's Restaurant,restaurant,-8.5071966,115.2634988,ID
+Geger,Geger,general,-8.5064033,115.2623623,ID
+Warung Pregina,Warung Pregina,restaurant,-8.6910199,115.2636301,ID
+Nogo,Nogo,restaurant,-8.6907735,115.2636384,ID
+Wapo KKN,Wapo KKN,restaurant,-8.6841904,115.259831,ID
+Ryoshi,Ryoshi,restaurant,-8.6966447,115.2633814,ID
+Retro Resto,Retro Resto,restaurant,-8.6928161,115.2634887,ID
+The Glass House,The Glass House,restaurant,-8.6864166,115.2625944,ID
+Kedai Noni,Kedai Noni,motorcycle,-8.6508114,115.1892342,ID
+Bali Buda Kerobokan,Bali Buda Kerobokan,restaurant,-8.6485976,115.1616051,ID
+Bintang Supermarket Seminyak,Bintang Supermarket Seminyak,supermarket,-8.6942062,115.1680418,ID
+Ting-Ting Gallery,Ting-Ting Gallery,gift,-8.5036411,115.2471215,ID
+Cinnamon,Cinnamon,restaurant,-8.6889243,115.2633538,ID
+BALI BRIDAL BOUTIQUE,BALI BRIDAL BOUTIQUE,boutique,-8.6788349,115.2583828,ID
+BIRO PERJALANAN WISATA NUANSA BALI,BIRO PERJALANAN WISATA NUANSA BALI,travel_agency,-8.6772026,115.2591526,ID
+LORENA TRANSPORT DAN PARIWISATA,LORENA TRANSPORT DAN PARIWISATA,travel_agency,-8.6773439,115.2591171,ID
+Furama,Furama,restaurant,-8.6806618,115.2594399,ID
+Bali Tours And Travel,Bali Tours And Travel,travel_agency,-8.6743696,115.2591125,ID
+Laundry ku,Laundry ku,laundry,-8.6746924,115.2572893,ID
+Minimarket,Minimarket,variety_store,-8.6747026,115.2573806,ID
+Yin Yang Collection,Yin Yang Collection,variety_store,-8.6747193,115.2594802,ID
+Surya Ukir,Surya Ukir,furniture,-8.674709,115.257563,ID
+Warung es,Warung es,beverages,-8.6745797,115.2570782,ID
+Warung Makan Muslim,Warung Makan Muslim,restaurant,-8.6747029,115.2574853,ID
+lounge Restaurant,lounge Restaurant,restaurant,-8.6741857,115.2592171,ID
+Scoot fast cruises,Scoot fast cruises,travel_agency,-8.6741921,115.2600384,ID
+Celluler Phone Kios,Celluler Phone Kios,kiosk,-8.6746326,115.2564903,ID
+LotusMart,LotusMart,convenience,-8.6746876,115.2585725,ID
+Bengkel Sanur,Bengkel Sanur,hardware,-8.6746522,115.2593536,ID
+bird kios,bird kios,pet,-8.6745068,115.2548737,ID
+Tini Collection,Tini Collection,clothes,-8.6746999,115.2590422,ID
+Butik dan Distro,Butik dan Distro,shoes,-8.6743772,115.2549103,ID
+Duta Orchid,Duta Orchid,florist,-8.6743097,115.2539086,ID
+Kios Minuman,Kios Minuman,kiosk,-8.6743768,115.254815,ID
+Lady Salon,Lady Salon,hairdresser,-8.6744728,115.2566951,ID
+Penjual Tanaman,Penjual Tanaman,garden_centre,-8.6741835,115.2536243,ID
+Play Station,Play Station,toys,-8.6743746,115.2548568,ID
+Satifa Boga,Satifa Boga,supermarket,-8.674485,115.2566412,ID
+Pedagang Kaki Lima,Pedagang Kaki Lima,kiosk,-8.6718685,115.2620514,ID
+Warung Ijo Ubud,Warung Ijo Ubud,restaurant,-8.508048,115.2648458,ID
+Queen's Tandoor - Seminyak,Queen's Tandoor - Seminyak,restaurant,-8.6891855,115.1673317,ID
+Warung Fast Adhy,Warung Fast Adhy,restaurant,-8.6427386,115.112691,ID
+SPBU Pertamina 54.801.32,SPBU Pertamina 54.801.32,fuel,-8.687005,115.1867265,ID
+Bali Buda Ubud,Bali Buda,restaurant,-8.5091193,115.2668936,ID
+D'Bastket,D'Bastket,restaurant,-8.509045,115.2685995,ID
+Seniman Coffee Studio,Seniman Coffee Studio,cafe,-8.5067323,115.2651985,ID
+The Corner House,The Corner House,cafe,-8.6833913,115.1643102,ID
+Bale Bali,Bale Bali,restaurant,-8.6890169,115.1700092,ID
+Sardine,Sardine,restaurant,-8.6711565,115.1626278,ID
+Naughty Nuri's,Naughty Nuri's,restaurant,-8.6725989,115.1570058,ID
+Periplus Bookstore,Periplus Bookstore,books,-8.6884723,115.1702522,ID
+Casa Gourmet Deli,Casa Gourmet Deli,convenience,-8.6833482,115.157062,ID
+Zanzibar Restaurant,Zanzibar Restaurant,restaurant,-8.6983192,115.1624731,ID
+Blue Ocean Restaurant,Blue Ocean Restaurant,restaurant,-8.6989703,115.1629414,ID
+La Boulangerie de Bali,La Boulangerie de Bali,bakery,-8.6943973,115.1680185,ID
+Sip Restaurant & Wine Bar,Sip Restaurant & Wine Bar,restaurant,-8.69378,115.1683376,ID
+Biasa Clothes shop,Biasa Clothes shop,clothes,-8.6926058,115.1680839,ID
+Biasa Discount Clothes shop,Biasa Discount Clothes shop,clothes,-8.6928043,115.1681766,ID
+Sabbatha bags,Sabbatha bags,clothes,-8.6887213,115.1673672,ID
+Glo Day Spa,Glo Day Spa,hairdresser,-8.6886257,115.1715026,ID
+Prana Spa,Prana Spa,massage,-8.6887635,115.1705263,ID
+Chill reflexology,Chill reflexology,hairdresser,-8.6887529,115.1700542,ID
+Sandio Shoe shop,Sandio Shoe shop,clothes,-8.6830788,115.1656876,ID
+Sarong Restaurant,Sarong Restaurant,restaurant,-8.6770817,115.1546454,ID
+CV Beads Jewellery,CV Beads Jewellery,jewelry,-8.6946284,115.1678011,ID
+Uma & Leopold Clothes shop,Uma & Leopold Clothes shop,clothes,-8.6916589,115.1681015,ID
+Puravida Clothes shop,Puravida Clothes shop,clothes,-8.6920831,115.1681015,ID
+Innuendo Clothes shop,Innuendo Clothes shop,clothes,-8.691574,115.1675866,ID
+Lulu Jasmine clothes shop,Lulu Jasmine clothes shop,clothes,-8.691201,115.1676343,ID
+Magali Pascal clothes shop,Magali Pascal clothes shop,clothes,-8.6901105,115.1673505,ID
+Scandi Jewellery,Scandi Jewellery,jewelry,-8.6911922,115.1679728,ID
+St Isodor cotton range,St Isodor cotton range,clothes,-8.6836622,115.1641533,ID
+Joy Jewellery,Joy Jewellery,jewelry,-8.6840147,115.1622132,ID
+By the Sea clothes shop,By the Sea clothes shop,clothes,-8.683495,115.1635328,ID
+Uma and Leopold clothes shop,Uma and Leopold clothes shop,clothes,-8.683548,115.1632431,ID
+Bamboo Blonde clothes shop,Bamboo Blonde clothes shop,clothes,-8.684126,115.1616016,ID
+Cafe Moka,Cafe Moka,cafe,-8.6875835,115.1676634,ID
+La Sal Restaurant,La Sal Restaurant,restaurant,-8.6896783,115.1647161,ID
+Platform 18/27,Platform 18/27,clothes,-8.6832033,115.1647881,ID
+Bali Bakery,Bali Bakery,bakery,-8.6835745,115.157235,ID
+Pizza Club,Pizza Club,restaurant,-8.6841176,115.1590473,ID
+Cafe Bali,Cafe Bali,restaurant,-8.6840734,115.1600515,ID
+Bali Catering company,Bali Catering company,restaurant,-8.6808382,115.1525572,ID
+Lilla Lane,Lilla Lane,clothes,-8.6879703,115.1675553,ID
+Espace Spa,Espace Spa,hairdresser,-8.6879123,115.1672772,ID
+Haveli homewares,Haveli homewares,gift,-8.6874457,115.1672772,ID
+Chandi Restaurant,Chandi Restaurant,restaurant,-8.6840493,115.158344,ID
+Kunis Restaurant,Kunis Restaurant,restaurant,-8.6840212,115.1614663,ID
+Perlu Jewellery,Perlu Jewellery,jewelry,-8.6839355,115.1626701,ID
+Zucchini cafe,Zucchini cafe,cafe,-8.6837234,115.1635606,ID
+Threads of Life,Threads of Life,clothes,-8.5046353,115.2623233,ID
+Grocer & Grind,Grocer & Grind,restaurant,-8.6826549,115.1576159,ID
+Mama San Bali,Mama San Bali,restaurant,-8.682139,115.1646515,ID
+Sate Bali,Sate Bali,restaurant,-8.6859467,115.1566149,ID
+Lanai Restaurant,Lanai Restaurant,restaurant,-8.6985331,115.1625665,ID
+Warung Mendez,Warung Mendez,restaurant,-8.5064358,115.253482,ID
+Starry House,Starry House,restaurant,-8.691725,115.2634411,ID
+Lala Lili Warung,Lala Lili Warung,restaurant,-8.5031173,115.251329,ID
+Mama's Warung,Mama's Warung,restaurant,-8.5131772,115.2680437,ID
+Bubu Warung,Bubu Warung,restaurant,-8.5058885,115.2502279,ID
+Bayu's Kitchen,Bayu's Kitchen,restaurant,-8.5058107,115.2506119,ID
+Texas BBQ,Texas BBQ,restaurant,-8.5174744,115.2501882,ID
+The Cook,The Cook,restaurant,-8.6995503,115.1672319,ID
+Cafe Vespa,Cafe Vespa,cafe,-8.5036039,115.2473193,ID
+Kafe Desa,Kafe Desa,cafe,-8.5054627,115.2478132,ID
+Ibu Rai,Ibu Rai,restaurant,-8.5093158,115.2616342,ID
+Budiani Restaurant,Budiani Restaurant,restaurant,-8.6953903,115.2271656,ID
+Internet Sartika,Internet Sartika,cafe,-8.6956026,115.2269322,ID
+J.Co Donuts,J.Co Donuts,cafe,-8.6364043,115.2145279,ID
+Mako,Mako,bakery,-8.6363299,115.2147393,ID
+Morodadi,Morodadi,bicycle,-8.5193644,115.2686487,ID
+Sunset Point Shopping Centre,Sunset Point Shopping Centre,supermarket,-8.6827001,115.1665129,ID
+Bintang,Bintang,supermarket,-8.6286101,115.1716127,ID
+Pom Bensin,Pom Bensin,fuel,-8.6294555,115.1729756,ID
+Pepito Express,Pepito Express,supermarket,-8.6732077,115.1650088,ID
+Frestive Supermarket,Frestive Supermarket,supermarket,-8.6733893,115.1650478,ID
+Warung Taulan,Warung Taulan,restaurant,-8.6632682,115.1700941,ID
+Warung De Daun,Warung De Daun,restaurant,-8.6641977,115.1702499,ID
+Alchemy,Alchemy,restaurant,-8.5062694,115.2516214,ID
+Pujasera HR,Pujasera HR,restaurant,-8.6254506,115.1713458,ID
+Pompa Bensin,Pompa Bensin,fuel,-8.6490072,115.1863788,ID
+Pondok Udang,Pondok Udang,restaurant,-8.6997435,115.1832819,ID
+Niluh Djelantik,Niluh Djelantik,clothes,-8.6767659,115.1549755,ID
+Blooming Village,Blooming Village,bar;restaurant,-8.6680823,115.1641766,ID
+Warung Hotei,Warung Hotei,restaurant,-8.6686151,115.1621531,ID
+Canderi restaurant and homestay,Canderi restaurant and homestay,restaurant,-8.5076017,115.262289,ID
+Nomad,Nomad,restaurant,-8.5079412,115.2646279,ID
+Miro's Garden Restaurant,Miro's Garden Restaurant,restaurant,-8.5057485,115.2591296,ID
+Chat,Chat,cafe,-8.6892803,115.1719939,ID
+Anomali Coffee,Anomali Coffee,cafe,-8.5082128,115.2652001,ID
+Eclipse Cafe,Eclipse Cafe,cafe,-8.5060479,115.2624791,ID
+Gelato Secrets,Gelato Secrets,cafe,-8.5078741,115.2647674,ID
+Queen's of India,Queen's of India,restaurant,-8.5061958,115.2624423,ID
+Ubud Music,Ubud Music,variety_store,-8.5063453,115.2610844,ID
+Warung,Warung,cafe,-8.565601,115.2133735,ID
+bengham arum,bengham arum,convenience,-8.5654517,115.2134166,ID
+Warung Bu Eka,Warung Bu Eka,convenience,-8.5688263,115.2196326,ID
+SPBU Pertamina 54.803.19,SPBU Pertamina 54.803.19,fuel,-8.6890239,115.1717806,ID
+greenschool kitchen,greenschool kitchen,restaurant,-8.5686444,115.2155484,ID
+Pak Agung Shop,Pak Agung Shop,yes,-8.5692548,115.2193157,ID
+Mei Eco Market,Mei Eco Market,yes,-8.566571,115.2127996,ID
+Warung ibu jero,Warung ibu jero,cafe,-8.5675202,115.2127067,ID
+pabrik Roti,pabrik Roti,farm,-8.6607807,115.209337,ID
+Warung Putu,Warung Putu,cafe,-8.5691247,115.2155186,ID
+Warung Praba,Warung Praba,cafe,-8.5691857,115.2150921,ID
+Warung Tokek,Warung Tokek,cafe,-8.5686181,115.2162362,ID
+warung ibu ayu,warung ibu ayu,cafe,-8.5675767,115.2103701,ID
+Warung wayan,Warung wayan,cafe,-8.5646495,115.2112547,ID
+Warung Ketut,Warung Ketut,cafe,-8.5642697,115.2113755,ID
+Shop,Shop,yes,-8.5641374,115.2114575,ID
+KSD,KSD,restaurant,-8.6945817,115.2380308,ID
+Waroeng SS,Waroeng SS,restaurant,-8.6843056,115.230584,ID
+Bali Golden Tour,Bali Golden Tour,travel_agency,-8.6161939,115.2255035,ID
+Bamboo Café,Bamboo Café,restaurant,-8.5095805,115.2617633,ID
+Chili Café,Chili Café,restaurant,-8.521248,115.2567396,ID
+Monsieur Spoon,Monsieur Spoon,cafe,-8.6516044,115.1342025,ID
+Tendaku,Tendaku,restaurant,-8.67734,115.2305475,ID
+Asia Bali Tour,Asia Bali Tour,travel_agency,-8.6055558,115.2242439,ID
+BALI TOURS,BALI TOURS,travel_agency,-8.6112096,115.2220275,ID
+Manga Madu,Manga Madu,restaurant,-8.5093598,115.2717004,ID
+Bobby's,Bobby's,restaurant,-8.669183,115.166907,ID
+Jazz & Grill,Jazz & Grill,restaurant,-8.6739417,115.2590818,ID
+Sari Organik,Sari Organik,restaurant,-8.5064023,115.2532215,ID
+Sen-San's warung,Sen-San's warung,restaurant,-8.5096417,115.2630088,ID
+Warung Hana,Warung Hana,restaurant,-8.5232739,115.2755999,ID
+Bali Deli,Bali Deli,restaurant,-8.698424,115.262905,ID
+Trattoria,Trattoria,restaurant,-8.6643827,115.146503,ID
+Mano Seaside Cafe,Mano Seaside Cafe,restaurant,-8.6817386,115.1514633,ID
+Jaen's Spa,Jaens Spa Ubud,massage,-8.5214415,115.2630284,ID
+Sura's Warung,Sura's Warung,cafe,-8.5043968,115.2623558,ID
+Stars Bar Bistro,stars bistro,restaurant,-8.696897,115.263546,ID
+Grocer and Grind,Grocer and Grind,restaurant,-8.696827,115.263326,ID
+Tootsies,Tootsies,clothes,-8.683825,115.26396,ID
+Pertamina 54.803.06 Gas Station,Pertamina 54.803.06 Gas Station,fuel,-8.6729773,115.1651785,ID
+El Comedor,El Comedor,restaurant,-8.69585,115.263491,ID
+Coriander,Coriander,restaurant,-8.697916,115.262918,ID
+TABRA,TABRA,jewelry,-8.5102801,115.264876,ID
+Mai Malu Warung,Mai Malu Warung,restaurant,-8.5096385,115.2641847,ID
+Dapoer,Dapoer,restaurant,-8.5127291,115.2371347,ID
+Yeh Pulu,Yeh Pulu,cafe,-8.5298512,115.2929364,ID
+Bali Bohemia,Bali Bohemia,restaurant,-8.5194508,115.2578959,ID
+KZU Sunset,KZU Sunset,restaurant,-8.6824466,115.1654188,ID
+Desa Seni,Desa Seni,restaurant,-8.666094,115.1467352,ID
+Gusti's Warung - good food,Gusti's Warung - good food,restaurant,-8.5036513,115.2625883,ID
+La Plancha Beach Bar & Restaurant,La Plancha Beach Bar & Restaurant,restaurant,-8.6945935,115.159758,ID
+Bata resto,Bata resto,restaurant,-8.689637,115.265799,ID
+Indochine,Indochine,restaurant,-8.5181027,115.2632203,ID
+Starbucks Coffee - Danau Tamblingan,Starbucks Coffee - Danau Tamblingan,cafe,-8.690239,115.2637581,ID
+Cinta grill and inn,Cinta grill and inn,restaurant,-8.5128728,115.2609511,ID
+Little Bird,Little Bird,restaurant,-8.6859977,115.262341,ID
+Matahari Department Store,Matahari Department Store,department_store,-8.6699369,115.2173492,ID
+Gramedia,Gramedia,books,-8.6700453,115.2175864,ID
+Ayam Goreng Kalasan,Ayam Goreng Kalasan,restaurant,-8.6667631,115.2297178,ID
+Ayam Goreng Prambanan,Ayam Goreng Prambanan,restaurant,-8.6667953,115.2298967,ID
+Royal Laundry,Royal Laundry,laundry,-8.6787798,115.2051992,ID
+Oppo,Oppo,mobile_phone,-8.6691808,115.2113966,ID
+Innovation Store by DRTV,Innovation Store by DRTV,electronics,-8.669194,115.2114744,ID
+Gallery Mobile Phone,Gallery Mobile Phone,mobile_phone,-8.6692099,115.2118955,ID
+Rajawali Cellular,Rajawali Cellular,mobile_phone,-8.669194,115.211756,ID
+Litama Jewelry,Litama Jewelry,jewelry,-8.6691861,115.2116031,ID
+Rubby Salon & Gaun Pengantin,Rubby Salon & Gaun Pengantin,clothes,-8.6691887,115.2116863,ID
+NAV Karaoke,NAV Karaoke,cafe,-8.6688732,115.2131561,ID
+Chatime,Chatime,cafe,-8.669183,115.2138274,ID
+Full House,Full House,toys,-8.6696004,115.2127242,ID
+AntaTour,AntaTour,ticket,-8.6698139,115.2165699,ID
+Betelnut,Betelnut,cafe,-8.651964,115.1335657,ID
+Deus Ex Machina,Deus Ex Machina,cafe,-8.6512462,115.1333853,ID
+Nadira Stationery,Nadira Stationery,stationery,-8.6782743,115.2243174,ID
+New Release DVD,New Release DVD,video,-8.6782743,115.224243,ID
+Minimart,Minimart,convenience,-8.6787359,115.2255963,ID
+Mie Goreng Makassar,Mie Goreng Makassar,restaurant,-8.675481,115.2075205,ID
+L. Figo Cellular,L. Figo Cellular,mobile_phone,-8.675213,115.2076684,ID
+Prima Moda,Prima Moda,clothes,-8.67528,115.2076315,ID
+Ria Busana,Ria Busana,clothes,-8.6753409,115.2076037,ID
+Bali Permai,Bali Permai,watches,-8.6749276,115.2077334,ID
+Dayu's Warung,Dayu's Warung,restaurant,-8.5124039,115.2653734,ID
+Purimas III,Purimas III,bakery,-8.6811657,115.1984457,ID
+Robinsons,Robinsons,supermarket,-8.6918618,115.2171676,ID
+Agung Raka Resort & Villa,Agung Raka Resort & Villa,restaurant,-8.5236733,115.2631236,ID
+Who's Who,Who's Who,restaurant,-8.5213373,115.2636736,ID
+Brite,Brite,laundry,-8.6745447,115.2078129,ID
+Victory Cell,Victory Cell,mobile_phone,-8.6746083,115.2077968,ID
+Lily Kasoem,Lily Kasoem,optician,-8.6747091,115.2077807,ID
+Mitsubishi,Mitsubishi,car,-8.6791637,115.2049833,ID
+Toko Bangunan Daya Murti,Toko Bangunan Daya Murti,doityourself,-8.6788957,115.2050579,ID
+Toko Lampu Daya Dian,Toko Lampu Daya Dian,electronics,-8.6788362,115.205111,ID
+Onion Collective,Onion Collective,restaurant,-8.5207677,115.2625864,ID
+Balipulsa,Balipulsa,mobile_phone,-8.6722618,115.2085155,ID
+Dupa Wangi Gayathri,Dupa Wangi Gayathri,religion,-8.6723195,115.2084359,ID
+Inbox,Inbox,mobile_phone,-8.6713781,115.2090083,ID
+Solozen Handphone Accessories,Solozen Handphone Accessories,mobile_phone,-8.6714918,115.2089835,ID
+3Second,3Second,clothes,-8.6718762,115.2086413,ID
+Samsung,Samsung,electronics,-8.6719085,115.2086156,ID
+KissMiss,KissMiss,clothes,-8.6706077,115.2100217,ID
+iWear Sunglasses,iWear Sunglasses,optician,-8.6706539,115.2100359,ID
+Bali Djaja Foodmarket,Bali Djaja Foodmarket,greengrocer,-8.6707564,115.2099058,ID
+Lé'Sica Bakery - Bali,Lé'Sica Bakery - Bali,bakery,-8.6708287,115.2099017,ID
+Beatrix Spa,Beatrix Spa,beauty,-8.6969873,115.1641387,ID
+Nike,Nike,clothes,-8.6736326,115.2081543,ID
+Fitplus,Fitplus,sports,-8.6737445,115.2080997,ID
+Diponegoro Dimsum,Diponegoro Dimsum,restaurant,-8.6758446,115.2155038,ID
+Optik Sanglah,Optik Sanglah,optician,-8.6758815,115.2154963,ID
+678 Photocopiers and Printing,678 Photocopiers and Printing,copyshop,-8.6759199,115.2154844,ID
+Florence Bakery,Florence Bakery,bakery,-8.6728597,115.222488,ID
+Metro Convenience,Metro Convenience,convenience,-8.6703663,115.2280474,ID
+Buccheri,Buccheri,shoes,-8.6656084,115.2152033,ID
+Mewah,Mewah,bag,-8.6657152,115.2152041,ID
+Ayam Campus,Ayam Campus,restaurant,-8.6659845,115.2147267,ID
+Optik Diponegoro,Optik Diponegoro,optician,-8.6658213,115.2152068,ID
+Optik Anugerah,Optik Anugerah,optician,-8.6659617,115.2152275,ID
+Samudera Electronic,Samudera Electronic,electronics,-8.666044,115.2152275,ID
+Notebook Shop,Notebook Shop,computer,-8.6675557,115.215301,ID
+Lorena Bus,Lorena Bus,ticket,-8.6651451,115.2149159,ID
+Masterkindo,Masterkindo,electronics,-8.665389,115.2150312,ID
+Bali Printing Centre,Bali Printing Centre,copyshop,-8.665389,115.214763,ID
+Istabutik,Istabutik,boutique,-8.6734561,115.2336665,ID
+Conato Bakery,Conato Bakery,bakery,-8.6734382,115.2340709,ID
+Up2date,Up2date,religion,-8.6734604,115.2341705,ID
+Kedai Kelle,Kedai Kelle,restaurant,-8.6738109,115.2323871,ID
+Kayika,Kayika,religion,-8.6563004,115.2256804,ID
+Yamaha,Yamaha,motorcycle,-8.6574047,115.2306744,ID
+Fresco Sports Cafe & Grill,Fresco Sports Cafe & Grill,cafe,-8.6372979,115.2357792,ID
+Jaya Abadi Motor,Jaya Abadi Motor,car_parts,-8.6579926,115.2097527,ID
+Optik Komplit Jaya,Optik Komplit Jaya,optician,-8.6579584,115.2097608,ID
+Textile Plus,Textile Plus,clothes,-8.6577992,115.2098218,ID
+Suzuki,Suzuki,motorcycle,-8.6576746,115.2098539,ID
+Ideal Home Furniture,Ideal Home Furniture,furniture,-8.6609356,115.2090487,ID
+CV. Nasional,CV. Nasional,car_parts,-8.6608009,115.2090873,ID
+Columbus,Columbus,electronics,-8.6558608,115.2101493,ID
+Istana House of Music,Istana House of Music,music,-8.6586816,115.2126373,ID
+Miss Cherry,Miss Cherry,clothes,-8.6586885,115.2127073,ID
+Morodadi Sport,Morodadi Sport,sports,-8.6590048,115.2128871,ID
+Sinar Terang,Sinar Terang,shoes,-8.663348,115.2150994,ID
+Safari Dharma Raya,Safari Dharma Raya,ticket,-8.6632956,115.2150924,ID
+Sweet Dance Studio,Sweet Dance Studio,sports,-8.6632501,115.2150865,ID
+Exsport,Exsport,bag,-8.6626051,115.2149823,ID
+Modis Bag & Shoes,Modis Bag & Shoes,shoes,-8.6625562,115.2149776,ID
+REI,REI,outdoor,-8.6623104,115.2149575,ID
+Happy Bags,Happy Bags,bag,-8.6620856,115.2149375,ID
+Lea,Lea,clothes,-8.6618049,115.2148751,ID
+Toko Sandal & Sepatu Cantik,Toko Sandal & Sepatu Cantik,shoes,-8.6611305,115.2149485,ID
+Bata,Bata,shoes,-8.6610737,115.2149501,ID
+Cibaduyut,Cibaduyut,bag,-8.661003,115.2149532,ID
+Indah Jaya Furniture,Indah Jaya Furniture,furniture,-8.6626982,115.2152703,ID
+Bandung Leather Store,Bandung Leather Store,bag,-8.6628158,115.2153061,ID
+Fipper,Fipper,shoes,-8.6628504,115.2153076,ID
+Idola Baru,Idola Baru,variety_store,-8.6575608,115.2098615,ID
+Pie Susu Regina,Pie Susu Regina,bakery,-8.6572158,115.209927,ID
+Sinar Printing,Sinar Printing,copyshop,-8.6566984,115.2100291,ID
+Spa Bali,Spa Bali,massage,-8.691298,115.1646604,ID
+Lucky Day Restaurant,Lucky Day Restaurant,restaurant,-8.6913344,115.1639926,ID
+Toyobo Istana Elektronik,Toyobo Istana Elektronik,electronics,-8.6648506,115.2152514,ID
+Mama & Leon,Mama & Leon,clothes,-8.6693968,115.2213906,ID
+Dharma Teas,Dharma Teas,tea,-8.6624928,115.232247,ID

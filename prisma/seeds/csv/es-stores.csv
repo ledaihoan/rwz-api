@@ -1,0 +1,827 @@
+name,name_en,service_type,lat,lng,country_code
+Repsol AutoGas,Repsol AutoGas,fuel,40.3995727,-3.7329825,ES
+Galp,Galp,fuel,40.373567,-3.7432466,ES
+Café Comercial,Café Comercial,restaurant,40.4287093,-3.701972,ES
+Honest Greens,Honest Greens,restaurant,40.4270276,-3.7016997,ES
+Alcampo,Alcampo,supermarket,40.480352,-3.7068876,ES
+Los arcángeles de Las Rosas,Los arcángeles de Las Rosas,lottery,40.4285305,-3.6050886,ES
+La Parrilla de Nino,La Parrilla de Nino,restaurant,40.4257656,-3.7120898,ES
+Taj Mahal,Taj Mahal,restaurant,40.42514,-3.7118533,ES
+La Pomarada,La Pomarada,restaurant,40.426008,-3.7115084,ES
+Sexto,Sexto,restaurant,40.4252476,-3.6963836,ES
+Repsol,Repsol,fuel,40.4402978,-3.7179406,ES
+Brasa y Leña,Brasa y Leña,restaurant,40.4162327,-3.7088498,ES
+100 Montaditos,100 Montaditos,restaurant,40.4136118,-3.7087304,ES
+El Viajero,El Viajero,restaurant,40.4116487,-3.7101786,ES
+Tío Timón,Tío Timón,restaurant,40.4131593,-3.7117469,ES
+Taquería del Alamillo,Taquería del Alamillo,restaurant,40.4137154,-3.7127335,ES
+"Librería ""Arranca Thelma""","Librería ""Arranca Thelma""",books,40.4135438,-3.7126525,ES
+Casa Ginés,Casa Ginés,restaurant,40.485413,-3.6852544,ES
+Mesón Gallego,Mesón Gallego,restaurant,40.4857882,-3.6926733,ES
+Queen Burger Gourmet,Queen Burger Gourmet,restaurant,40.4855645,-3.6920333,ES
+tele-bocata,tele-bocata,restaurant,40.4862924,-3.6924531,ES
+Floralbir,Floralbir,florist,40.4858578,-3.6862337,ES
+Exp. nº 326,Exp. nº 326,tobacco,40.4859986,-3.6865262,ES
+Peluquería caballeros Florencio,Peluquería caballeros Florencio,hairdresser,40.484238,-3.6871567,ES
+Casa Mouriño,Casa Mouriño,restaurant,40.485544,-3.6895993,ES
+chinos alimentación,chinos alimentación,convenience,40.4860809,-3.6903822,ES
+Carnicería Pollería José Martin,Carnicería Pollería José Martin,butcher,40.485625,-3.6883678,ES
+Tapería de Fuencarral,Tapería de Fuencarral,restaurant,40.4849065,-3.68482,ES
+Dia,Dia,supermarket,40.4854304,-3.6902918,ES
+Globalpiso,Globalpiso,seafood,40.4865637,-3.6900576,ES
+Exp. nº 148,Exp. nº 148,tobacco,40.4865441,-3.6903559,ES
+Condemar,Condemar,cafe,40.4463777,-3.7149013,ES
+Taberna la Tortuga,Taberna la Tortuga,restaurant,40.4468248,-3.714308,ES
+Estanco,Estanco,tobacco,40.4467104,-3.7136781,ES
+Frutería,Frutería,supermarket,40.4873888,-3.6898562,ES
+Restaurante otavaleño,Restaurante otavaleño,restaurant,40.4868023,-3.6892489,ES
+M-KOR,M-KOR,supermarket,40.4864013,-3.6887967,ES
+Taller T y J,Taller T y J,car_repair,40.4858345,-3.6892715,ES
+MultiPan's,MultiPan's,bakery,40.4858434,-3.6894525,ES
+Ferretería JA,Ferretería JA,hardware,40.4860185,-3.6901201,ES
+Ferretería de Aluminio Carmetal,Ferretería de Aluminio Carmetal,hardware,40.4870215,-3.6890489,ES
+"Supermercado ""GAMA""","Supermercado ""GAMA""",supermarket,40.4865081,-3.6893842,ES
+"Frutería ""María del Mar""","Frutería ""María del Mar""",greengrocer,40.4864428,-3.6892626,ES
+Restaurante Fereva,Restaurante Fereva,restaurant,40.4854963,-3.6895029,ES
+"Panadería pastelería ""Marines""","Panadería pastelería ""Marines""",bakery,40.4839533,-3.6883279,ES
+"Pan y bebidas ""José María""","Pan y bebidas ""José María""",bakery,40.4845081,-3.68723,ES
+Food Basics,Food Basics,supermarket,40.4851104,-3.6877452,ES
+Cafetería Filosofía,Cafetería Filosofía,restaurant,40.4486523,-3.7297735,ES
+Quiosco Prado,Quiosco Prado,kiosk,40.4093955,-3.6917429,ES
+Fuente de la Fama,Fuente de la Fama,restaurant,40.4115676,-3.6978097,ES
+Casa Pajuelo,Casa Pajuelo,deli,40.4109761,-3.6961428,ES
+A Cañada,A Cañada,restaurant,40.4112109,-3.69567,ES
+Alimentación Mantequería,Alimentación Mantequería,convenience,40.4125053,-3.695567,ES
+Arrocería Gala,Arrocería Gala,restaurant,40.412427,-3.6963071,ES
+El Fogón Verde,El Fogón Verde,restaurant,40.4122937,-3.6939658,ES
+Moratin 40,Moratin 40,restaurant,40.4125537,-3.6951865,ES
+El Rábano,El Rábano,restaurant,40.4134319,-3.6957085,ES
+Terra Mundi,Terra Mundi,restaurant,40.4136237,-3.6960696,ES
+Edelweiss,Edelweiss,restaurant,40.4169233,-3.6966322,ES
+El Secreto de Castilla,El Secreto de Castilla,restaurant,40.4171806,-3.6965924,ES
+Sagardi,Sagardi,restaurant,40.4173325,-3.6966034,ES
+Vegetariano,Vegetariano,restaurant,40.416822,-3.6971908,ES
+La Feria del Mar,La Feria del Mar,seafood,40.4044125,-3.7022852,ES
+Carnicería,Carnicería,butcher,40.4042641,-3.7021908,ES
+Movileo.com,Movileo.com,mobile_phone,40.4039813,-3.7019736,ES
+Chinos - alimentación,Chinos - alimentación,convenience,40.4029771,-3.7011902,ES
+Granier,Granier,bakery,40.4046885,-3.7019897,ES
+La Verde Doncella,La Verde Doncella,greengrocer,40.4044417,-3.7018264,ES
+Alimentación,Alimentación,convenience,40.4041585,-3.7013673,ES
+Uskar,Uskar,restaurant,40.4040925,-3.7009208,ES
+La Sirena,La Sirena,frozen_food,40.4036812,-3.7012155,ES
+El encuentro,El encuentro,cafe,40.4037836,-3.7001622,ES
+El Valle,El Valle,restaurant,40.4037373,-3.6995978,ES
+Tia Julia,Tia Julia,restaurant,40.4049362,-3.6986721,ES
+Ramen Kagura,Ramen Kagura,restaurant,40.4051914,-3.6973199,ES
+Mercadona,Mercadona,supermarket,40.4028283,-3.696878,ES
+Mama Teresa Burger,Mama Teresa Burger,restaurant,40.4038286,-3.6964406,ES
+Atocha Tandoori,Atocha Tandoori,restaurant,40.4050712,-3.6952969,ES
+Exp. nº 84,Exp. nº 84,tobacco,40.4047475,-3.6960825,ES
+Mercado Jamón Ibérico,Mercado Jamón Ibérico,food,40.4153818,-3.7117251,ES
+Horno San Onofre,Horno San Onofre,bakery,40.4151983,-3.7116427,ES
+Arcade,Arcade,restaurant,40.4152606,-3.7115508,ES
+Cruz Blanca,Cruz Blanca,restaurant,40.4156653,-3.7102121,ES
+Jiao Jiao,Jiao Jiao,restaurant,40.4155515,-3.7099687,ES
+Taste Gallery,Taste Gallery,restaurant,40.4153729,-3.7094547,ES
+SuperSano,SuperSano,convenience,40.4157426,-3.7092046,ES
+Taberneros,Taberneros,restaurant,40.4163669,-3.7104348,ES
+Arbonaida,Arbonaida,restaurant,40.4164826,-3.7106873,ES
+Chocolatería San Ginés,Chocolatería San Ginés,cafe,40.4167707,-3.706803,ES
+Grazie Mille,Grazie Mille,restaurant,40.4161161,-3.7075072,ES
+Entre suspiro y suspiro,Entre suspiro y suspiro,restaurant,40.4186369,-3.7090308,ES
+Ópera Victoria,Ópera Victoria,restaurant,40.4185506,-3.7089327,ES
+Are you ready?,Are you ready?,cosmetics,40.4192196,-3.7081865,ES
+Wok King,Wok King,restaurant,40.4195999,-3.7077336,ES
+Locutorio,Locutorio,internet_cafe,40.4190914,-3.7080699,ES
+Taberna de los Ángeles,Taberna de los Ángeles,restaurant,40.4186643,-3.7082433,ES
+Prep‘ la Crêpe,Prep‘ la Crêpe,restaurant,40.4196449,-3.7070086,ES
+Viandas de Salamanca,Viandas de Salamanca,deli,40.4187951,-3.704916,ES
+El Gaucho,El Gaucho,restaurant,40.418183,-3.7031236,ES
+Vianvi,Vianvi,cafe,40.4185047,-3.7034827,ES
+Artemisa - Gran Vía,Artemisa - Gran Vía,restaurant,40.4192239,-3.7029032,ES
+Casa del Libro,Casa del Libro,books,40.4199471,-3.7032509,ES
+Takos Al Pastor,Takos Al Pastor,restaurant,40.4192518,-3.7034321,ES
+OVNI,OVNI,cafe,40.4193676,-3.703326,ES
+Skechers,Skechers,shoes,40.4199982,-3.7038692,ES
+Starbucks,Starbucks,cafe,40.4202661,-3.7028563,ES
+Ray-Ban Madrid,Ray-Ban Madrid,fashion_accessories,40.4204361,-3.7052856,ES
+Preity Raj,Preity Raj,restaurant,40.4102862,-3.7008582,ES
+Raja Mahal,Raja Mahal,restaurant,40.4111374,-3.700326,ES
+Moharaj,Moharaj,restaurant,40.4110886,-3.700589,ES
+Nap,Nap,restaurant,40.4108202,-3.7005322,ES
+Bombay Palace,Bombay Palace,restaurant,40.4107264,-3.7008747,ES
+El Despertar,El Despertar,cafe,40.4107804,-3.6994987,ES
+El Colmo,El Colmo,cafe,40.4115173,-3.6996972,ES
+O'Barquiño,O'Barquiño,restaurant,40.4114924,-3.6994308,ES
+La Temeraria,La Temeraria,restaurant,40.4117492,-3.700322,ES
+Taberna Garibaldi,Taberna Garibaldi,restaurant,40.4116655,-3.700364,ES
+BP,BP,fuel,40.3587955,-3.6962172,ES
+Ginos,Ginos,restaurant,40.455063,-3.6226906,ES
+Wok,Wok,restaurant,40.4550377,-3.622496,ES
+Vips,Vips,restaurant,40.4549871,-3.6222587,ES
+Como Como Slow Food,Como Como Slow Food,restaurant,40.4367886,-3.6226101,ES
+Hipercor,Hipercor,supermarket,40.4563958,-3.6178172,ES
+Restaurante Pico Pico,Restaurante Pico Pico,restaurant,40.445038,-3.6411778,ES
+Asador Rías Bajas,Asador Rías Bajas,restaurant,40.4445989,-3.6403865,ES
+El Racó,El Racó,restaurant,40.4424437,-3.6384083,ES
+Happiness,Happiness,restaurant,40.4423564,-3.6383442,ES
+Pinturas Murillo,Pinturas Murillo,paint,40.4380852,-3.6367311,ES
+Jota Cinco,Jota Cinco,restaurant,40.4382334,-3.6373154,ES
+Mamma Juana,Mamma Juana,restaurant,40.438217,-3.6373926,ES
+Grant's,Grant's,restaurant,40.4397488,-3.6364268,ES
+Go,Go,restaurant,40.4375703,-3.6370092,ES
+Matsuri,Matsuri,restaurant,40.443889,-3.6345377,ES
+Unus,Unus,restaurant,40.4439935,-3.6344424,ES
+Carlos,Carlos,restaurant,40.4440493,-3.6343156,ES
+El Ratito,El Ratito,restaurant,40.4441386,-3.6341149,ES
+La Plaza de DIA,La Plaza de DIA,supermarket,40.4447687,-3.6341303,ES
+Eu Mundo,Eu Mundo,restaurant,40.4445466,-3.6346069,ES
+Casa Tampico,Casa Tampico,restaurant,40.4448785,-3.635335,ES
+Comercial SAMA SA,Comercial SAMA SA,fuel,40.3967179,-3.713911,ES
+Moeve,Moeve,fuel,40.3160691,-3.6916647,ES
+Supersol,Supersol,supermarket,40.433958,-3.798295,ES
+Dia & Go,Dia & Go,convenience,40.4445042,-3.7866978,ES
+Molinaseca,Molinaseca,supermarket,40.4512825,-3.7849937,ES
+Supercor Exprés,Supercor Exprés,convenience,40.4473921,-3.7846734,ES
+Alfredo's Barbacoa,Alfredo's Barbacoa,restaurant,40.4605707,-3.6872821,ES
+Petiscos Galegos,Petiscos Galegos,restaurant,40.4740954,-3.7054024,ES
+TGI Fridays,TGI Fridays,restaurant,40.4793735,-3.7083765,ES
+Carrefour,Carrefour,supermarket,40.3863802,-3.7643136,ES
+Dragon Kitchen,Dragon Kitchen,restaurant,40.4033042,-3.7081487,ES
+Redpiso,Redpiso,estate_agent,40.4080766,-3.7129017,ES
+La Gamella,La Gamella,restaurant,40.4189239,-3.6890563,ES
+Cantina,Cantina,restaurant,40.4936118,-3.6554348,ES
+Shell,Shell,fuel,40.4249119,-3.6829121,ES
+Q8,Q8,fuel,40.4648007,-3.6937373,ES
+Moeve Los Robles,Moeve Los Robles,fuel,40.339139,-3.709444,ES
+El Rincón de las Tablas,El Rincón de las Tablas,restaurant,40.4958129,-3.6755645,ES
+El Rosario,El Rosario,restaurant,40.4829998,-3.6940691,ES
+Quiosco de prensa,Quiosco de prensa,kiosk,40.483583,-3.6936461,ES
+El Escondite Jamonal,El Escondite Jamonal,restaurant,40.4833027,-3.6958009,ES
+Jao Chan,Jao Chan,convenience,40.4842487,-3.6949842,ES
+Las Ventas de Diego de Velázquez,Las Ventas de Diego de Velázquez,restaurant,40.3167699,-3.7328316,ES
+OptiMiza,OptiMiza,optician,40.4503604,-3.7032645,ES
+Hermanos Pérez,Hermanos Pérez,electronics,40.4514395,-3.7035098,ES
+Mobid,Mobid,mobile_phone,40.4553668,-3.7027978,ES
+Bon Colchón,Bon Colchón,bed,40.455593,-3.7022604,ES
+Panaria,Panaria,bakery,40.4575603,-3.7011852,ES
+Bankia,Bankia,vacant,40.4706211,-3.6977246,ES
+Kvik,Kvik,kitchen,40.4724329,-3.6870348,ES
+Jazmín,Jazmín,cafe,40.4807413,-3.6652111,ES
+Cafetería Globcafé,Cafetería Globcafé,restaurant,40.4828907,-3.667816,ES
+C & Arte,C & Arte,hairdresser,40.482653,-3.6703097,ES
+La Fragua Del Pinar,La Fragua Del Pinar,restaurant,40.4825647,-3.6705259,ES
+Ni Hao,Ni Hao,restaurant,40.4817015,-3.6659151,ES
+La Tagliatella,La Tagliatella,restaurant,40.4862506,-3.6655135,ES
+La Castafiore,La Castafiore,restaurant,40.4230858,-3.6935468,ES
+Ahorramás,Ahorramás,supermarket,40.4037012,-3.7078934,ES
+Primaprix,Primaprix,supermarket,40.3948613,-3.6958532,ES
+Talleres Ferrari,Talleres Ferrari,car,40.4325607,-3.6420667,ES
+Can Punyetes,Can Punyetes,restaurant,40.4159664,-3.710711,ES
+La Cumbre,La Cumbre,restaurant,40.4375239,-3.7931761,ES
+Seat,Seat,car,40.474093,-3.6329762,ES
+Carrefour Express,Carrefour Express,convenience,40.4432086,-3.6528964,ES
+Torres,Torres,cafe,40.442532,-3.6517071,ES
+Bar Restaurante El Paleto,Bar Restaurante El Paleto,restaurant,40.4164723,-3.6717472,ES
+Supercor,Supercor,convenience,40.4159015,-3.676625,ES
+Magaly,Magaly,restaurant,40.4411054,-3.6564894,ES
+La Lupa,La Lupa,restaurant,40.4415091,-3.663289,ES
+Magadán,Magadán,cafe,40.4292399,-3.7224188,ES
+Cruz Sanz,Cruz Sanz,hairdresser,40.440176,-3.6444939,ES
+Miguelón,Miguelón,restaurant,40.4366702,-3.6419218,ES
+Closet,Closet,clothes,40.4357572,-3.6429673,ES
+Los Parros,Los Parros,restaurant,40.4366606,-3.6436812,ES
+El Rincón de E&C,El Rincón de E&C,restaurant,40.4377156,-3.6444047,ES
+d'casa,d'casa,restaurant,40.4410967,-3.6440189,ES
+Sake Dining Himawari,Sake Dining Himawari,restaurant,40.4226068,-3.6932565,ES
+Sqrups,Sqrups,convenience,40.4398628,-3.6444063,ES
+Carbón,Carbón,restaurant,40.4327522,-3.6781495,ES
+Cafetería Bruselas,Cafetería Bruselas,cafe,40.4377269,-3.6635351,ES
+El Gato,El Gato,restaurant,40.438892,-3.6632499,ES
+El olvido,El olvido,restaurant,40.4605477,-3.6868119,ES
+Mawey,Mawey,restaurant,40.4317789,-3.702372,ES
+Casa Patas,Casa Patas,restaurant,40.4127198,-3.7017271,ES
+Casa de Córdoba,Casa de Córdoba,restaurant,40.4551315,-3.6705485,ES
+Masa Naomi,Masa Naomi,restaurant,40.4526218,-3.7006244,ES
+Menta,Menta,beauty,40.4695708,-3.6858208,ES
+Casa Fruta,Casa Fruta,convenience,40.4143435,-3.7250547,ES
+Ciclo Work,Ciclo Work,bicycle,40.4126955,-3.7246147,ES
+Cerro de la Cabaña,Cerro de la Cabaña,fuel,40.3921724,-3.625052,ES
+Los quesos de l´Amélie,Los quesos de l´Amélie,cheese,40.4511163,-3.6496877,ES
+Asador Lekeitio,Asador Lekeitio,restaurant,40.4548553,-3.67212,ES
+Mayte Commodore,Mayte Commodore,restaurant,40.4457819,-3.6855307,ES
+Huerta Carabana,Huerta Carabana,deli,40.4423942,-3.7133056,ES
+Carrefour Market,Carrefour Market,supermarket,40.4432275,-3.7139966,ES
+Qiny,Qiny,clothes,40.451141,-3.7035603,ES
+Estación de Servicio Carrefour La Gavia,Estación de Servicio Carrefour La Gavia,fuel,40.3688635,-3.6015354,ES
+Ninja Ramen,Ninja Ramen,restaurant,40.4264788,-3.70103,ES
+Facultad de Forestales,Facultad de Forestales,cafe,40.4482368,-3.7238292,ES
+Gainza,Gainza,restaurant,40.3478745,-3.6938322,ES
+Peña Francia,Peña Francia,restaurant,40.3492857,-3.6997727,ES
+El Asador de Enrique,El Asador de Enrique,restaurant,40.348488,-3.7018541,ES
+Pepe's Mesón Restaurante,Pepe's Mesón Restaurante,restaurant,40.4828587,-3.6704199,ES
+La Negra Tomasa,La Negra Tomasa,restaurant,40.4158435,-3.702398,ES
+Hiper Usera,Hiper Usera,supermarket,40.3517528,-3.7065794,ES
+La Parrilla Del Pinar,La Parrilla Del Pinar,restaurant,40.4833104,-3.6676942,ES
+Grence,Grence,cafe,40.3522148,-3.6990001,ES
+Cervecería San Miguel,Cervecería San Miguel,cafe,40.3524844,-3.69781,ES
+Laumar,Laumar,cafe,40.3526051,-3.7009341,ES
+Los Ángeles,Los Ángeles,cafe,40.3551356,-3.6979756,ES
+La Vega,La Vega,cafe,40.3560126,-3.6975824,ES
+La Pinilla,La Pinilla,cafe,40.3547142,-3.6977291,ES
+Gallardo,Gallardo,restaurant,40.3548451,-3.6995041,ES
+Casa Conel,Casa Conel,restaurant,40.3543029,-3.6986993,ES
+Atalaya,Atalaya,cafe,40.3560711,-3.6984345,ES
+Renato,Renato,restaurant,40.3506214,-3.7044437,ES
+La Mallorquina,La Mallorquina,pastry,40.4166278,-3.7047732,ES
+Museo del Jamón,Museo del Jamón,restaurant,40.4163433,-3.7056737,ES
+Chiquita,Chiquita,restaurant,40.4158038,-3.7060361,ES
+Botín,Botín,restaurant,40.4141745,-3.707981,ES
+La Taberna de la Daniela,La Taberna de la Daniela,restaurant,40.4144651,-3.7079513,ES
+Las Cuevas de Luis Candelas,Las Cuevas de Luis Candelas,restaurant,40.4148583,-3.7081461,ES
+Condis,Condis,supermarket,40.4488228,-3.6763271,ES
+Cañas y tapas,Cañas y tapas,restaurant,40.4326414,-3.7041461,ES
+Innerbox,Innerbox,storage_rental,40.4328699,-3.7028261,ES
+Nájera,Nájera,restaurant,40.4349308,-3.7133349,ES
+Bar Restaurante Emaus,Bar Restaurante Emaus,restaurant,40.4205502,-3.6783029,ES
+Fass,Fass,restaurant,40.4514599,-3.678433,ES
+La Tragantía,La Tragantía,restaurant,40.4512149,-3.6772063,ES
+La Ancha,La Ancha,restaurant,40.4493577,-3.6775549,ES
+Lobato,Lobato,restaurant,40.4724643,-3.6506245,ES
+Popa,Popa,restaurant,40.462182,-3.6701079,ES
+Simply Market,Simply Market,supermarket,40.3310418,-3.7700778,ES
+Foster's Hollywood,Foster's Hollywood,restaurant,40.4864162,-3.6662334,ES
+Casla,Casla,garden_centre,40.4552361,-3.6838093,ES
+Los Montes de Galicia,Los Montes de Galicia,restaurant,40.4347469,-3.6682597,ES
+Los Dos Amigos,Los Dos Amigos,cafe,40.4244873,-3.7103465,ES
+El Vergel,El Vergel,supermarket,40.4241504,-3.7249779,ES
+El Urogallo,El Urogallo,restaurant,40.4232064,-3.7231611,ES
+El Inti de Oro,El Inti de Oro,restaurant,40.415621,-3.6989812,ES
+El Subastero de Málaga,El Subastero de Málaga,restaurant,40.4164715,-3.6991796,ES
+Restaurante La Catedral,Restaurante La Catedral,restaurant,40.4166035,-3.7010637,ES
+Artemisa - Huertas,Artemisa - Huertas,restaurant,40.4160137,-3.6989734,ES
+El Tronco,El Tronco,restaurant,40.4151898,-3.6992792,ES
+Lidl,Lidl,supermarket,40.4125936,-3.7045819,ES
+Anarkoli,Anarkoli,restaurant,40.4095795,-3.7023086,ES
+Achuri,Achuri,restaurant,40.4081287,-3.6980834,ES
+La Buga del Lobo,La Buga del Lobo,restaurant,40.4089902,-3.6997202,ES
+Yin He,Yin He,restaurant,40.4002198,-3.7494203,ES
+GB-2,GB-2,restaurant,40.4007505,-3.7452458,ES
+Cafetería El Trébol,Cafetería El Trébol,cafe,40.4011108,-3.7500117,ES
+La Naranjita,La Naranjita,greengrocer,40.4010812,-3.750314,ES
+Pastelería La Trilla,Pastelería La Trilla,bakery,40.4008254,-3.7514551,ES
+El Porto,El Porto,restaurant,40.4011609,-3.7518806,ES
+P.L,P.L,cafe,40.4047751,-3.7474884,ES
+Mayka,Mayka,cafe,40.4048028,-3.7473393,ES
+El Mercado de Montiz,El Mercado de Montiz,restaurant,40.4005868,-3.7548689,ES
+Café Viena,Café Viena,cafe,40.4252249,-3.7153795,ES
+El Aleph,El Aleph,books,40.424886,-3.7158966,ES
+Cáscaras,Cáscaras,restaurant,40.4250934,-3.7138414,ES
+New Bistró,New Bistró,restaurant,40.4251961,-3.7143347,ES
+Central Rambla,Central Rambla,restaurant,41.3782716,2.1761732,ES
+OnTourtle,OnTourtle,fuel,41.3335442,2.1167588,ES
+Petrocat,Petrocat,fuel,41.361652,2.1303414,ES
+Oilprix,Oilprix,fuel,41.430306,2.128889,ES
+Tamoil,Tamoil,fuel,41.358306,2.107944,ES
+Gratsa,Gratsa,fuel,41.3830679,2.1616323,ES
+INURSA IZDA.,INURSA IZDA.,fuel,41.4694067,2.1669517,ES
+INURSA DCHA.,INURSA DCHA.,fuel,41.4705715,2.1660502,ES
+Estació de Servei Meroil Moianes,Estació de Servei Meroil Moianes,fuel,41.371944,2.1425,ES
+Benzinera Hospital Militar,Benzinera Hospital Militar,fuel,41.4194163,2.1406054,ES
+Amaltea,Amaltea,restaurant,41.3836428,2.1583028,ES
+La Canelita,La Canelita,cafe,41.490389,2.1412893,ES
+La Espinica,La Espinica,restaurant,41.4904503,2.1416965,ES
+El Viejo Roble,El Viejo Roble,restaurant,41.4902204,2.1406477,ES
+Bonpreu,Bonpreu,supermarket,41.4879383,2.1291803,ES
+Nueva China,Nueva China,restaurant,41.4902107,2.1411346,ES
+Movistar,Movistar,telecommunication,41.4910722,2.1397494,ES
+Servei Estació,Servei Estació,doityourself,41.3915276,2.1643195,ES
+Hanibishi,Hanibishi,restaurant,41.3895184,2.1621769,ES
+IKEA,IKEA,convenience,41.3948927,2.1520612,ES
+WorkCenter,WorkCenter,copyshop,41.3939958,2.1505605,ES
+Moncho's House,Moncho's House,restaurant,41.3899967,2.1318367,ES
+Taller de Tapas,Taller de Tapas,restaurant,41.3836716,2.1806392,ES
+Open Cor,Open Cor,supermarket,41.3910021,2.1256514,ES
+El Jardí de l'Abadessa,El Jardí de l'Abadessa,restaurant,41.3942273,2.109899,ES
+Floristeria Moyano,Floristeria Moyano,florist,41.4739209,2.1652253,ES
+Supermarket,Supermarket,convenience,41.4123701,2.1546475,ES
+Bar Tomás,Bar Tomás,restaurant,41.3975532,2.1230797,ES
+Mendizabal,Mendizabal,cafe,41.3803452,2.170768,ES
+2-Plantas,2-Plantas,florist,41.3814949,2.1730678,ES
+5-M.Escudé,5-M.Escudé,florist,41.3817677,2.1726712,ES
+La flor de la Rambla,La flor de la Rambla,florist,41.3821692,2.1724526,ES
+Mercat Felip II,Mercat Felip II,convenience,41.4221944,2.1854353,ES
+L'Herbolari,L'Herbolari,convenience,41.4916121,2.1873028,ES
+Consum,Consum,supermarket,41.4416041,2.1780626,ES
+Can Paixano,Can Paixano,restaurant,41.3817618,2.1834151,ES
+The New Orleans Coffee & Tea Company,The New Orleans Coffee & Tea Company,cafe,41.4305166,2.1725195,ES
+Bar Almogávares,Bar Almogávares,cafe,41.3962323,2.1890864,ES
+Palacio de China,Palacio de China,restaurant,41.3934539,2.1881434,ES
+Patinpatl,Patinpatl,sports,41.3973856,2.1826363,ES
+Forn de Pa Laia,Forn de Pa Laia,bakery,41.3982628,2.18314,ES
+Action-Bike,Action-Bike,bicycle,41.4828577,2.1885086,ES
+Restaurant Can Valldaura,Restaurant Can Valldaura,restaurant,41.447858,2.1319638,ES
+La Moreneta,La Moreneta,restaurant,41.3231631,2.105161,ES
+El Capitán Garfio,El Capitán Garfio,restaurant,41.3224502,2.1038954,ES
+Carniseria Moliner,Carniseria Moliner,butcher,41.3769893,2.1319929,ES
+Rovira,Rovira,bakery,41.3765777,2.1322252,ES
+Sant Bartomeu,Sant Bartomeu,cafe,41.3755248,2.1346488,ES
+Venècia,Venècia,cafe,41.3774031,2.1340291,ES
+Vilagut,Vilagut,supermarket,41.4909113,2.1846144,ES
+C>M,C>M,hairdresser,41.4932057,2.1861615,ES
+Casablanca,Casablanca,cafe,41.3753906,2.1308538,ES
+HotDoks,HotDoks,cafe,41.375545,2.1344972,ES
+plats i olles,plats i olles,convenience,41.4254729,2.1799028,ES
+Cal Boter,Cal Boter,restaurant,41.4021663,2.1623411,ES
+Fenicia,Fenicia,restaurant,41.3767803,2.1365656,ES
+IQRA Kebab,IQRA Kebab,cafe,41.3771257,2.1339113,ES
+El Racó de la Xemenea,El Racó de la Xemenea,cafe,41.3770183,2.1352388,ES
+Hoja Verde,Hoja Verde,restaurant,41.3771427,2.1369905,ES
+La Maria del Rocxi,La Maria del Rocxi,restaurant,41.3770424,2.1368715,ES
+Simbad - Feteria,Simbad - Feteria,restaurant,41.3769979,2.1368104,ES
+CaFeniciana,CaFeniciana,restaurant,41.3768914,2.1366906,ES
+El jardi de Sants,El jardi de Sants,restaurant,41.3769402,2.1367319,ES
+Via Fora!,Via Fora!,cafe,41.3773381,2.1372296,ES
+Calero's,Calero's,restaurant,41.3772237,2.1370878,ES
+Ciutat Comtal,Ciutat Comtal,restaurant,41.3760228,2.1358001,ES
+Fonda Pepa,Fonda Pepa,restaurant,41.402044,2.1621698,ES
+Sabes una Cosa,Sabes una Cosa,restaurant,41.4019328,2.162054,ES
+Rostisseria de la Salle,Rostisseria de la Salle,restaurant,41.4894143,2.1861168,ES
+El cafè de les delícies,El cafè de les delícies,cafe,41.3781559,2.1704778,ES
+Caprabo,Caprabo,supermarket,41.3789612,2.1704622,ES
+Bar Seco,Bar Seco,cafe,41.3720275,2.1671353,ES
+Super&Regals,Super&Regals,convenience,41.4051547,2.1745971,ES
+La Piazzenza,La Piazzenza,restaurant,41.406511,2.1742446,ES
+Tapes Gaudí,Tapes Gaudí,restaurant,41.408243,2.1745267,ES
+Aladdin,Aladdin,restaurant,41.4086056,2.1745607,ES
+Babilonia,Babilonia,restaurant,41.4050316,2.1742781,ES
+Restaurant Buffet,Restaurant Buffet,restaurant,41.3742363,2.1522045,ES
+Cerveceria Taller de tapas,Cerveceria Taller de tapas,restaurant,41.386132,2.174026,ES
+Antic Tapas Ferran,Antic Tapas Ferran,restaurant,41.3823086,2.1765833,ES
+Vila Viniteca,Vila Viniteca,restaurant,41.3824742,2.1815472,ES
+Centro Galego,Centro Galego,restaurant,41.3791435,2.1747253,ES
+Marco Aldany,Marco Aldany,hairdresser,41.4046529,2.1962971,ES
+Rambla Poblenou,Rambla Poblenou,optician,41.4046882,2.1967694,ES
+El Fornet,El Fornet,cafe,41.404858,2.1941868,ES
+Restaurante UN-ZA,Restaurante UN-ZA,restaurant,41.40537,2.1934837,ES
+braseria xorus,braseria xorus,restaurant,41.4029,2.1986522,ES
+La broqueta,La broqueta,restaurant,41.4027269,2.1989008,ES
+Tierra da Lua,Tierra da Lua,restaurant,41.3962523,2.1830333,ES
+Sukaldari,Sukaldari,restaurant,41.381736,2.1724342,ES
+Pastelería Escribá Rambla De Les Flors,Pastelería Escribá Rambla De Les Flors,confectionery,41.3815258,2.1726713,ES
+Hummus & company,Hummus & company,restaurant,41.3809714,2.173182,ES
+Kubik Restaurant,Kubik Restaurant,restaurant,41.3796645,2.1743205,ES
+Genové 1911,Genové 1911,restaurant,41.3812802,2.1728591,ES
+Bello Italy,Bello Italy,restaurant,41.3812444,2.1728937,ES
+Souvernis Sports,Souvernis Sports,gift,41.381036,2.1731293,ES
+Barcelona is My Style,Barcelona is My Style,gift,41.3810752,2.1730901,ES
+Egipte,Egipte,restaurant,41.3813446,2.1728162,ES
+HED,HED,hairdresser,41.3843654,2.1693054,ES
+Granja Viader,Granja Viader,cafe,41.383021,2.1710542,ES
+La Granja 1872,La Granja 1872,cafe,41.3820651,2.1753232,ES
+Aguade Bijuteria,Aguade Bijuteria,jewelry,41.3818432,2.1755817,ES
+Boix,Boix,bakery,41.3836486,2.1695479,ES
+Dalston Coffee,Dalston Coffee,cafe,41.384535,2.1684343,ES
+Kasparo,Kasparo,cafe,41.3844847,2.1690087,ES
+Bonatapa,Bonatapa,cafe,41.3826567,2.1716972,ES
+cent111onze,cent111onze,restaurant,41.383726,2.1709656,ES
+Telefónica,Telefónica,electronics,41.3839925,2.170792,ES
+Regals Pacheco,Regals Pacheco,gift,41.3840315,2.1707664,ES
+La Poma,La Poma,restaurant,41.3843881,2.170482,ES
+Los Toreros,Los Toreros,restaurant,41.382919,2.170821,ES
+Saha,Saha,convenience,41.3843196,2.1686707,ES
+Drogueria Gomara,Drogueria Gomara,chemist,41.383702,2.1693268,ES
+La Bolsera Professional,La Bolsera Professional,stationery,41.3833679,2.1700135,ES
+Ciclo tour,Ciclo tour,bicycle,41.3846255,2.1679948,ES
+La Portorriqueña,La Portorriqueña,convenience,41.3836497,2.1694288,ES
+Manantial de Salud,Manantial de Salud,herbalist,41.3836208,2.1696144,ES
+Matalasseria Agustí Montfort,Matalasseria Agustí Montfort,furniture,41.3834726,2.169815,ES
+L'Olla Framir,L'Olla Framir,greengrocer,41.3834122,2.1699008,ES
+Testimonio,Testimonio,books,41.3834404,2.1698579,ES
+Organic,Organic,restaurant,41.3832659,2.1701667,ES
+Party-Fiesta,Party-Fiesta,stationery,41.3833855,2.1702901,ES
+Bar Lobo,Bar Lobo,restaurant,41.3832611,2.170504,ES
+Sagarra,Sagarra,restaurant,41.3831077,2.1703808,ES
+Cafe d'Annunzio,Cafe d'Annunzio,cafe,41.384376,2.1687566,ES
+Chelo,Chelo,cafe,41.3844243,2.1688853,ES
+P.Toran,P.Toran,butcher,41.3843133,2.1665958,ES
+PNB,PNB,clothes,41.3844156,2.1685396,ES
+Beca-Medri,Beca-Medri,doityourself,41.3844697,2.1684824,ES
+Cèntric,Cèntric,cafe,41.3847302,2.1680967,ES
+Fruteria Jaime,Fruteria Jaime,greengrocer,41.3845732,2.1682362,ES
+Llenas,Llenas,stationery,41.3848139,2.1681764,ES
+Buenas Migas,Buenas Migas,cafe,41.3753402,2.1894951,ES
+Mar,Mar,restaurant,41.3753694,2.1896344,ES
+Salewa Store Barcelona,Salewa Store Barcelona,clothes,41.3849468,2.1730368,ES
+Mei Hua,Mei Hua,restaurant,41.4020177,2.1457393,ES
+1991,1991,laundry,41.402923,2.1446664,ES
+Perrocker,Perrocker,hairdresser,41.4029834,2.1451385,ES
+Bopan,Bopan,bakery,41.4012853,2.1468444,ES
+Camila's,Camila's,shoes,41.4014221,2.1469409,ES
+La Terrassa,La Terrassa,cafe,41.4032395,2.147158,ES
+Pizzeria Fontana,Pizzeria Fontana,restaurant,41.4034165,2.1477911,ES
+Raig,Raig,yes,41.3852806,2.1697931,ES
+Panorama,Panorama,photo,41.3847922,2.1701768,ES
+Aromas de Turquía redtaurant,Aromas de Turquía redtaurant,restaurant,41.3848666,2.170138,ES
+Canaletes Cerveseria,Canaletes Cerveseria,restaurant,41.3849119,2.1701056,ES
+Musical Emporium,Musical Emporium,musical_instrument,41.384988,2.1700387,ES
+Nuria,Nuria,restaurant,41.3851596,2.1698748,ES
+Florencia,Florencia,clothes,41.3852613,2.1705549,ES
+Cinc Sentits,Cinc Sentits,restaurant,41.3884807,2.1593618,ES
+Cafe Zurich,Cafe Zurich,cafe,41.3858504,2.1694606,ES
+Hard Rock Cafe,Hard Rock Cafè,restaurant,41.3859551,2.1707466,ES
+Orange,Orange,telecommunication,41.3863068,2.1710418,ES
+Decimas,Decimas,shoes,41.3885959,2.1723798,ES
+La Tramoia,La Tramoia,restaurant,41.3881068,2.1669465,ES
+Happy,Happy,restaurant,41.3879364,2.167454,ES
+Cullera de Boix,Cullera de Boix,cafe,41.387981,2.1679862,ES
+Trobadour,Trobadour,restaurant,41.387684,2.1683456,ES
+Tapa Tapa,Tapa Tapa,restaurant,41.3916926,2.1660167,ES
+Oassis Natural Cooking,Oassis Natural Cooking,restaurant,41.3901637,2.1678915,ES
+Levi's,Levi's,clothes,41.3915093,2.1651777,ES
+Sala Dalmau,Sala Dalmau,art,41.3910304,2.1654329,ES
+Il Caffè di Francesco,Il Caffè di Francesco,cafe,41.390701,2.1650135,ES
+Tumi,Tumi,bag,41.3902811,2.1666454,ES
+Nike,Nike,clothes,41.3898059,2.1672174,ES
+Bar Geminis,Bar Geminis,restaurant,41.3976224,2.1807778,ES
+Virreina Bar,Virreina Bar,cafe,41.4049208,2.1575918,ES
+La Cafetera,La Cafetera,cafe,41.4049767,2.1575215,ES
+Terra Bar,Terra Bar,cafe,41.404891,2.1569592,ES
+Les 15 Nits Bar,Les 15 Nits Bar,restaurant,41.3804529,2.1749778,ES
+Jespac,Jespac,supermarket,41.3896126,2.1567295,ES
+Cubeliña,Cubeliña,restaurant,41.3898707,2.1570084,ES
+Freeway,Freeway,restaurant,41.3896885,2.1568164,ES
+Schlecker,Schlecker,chemist,41.3903227,2.156848,ES
+Taifeng,Taifeng,restaurant,41.3894442,2.1554485,ES
+Can Pen,Can Pen,cafe,41.3893351,2.1558721,ES
+La Crema Canela,La Crema Canela,restaurant,41.3803406,2.1747194,ES
+VW,VW,car_repair,41.3887829,2.1557461,ES
+Patagonia Beef & Wine,Patagonia Beef & Wine,restaurant,41.3911199,2.170955,ES
+Bracafe,Bracafe,cafe,41.3944249,2.1675209,ES
+La Farandula,La Farandula,restaurant,41.3751707,2.168607,ES
+Bar Cerveceria Pepe 2,Bar Cerveceria Pepe 2,restaurant,41.3751693,2.1684846,ES
+Caleuche,Caleuche,restaurant,41.3761526,2.1686172,ES
+Colmado Alegre,Colmado Alegre,convenience,41.3801719,2.1452053,ES
+Bar Restaurant Angela,Bar Restaurant Angela,cafe,41.4043015,2.1949428,ES
+Las Planas,Las Planas,fuel,41.369806,2.106722,ES
+Estació de Servei Moeve Pedralbes,Estació de Servei Moeve Pedralbes,fuel,41.392889,2.111611,ES
+Estació de Servei Meroil Galileo,Estació de Servei Meroil Galileo,fuel,41.3818539,2.1333719,ES
+Estació de Servei Repsol,Estació de Servei Repsol,fuel,41.439306,2.161444,ES
+PORTUARIOS SERVICIOS,PORTUARIOS SERVICIOS,fuel,41.347611,2.128917,ES
+J.P. Carrión,J.P. Carrión,car,41.3508906,2.1039106,ES
+Covirán,Covirán,supermarket,41.4166857,2.17028,ES
+Restaurant Vertex,Restaurant Vertex,restaurant,41.390457,2.113664,ES
+Casa de Cantabria,Casa de Cantabria,restaurant,41.3908693,2.1131647,ES
+Vodafone,Vodafone,telecommunication,41.3863872,2.172348,ES
+Queviures Atlàntida,Queviures Atlàntida,convenience,41.3903555,2.1457839,ES
+Kiwami,Kiwami,restaurant,41.4069321,2.1784908,ES
+Supermercat Pintor Fortuny,Supermercat Pintor Fortuny,supermarket,41.3823171,2.16861,ES
+2D2Dspuma,2D2Dspuma,alcohol,41.4225197,2.1794431,ES
+La Vietnamita,La Vietnamita,restaurant,41.4007425,2.1591008,ES
+Azam Telefonia,Azam Telefonia,mobile_phone,41.3724333,2.1136827,ES
+Botiga oficial,Official shop,gift,41.4134339,2.1529905,ES
+La Cava Universal,La Cava Universal,cafe,41.3768216,2.1774883,ES
+El Triangle,El Triangle,mall,41.3858984,2.1690931,ES
+Cafe Flanders,Cafe Flanders,cafe,41.407343,2.1584049,ES
+Barceloneta,Barceloneta,restaurant,41.3758,2.1874945,ES
+Coaliment Paris,Coaliment Paris,supermarket,41.3869796,2.1442296,ES
+L'altra Llosa,L'altra Llosa,restaurant,41.3899944,2.1736399,ES
+Merino,Merino,hardware,41.3770044,2.1698129,ES
+Fernandes,Fernandes,cafe,41.4028795,2.1719474,ES
+Kibuka,Kibuka,restaurant,41.3996711,2.1572503,ES
+Taverna del Bisbe,Taverna del Bisbe,restaurant,41.3849254,2.1766628,ES
+El Cafè D'en Victor,El Cafè D'en Victor,cafe,41.3847931,2.1767008,ES
+Los Caracoles,Los Caracoles,restaurant,41.3796584,2.1765082,ES
+Miramar,Miramar,restaurant,41.3711379,2.1724826,ES
+Macchina,Macchina,restaurant,41.3864545,2.1666834,ES
+Supermercat Coaliment,Supermercat Coaliment,supermarket,41.3860999,2.1679417,ES
+Elche,Elche,restaurant,41.3739754,2.1691488,ES
+Cal Fruitós,Cal Fruitós,greengrocer,41.4048148,2.19663,ES
+Casa Vall,Casa Vall,restaurant,41.4074238,2.1585521,ES
+Pinotxo bar,Pinotxo bar,restaurant,41.3785744,2.1614917,ES
+Inopia,Inopia,restaurant,41.3758471,2.155313,ES
+Dos palillos,Dos palillos,restaurant,41.3833615,2.1686848,ES
+Bilbao Berria,Bilbao Berria,restaurant,41.3841976,2.1748665,ES
+Tapas 24,Tapas 24,restaurant,41.3908686,2.1674705,ES
+Cal PEP,Cal PEP,restaurant,41.3839345,2.1833856,ES
+7 Portes,7 Portes,restaurant,41.3821717,2.1832472,ES
+Cerveceria,Cerveceria,restaurant,41.3795214,2.1753958,ES
+El Xampanyet,El Xampanyet,restaurant,41.3845086,2.1816748,ES
+Quimet i Quimet,Quimet i Quimet,restaurant,41.3739942,2.1655692,ES
+Biking Point Provença,Biking Point Provença,bicycle,41.3895576,2.1544404,ES
+BonÀrea,BonÀrea,supermarket,41.3887775,2.1546114,ES
+Spar,Spar,supermarket,41.3918433,2.152291,ES
+King Bikes,King Bikes,bicycle,41.4206171,2.138335,ES
+L'hort de casa meva,L'hort de casa meva,florist,41.446744,2.174302,ES
+L'Obrador del Molí,L'Obrador del Molí,bakery,41.4114567,2.1421601,ES
+Amantis Sant Antoni,Amantis Sant Antoni,erotic,41.3832531,2.1614436,ES
+Taberna Maitea,Taberna Maitea,restaurant,41.3910406,2.1510887,ES
+Granjas La Catalana,Granjas La Catalana,cafe,41.3929884,2.1485567,ES
+Bar Restaurante Petit Marc,Bar Restaurante Petit Marc,restaurant,41.4898909,2.1862509,ES
+Más que sushi,Más que sushi,restaurant,41.387064,2.1670471,ES
+Tosca del Carme,Tosca del Carme,restaurant,41.3819482,2.1695795,ES
+Culleres,Culleres,restaurant,41.4063985,2.1959205,ES
+Horno Sant Jordi S.L.,Horno Sant Jordi S.L.,bakery,41.3830987,2.177326,ES
+Bén,Bén,cafe,41.376012,2.150997,ES
+Bio Nyam,Bio Nyam,convenience,41.4064736,2.1659151,ES
+El Filete Ruso,El Filete Ruso,restaurant,41.3925451,2.1558968,ES
+MaxciPa,MaxciPa,bakery,41.4114571,2.1422306,ES
+Mannà,Mannà,restaurant,41.3948006,2.1940578,ES
+Kaffe Bar,Kaffe Bar,restaurant,41.4145439,2.1387193,ES
+La Palmera,La Palmera,restaurant,41.4144229,2.1385123,ES
+Jaume,Jaume,bakery,41.4078939,2.1888829,ES
+Forn,Forn,bakery,41.4064857,2.1904601,ES
+Cuida't,Cuida't,massage,41.4916275,2.1876142,ES
+La Farineta,La Farineta,bakery,41.4187531,2.1396071,ES
+Oliva Negra,Oliva Negra,kiosk,41.4194226,2.1409726,ES
+Super Fresco,Super Fresco,convenience,41.420389,2.1407818,ES
+Bruniquer,Bruniquer,convenience,41.4056945,2.1622289,ES
+BUF,BUF,pet,41.4070008,2.1636054,ES
+Lluch,Lluch,sports,41.40726,2.1638032,ES
+Quiosc Albert Collado,Quiosc Albert Collado,kiosk,41.4052393,2.1630302,ES
+Sapori di Puglia,Sapori di Puglia,restaurant,41.4073453,2.1637131,ES
+Ugarit,Ugarit,restaurant,41.4057927,2.1624391,ES
+Mayor i Detall,Mayor i Detall,convenience,41.4071685,2.1628702,ES
+bonbee,bonbee,florist,41.405981,2.1627408,ES
+Ortofarmàcia Serra-Fortuny,Ortofarmàcia Serra-Fortuny,medical_supply,41.4067413,2.1777391,ES
+Clarel,Clarel,chemist,41.3781103,2.1271913,ES
+Punt Fresc,Punt Fresc,greengrocer,41.3796431,2.1266274,ES
+365,365,cafe,41.3775442,2.1261576,ES
+Fet d'ara,Fet d'ara,bakery,41.393132,2.178108,ES
+Sucursal Aceitera,Sucursal Aceitera,restaurant,41.3771451,2.1631914,ES
+Bar Plaza,Bar Plaza,restaurant,41.4218746,2.141935,ES
+Casa Noni,Casa Noni,restaurant,41.422032,2.1422214,ES
+Il Giardinetto di Gracia,Il Giardinetto di Gracia,restaurant,41.4053041,2.1599362,ES
+Taverna El Glop,Taverna El Glop,restaurant,41.4049058,2.159524,ES
+Forn de la Virreina,Forn de la Virreina,bakery,41.4040442,2.1580138,ES
+Caffè Fiorino,Caffè Fiorino,cafe,41.3889764,2.1514741,ES
+Cafetería universitaria,Cafetería universitaria,cafe,41.4037433,2.1938343,ES
+Ni pa ti ni pa mi,Ni pa ti ni pa mi,cafe,39.471011,-0.3818602,ES
+Rivendel,Rivendel,cafe,39.4710084,-0.3816271,ES
+Poquito a poco,Poquito a poco,cafe,39.4709045,-0.381409,ES
+Cervecería Velluters,Cervecería Velluters,cafe,39.4711826,-0.3803981,ES
+Café Santos,Café Santos,cafe,39.4709675,-0.3808791,ES
+La Masía del Vino,La Masía del Vino,restaurant,39.4708998,-0.3812193,ES
+Aladino,Aladino,restaurant,39.470892,-0.3830845,ES
+Bar Victoria,Bar Victoria,cafe,39.4723522,-0.381146,ES
+Casa Manolo,Casa Manolo,restaurant,39.4520975,-0.3739486,ES
+Casa Tere,Casa Tere,restaurant,39.4508285,-0.3732921,ES
+Nuevo Siglo,Nuevo Siglo,restaurant,39.4510699,-0.3720946,ES
+Petro Mutua,Petro Mutua,fuel,39.4598252,-0.4105821,ES
+Bar San Luís,Bar San Luís,restaurant,39.4482747,-0.3678884,ES
+El Famós,El Famós,restaurant,39.4849007,-0.3379912,ES
+Yashi Wok,Yashi Wok,restaurant,39.4955817,-0.4016255,ES
+Petronor,Petronor,fuel,39.4693706,-0.4584713,ES
+DJango,DJango,restaurant,39.4742601,-0.3812275,ES
+Bipolar,Bipolar,restaurant,39.4737322,-0.3818644,ES
+Café Bar Almansa,Café Bar Almansa,cafe,39.4727638,-0.3836713,ES
+Café Clasic,Café Clasic,cafe,39.4737971,-0.3836228,ES
+Horno de la Encarnación,Horno de la Encarnación,bakery,39.4739405,-0.3834497,ES
+Tenda de Solidaritat. Comercio Justo,Tenda de Solidaritat. Comercio Justo,grocery,39.473899,-0.3825561,ES
+Restaurante Aldaba,Restaurante Aldaba,restaurant,39.4746657,-0.3835167,ES
+Unsushi,Unsushi,restaurant,39.4753554,-0.3830892,ES
+Gusto. Casa Comidas para llevar,Gusto. Casa Comidas para llevar,grocery,39.4737644,-0.3821835,ES
+Canela Arroces,Canela Arroces,restaurant,39.4758321,-0.3830933,ES
+Bar Jesús,Bar Jesús,cafe,39.4743828,-0.381215,ES
+Dhaba,Dhaba,restaurant,39.4742592,-0.3808255,ES
+Café Coral,Café Coral,cafe,39.4733399,-0.3811324,ES
+Bar els Cremats,Bar els Cremats,cafe,39.4730281,-0.3812564,ES
+Forn Desamparats,Forn Desamparats,bakery,39.472622,-0.3813848,ES
+La més cabuda,La més cabuda,cafe,39.4718839,-0.3792638,ES
+Gasolinera Alcampo,Gasolinera Alcampo,no,39.5045131,-0.3243554,ES
+Repsol - Ripoll,Repsol - Ripoll,fuel,39.5640812,-0.334221,ES
+"IBORGAS, S.L.","IBORGAS, S.L.",fuel,39.588781,-0.328776,ES
+Agrícola San Isidro,Agrícola San Isidro,fuel,39.5242582,-0.3504917,ES
+S2,S2,fuel,39.510476,-0.359526,ES
+Repsol - Fco. Fenollosa,Repsol - Fco. Fenollosa,fuel,39.5629336,-0.3353239,ES
+Estación de Servicio Forn d'Alcedo,Estación de Servicio Forn d'Alcedo,fuel,39.4287467,-0.3772096,ES
+Biomar Oil,Biomar Oil,fuel,39.4830621,-0.3784528,ES
+Gasexpress,Gasexpress,fuel,39.4593323,-0.4036849,ES
+Shell Express,Shell Express,fuel,39.52672,-0.41236,ES
+Salcismar,Salcismar,fuel,39.4272845,-0.4109526,ES
+TRES CAMINOS,TRES CAMINOS,fuel,39.503726,-0.444276,ES
+RIO TURIA S.L,RIO TURIA S.L,fuel,39.478917,-0.426833,ES
+BP Alaquàs,BP Alaquàs,fuel,39.449028,-0.460361,ES
+GAS DEL MAS,GAS DEL MAS,fuel,39.442778,-0.498667,ES
+Estación de Servicio BP Torrente,Estación de Servicio BP Torrente,fuel,39.438694,-0.479806,ES
+TRES CAMINOS SL-DIV.LA CAÑADA,TRES CAMINOS SL-DIV.LA CAÑADA,fuel,39.5316869,-0.4729802,ES
+American petrol,American petrol,fuel,39.448587,-0.472914,ES
+Centro Comercial Las Américas,Centro Comercial Las Américas,department_store,39.4266454,-0.4820922,ES
+Las Cuevas,Las Cuevas,restaurant,39.4777599,-0.375785,ES
+Bar Pekin,Bar Pekin,restaurant,39.4775749,-0.3555903,ES
+ONCE,ONCE,kiosk,39.4745185,-0.3482449,ES
+Charcutería Vega,Charcutería Vega,butcher,39.4979626,-0.4355719,ES
+Ti amo café,Ti amo café,cafe,39.4704309,-0.3846727,ES
+Bar Jesus,Bar Jesus,cafe,39.4702672,-0.3841466,ES
+Eras Pan,Eras Pan,bakery,39.4702868,-0.3839154,ES
+Pegaso,Pegaso,restaurant,39.470194,-0.3837139,ES
+Cafetería del Mercat,Cafetería del Mercat,cafe,39.4635442,-0.4596953,ES
+Restaurante Intos,Restaurante Intos,restaurant,39.5462512,-0.386134,ES
+Ca Màxim,Ca Màxim,restaurant,39.5453175,-0.3851696,ES
+Bar Tapate,Bar Tapate,cafe,39.5461631,-0.3880163,ES
+Cafetería Chigal,Cafetería Chigal,cafe,39.5477791,-0.3886699,ES
+Restaurant Les Arts,Restaurant Les Arts,restaurant,39.5481555,-0.3885052,ES
+Horno Cafetería Paiven,Horno Cafetería Paiven,cafe,39.5484257,-0.3883345,ES
+Campanaris,Campanaris,restaurant,39.5429834,-0.3870116,ES
+Bar Alfara,Bar Alfara,cafe,39.5452824,-0.3849201,ES
+Charter,Charter,supermarket,39.4650958,-0.463013,ES
+Restaurante Chino Mei Hua II,Restaurante Chino Mei Hua II,restaurant,39.4852451,-0.3984648,ES
+Tirant Lo Blanch,Tirant Lo Blanch,books,39.4764935,-0.3619192,ES
+PC BOX,PC BOX,hardware,39.4764525,-0.3618108,ES
+Las Palmeras,Las Palmeras,restaurant,39.5004019,-0.4251362,ES
+Mesón Ferial,Mesón Ferial,restaurant,39.5020236,-0.4262715,ES
+Valencia Restaurante,Valencia Restaurante,restaurant,39.5021147,-0.4263023,ES
+Duke,Duke,restaurant,39.5036825,-0.4249333,ES
+La Marcelina,La Marcelina,restaurant,39.4635462,-0.3234952,ES
+Masía de Lacy,Masía de Lacy,restaurant,39.5927052,-0.3646594,ES
+Masía de las Aguas Vivas,Masía de las Aguas Vivas,restaurant,39.5926138,-0.3651796,ES
+Maxx Feria,Maxx Feria,erotic,39.5035854,-0.4241431,ES
+Campillo,Campillo,fuel,39.5212485,-0.4687666,ES
+Petit MontMartre,Petit MontMartre,restaurant,39.4748689,-0.3749513,ES
+Horchatería El Siglo,Horchatería El Siglo,restaurant,39.4739384,-0.3760325,ES
+Horchateria de Santa Catalina,Horchateria de Santa Catalina,cafe,39.4738263,-0.3762568,ES
+Bodeguilla del Gato,Bodeguilla del Gato,restaurant,39.4759235,-0.3772467,ES
+Estación de Servicio Repsol,Estación de Servicio Repsol,yes,39.445111,-0.369806,ES
+Cooperativa San Pedro Low cost,Cooperativa San Pedro Low cost,fuel,39.410444,-0.388,ES
+Petromar,Petromar,fuel,39.536472,-0.353389,ES
+MIGUEL PI,MIGUEL PI,fuel,39.5418341,-0.4619561,ES
+SLH-REPSOL-MUSEROS,SLH-REPSOL-MUSEROS,fuel,39.555056,-0.339028,ES
+SANTA RITA,SANTA RITA,fuel,39.509861,-0.452333,ES
+Petromax Levante,Petromax Levante,fuel,39.567028,-0.493333,ES
+Galp Polígono Aeropuerto,Galp Polígono Aeropuerto,fuel,39.485057,-0.4633655,ES
+Face Petroleum,Face Petroleum,fuel,39.5844545,-0.3218883,ES
+mundotravel,mundotravel,travel_agency,39.4856912,-0.4497689,ES
+San Augustin,San Augustin,restaurant,39.468156,-0.3802543,ES
+Estanco Santa Catalina,Estanco Santa Catalina,tobacco,39.4739678,-0.3761573,ES
+CyT Canas y Tapas,CyT Canas y Tapas,restaurant,39.473825,-0.3760298,ES
+Óptica Universitaria,Óptica Universitaria,optician,39.4700642,-0.3757182,ES
+Tabacco,Tabacco,kiosk,39.4894517,-0.3713858,ES
+Solaz,Solaz,cafe,39.4959392,-0.3710206,ES
+La Terrazza,La Terrazza,restaurant,39.4714708,-0.3776649,ES
+Sagardi Valencia - Cosineros Vascos,Sagardi Valencia - Cosineros Vascos,restaurant,39.4733028,-0.3761283,ES
+Alpargatus,Alpargatus,shoes,39.4719746,-0.3765782,ES
+BP San Onofre,BP San Onofre,fuel,39.480194,-0.447194,ES
+Che Boludo,Che Boludo,restaurant,39.5087902,-0.3232178,ES
+Toni,Toni,cafe,39.508139,-0.3218076,ES
+Cafetería Pizzeria,Cafetería Pizzeria,cafe,39.4819069,-0.3433539,ES
+Plaza,Plaza,restaurant,39.5089009,-0.3235106,ES
+Les Tendes,Les Tendes,restaurant,39.5124844,-0.337586,ES
+La Lluna,La Lluna,restaurant,39.5129444,-0.3382116,ES
+Pizzeria Piccolina,Pizzeria Piccolina,restaurant,39.5461046,-0.3893726,ES
+Ca Paco,Ca Paco,restaurant,39.543547,-0.3962283,ES
+Calero,Calero,restaurant,39.5455595,-0.3961157,ES
+Cafe i Mes,Cafe i Mes,restaurant,39.5425999,-0.3924785,ES
+Sher Khan,Sher Khan,restaurant,39.543043,-0.3886506,ES
+Pizzeria Da Pino,Pizzeria Da Pino,restaurant,39.5425213,-0.3902362,ES
+Musical,Musical,restaurant,39.5449137,-0.3936234,ES
+Soriano,Soriano,cafe,39.5451573,-0.3933348,ES
+Montesinos 2,Montesinos 2,cafe,39.5509874,-0.4649904,ES
+La Terraza,La Terraza,cafe,39.55201,-0.463215,ES
+Piel Antonio López,Piel Antonio López,clothes,39.4539689,-0.3927004,ES
+Aamir Alimentación,Aamir Alimentación,convenience,39.4540495,-0.391148,ES
+Style,Style,shoes,39.4535365,-0.3900545,ES
+Emily,Emily,clothes,39.4528112,-0.3887622,ES
+Electroland,Electroland,concrete,39.4569064,-0.397334,ES
+Azahar,Azahar,bakery,39.4552757,-0.3941741,ES
+Cuestas,Cuestas,hairdresser,39.4539326,-0.3931228,ES
+Viajes Uve Travel,Viajes Uve Travel,travel_agency,39.4535323,-0.389904,ES
+Mateo,Mateo,greengrocer,39.4530953,-0.3903342,ES
+Tari Mobile Hospital,Tari Mobile Hospital,mobile_phone,39.4543915,-0.3914059,ES
+Shanghai,Shanghai,variety_store,39.452577,-0.389697,ES
+Expo-Rotul,Expo-Rotul,neon_signs,39.4545958,-0.392495,ES
+Con Fundamento,Con Fundamento,cafe,39.4532166,-0.390637,ES
+Juan de Garay,Juan de Garay,cafe,39.45433,-0.3936721,ES
+Montesa,Montesa,copyshop,39.4544725,-0.3921887,ES
+NeiZa,NeiZa,clothes,39.4527235,-0.3887796,ES
+Vicente,Vicente,greengrocer,39.4541142,-0.3930819,ES
+Llanera,Llanera,furniture,39.4537376,-0.3897815,ES
+Maridesa,Maridesa,florist,39.4600559,-0.3996064,ES
+Rose Indian,Rose Indian,convenience,39.4538112,-0.3905772,ES
+Tayyab Sweet House,Tayyab Sweet House,bakery,39.4544439,-0.3914508,ES
+Garden,Garden,cafe,39.4523228,-0.3890102,ES
+Jordi Y Lola,Jordi Y Lola,greengrocer,39.4546905,-0.3927368,ES
+Pensat i Fet,Pensat i Fet,copyshop,39.4529588,-0.3901222,ES
+Tejidos Isabel,Tejidos Isabel,fabric,39.4537244,-0.3925737,ES
+Fragances & Colors,Fragances & Colors,perfumery,39.4542391,-0.3920156,ES
+Anyo,Anyo,shoes,39.4529044,-0.3887382,ES
+Nerval,Nerval,paint,39.4526135,-0.3887983,ES
+Kimi-K,Kimi-K,clothes,39.4529562,-0.3887322,ES
+Interiores Garbe,Interiores Garbe,furniture,39.4524618,-0.3893743,ES
+Arco Asesores,Arco Asesores,kitchen,39.4539399,-0.3909872,ES
+Family Home,Family Home,supermarket,39.4541367,-0.3907684,ES
+El Rincón del Dulce,El Rincón del Dulce,bakery,39.4536563,-0.3918217,ES
+Avenida,Avenida,cafe,39.4536608,-0.3924015,ES
+María Mónica,María Mónica,hairdresser,39.453748,-0.3926417,ES
+La Luna,La Luna,restaurant,39.4554213,-0.3938171,ES
+Antón,Antón,car_repair,39.4597813,-0.3999113,ES
+Catay,Catay,variety_store,39.4537052,-0.390335,ES
+Doctor Travel,Doctor Travel,travel_agency,39.4536129,-0.3917032,ES
+La Chispa,La Chispa,hardware,39.4536867,-0.3896574,ES
+Maxi Cars,Maxi Cars,car_repair,39.454056,-0.3905591,ES
+Moreno Ponce 2,Moreno Ponce 2,bakery,39.4528641,-0.3904885,ES
+Moraluminio,Moraluminio,hardware,39.4539214,-0.3902407,ES
+Salon de Té Moreno Ponce 2,Salon de Té Moreno Ponce 2,cafe,39.4528787,-0.3904292,ES
+Hypo,Hypo,shoes,39.4523819,-0.3891662,ES
+El Parque,El Parque,bakery,39.4597277,-0.4002153,ES
+Piro Mirta,Piro Mirta,pyrotechnics,39.4528571,-0.3903489,ES
+Surval,Surval,jewelry,39.452511,-0.3888164,ES
+Los Navarro,Los Navarro,greengrocer,39.453963,-0.3903486,ES
+Les Pilars,Les Pilars,cafe,39.455031,-0.3935621,ES
+Silvani,Silvani,florist,39.4536934,-0.3919044,ES
+Ropa de Hogar Marian,Ropa de Hogar Marian,fabric,39.4530419,-0.390313,ES
+Amper Decor,Amper Decor,paint,39.4531387,-0.3889783,ES
+Ebro,Ebro,restaurant,39.4546812,-0.3944831,ES
+MaxiCosta,MaxiCosta,tailor,39.4540041,-0.392805,ES
+Quiros,Quiros,cafe,39.4536209,-0.3903263,ES
+AN,AN,hairdresser,39.4535151,-0.3920078,ES
+Liheto,Liheto,hairdresser,39.4538961,-0.3901171,ES
+MDomingo,MDomingo,convenience,39.4530136,-0.3887239,ES
+J. Ramón,J. Ramón,hairdresser,39.4527199,-0.3900187,ES
+Opticalia,Opticalia,optician,39.4522629,-0.3888246,ES
+PlanTour,PlanTour,travel_agency,39.4537477,-0.3919404,ES
+Toni's,Toni's,cafe,39.4529094,-0.3899888,ES
+Mari Luz,Mari Luz,hairdresser,39.4539836,-0.3904108,ES
+Tiffany Moda Íntima,Tiffany Moda Íntima,clothes,39.4538315,-0.3923141,ES
+Unidad de Belleza,Unidad de Belleza,beauty,39.4772429,-0.3637582,ES
+Bar Casa Paco,Bar Casa Paco,cafe,39.4812302,-0.3721439,ES
+"Patraix Motor, S.L.","Patraix Motor, S.L.",car_repair,39.4607296,-0.3910111,ES
+Candy's,Candy's,kiosk,39.4765717,-0.3641118,ES
+Casa Roberto,Casa Roberto,restaurant,39.4649003,-0.3688996,ES
+La Pepica,La Pepica,restaurant,39.4633974,-0.3234726,ES
+El Coso,El Coso,restaurant,39.4637145,-0.32351,ES
+Restaurante Miramar,Restaurante Miramar,restaurant,39.4642871,-0.323598,ES
+Tres Cepas,Tres Cepas,restaurant,39.4639856,-0.3235554,ES
+L'Estimat,L'Estimat,restaurant,39.4638677,-0.3235343,ES
+Cafetería Daniel's,Cafetería Daniel's,cafe,39.4769887,-0.3629312,ES
+Sorolla,Sorolla,restaurant,39.4663046,-0.3245234,ES
+Perfumería Prieto,Perfumería Prieto,beauty,39.4769143,-0.3626199,ES
+Tridente,Tridente,restaurant,39.463189,-0.3231189,ES
+Las Carabelas,Las Carabelas,restaurant,39.4641847,-0.3235828,ES
+Wansda,Wansda,restaurant,39.4179611,-0.4899362,ES
+Lola Baladron Estudio,Lola Baladron Estudio,gift,39.4613132,-0.368494,ES
+Forn L'Esglesia,Forn L'Esglesia,bakery,39.4834748,-0.4421552,ES
+Forn Frontera,Forn Frontera,bakery,39.4826918,-0.4476299,ES
+Forn El Portalet,Forn El Portalet,bakery,39.4830254,-0.4422247,ES
+Horno San José,Horno San José,bakery,39.4823022,-0.4421256,ES
+Quart i Mig,Quart i Mig,restaurant,39.4823648,-0.4466263,ES
+Nou Ruby,Nou Ruby,restaurant,39.4824785,-0.4419399,ES
+Bar El Casino,Bar El Casino,restaurant,39.48252,-0.4421314,ES
+La Mandrágora,La Mandrágora,restaurant,39.4774825,-0.3780204,ES
+La Genuina,La Genuina,restaurant,39.4227706,-0.3404649,ES
+Barton,Barton,clothes,39.4782441,-0.3946381,ES
+Bierwinkel,Bierwinkel,restaurant,39.4805806,-0.3943088,ES
+Cafetería Caty,Cafetería Caty,cafe,39.4806249,-0.3935151,ES
+Comidas Campanar,Comidas Campanar,restaurant,39.4805271,-0.3944235,ES
+Cortina,Cortina,hairdresser,39.4786094,-0.3924837,ES
+Estetica Ana Barquero,Estetica Ana Barquero,beauty,39.4785495,-0.3940022,ES
+GlassDrive,GlassDrive,car_repair,39.4797783,-0.3939549,ES
+Campanar 43,Campanar 43,cafe,39.4791182,-0.3938375,ES
+Lorno,Lorno,bakery,39.4788353,-0.3944715,ES
+Papillón,Papillón,hairdresser,39.480432,-0.3945156,ES
+Chino Feliz,Chino Feliz,restaurant,39.4791634,-0.3918549,ES
+Restaurante Pío XII,Restaurante Pío XII,restaurant,39.4806349,-0.3929191,ES
+Taberna Montero,Taberna Montero,restaurant,39.4792824,-0.3919784,ES
+Talleres Alvarez,Talleres Alvarez,car_repair,39.4783374,-0.3945914,ES
+Cerveceria Espe,Cerveceria Espe,cafe,39.4786328,-0.3940476,ES
+Centro Beltrán,Centro Beltrán,beauty,39.4805532,-0.3935493,ES
+APP informatica,APP informatica,computer,39.4787024,-0.39387,ES
+Delpil hair,Delpil hair,beauty,39.4782561,-0.3942133,ES
+Fernando Torres,Fernando Torres,hairdresser,39.4782213,-0.3954793,ES
+Hui No Cuine,Hui No Cuine,restaurant,39.4786465,-0.3940116,ES
+Jarajuel,Jarajuel,cafe,39.4792643,-0.3934976,ES
+Juan,Juan,hairdresser,39.4783446,-0.3940606,ES
+Las Provincias,Las Provincias,newsagent,39.4782595,-0.3955049,ES
+Nostrum Sport,Nostrum Sport,clothes,39.4784419,-0.3939999,ES
+Bikila,Bikila,clothes,39.4786302,-0.3952488,ES
+Cafenet,Cafenet,cafe,39.4783577,-0.3955715,ES
+Juan Zaragoza,Juan Zaragoza,sports,39.4784058,-0.395605,ES
+Nova Cuina,Nova Cuina,furniture,39.4784508,-0.3956364,ES
+C.O.D.A,C.O.D.A,car_repair,39.4791176,-0.3951358,ES
+Trocadero,Trocadero,confectionery,39.4792651,-0.3950669,ES
+La Bruixeta,La Bruixeta,dry_cleaning,39.4801427,-0.3953218,ES
+Opencel,Opencel,beauty,39.4801729,-0.3952551,ES
+Peluquería CG,Peluquería CG,hairdresser,39.4800609,-0.3955132,ES
+Silkot,Silkot,greengrocer,39.4800954,-0.3954303,ES
+Ciber Cafe,Ciber Cafe,cafe,39.4786996,-0.3958178,ES
+El Revistero,El Revistero,newsagent,39.4790475,-0.396064,ES
+Entreavenidas,Entreavenidas,hairdresser,39.4788635,-0.3959318,ES
+Oinel,Oinel,electronics,39.4789842,-0.3960184,ES
+Watan,Watan,greengrocer,39.4788127,-0.395896,ES
+Prensa,Prensa,kiosk,39.4806917,-0.3931175,ES
+Amparín,Amparín,hairdresser,39.4800115,-0.3933371,ES
+Aquasan,Aquasan,furniture,39.4785292,-0.3926374,ES
+Rosa Lloris,Rosa Lloris,butcher,39.4798085,-0.3932581,ES
+Amado Salvador,Amado Salvador,bathroom_furnishing,39.4789306,-0.3917431,ES
+Restaurante Japonés Kyoto,Restaurante Japonés Kyoto,restaurant,39.4790676,-0.3917966,ES
+Cony's,Cony's,hairdresser,39.4800986,-0.3964383,ES
+Gran Bazar Campanar,Gran Bazar Campanar,variety_store,39.4804282,-0.3953862,ES
+Los Alpes,Los Alpes,restaurant,39.4804704,-0.3967025,ES
+Vedat Valencia,Vedat Valencia,car,39.4810303,-0.3939701,ES
+Zailand,Zailand,furniture,39.4800148,-0.3963388,ES
+Capricho de las Américas,Capricho de las Américas,cafe,39.480333,-0.3959627,ES
+Interservicio,Interservicio,electronics,39.4805341,-0.3961104,ES
+Uñas y Fantasia,Uñas y Fantasia,beauty,39.4804335,-0.3960362,ES
+Llaneza,Llaneza,stationery,39.4810217,-0.3955746,ES
+Pollos y Planes,Pollos y Planes,butcher,39.4809875,-0.3954776,ES
+Pá i Dolços,Pá i Dolços,confectionery,39.4809745,-0.3956941,ES

@@ -1,0 +1,614 @@
+name,name_en,service_type,lat,lng,country_code
+SSF Home Deco Mart,SSF Home Deco Mart,interior_decoration,3.1990403,101.6074705,MY
+TF Value-Mart,TF Value-Mart,supermarket,3.0807608,101.730584,MY
+Mee Bandung House (Muar),Mee Bandung House (Muar),restaurant,3.1764241,101.6993415,MY
+Restoran Haslam,Restoran Haslam,restaurant,3.1764224,101.699189,MY
+7-Eleven,7-Eleven,convenience,3.1764176,101.6987407,MY
+Careefour Express,Careefour Express,convenience,3.2048462,101.7362294,MY
+Neo Steamboat,Neo Steamboat,restaurant,3.2035127,101.7365065,MY
+HT Auto Sound,HT Auto Sound,car,3.0998538,101.6194837,MY
+Shell Select,Shell Select,convenience,3.1642841,101.6518496,MY
+Souled Out,Souled Out,restaurant,3.1635342,101.6486202,MY
+Food Stalls,Food Stalls,restaurant,3.1767437,101.7030268,MY
+Kamdar,Kamdar,department_store,3.1535614,101.6967679,MY
+Mydin,Mydin,supermarket,3.1465113,101.6983657,MY
+Kak Eita Steamboat,Kak Eita Steamboat,restaurant,3.2035773,101.7365607,MY
+AEON BiG,AEON BiG,supermarket,3.0634427,101.6944032,MY
+Mums,Mums,restaurant,3.0916007,101.6412537,MY
+Village Grocer Bangsar Village,Village Grocer Bangsar Village,supermarket,3.129276,101.6706273,MY
+Nando's,Nando's,restaurant,3.1293103,101.6710788,MY
+TMC Lucky Garden,TMC Lucky Garden,supermarket,3.1285778,101.6696379,MY
+Starbucks,Starbucks,cafe,3.1296759,101.6708607,MY
+Oversea Restaurant,Oversea Restaurant,restaurant,3.1043199,101.6401656,MY
+Old Town,Old Town,cafe,3.133234,101.6890616,MY
+Sam yu,Sam yu,restaurant,3.0975832,101.6128861,MY
+Restoran Al-Azur,Restoran Al-Azur,restaurant,3.20135,101.6197538,MY
+Perodua,Perodua,car,3.2016792,101.6193267,MY
+Restoran Ah Niu,Restoran Ah Niu,restaurant,3.2026503,101.617991,MY
+Wet Market,Wet Market,kiosk,3.2021131,101.6186974,MY
+Restoran Noodle Time,Restoran Noodle Time,restaurant,3.0839604,101.6822613,MY
+Happy Cafe,Happy Cafe,restaurant,3.0833246,101.6807499,MY
+MR.DIY,MR.DIY,doityourself,3.07459,101.6488699,MY
+Kedai Makanan Pasifik,Kedai Makanan Pasifik,restaurant,3.0731549,101.6532117,MY
+M Jaya Motor Enterprise,M Jaya Motor Enterprise,motorcycle,3.075145,101.6460183,MY
+Kedai Makanan & Minuman Manja,Kedai Makanan & Minuman Manja,restaurant,3.0743169,101.6459606,MY
+Toyota,Toyota,car,3.0418338,101.6191423,MY
+Peugeot,Peugeot,car,3.0421231,101.6180479,MY
+Nissan,Nissan,car,3.0376447,101.6170072,MY
+Toys R Us,Toys R Us,toys,3.0439444,101.6181445,MY
+Hailam Kopitiam,Hailam Kopitiam,cafe,3.0589865,101.6736925,MY
+Pasaraya AJ,Pasaraya AJ,convenience,3.0615315,101.7437161,MY
+Restoran Choong Kee Kampar Claypot Rice,Restoran Choong Kee Kampar Claypot Rice,restaurant,3.1255683,101.6165368,MY
+Nicholes Cakery & Cafe,Nicholes Cakery & Cafe,restaurant,3.1256757,101.6166011,MY
+Carnaval Churrascaria Brazilian Restaurant,Carnaval Churrascaria Brazilian Restaurant,restaurant,3.1263131,101.6152386,MY
+Hard Rock Cafe,Hard Rock Cafe,restaurant,3.1556171,101.7054722,MY
+KTM Serdang Jetty,KTM Serdang Jetty,travel_agency,3.0238898,101.7166247,MY
+Shanar Curry House,Shanar Curry House,restaurant,3.0856319,101.6587115,MY
+Sun Raj Curry House,Sun Raj Curry House,restaurant,3.0862994,101.6577488,MY
+Heng Kee Bak Kut Teh,Heng Kee Bak Kut Teh,restaurant,3.0855632,101.6469017,MY
+House of Fishball,House of Fishball,restaurant,3.0860427,101.6494954,MY
+Watsons,Watsons,chemist,3.086761,101.6471025,MY
+Petaling Store,Petaling Store,convenience,3.0858467,101.6576346,MY
+Sam You,Sam You,restaurant,3.0992738,101.6465686,MY
+Restoran Kapitan,Restoran Kapitan,restaurant,3.098781,101.6447566,MY
+Kedai Gunting Rambut Art,Kedai Gunting Rambut Art,hairdresser,3.0994043,101.6437416,MY
+Pizza Hut,Pizza Hut,restaurant,3.099092,101.6465745,MY
+Tong Woh Enterprise,Tong Woh Enterprise,supermarket,3.0996955,101.6455299,MY
+Cristang,Cristang,restaurant,3.1005907,101.6400402,MY
+Raju,Raju,restaurant,3.1015806,101.6537986,MY
+Sri Paandi Gasing,Sri Paandi Gasing,restaurant,3.1019623,101.6534458,MY
+SMB Frozen Food Sdn Bhd,SMB Frozen Food Sdn Bhd,supermarket,3.0865897,101.6413154,MY
+Jaleel 24hrs Teh Tarik,Jaleel 24hrs Teh Tarik,cafe,3.0989356,101.6403888,MY
+Devi's Corner,Devi's Corner,restaurant,3.0866232,101.6554081,MY
+Kings Hairdresser Saloon,Kings Hairdresser Saloon,hairdresser,3.0867906,101.6554517,MY
+Bangkok Tom Yam,Bangkok Tom Yam,restaurant,3.0864142,101.6456887,MY
+PJ Baru,PJ Baru,restaurant,3.0995808,101.6433605,MY
+99 Speedmart,99 Speedmart,supermarket,3.0868993,101.6630267,MY
+Thai Corner,Thai Corner,restaurant,3.0983025,101.6461107,MY
+Cosway,Cosway,chemist,3.0982789,101.6456243,MY
+Magic 1,Magic 1,restaurant,3.0986194,101.6440444,MY
+Su Fes,Su Fes,books,3.0860482,101.657675,MY
+Yasin Curry House,Yasin Curry House,restaurant,3.0874794,101.6636043,MY
+Dobitiam,Dobitiam,laundry,3.0870546,101.6635861,MY
+Lotus Barbershop,Lotus Barbershop,hairdresser,3.0870171,101.6634903,MY
+Ming Yang Kopitiam,Ming Yang Kopitiam,restaurant,3.0869009,101.6488541,MY
+Kedai Basikal Foo Hing,Foo Hing Bicycle Shop,bicycle,3.0865564,101.6458148,MY
+Tayaria,Tayaria,car_repair,3.0871155,101.6410599,MY
+Pork section PJ Old Town Wet Market,Pork section PJ Old Town Wet Market,butcher,3.0875353,101.6448056,MY
+Bala Saloon,Bala Saloon,hairdresser,3.097903,101.6460796,MY
+Perodua Showroom,Perodua Showroom,car,3.0978806,101.6451817,MY
+Guardian,Guardian,chemist,3.0987814,101.6449685,MY
+Strawberry Fields,Strawberry Fields,restaurant,3.0991041,101.6445025,MY
+Saravanaa Bhavan,Saravanaa Bhavan,restaurant,3.0999116,101.6442768,MY
+Al-Unnaz Nasi Kandar,Al-Unnaz Nasi Kandar,restaurant,3.0989024,101.6465728,MY
+Najmeer Curry House,Najmeer Curry House,restaurant,3.0987466,101.6453795,MY
+Poh Kong,Poh Kong,jewelry,3.1000755,101.6453911,MY
+Restoran Satellite Chicken Rice,Restoran Satellite Chicken Rice,restaurant,3.106785,101.6535668,MY
+Kanna Curry House,Kanna Curry House,restaurant,3.1069773,101.6534704,MY
+PJ Hills 24 Hours,PJ Hills 24 Hours,restaurant,3.1109087,101.6488476,MY
+Kedai Emas Kim Tee,Kedai Emas Kim Tee,jewelry,3.0864641,101.6488899,MY
+Kok Aquarium,Kok Aquarium,pet,3.0862549,101.6460835,MY
+Buy And Sell (BST),Buy And Sell (BST),second_hand,3.0982757,101.6455369,MY
+Studio Foto Starlight,Studio Foto Starlight,photo,3.0865146,101.6485317,MY
+Kedai Emas Poh Sin,Poh Sin Jewellery,jewelry,3.0867294,101.6473619,MY
+L&W,L&W,copyshop,3.0987762,101.6458986,MY
+Chien Yiet Hardware,Chien Yiet Hardware,paint,3.0987739,101.6461975,MY
+Old Town Nasi Kandar,Old Town Nasi Kandar,restaurant,3.086547,101.6483139,MY
+My One Shop,My One Shop,gift,3.0864152,101.6494699,MY
+Jin Xuan Hong Kong,Jin Xuan Hong Kong,restaurant,3.0856675,101.6463567,MY
+Ming Kee Bak Kut Teh,Ming Kee Bak Kut Teh,restaurant,3.0864654,101.6461737,MY
+Pasaraya Wai Hong,Pasaraya Wai Hong,convenience,3.0866047,101.6464606,MY
+Sang Hup Hardware,Sang Hup Hardware,paint,3.0869169,101.6486937,MY
+Raikhan Nasi Kandar,Raikhan Nasi Kandar,restaurant,3.0867292,101.6461167,MY
+Restoran Sahabudin,Restoran Sahabudin,restaurant,3.0868939,101.6460483,MY
+Bata,Bata,shoes,3.0869857,101.64825,MY
+Pat Seong Liquor Store,Pat Seong Liquor Store,alcohol,3.086432,101.6490425,MY
+Ar-Rahnu,Ar-Rahnu,pawnbroker,3.086908,101.6487621,MY
+Lotus,Lotus,restaurant,3.0949856,101.6513499,MY
+FamilyMart,FamilyMart,convenience,3.1046284,101.6467993,MY
+CleanPro Express,CleanPro Express,laundry,3.0978658,101.6456673,MY
+Neu Vegetarian Restaurant,Neu Vegetarian Restaurant,restaurant,3.0989032,101.6458277,MY
+Restoran Win Heng Seng,Restoran Win Heng Seng,restaurant,3.1454922,101.7150729,MY
+Hai Kah Kia,Hai Kah Kia,restaurant,3.1454249,101.714994,MY
+Kawajun Locks Trading,Kawajun Locks Trading,yes,3.1454597,101.7150233,MY
+Roystar Travel & Tours,Roystar Travel & Tours,travel_agency,3.1452984,101.714839,MY
+CK Music,CK Music,music,3.1442512,101.7135944,MY
+Loong Kee,Loong Kee,deli,3.1444494,101.713825,MY
+Trans Star Travel,Trans Star Travel,travel_agency,3.1444119,101.7137848,MY
+Steam Era Seafood Steamboat Restaurant,Steam Era Seafood Steamboat Restaurant,restaurant,3.1445994,101.7140074,MY
+Kedai Dobi Clean Pro,Kedai Dobi Clean Pro,laundry,3.1443583,101.713699,MY
+Sieg,Sieg,hairdresser,3.1442084,101.7135354,MY
+Chen Jiu Ru,Chen Jiu Ru,restaurant,3.1443449,101.7131357,MY
+Restoran Chef Rasa Sayang,Restoran Chef Rasa Sayang,restaurant,3.144977,101.7139645,MY
+Restoran Oversea,Restoran Oversea,restaurant,3.1445976,101.7134509,MY
+Australian Confectionery,Australian Confectionery,confectionery,3.1442753,101.7130311,MY
+Restoran Fong Lye,Restoran Fong Lye,restaurant,3.1447145,101.7135756,MY
+Pure Mind Vegetarian Restaurant,Pure Mind Vegetarian Restaurant,restaurant,3.14491,101.7138438,MY
+YS Dobi,YS Dobi,laundry,3.1447413,101.71364,MY
+Honda,Honda,car,3.1459505,101.7152989,MY
+DH Nyonya Cafe,DH Nyonya Cafe,cafe,3.1003925,101.6398823,MY
+Restoran Gem,Restoran Gem,restaurant,3.0945597,101.6513579,MY
+U Cafe,U Cafe,cafe,3.1450096,101.7114796,MY
+Tealive,Tealive,cafe,3.1453167,101.7111404,MY
+Stoked,Stoked,restaurant,3.1401482,101.6576488,MY
+Tiki Taka,Tiki Taka,restaurant,3.1396976,101.6573786,MY
+Kenji,Kenji,restaurant,3.1398007,101.6574403,MY
+La Risata,La Risata,restaurant,3.1399714,101.6575375,MY
+Butcher's Block,Butcher's Block,restaurant,3.1400558,101.6575965,MY
+Vintry,Vintry,restaurant,3.139902,101.657501,MY
+Shell,Shell,fuel,3.1347972,101.6723178,MY
+Mama Mia Restaurant & Bistro,Mama Mia Restaurant & Bistro,restaurant,3.1001105,101.6450568,MY
+Restoran Sri Karak,Restoran Sri Karak,restaurant,3.0996641,101.6453804,MY
+Ipoh Kopitiam,Ipoh Kopitiam,restaurant,3.0987508,101.6448708,MY
+Kak Dee,Kak Dee,restaurant,3.0989024,101.6457614,MY
+Restoran Rojak Subang,Restoran Rojak Subang,restaurant,3.0989027,101.6460331,MY
+Restoran Legend's Claypot Briyani House,Restoran Legend's Claypot Briyani House,restaurant,3.0992415,101.6455434,MY
+KK Super Mart,KK Super Mart,convenience,3.0580186,101.673828,MY
+Shin Zushi,Shin Zushi,restaurant,3.0599695,101.6731296,MY
+Toyota Showroom & Service Centre,Toyota Showroom & Service Centre,car_repair,3.1120241,101.6320035,MY
+Gasing Store Lotus,Gasing Store Lotus,convenience,3.0949154,101.6513564,MY
+Rajoos Curry House,Rajoos Curry House,restaurant,3.0914337,101.6412418,MY
+Old Town Fish Shop 1,Old Town Fish Shop 1,pet,3.0884752,101.6412911,MY
+Sri Ganapathi Mess (Lunch only),Sri Ganapathi Mess (Lunch only),restaurant,3.0855462,101.6484553,MY
+Gasing,Gasing,restaurant,3.1022687,101.6530535,MY
+Maharaj Rumah Warisan,Maharaj Rumah Warisan,restaurant,3.0993962,101.6524214,MY
+Veng Soon,Veng Soon,restaurant,3.0861306,101.6463809,MY
+Kafe PJ Oldtown,Kafe PJ Oldtown,restaurant,3.0857047,101.6523032,MY
+BHPetrol,BHPetrol,fuel,3.1337929,101.6723071,MY
+Gin Rik Sha,Gin Rik Sha,restaurant,3.1398406,101.6574617,MY
+Jake's,Jake's,restaurant,3.1399005,101.658078,MY
+Victoria Station Medan Damansara,Victoria Station Medan Damansara,restaurant,3.1397599,101.6579975,MY
+Syed Bistro,Syed Bistro,restaurant,3.1010276,101.641056,MY
+Top Gold Tyre,Top Gold Tyre,tyres,3.0995386,101.6408014,MY
+Restoran Zone Eight,Restoran Zone Eight,restaurant,3.1000913,101.6411774,MY
+Restoran Sederhana,Restoran Sederhana,restaurant,3.1016688,101.6401955,MY
+Sentrum Cafe and Bistro,Sentrum Cafe and Bistro,cafe,3.1014023,101.6413517,MY
+Restoran Jaya,Restoran Jaya,restaurant,3.1005961,101.6411801,MY
+Restoran Uncle Gundu,Restoran Uncle Gundu,restaurant,3.1002001,101.6408759,MY
+Super 88 Laundrette,Super 88 Laundrette,laundry,3.1001353,101.6408319,MY
+Barumba,Barumba,restaurant,3.1004182,101.6410502,MY
+Restoran Imperial Garden,Restoran Imperial Garden,restaurant,3.1043537,101.6400053,MY
+Vie Onn,Vie Onn,convenience,3.1099344,101.6360408,MY
+"Ali, Muthu & Ah Hock","Ali, Muthu & Ah Hock",restaurant,3.1100173,101.6375482,MY
+Baker's Cottage,Baker's Cottage,bakery,3.1095552,101.6361317,MY
+Wah Chan,Wah Chan,jewelry,3.109811,101.6358852,MY
+Jaya Grocer,Jaya Grocer,supermarket,3.1092693,101.6374196,MY
+Circle K,Circle K,convenience,3.1058187,101.6347884,MY
+PappaRich,PappaRich,restaurant,3.1106543,101.6320968,MY
+Restoran Al Berkat Curry House,Restoran Al Berkat Curry House,restaurant,3.1104526,101.6454075,MY
+Advanced,Advanced,laundry,3.1103434,101.6453389,MY
+Francis Bistro & Restaurant,Francis Bistro & Restaurant,restaurant,3.1106562,101.6455925,MY
+Sree Ganesh,Sree Ganesh,restaurant,3.110999,101.6459064,MY
+Java Love Coffee & Pastries,Java Love Coffee & Pastries,restaurant,3.1107376,101.6456555,MY
+Restoran Mam Wah,Restoran Mam Wah,restaurant,3.1105602,101.6455025,MY
+Restoran Satellite,Restoran Satellite,restaurant,3.1110445,101.6459412,MY
+Chuan Lee,Chuan Lee,restaurant,3.1102946,101.6452868,MY
+Bakers Station,Bakers Station,bakery,3.1108838,101.6457937,MY
+BNS Concept Shop,BNS Concept Shop,mobile_phone,3.0984709,101.6462229,MY
+Out Of Africa,Out Of Africa,restaurant,3.1014532,101.6463192,MY
+Pasar Mini Sri Paandi,Pasar Mini Sri Paandi,convenience,3.1108377,101.6487306,MY
+Swee Huat Trading,Swee Huat Trading,hardware,3.1107986,101.6486648,MY
+Restoran Okay,Restoran Okay,restaurant,3.1000668,101.6407789,MY
+Robin Hood,Robin Hood,restaurant,3.1005479,101.6398846,MY
+Pan Cafe,Pan Cafe,cafe,3.099873,101.6399489,MY
+Restoran Abirami,Restoran Abirami,restaurant,3.0999189,101.6395974,MY
+Ecomach Tech,Ecomach Tech,car_repair,3.087438,101.6634829,MY
+Jaya Grocer,Jaya Grocer Plaza 33,supermarket,3.1106516,101.6371547,MY
+Sri Paandi,Sri Paandi,restaurant,3.1110094,101.6490383,MY
+German Motors,German Motors,car_repair,3.1113426,101.6380559,MY
+Mazda Service Centre,Mazda Service Centre,car_repair,3.1095716,101.6786107,MY
+Pusat Servis Proton,Proton Service Centre,car_repair,3.0839837,101.6624021,MY
+Lian See Hup Sdn Bhd,Lian See Hup Sdn Bhd,paint,3.0822186,101.6577872,MY
+Soon Lee,Soon Lee,restaurant,3.0855896,101.6467349,MY
+Wukong,Wukong,restaurant,3.088742,101.6743697,MY
+Grand City,Grand City,restaurant,3.1112335,101.6494295,MY
+Syarikat King Motor,Syarikat King Motor,motorcycle,3.08756,101.6466876,MY
+Leh Motor Sdn Bhd,Leh Motor Sdn Bhd,motorcycle,3.0827572,101.6591482,MY
+Ibrahim Maju,Ibrahim Maju,restaurant,3.0687294,101.7055075,MY
+Heap Wah (Hardware Store),Heap Wah (Hardware Store),hardware,3.0821999,101.6577199,MY
+Ipoh Chicken Rice,Ipoh Chicken Rice,restaurant,3.0719847,101.6822101,MY
+Restoran Choy Kei,Restoran Choy Kei,restaurant,3.0764816,101.6790236,MY
+Top Speed,Top Speed,car_repair,3.0766771,101.6788278,MY
+Blue Boy Vegetarian Restaurant,Blue Boy Vegetarian Restaurant,restaurant,3.1448602,101.7061467,MY
+Voilà Meat Free Restaurant,Voilà Meat Free Restaurant,restaurant,3.1419175,101.6971822,MY
+Restoran SK Maju,Restoran SK Maju,restaurant,3.1113322,101.6121271,MY
+Piccadilly,Piccadilly,restaurant,3.1053111,101.6348672,MY
+Unique Seafood,unique seafood,restaurant,3.1142657,101.6422642,MY
+OldTown White Coffee,OldTown White Coffee,cafe,3.074716,101.6106021,MY
+San Yuaan Vegetarian,San Yuaan Vegetarian,restaurant,3.0748396,101.6112909,MY
+Siu Siu Sungai Besi,Siu Siu Sungai Besi,restaurant,3.120667,101.7074333,MY
+Kayu Nasi Kandar,Kayu Nasi Kandar,restaurant,3.09889,101.7121728,MY
+Hanizah Nasi Kandar,Hanizah Nasi Kandar,restaurant,3.1126912,101.7160969,MY
+The Baker's Place,The Baker's Place,bakery,3.1127045,101.7155846,MY
+Rvas Store,Rvas Store,convenience,3.1122894,101.7156033,MY
+Kedai Dobi Boboy,Kedai Dobi Boboy,laundry,3.1126885,101.7157321,MY
+Azzahra,Azzahra,restaurant,3.1122198,101.7152439,MY
+Kedai kek Cheras,Kedai kek Cheras,restaurant,3.1126965,101.7154746,MY
+Yati Jaya,Yati Jaya,restaurant,3.1122653,101.7164214,MY
+Wadi Hadramawt,Wadi Hadramawt,restaurant,3.1611641,101.7297606,MY
+Victoria Station,Victoria Station,restaurant,3.1602517,101.729044,MY
+Persia,Persia,restaurant,3.1608695,101.728331,MY
+Comic Corner,Comic Corner,books,3.1258332,101.6163316,MY
+LS Gooi,LS Gooi,general,3.1455857,101.707255,MY
+Hock Seng Two,Hock Seng Two,restaurant,3.1276697,101.6281988,MY
+Lucky Seafood,Lucky Seafood,restaurant,3.1063717,101.6252403,MY
+Meng Kee Steam Soup,Meng Kee Steam Soup,restaurant,3.1072582,101.6241406,MY
+Paramount 86,Paramount 86,restaurant,3.1080992,101.6239475,MY
+Gold Dragon City,Gold Dragon City,restaurant,3.1068592,101.6249936,MY
+New Seaview,New Seaview,restaurant,3.1103307,101.6273772,MY
+O&S,O&S,restaurant,3.1077832,101.6248702,MY
+Loong Foong,Loong Foong,restaurant,3.1061039,101.6256856,MY
+Ah Sang Bak Kut Teh,Ah Sang Bak Kut Teh,restaurant,3.0891529,101.6155664,MY
+Restoran Rani,Restoran Rani,restaurant,3.2366671,101.6839162,MY
+Simple Live Vegetarian,Simple Live Vegetarian,restaurant,3.071949,101.6062582,MY
+Shang Hai Vegetarian,Shang Hai Vegetarian,restaurant,3.0750075,101.6124682,MY
+ACE,ACE,doityourself,3.1106135,101.6374716,MY
+Restoran Jamal Mohamed,Restoran Jamal Mohamed,restaurant,3.1105895,101.6359951,MY
+Sin Teong Hing,Sin Teong Hing,garden_centre,3.148884,101.6978418,MY
+Cameleon Beancurd Vegetarian,Cameleon Beancurd Vegetarian,restaurant,3.1668412,101.6945821,MY
+Ming Chun Kee,Ming Chun Kee,restaurant,3.1193729,101.6335251,MY
+Kedai Kopi Ban Huat Heng,Kedai Kopi Ban Huat Heng,restaurant,3.1225289,101.6344981,MY
+YYY Drink And Food Station,YYY Drink And Food Station,restaurant,3.2137513,101.6320969,MY
+Petronas Jinjang,Petronas Jinjang,fuel,3.2098767,101.6572166,MY
+Restoran Sungai Long,Sungai Long Restaurant,restaurant,3.0423773,101.7916595,MY
+Restoran Tupai-Tupai,Restoran Tupai-Tupai,restaurant,3.1319974,101.7025433,MY
+Decathlon,Decathlon,sports,3.198003,101.6095443,MY
+All Fresh Shop,All Fresh Shop,convenience,3.1883785,101.6053278,MY
+Maju Restaurant,Maju Restaurant,restaurant,3.1842114,101.6088308,MY
+Paparich,Paparich,restaurant,3.1954245,101.608187,MY
+Matahari Restaurant,Matahari Restaurant,restaurant,3.1867342,101.6058643,MY
+Meng Heong Restaurant,Meng Heong Restaurant,restaurant,3.1874465,101.6051884,MY
+Mazda Workshop,Mazda Workshop,car_repair,3.1852626,101.6068394,MY
+Continental Workshop,Continental Workshop,car_repair,3.1848663,101.6073813,MY
+Kodak Photo Shop,Kodak Photo Shop,kiosk,3.1885016,101.6052984,MY
+Ayamas,Ayamas,butcher,3.195781,101.608538,MY
+Woh Kee Restaurant,Woh Kee Restaurant,restaurant,3.1930601,101.6061884,MY
+88 Seafood,88 Seafood,restaurant,3.1198377,101.6000097,MY
+Nissan Showroom,Nissan Showroom,car,3.0815085,101.6704469,MY
+Restoran Talipon,Restoran Talipon,restaurant,3.0910742,101.6806487,MY
+Subak,Subak,restaurant,3.1716307,101.6212714,MY
+Petronas Ampang Kolam Air,Petronas Ampang Kolam Air,fuel,3.1602007,101.754341,MY
+Ampang Bakery,Ampang Bakery,bakery,3.1621825,101.7599361,MY
+Rimba Jinbara,Rimba Jinbara,restaurant,3.2230036,101.7795861,MY
+Isi Rimba,Isi Rimba,restaurant,3.2262323,101.7812005,MY
+Nasi Lemak Sri Pandan,Nasi Lemak Sri Pandan,kiosk,3.1425007,101.7478834,MY
+San San Vegetarian Restaurant,San San Vegetarian Restaurant,restaurant,3.0821658,101.672078,MY
+San Yen Restaurant,San Yen Restaurant,restaurant,3.0166708,101.7040128,MY
+Petron,Petron,fuel,3.0192625,101.7127294,MY
+Petronas Seri Kembangan,Petronas Seri Kembangan,fuel,3.0197071,101.7135005,MY
+Odin,Odin,restaurant,3.2192182,101.6221593,MY
+Triangle Food Court,Triangle Food Court,restaurant,3.2212213,101.6247128,MY
+Hong Woon,Hong Woon,restaurant,3.2213445,101.6250856,MY
+Readers Store Bookmart and Stationery,Readers Store Bookmart and Stationery,books,3.2219229,101.623495,MY
+Restoran Sen Kee,Restoran Sen Kee,restaurant,3.1356283,101.7409249,MY
+Citroen Menara Pgrm,Citroen Menara Pgrm,car,3.1219649,101.7293726,MY
+Ng Choong Yeam Mini Market,Ng Choong Yeam Mini Market,supermarket,3.1608489,101.758874,MY
+Chinese Memorial Center,Chinese Memorial Center,funeral_directors,3.206111,101.664167,MY
+Restoran Makanan Laut Zhen Liew Siang,Restoran Makanan Laut Zhen Liew Siang,restaurant,3.1845124,101.6921752,MY
+Tamarind Springs,Tamarind Springs,restaurant,3.1700881,101.7706706,MY
+Intai-Intai Restaurant,Intai-Intai Restaurant,restaurant,3.1645045,101.7610519,MY
+Oriental Pearl,Oriental Pearl,restaurant,3.1662268,101.7695757,MY
+Yu Jia Village,Yu Jia Village,restaurant,3.1520678,101.7506274,MY
+Berkat Madinah,Berkat Madinah,supermarket,3.1509224,101.7504483,MY
+Stardust,Stardust,cafe,5.4191161,100.3347075,MY
+Sri Malaya,Sri Malaya,restaurant,5.4184854,100.3354024,MY
+Kapitan,Kapitan,restaurant,5.4162301,100.3386502,MY
+Deen Claypot-Briyani,Deen Claypot-Briyani,restaurant,5.4164155,100.3387337,MY
+Subaidah Bistro,Subaidah Bistro,restaurant,5.3566944,100.3042828,MY
+Happy Mart,Happy Mart,convenience,5.3963372,100.3156108,MY
+Olive Vegetarian,Olive Vegetarian,restaurant,5.4760949,100.252608,MY
+Nasi Kandar Bintang,Nasi Kandar Bintang,restaurant,5.4052098,100.2837153,MY
+Urban Artsan,Urban Artsan,bakery,5.4211006,100.3261468,MY
+Nasi Campur,Nasi Campur,restaurant,5.3284527,100.2950642,MY
+AEON,AEON,supermarket,5.3326098,100.3063238,MY
+Jaya Restaurant,Jaya Restaurant,restaurant,5.3189961,100.2877891,MY
+The Coffee Bean & Tea Leaf,The Coffee Bean & Tea Leaf,cafe,5.4327259,100.3100653,MY
+Hup Hin Tyre & Repair,Hup Hin Tyre & Repair,car_repair,5.4294328,100.3128335,MY
+Bukit Genting Leisure Park & Restaurant,Bukit Genting Leisure Park & Restaurant,restaurant,5.3093275,100.2209942,MY
+Jaya Restaurant (Gelugor),Jaya Restaurant (Gelugor),restaurant,5.3692293,100.3098535,MY
+Nasi Kandar Pelita,Nasi Kandar Pelita,restaurant,5.3775568,100.3148483,MY
+Yun Shan He Vegetarian House,Yun Shan He Vegetarian House,restaurant,5.4196331,100.3415596,MY
+Woodlands Vegetarian Indian Restaurant,Woodlands,restaurant,5.4179549,100.3405483,MY
+VR Penang Lily's Vegetarian Kitchen,VR Penang Lily's Vegetarian Kitchen,restaurant,5.4160069,100.3258314,MY
+Sushi Kitchen,Sushi Kitchen,restaurant,5.3247914,100.2712164,MY
+Passions of Kerala,Passions of Kerala,restaurant,5.3677791,100.3036566,MY
+Nasi Kandar Zubaidah - Sungai Dua,Nasi Kandar Zubaidah - Sungai Dua,restaurant,5.3495588,100.2959826,MY
+Nasi Kandar Khaleel,Nasi Kandar Khaleel,restaurant,5.3566164,100.2925427,MY
+Nasi Kandar Istemawa,Nasi Kandar Istemawa,restaurant,5.3576966,100.2925147,MY
+Nasi Kandar Kayu,Nasi Kandar Kayu,restaurant,5.3366803,100.293026,MY
+Nasi Kandar Khalil,Nasi Kandar Khalil,restaurant,5.3369394,100.2931536,MY
+Oh Lay Ee Hokkien Mee,Oh Lay Ee Hokkien Mee,restaurant,5.409713,100.332705,MY
+Kek Seng,Kek Seng,cafe,5.4161797,100.3293068,MY
+Kedai Kopi Seng Thor,Kedai Kopi Seng Thor,cafe,5.4153112,100.3347163,MY
+Gerai Makanan Muhibbah,Gerai Makanan Muhibbah,cafe,5.4178777,100.3294438,MY
+Umayal Textiles,Umayal Textiles,department_store,5.4164174,100.3403553,MY
+Kedai D-Lima,Kedai D-Lima,convenience,5.369894,100.3104904,MY
+Sagar,Sagar,restaurant,5.4658862,100.2412285,MY
+Helena Café,Helena Café,restaurant,5.4707036,100.2453981,MY
+Pasar Raya Bandar Baru,Pasar Raya Bandar Baru,supermarket,5.3878296,100.2832036,MY
+Toh Soon Cafe,Toh Soon Cafe,cafe,5.4188283,100.3320926,MY
+Jayamas Mini Market,Jayamas Mini Market,convenience,5.436237,100.3976778,MY
+Zonria,Zonria,supermarket,5.448788,100.3979436,MY
+Hameediyah Tandoori House,Hameediyah Tandoori House,restaurant,5.4184859,100.3327949,MY
+Veloo Villas,Veloo Villas,restaurant,5.4186753,100.3410591,MY
+Gou Lou,Gou Lou,restaurant,5.4191732,100.3323997,MY
+Il Bacaro,Il Bacaro,restaurant,5.4181179,100.3336096,MY
+Tree Monkey Restaurant,Tree Monkey Restaurant,restaurant,5.4641876,100.2296546,MY
+Tropical Spice Garden Gift Shop,Tropical Spice Garden Gift Shop,gift,5.4637613,100.2297169,MY
+Kafe Tanjung,Kafe Tanjung,restaurant,5.4520043,100.306109,MY
+Kah Motor,Kah Motor,car,5.4225096,100.3361954,MY
+Chai Diam Ma+,Chai Diam Ma+,cafe,5.4184826,100.3395043,MY
+99 Shisha,99 Shisha,cafe,5.4756016,100.2520553,MY
+Khew Min Yew Koay Teow Soup,Khew Min Yew Koay Teow Soup,restaurant,5.4641385,100.2849339,MY
+Kheng Pin Kopitiam,Kheng Pin Kopitiam,restaurant,5.4205467,100.3328051,MY
+Kashmir,Kashmir,restaurant,5.4202915,100.3329011,MY
+Bread History,Bread History,bakery,5.4143996,100.3314871,MY
+Cintra Heritage House,Cintra Heritage House,restaurant,5.4189427,100.334156,MY
+Reggae Mansion,Reggae Mansion,restaurant,5.4184271,100.3358684,MY
+Mona Lisa Cafe,Mona Lisa Cafe,cafe,5.4184579,100.3358164,MY
+Ban Heang,Ban Heang,bakery,5.4189257,100.3319559,MY
+The Mugshot Cafe,The Mugshot Cafe,cafe,5.4183378,100.3365193,MY
+Wheeler's,Wheeler's,cafe,5.418747,100.3365543,MY
+Chettiar's Indian Kopitiam,Chettiar's Indian Kopitiam,restaurant,5.4177719,100.3406171,MY
+Pasaraya Ramani,Pasaraya Ramani (RS SUPERSTORE SDN BHD),supermarket,5.4172862,100.3402798,MY
+Black Kettle,Black Kettle,cafe,5.4154184,100.3397368,MY
+Subham,Subham,restaurant,5.4175884,100.3404987,MY
+Shusi,Shusi,restaurant,5.4170868,100.3401455,MY
+Daily Dose Cafe,Daily Dose Cafe,cafe,5.4193764,100.3374347,MY
+Thirty Three Stewart Houze,Thirty Three Stewart Houze,cafe,5.4189672,100.3380824,MY
+Corgi & The Gang,Corgi & The Gang,pet,5.4483041,100.3022462,MY
+Restoran Victoria Station,Restoran Victoria Station,restaurant,5.3953667,100.3985587,MY
+Abbey Road Bistro,Abbey Road Bistro,restaurant,5.3952787,100.3988284,MY
+Artichoke Cafe,Artichoke Cafe,restaurant,5.4150881,100.3789569,MY
+Coffee Venture,Coffee Venture,cafe,5.4154212,100.379074,MY
+Marlons + Co. The Coffee Bar,Marlons + Co. The Coffee Bar,restaurant,5.4162978,100.3793655,MY
+Senheng,Senheng,electronics,5.4162188,100.3793413,MY
+Restoran Nasi Kandar Salam,Restoran Nasi Kandar Salam,restaurant,5.4174679,100.379759,MY
+J&S Restaurant,J&S Restaurant,restaurant,5.4180181,100.3799486,MY
+The Ocean Restaurant,The Ocean Restaurant,restaurant,5.4181328,100.3799841,MY
+Restaurant Hoe Yu,Restaurant Hoe Yu,restaurant,5.4201486,100.3806432,MY
+7 Village Noodle House,7 Village Noodle House,restaurant,5.421532,100.380569,MY
+Sai Toh Lim Restaurant,Sai Toh Lim Restaurant,restaurant,5.4220216,100.3804233,MY
+Perodua Zam Astina Sdn Bhd,Perodua Zam Astina Sdn Bhd,car_repair,5.393239,100.3864015,MY
+San Sui Bak Kut Teh,San Sui Bak Kut Teh,restaurant,5.4276592,100.3773795,MY
+Restoran Chaw Choon,Chaw Choon Restaurant,restaurant,5.4349894,100.3867446,MY
+Restaurant Nasi Kandar Salam,Restaurant Nasi Kandar Salam,restaurant,5.4349772,100.3904177,MY
+Peace & Joy Cafe,Peace & Joy Cafe,cafe,5.4180579,100.3392453,MY
+harmony happy spa,harmony happy spa,massage,5.3781278,100.3977821,MY
+Coconut Chicken Steamboat,Coconut Chicken Steamboat,restaurant,5.4227928,100.3222474,MY
+Dobi,Dobi,laundry,5.4193518,100.3337818,MY
+Steak Frites @ 23,Steak Frites @ 23,restaurant,5.4196112,100.3370032,MY
+Purrfect Cat Cafe,Purrfect Cat Cafe,cafe,5.4198025,100.3357277,MY
+41 Living Story,41 Living Story,gift,5.4193908,100.3367135,MY
+Banana Travel & Tours,Banana Travel & Tours,travel_agency,5.4185458,100.336041,MY
+Cofee Tea or Me,Cofee Tea or Me,cafe,5.4185092,100.3361214,MY
+Chulia Court,Chulia Court,restaurant,5.4183371,100.336081,MY
+Jawi House Cafe Gallery,Jawi House Cafe Gallery,restaurant,5.4155815,100.3365994,MY
+Melo Cafe,Melo Cafe,cafe,5.4196469,100.3397591,MY
+One Corner Cafe,One Corner Cafe,restaurant,5.4215344,100.3256373,MY
+Sweet Home 2 Cafe,Sweet Home 2 Cafe,restaurant,5.4592622,100.2067242,MY
+Hungry Chef,Hungry Chef,cafe,5.4196809,100.3366837,MY
+Mak Lan Nasi Melayu,Mak Lan Nasi Melayu,cafe,5.4688755,100.2768809,MY
+Mak Lan Nasi Campur,Mak Lan Nasi Campur,restaurant,5.4688953,100.2768379,MY
+Liva Seafood Restaurant,Liva Seafood Restaurant,restaurant,5.413416,100.3405375,MY
+netcity.com.my,netcity.com.my,internet_cafe,5.4200397,100.3256607,MY
+Suffolk House Restaurant,Suffolk House Restaurant,restaurant,5.4108228,100.3053524,MY
+Sup Hameed,Sup Hameed,restaurant,5.4218867,100.3339595,MY
+Restoran Deen,Restoran Deen,restaurant,5.3879562,100.312566,MY
+Ali Amier Nasi Kandar,Ali Amier Nasi Kandar,restaurant,5.3900671,100.3131965,MY
+Wonderlite minimarket,Wonderlite minimarket,general,5.3976071,100.3280781,MY
+Nasi Kandar Beratur,Nasi Kandar Beratur,restaurant,5.4167471,100.3376073,MY
+Lagenda cafe,Lagenda cafe,restaurant,5.4173726,100.3350927,MY
+Roti Bakar Breakfast,Roti Bakar Breakfast,restaurant,5.4221137,100.3312169,MY
+Restoran A Dawood,Restoran A Dawood,restaurant,5.4170976,100.3385527,MY
+The Alley,The Alley,cafe,5.4184722,100.3384502,MY
+Kopi Hutan,Monkey Cup,cafe,5.4156195,100.2596633,MY
+Tajuddin Hussain,Tajuddin Hussain,restaurant,5.4172534,100.3386644,MY
+Telagamas Motors,Telagamas Motors,car,5.423218,100.3334151,MY
+Mercedes-Benz Georgetown,Mercedes-Benz Georgetown,car,5.4228586,100.3341482,MY
+Me’nate,Me’nate,restaurant,5.4226494,100.3344911,MY
+Olive,Olive,restaurant,5.422374,100.3348185,MY
+The Book Sandwich Cafe & Restaurant,The Book Sandwich Cafe & Restaurant,cafe,5.4139772,100.3379143,MY
+24 Express,24 Express,supermarket,5.4213437,100.3306979,MY
+Food Art Store,Food Art Store,cafe,5.4157662,100.3399559,MY
+廣泰來,Kwong Thai Lai,restaurant,5.4192796,100.3313843,MY
+Krsna Restaurant,Krsna Restaurant,restaurant,5.4174203,100.3391131,MY
+Lita Tyre & Battery Service,Lita Tyre & Battery Service,tyres,5.4133048,100.3152011,MY
+Kareem Pasembor Rojak,Kareem Pasembor Rojak,restaurant,5.4187339,100.3429317,MY
+Leong Kee Tim Sum Restaurant,Leong Kee Tim Sum Restaurant,restaurant,5.4159974,100.3331253,MY
+Hot Spicy Bowl Nyonya Delights,Hot Spicy Bowl Nyonya Delights,restaurant,5.417674,100.3246309,MY
+Ming Xiang Tai Pasty Shop,Ming Xiang Tai Pasty Shop,restaurant,5.4187422,100.3275875,MY
+"Ferringhi Laundry (coin operated, self service)","Ferringhi Laundry (coin operated, self service)",laundry,5.419952,100.3361087,MY
+Son and Dad Barbershop,Son and Dad Barbershop,hairdresser,5.414624,100.3364609,MY
+My Armenian Café,My Armenian Café,cafe,5.4158959,100.3365824,MY
+Milton Marketing,Milton Marketing,electronics,5.4130939,100.3244523,MY
+Moustache House,Moustache House,cafe,5.4171803,100.3355017,MY
+Song River Cafe,Song River Cafe,restaurant,5.4324943,100.3169124,MY
+New Lane Hawker Centre,New Lane Hawker Centre,restaurant,5.4148627,100.3265357,MY
+Bite Bite,Bite Bite,cafe,5.4190335,100.3272946,MY
+Cahaya Lestari,Cahaya Lestari,restaurant,5.4153189,100.331705,MY
+Skechers,Skechers,shoes,5.3996387,100.3978575,MY
+Popular,Popular,books,5.4371059,100.3090876,MY
+MPH Bookstores,MPH Bookstores,books,5.4377926,100.309616,MY
+Armenian Home,Armenian Home,cafe,5.4150882,100.3374473,MY
+Kopikita,Kopikita,cafe,5.4141237,100.3406145,MY
+Tek Sen Restaurant,Teksen Restaurant,restaurant,5.4174168,100.3359484,MY
+Vape Cafe,Vape Cafe,cafe,5.4194639,100.3340066,MY
+Living story,Living story,interior_decoration,5.4192774,100.3371077,MY
+Gala House,Gala House,restaurant,5.4205869,100.3342084,MY
+Waterfall Cafe,Waterfall Cafe,cafe,5.4366925,100.2917756,MY
+Danish Briyani House,Danish Briyani House,restaurant,5.4178249,100.3367673,MY
+chinese food,chinese food,restaurant,5.351517,100.2354812,MY
+Let's Meat,Let's Meat,restaurant,5.4543917,100.2904303,MY
+cat beach cat cafe,cat beach cat cafe,cafe,5.4599731,100.212817,MY
+三楼茶餐室,Third Floor Tea Restaurant,restaurant,5.4304655,100.3973961,MY
+Yeap noodles,yeap noodles,restaurant,5.417586,100.3371416,MY
+Jambu Cafe,Jambu Cafe,restaurant,5.3674514,100.2162034,MY
+Toyloonatic,Toyloonatic,toys,5.4336197,100.3062593,MY
+Sports Toto,Sports Toto,lottery,5.4216245,100.3316751,MY
+Kesum Art Restaurant,Kesum Art Restaurant,restaurant,5.4191587,100.3376496,MY
+Yun Shui Ge Vegetarian House,Yun Shui Ge Vegetarian House,restaurant,5.4148774,100.3380039,MY
+Kopi Loewak,Kopi Loewak,cafe,5.4147407,100.3380428,MY
+My Own Cafe,My Own Cafe,restaurant,5.4151992,100.3368187,MY
+Coffee Atelier,Coffee Atelier,cafe,5.4190814,100.3377866,MY
+Kesum,Kesum,restaurant,5.419253,100.3377499,MY
+Five Star (2) Reflexlogy,Five Star (2) Reflexlogy,massage,5.4430354,100.3918159,MY
+Kesum Art Restaurant,Wheat Bakery,restaurant,5.4161396,100.3372357,MY
+Ming Xiang Tai,Ming Xiang Tai,pastry,5.4136212,100.3391457,MY
+Hot Bowl White Curry Mee,Hot Bowl White Curry Mee,restaurant,5.4179699,100.3244784,MY
+Famiky Thrift Store,Famiky Thrift Store,clothes,5.4151352,100.3157025,MY
+Salvation Army Thrift Store,Salvation Army Thrift Store,clothes,5.4153463,100.3165669,MY
+Inch kraft beer,Inch kraft beer,beverages,5.4200806,100.3355627,MY
+Air Itam famous chicken beansprouts,Air Itam famous chicken beansprouts,restaurant,5.4160917,100.3333158,MY
+Tang Bistro,Tang Bistro,restaurant,5.4174176,100.3401236,MY
+Lucky Vegie Vegetarian Restaurant,Lucky Vegie Vegetarian Restaurant,restaurant,5.3871834,100.3885231,MY
+Pasaran Sayur Jinbu,Pasaran Sayur Jinbu,greengrocer,5.4118296,100.3706187,MY
+Win Mah Sdn Bhd,Win Mah Sdn Bhd,hardware,5.3895292,100.2811974,MY
+Two Two,Two Two,cafe,5.4143127,100.3400984,MY
+Pak HocK,Pak HocK,restaurant,5.4187387,100.3353008,MY
+passion heart Homemade delights,Passion Heart Cafe (Homemade Delights),restaurant,5.4201538,100.3350227,MY
+The safe room,The safe room,cafe,5.41739,100.3350983,MY
+Raja Uda Famous Cendul,Raja Uda Famous Cendul,beverages,5.4335485,100.3851719,MY
+Jiemin Vegetarian Food Supply,Jiemin Vegetarian Food Supply,supermarket,5.4403216,100.3865607,MY
+Aik Choong Vegetarian,Aik Choong Vegetarian,restaurant,5.4404058,100.3865591,MY
+vino vinov bistro,vino vinov bistro,restaurant,5.3368682,100.3076037,MY
+Golden Pheonix,Golden Pheonix,restaurant,5.3528775,100.3002174,MY
+Kawan shop,Kawan shop,books,5.4158835,100.3389724,MY
+Fatty Loh Chicken Rice,Fatty Loh,restaurant,5.452762,100.3024331,MY
+Khaleel Noor Mart,Khaleel Noor Mart,supermarket,5.4750475,100.2530367,MY
+Mum's Nyonya Cuisine,Mum's Nyonya Cuisine,restaurant,5.4186238,100.3243737,MY
+Ong Cheng Huat Seafood,Ong Cheng Huat Seafood,restaurant,5.4433587,100.3965391,MY
+Flexi Laundry Self Service 24h,Flexi Laundry Self Service 24h,laundry,5.419277,100.3343193,MY
+Kassim Mustapha,Kassim Mustapha,restaurant,5.320462,100.2859813,MY
+Makbul,Makbul,restaurant,5.3198406,100.2862313,MY
+Alaf Sejahtera,Alaf Sejahtera,cafe,5.4575253,100.2098467,MY
+Tomyom Seafood,Tomyom Seafood,restaurant,5.4575336,100.2084529,MY
+123 Laundry,123 laundry,laundry,5.4167005,100.3362537,MY
+d'Ruby Mart,d'Ruby Mart,convenience,5.4166216,100.3364471,MY
+Pit Stop no.12,Pit Stop no.12,restaurant,5.4184309,100.3374071,MY
+That Little Wine Bar,That Little Wine Bar,wine,5.4248411,100.3206466,MY
+Tencon Hardware Trading,Tencon Hardware Trading,hardware,5.4499562,100.3880069,MY
+Pinky Red,Pinky Red,gift,5.4312967,100.3843545,MY
+Ee beng vegetarian food,Ee beng vegetarian food,restaurant,5.4191362,100.3306061,MY
+Kim Poh Roasted Chicken Rice,Kim Poh Roasted Chicken Rice,restaurant,5.3987502,100.314744,MY
+Red Hat Aunty Char Koay Teow Lorong Selamat,Char Koay Teow Lorong Selamat,restaurant,5.4169604,100.3247412,MY
+Wahong Cafe,Wahong Cafe,cafe,5.3277747,100.2944673,MY
+Yumi Matcha Cafe,Yumi Matcha Cafe,cafe,5.40122,100.30891,MY
+Chowrasta Market,Chowrasta Market,restaurant,5.418111,100.3315739,MY
+Joo Hooi Cafe,Joo Hooi Cafe,restaurant,5.4171258,100.3306171,MY
+National Geographic Store,National Geographic Store,sports,5.4180571,100.3335037,MY
+大家樂,Cafe de Coral,yes,5.3779207,100.2883613,MY
+Rapid Trail,Rapid Trail,bookmaker,5.3504052,100.2414973,MY
+Kampung Masjid,Kampung Masjid,bookmaker,5.3014044,100.2249075,MY
+New Happy Cafe,New Happy Cafe,restaurant,5.3498599,100.2951762,MY
+Yoyo Huat,Yoyo Huat,cafe,5.3199153,100.2694504,MY
+Sunshine Cafe,Sunshine Cafe,cafe,5.3320373,100.2769677,MY
+T.Y.Y. Cafe,T.Y.Y. Cafe,cafe,5.3196923,100.2703198,MY
+Nasi Kandar Makbul,Nasi Kandar Makbul,restaurant,5.3320459,100.2762071,MY
+Deen Nasi Kan dar,Deen Nasi Kan dar,restaurant,5.3321123,100.2769309,MY
+Constant Gardener Coffee,Constant Gardener Coffee,cafe,5.4200391,100.3418621,MY
+Paper Lobster,Paper Lobster,restaurant,5.3266576,100.2797135,MY
+2ND Floor Cafe,2ND Floor Cafe,cafe,5.3304372,100.2772284,MY
+有緣份,You Yuan Fen,restaurant,5.3291774,100.2779849,MY
+Kopitiam,Kopitiam,restaurant,5.330787,100.2788642,MY
+Kedai Kopi Tong Oh,Kedai Kopi Tong Oh,restaurant,5.3357425,100.275008,MY
+Goodyear Tyre Shop,Goodyear Tyre Shop,tyres,5.3335179,100.2764087,MY
+Hooi Car workshop,Hooi Car workshop,car_repair,5.3314725,100.2771506,MY
+Tyre Shop,Tyre Shop,tyres,5.3298002,100.2774331,MY
+Beng Aun,Beng Aun,restaurant,5.3303405,100.2775833,MY
+One Mart,One Mart,convenience,5.3318034,100.2770534,MY
+Laundry,Laundry,laundry,5.3326256,100.2766983,MY
+Malay Cafe Stall,Malay Cafe Stall,cafe,5.3331732,100.276438,MY
+JJ Mart,JJ Mart,convenience,5.3323754,100.2767948,MY
+Bridgestone,Bridge stone,tyres,5.3341975,100.2760797,MY
+Seng Hooi,Seng Hooi,cafe,5.3879681,100.2835637,MY
+Baptain Hair Saloon,Baptain Hair Saloon,hairdresser,5.3884365,100.2839348,MY
+Pizza Hut,Pizza Hurt,restaurant,5.3907591,100.2827857,MY
+Grand Senheng,Grand Senheng,electronics,5.3310799,100.2764722,MY
+Wah Lee Group,Wah Lee Group,electronics,5.3312218,100.2764563,MY
+The Postcard Shop,The Postcard Shop,cafe,5.4141078,100.3406196,MY
+Three Leg Cat,Three Leg Cat,restaurant,5.3323738,100.2756913,MY
+Wajib Ali,Wajib Ali,restaurant,5.3978692,100.3679771,MY
+Commune,Commune,cafe,5.413715,100.3392757,MY
+Lagenda Café,Lagenda Café,restaurant,5.4152814,100.3351992,MY
+Deen Maju Nasi Kandar,Deen Maju Nasi Kandar,restaurant,5.409732,100.3281002,MY
+Kong Thai Lai,Kong Thai Lai,restaurant,5.4203709,100.3332638,MY
+Gomo wine bar & restaurant,Gomo wine bar & restaurant,restaurant,5.4181981,100.3333866,MY
+Urban Spice Cafe,Urban Spice Cafe,restaurant,5.4149893,100.3360995,MY
+Syarikat Chin Aik - Bicycle Shop,Syarikat Chin Aik - Bicycle Shop,bicycle,5.4148784,100.3346629,MY
+Ban Heang Pastries,Ban Heang Pastries,bakery,5.4167135,100.3235163,MY
+New Dragon Gate Seafood Restaurant,New Dragon Gate Seafood Restaurant,restaurant,5.4169229,100.3231748,MY
+Traders Cafe,Traders Cafe,cafe,5.416653,100.3236045,MY
+Hong Kong Tea Garden,Hong Kong Tea Garden,restaurant,5.4164534,100.3239256,MY
+Yummy Cottage Food Court,Yummy Cottage Food Court,restaurant,5.4166157,100.3231595,MY
+Lai Lai Bak Kut Teh,Lai Lai Bak Kut Teh,restaurant,5.4165938,100.3231965,MY
+MS Food Court,Penang Delicious Food Court,restaurant,5.4167307,100.3226017,MY
+MSL Travel Sdn Bhd,MSL Travel Sdn Bhd,travel_agency,5.4170604,100.3232488,MY
+Jade Palace Restaurant,Jade Palace Restaurant,restaurant,5.4180836,100.3238295,MY
+Seong Huat Food Court,Seong Huat Food Court,restaurant,5.422246,100.3259667,MY
+Simmering Kitchen,Simmering Kitchen,restaurant,5.4190775,100.3245902,MY
+Forever Travel Service Sdn Bhd,Forever Travel Service Sdn Bhd,travel_agency,5.4196791,100.3246222,MY
+Eternal East Travel & Tours Sdn Bhd,Eternal East Travel & Tours Sdn Bhd,travel_agency,5.4198124,100.3247243,MY
+Giant,Giant,supermarket,5.4215059,100.32498,MY
+Tai Wei Village Restaurant,Tai Wei Village Restaurant,restaurant,5.4193768,100.3243718,MY
+Ocean Green Restaurant,Ocean Green Restaurant,restaurant,5.4263154,100.325997,MY
+My Prosperous Dimsum Restaurant,My Prosperous Dimsum Restaurant,restaurant,5.4174272,100.3234923,MY
+Chuan Heong Cafe,Chuan Heong Cafe,restaurant,5.3516296,100.2358386,MY
+Rainforest Bakery,Rainforest Bakery,bakery,5.4183158,100.3365517,MY
+Hock Lok Siew Biscuit Trading,Hock Lok Siew Biscuit Trading,bakery,5.4122766,100.3299807,MY
+VR Stall JianJian,VR Stall JianJian,restaurant,5.4103616,100.3299992,MY
+Vishnua Pizza,Vishnua Pizza,restaurant,5.4170465,100.3418428,MY
+Zainxan Pro Fishing Center,Zainxan Pro Fishing Center,fishing,5.4145199,100.3384892,MY
+tuai pui,tuai pui,restaurant,5.4156887,100.3338353,MY
+Trevis Hegel,Trevis Hegel,outdoor,5.4184132,100.3241845,MY
+Cowboy restaurant,Cowboy restaurant,restaurant,5.4136603,100.3389071,MY
+Shinise,Shinise,cafe,5.4139612,100.3347906,MY
+Nasi Kandar Daba,Daba,restaurant,5.41951,100.3323135,MY
+Sri Velmurugan Store Herb's & Spices,Sri Velmurugan Store Herb's & Spices,yes,5.4399994,100.3810857,MY
+Ratu Emas Restoran,Ratu Emas Restoran,restaurant,5.4256468,100.3762426,MY
+Tasmac Mart,Tasmac Mart,convenience,5.4134795,100.3718383,MY
+Butterworth Opticare Centre Sdn Bhd,Butterworth Opticare Centre Sdn Bhd,optician,5.4129732,100.3717576,MY
+Nirra's Beauty,Nirra's Beauty,beauty,5.4129318,100.3716728,MY
+Chottani Cine Fashion,Chottani Cine Fashion,clothes,5.4129366,100.3714143,MY
+Chottani Jewellers,Chottani Jewellers,jewelry,5.4128938,100.3714143,MY
+Bagan Florist,Bagan Florist,florist,5.4129139,100.3715075,MY
+Kedai Ubat Ban Yee Hoe,Kedai Ubat Ban Yee Hoe,yes,5.4129085,100.3715866,MY
+Weng Foon Optics & Contact Lens Sdn Bhd,Weng Foon Optics & Contact Lens Sdn Bhd,optician,5.4122923,100.3714094,MY
+Restoran Lucky,Restoran Lucky,restaurant,5.4106481,100.3708659,MY
+Brightwill Trading Sdn Bhd,Brightwill Trading Sdn Bhd,motorcycle,5.41056,100.3708196,MY
+Sri Mun,Sri Mun,hairdresser,5.4104576,100.3708213,MY
+Telefour Mobile Enterprise,Telefour Mobile Enterprise,mobile_phone,5.4016152,100.3681947,MY
+Restoran Shuhada,Restoran Shuhada,restaurant,5.400499,100.3679755,MY
+Proton,Proton,car,5.3992619,100.3677653,MY
+Tianma Auto Trading,Tianma Auto Trading,car,5.3990141,100.3677128,MY
+TH Travel & Services Sdn Bhd,TH Travel & Services Sdn Bhd,travel_agency,5.397001,100.3672455,MY
+Ah Lai Caffee,Ah Lai Caffee,restaurant,5.4166764,100.3428596,MY
+Bouncy Food,Bouncy Food,restaurant,5.3269174,100.2904103,MY
+Pasar Raya Zen Vista,Pasar Raya Zen Vista,supermarket,5.4915786,100.3839027,MY
+Anson Road Durian,Anson Road Durian,greengrocer,5.4150265,100.3191758,MY
+Seoul Garden,Seoul Garden,restaurant,5.4398221,100.3081241,MY
+D'Heritage Chocolate & Coffee,D'Heritage Chocolate & Coffee,confectionery,5.4557578,100.2143679,MY
+Hui Wang Cafe,Hui Wang Cafe,restaurant,5.3405123,100.3039417,MY
+Bricklin Cafe Bar by Rasta Brew Co,Bricklin Cafe Bar by Rasta Brew Co,cafe,5.4122117,100.3280849,MY
+Harvester's cafe,Harvester's,restaurant,5.4164523,100.3369075,MY
+Ned Kelly's,Ned Kelly's,clothes,5.4186548,100.3317707,MY
+Orcabrew,Orcabrew,cafe,5.42184,100.3265969,MY
+Blend & Melange,Blend & Melange,beverages,5.4205486,100.325704,MY
+Le Brunch,Le Brunch,restaurant,5.4255848,100.3211988,MY
+NS Nasi Kandar,NS Nasi Kandar,restaurant,5.4234994,100.321733,MY
+Daorae;Korean BBQ,Daorae,restaurant,5.3324922,100.2944878,MY
+Y Not Cafe Restaurant Bar,Y Not Cafe Restaurant Bar,restaurant,5.4187072,100.3352078,MY
+Perut Rumah restaurant,Perut Rumah restaurant,restaurant,5.4216856,100.3257224,MY
+Restoran 77 Food Yard,Restoran 77 Food Yard,cafe,5.430565,100.3129814,MY
+Sister's Curry Mee,Sister's Curry Mee,restaurant,5.400357,100.2782872,MY
+VR Pinxin Vegan,VR Pinxin Vegan,restaurant,5.4101872,100.3301833,MY
+Brown Poodle,Brown Poodle,cafe,5.4360625,100.3058872,MY
+Gerak Budaya Bookshop,Gerak Budaya Bookshop,books,5.4174527,100.3380143,MY
+Areca Books,Areca Books,books,5.4187406,100.3392393,MY
+Victoria Mart,Victoria Mart,alcohol,5.4120112,100.3362917,MY
+Mee Udang Batu Ferringghi,Ajid Cafe,restaurant,5.4708717,100.2456387,MY
+Little Joe Cafe,Little Joe Cafe,cafe,5.4751157,100.2521669,MY
+Parvez Book Store,Parvez Book Store,books,5.4190277,100.3345611,MY
+大钢五金店,Da Gang Hardware Store,hardware,5.4226568,100.3819302,MY
+Kedai Kopi Bazaar,Kedai Kopi Bazaar,cafe,5.4182627,100.3325531,MY
+VR Penang Bock Garden,VR Penang Bock Garden,restaurant,5.4195237,100.3289654,MY

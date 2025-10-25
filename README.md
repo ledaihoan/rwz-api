@@ -340,7 +340,7 @@ interface SearchParams {
 - MySQL 8.0+
 
 ### Installation
-
+- If you want to run locally after init mysql, need change env from 'mysql:3306' to 'localhost:3306'
 ```bash
 # Clone repository
 git clone <repository-url>
@@ -353,9 +353,10 @@ yarn install
 cp .env.example .env
 
 # Start services with Docker Compose
-docker-compose up -d
+docker compose up -d --build
 
-# Run migrations
+# Run migrations (from Docker)
+# or please change host name from mysql to localhost in .env to run host bash)
 yarn prisma migrate deploy
 
 # Seed database
@@ -418,8 +419,8 @@ yarn format
 # Build image
 docker build -t location-service-api .
 
-# Run with docker-compose
-docker-compose -f docker-compose.prod.yml up -d
+# Run with docker-compose: can use different docker for prod
+docker compose -f docker-compose.yaml up -d
 ```
 
 ### PM2 Cluster Mode
